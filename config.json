@@ -3,7 +3,7 @@
   "Description": "Aggregation of Colorado activist posts from across social media.",
   "RefreshIntervalSeconds": 3600,
   "TemplatePath": "templates",
-  "OutputPath": "static",
+  "OutputPath": "docs",
   "Organizations": {
     "Abolish ICE Denver": {
       "Description": "Posts from Abolish ICE Denver",
