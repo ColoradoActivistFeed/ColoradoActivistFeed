@@ -1,0 +1,199 @@
+{
+  "Name": "Colorado Activist Feed",
+  "Description": "Aggregation of Colorado activist posts from across social media.",
+  "RefreshIntervalSeconds": 3600,
+  "TemplatePath": "templates",
+  "OutputPath": "static",
+  "Organizations": {
+    "Abolish ICE Denver": {
+      "Description": "Posts from Abolish ICE Denver",
+      "Sources": [
+        "http://localhost:1200/?action=display&bridge=Facebook&context=User&u=AbolishICEDenver&media_type=all&limit=-1&format=Atom",
+        "http://localhost:1200/?action=display&bridge=Instagram&context=Username&u=abolishicedenver&media_type=all&direct_links=on&format=Atom"
+      ],
+      "Author": "Abolish ICE Denver",
+      "Link": "https://www.facebook.com/AbolishICEDenver/",
+      "Slug": "abolish_ice_denver"
+    },
+    "Black Lives Matter 5280": {
+      "Description": "Posts from Black Lives Matter 5280",
+      "Sources": [
+        "http://localhost:1200/?action=display&bridge=Facebook&context=User&u=BlackLivesMatter5280&media_type=all&limit=-1&format=Atom",
+        "http://localhost:1200/?action=display&bridge=Instagram&context=Username&u=blm5280&media_type=all&direct_links=on&format=Atom",
+        "http://localhost:1200/?action=display&bridge=Twitter&context=By+username&u=BLM5280&norep=on&nopic=on&noimg=on&format=Atom"
+      ],
+      "Author": "Black Lives Matter 5280",
+      "Link": "http://www.blacklivesmatter5280.com/",
+      "Slug": "blm5280"
+    },
+    "Party for Socialism and Liberation - Denver": {
+      "Description": "Posts from Party for Socialism and Liberation - Denver",
+      "Sources": [
+        "http://localhost:1200/?action=display&bridge=Facebook&context=User&u=denverPSL&media_type=all&limit=-1&format=Atom"
+      ],
+      "Author": "Party for Socialism and Liberation",
+      "Link": "https://www.facebook.com/denverPSL",
+      "Slug": "psl_denver"
+    },
+    "Melanated Mic Night": {
+      "Description": "Twitter posts from Melanated Mic Night",
+      "Sources": [
+        "http://localhost:1200/?action=display&bridge=Twitter&context=By+username&u=melanatedmic&norep=on&nopic=on&noimg=on&format=Atom"
+      ],
+      "Author": "Melanated Mic Night",
+      "Link": "https://twitter.com/melanatedmic",
+      "Slug": "melanated_mic_night"
+    },
+    "Tay Anderson": {
+      "Description": "Posts from Tay Anderson",
+      "Sources": [
+        "http://localhost:1200/?action=display&bridge=Facebook&context=User&u=Tay2019&media_type=all&limit=-1&format=Atom",
+        "http://localhost:1200/?action=display&bridge=Twitter&context=By+username&u=TayAndersonCO&norep=on&nopic=on&noimg=on&format=Atom"
+      ],
+      "Author": "Tay Anderson",
+      "Link": "https://www.tayanderson.org/",
+      "Slug": "tay_anderson"
+    },
+    "Colorado Attorneys Against Police Violence": {
+      "Description": "Posts from Colorado Attorneys Against Police Violence",
+      "Sources": [
+        "http://localhost:1200/?action=display&bridge=Facebook&context=User&u=Colorado-Attorneys-Against-Police-Violence-106087521153591&media_type=all&limit=-1&format=Atom"
+      ],
+      "Author": "Colorado Attorneys Against Police Violence",
+      "Link": "https://www.facebook.com/Colorado-Attorneys-Against-Police-Violence-106087521153591/?fref=tag",
+      "Slug": "co_attorneys_against_police_violence"
+    },
+    "Denver Solidarity March": {
+      "Description": "Posts from Denver Solidarity March",
+      "Sources": [
+        "http://localhost:1200/?action=display&bridge=Facebook&context=User&u=Denver-Solidarity-March-118949813177149&media_type=all&limit=-1&format=Atom"
+      ],
+      "Author": "Denver Solidarity March",
+      "Link": "https://www.facebook.com/Denver-Solidarity-March-118949813177149/",
+      "Slug": "denver_solidarity_march"
+    },
+    "Denver's Chicano Movement Legacy Project": {
+      "Description": "Posts from Denver's Chicano Movement Legacy Project",
+      "Sources": [
+        "http://localhost:1200/?action=display&bridge=Facebook&context=User&u=DenverXikanoproject&media_type=all&limit=-1&format=Atom"
+      ],
+      "Author": "Denver's Chicano Movement Legacy Project",
+      "Link": "https://www.facebook.com/DenverXikanoproject/",
+      "Slug": "denverxikanoproject"
+    },
+    "Denver Peace Council - Affiliate of US Peace Council": {
+      "Description": "Posts from Denver Peace Council",
+      "Sources": [
+        "http://localhost:1200/?action=display&bridge=Facebook&context=User&u=Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015&media_type=all&limit=-1&format=Atom"
+      ],
+      "Author": "Denver Peace Council",
+      "Link": "https://www.facebook.com/Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015/?fref=tag",
+      "Slug": "denver_peace_council"
+    },
+    "Representative Leslie Herod": {
+      "Description": "Posts from Leslie Herod",
+      "Sources": [
+        "http://localhost:1200/?action=display&bridge=Facebook&context=User&u=LeslieforColorado&media_type=all&limit=-1&format=Atom",
+        "http://localhost:1200/?action=display&bridge=Twitter&context=By+username&u=leslieherod&norep=on&nopic=on&noimg=on&format=Atom"
+      ],
+      "Author": "Leslie Herod",
+      "Link": "https://www.leslieherodforcolorado.com/",
+      "Slug": "leslie_herod"
+    },
+    "Showing Up for Racial Justice - SURJ Denver": {
+      "Description": "Posts from SURJ Denver",
+      "Sources": [
+        "http://localhost:1200/?action=display&bridge=Facebook&context=User&u=SURJDenver&media_type=all&limit=-1&format=Atom",
+        "http://localhost:1200/?action=display&bridge=Twitter&context=By+username&u=surjdenver&norep=on&nopic=on&noimg=on&format=Atom"
+      ],
+      "Author": "SURJ Denver",
+      "Link": "http://www.surjdenver.org/",
+      "Slug": "surj_denver"
+    },
+    "Aurora Warms the Night": {
+      "Description": "Posts from Aurora Warms the Night",
+      "Sources": [
+        "http://localhost:1200/?action=display&bridge=Facebook&context=User&u=AuroraWarmstheNight&media_type=all&limit=-1&format=Atom"
+      ],
+      "Author": "Aurora Warms the Night",
+      "Link": "https://www.aurorawarmsthenight.org/",
+      "Slug": "aurorawarmsthenight"
+    },
+    "Denver Action Network": {
+      "Description": "Posts from Denver Action Network",
+      "Sources": [
+        "http://localhost:1200/?action=display&bridge=Facebook&context=User&u=denverautonomous&media_type=all&limit=-1&format=Atom"
+      ],
+      "Author": "Denver Action Network",
+      "Link": "https://www.facebook.com/denverautonomous/?ref=py_c",
+      "Slug": "denverautonomous"
+    },
+    "Denver Metro BLM": {
+      "Description": "Posts from Denver Metro BLM",
+      "Sources": [
+        "http://localhost:1200/?action=display&bridge=Facebook&context=User&u=denvermetroblm&media_type=all&limit=-1&format=Atom"
+      ],
+      "Author": "Denver Metro BLM",
+      "Link": "https://www.facebook.com/denvermetroblm/?ref=py_c",
+      "Slug": "denvermetroblm"
+    },
+    "ACLU of Colorado": {
+      "Description": "Posts from ACLU of Colorado",
+      "Sources": [
+        "http://localhost:1200/?action=display&bridge=Facebook&context=User&u=acluofcolorado&media_type=all&limit=-1&format=Atom"
+      ],
+      "Author": "ACLU of Colorado",
+      "Link": "https://aclu-co.org/",
+      "Slug": "acluofcolorado"
+    },
+    "Denver Homeless Out Loud": {
+      "Description": "Posts from Denver Homeless Out Loud",
+      "Sources": [
+        "http://localhost:1200/?action=display&bridge=Facebook&context=User&u=DenverHomelessOutLoud&media_type=all&limit=-1&format=Atom",
+        "http://localhost:1200/?action=display&bridge=Twitter&context=By+username&u=homelessoutloud&norep=on&nopic=on&noimg=on&format=Atom"
+      ],
+      "Author": "Denver Homeless Out Loud",
+      "Link": "https://denverhomelessoutloud.org/",
+      "Slug": "denver_homeless_outLoud"
+    },
+    "Sanctuary4All Colorado": {
+      "Description": "Posts from Sanctuary4All Colorado",
+      "Sources": [
+        "http://localhost:1200/?action=display&bridge=Facebook&context=User&u=Sanctuary4AllCO&media_type=all&limit=-1&format=Atom",
+        "http://localhost:1200/?action=display&bridge=Twitter&context=By+username&u=Sanctuary4AllCO&norep=on&nopic=on&noimg=on&format=Atom"
+      ],
+      "Author": "Sanctuary4All Colorado",
+      "Link": "https://sanctuary4all.co",
+      "Slug": "sanctuary4all"
+    },
+    "Colorado - Familia: Trans Queer Liberation Movement": {
+      "Description": "Posts from Colorado - Familia",
+      "Sources": [
+        "http://localhost:1200/?action=display&bridge=Facebook&context=User&u=cofamiliatqlm&media_type=all&limit=-1&format=Atom",
+        "http://localhost:1200/?action=display&bridge=Twitter&context=By+username&u=familiatqlm&norep=on&nopic=on&noimg=on&format=Atom"
+      ],
+      "Author": "Colorado - Familia",
+      "Link": "https://familiatqlm.org",
+      "Slug": "cofamiliatqlm"
+    },
+    "Denver Justice Project": {
+      "Description": "Posts from Denver Justice Project",
+      "Sources": [
+        "http://localhost:1200/?action=display&bridge=Facebook&context=User&u=DenverJusticeProject&media_type=all&limit=-1&format=Atom",
+        "http://localhost:1200/?action=display&bridge=Twitter&context=By+username&u=DenJustPro&norep=on&nopic=on&noimg=on&format=Atom"
+      ],
+      "Author": "Denver Justice Project",
+      "Link": "https://www.denverjusticeproject.org",
+      "Slug": "denver_justice_project"
+    },
+    "North Denver for Social Justice": {
+      "Description": "Posts from North Denver for Social Justice",
+      "Sources": [
+        "http://localhost:1200/?action=display&bridge=Facebook&context=User&u=NDenverSocialJustice&media_type=all&limit=-1&format=Atom"
+      ],
+      "Author": "North Denver for Social Justice",
+      "Link": "https://www.facebook.com/NDenverSocialJustice/",
+      "Slug": "ndenver_social_justice"
+    }
+  }
+}
