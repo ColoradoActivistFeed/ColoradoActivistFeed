@@ -4,6 +4,7 @@
   "RefreshIntervalSeconds": 3600,
   "TemplatePath": "templates",
   "OutputPath": "docs",
+  "AutoCommit": true,
   "Organizations": {
     "Abolish ICE Denver": {
       "Description": "Posts from Abolish ICE Denver",
