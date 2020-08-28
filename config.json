@@ -29,6 +29,15 @@
       "Link": "http://www.blacklivesmatter5280.com/",
       "Slug": "blm5280"
     },
+    "r/DenverProtests": {
+      "Description": "Reddit posts from r/DenverProtests",
+      "Sources": [
+        "http://localhost:1200/?action=display&bridge=Reddit&context=single&r=denverprotests&format=Atom"
+      ],
+      "Author": "r/DenverProtests",
+      "Link": "https://old.reddit.com/r/DenverProtests/",
+      "Slug": "r_denverprotests"
+    },
     "Party for Socialism and Liberation - Denver": {
       "Description": "Posts from Party for Socialism and Liberation - Denver",
       "Sources": [
