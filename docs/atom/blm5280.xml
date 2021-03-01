@@ -1,18 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Black Lives Matter 5280</title>
   <id>http://www.blacklivesmatter5280.com/</id>
-  <updated>2021-03-01T08:00:02-07:00</updated>
+  <updated>2021-03-01T09:00:12-07:00</updated>
   <subtitle>Posts from Black Lives Matter 5280</subtitle>
   <link href="http://www.blacklivesmatter5280.com/"></link>
   <author>
     <name>Black Lives Matter 5280</name>
   </author>
   <entry>
+    <title>Bridge returned error 500! (18687)</title>
+    <updated>2021-03-01T09:00:14-07:00</updated>
+    <id>urn:sha1:f626e1f4b838fa0d34bbe344591c6f5ff341b9f4</id>
+    <content type="html">&lt;section&gt;&#xA;&#x9;&lt;p class=&#34;exception-message&#34;&gt;&lt;strong&gt;blm5280 - Instagram Bridge&lt;/strong&gt; was unable to receive or process the&#xA;remote website&#39;s content!&lt;br&gt;&#xA;Error message: `Unable to find username in search result.`&lt;br /&gt;&#xA;Query string: `action=display&amp;bridge=Instagram&amp;context=Username&amp;u=blm5280&amp;media_type=all&amp;direct_links=on&amp;format=Atom`&lt;br /&gt;&#xA;Version: `dev.2020-02-26`&lt;/p&gt;&#xA;&#x9;&lt;div class=&#34;advice&#34;&gt;&#xA;&#x9;&#x9;&lt;ul class=&#34;advice&#34;&gt;&#xA;&#x9;&#x9;&#x9;&lt;li&gt;Press Return to check your input parameters&lt;/li&gt;&#xA;&#x9;&#x9;&#x9;&lt;li&gt;Press F5 to retry&lt;/li&gt;&#xA;&#x9;&#x9;&#x9;&lt;li&gt;Check if this issue was already reported on &lt;a href=&#34;https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge&#34;&gt;GitHub&lt;/a&gt; (give it a thumbs-up)&lt;/li&gt;&#xA;&#x9;&#x9;&#x9;&lt;li&gt;Open a &lt;a href=&#34;https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&amp;body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&amp;labels=Bridge-Broken&amp;assignee=pauder&#34;&gt;GitHub Issue&lt;/a&gt; if this error persists&lt;/li&gt;&#xA;&#x9;&#x9;&lt;/ul&gt;&#xA;&#x9;&lt;/div&gt;&#xA;&#x9;&lt;a href=&#34;https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge&#34; title=&#34;Opens GitHub to search for similar issues&#34;&gt;&#xA;&#x9;&#x9;&lt;button&gt;Search GitHub Issues&lt;/button&gt;&#xA;&#x9;&lt;/a&gt;&#xA;&#x9;&lt;a href=&#34;https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&amp;body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&amp;labels=Bridge-Broken&amp;assignee=pauder&#34; title=&#34;After clicking this button you can review&#xA;&#x9;the issue before submitting it&#34;&gt;&lt;button&gt;Open GitHub Issue&lt;/button&gt;&lt;/a&gt;&#xA;&#x9;&lt;p class=&#34;maintainer&#34;&gt;pauder&lt;/p&gt;&#xA;&lt;/section&gt;</content>
+    <link href="" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Black Lives Matter 5280</name>
+    </author>
+  </entry>
+  <entry>
     <title>Bridge returned error 400! (18687)</title>
-    <updated>2021-03-01T08:00:05-07:00</updated>
+    <updated>2021-03-01T09:00:14-07:00</updated>
     <id>urn:sha1:e2f0f23fd1d798819fddd9af2afca256c7c8efa8</id>
     <content type="html">&lt;section&gt;&#xA;&#x9;&lt;p class=&#34;exception-message&#34;&gt;&lt;strong&gt;Twitter @BLM5280&lt;/strong&gt; was unable to receive or process the&#xA;remote website&#39;s content!&lt;br&gt;&#xA;Error message: `The requested resource cannot be found!&lt;br /&gt;&#xA;Please make sure your input parameters are correct!&lt;br /&gt;&#xA;cUrl error:  (0)&lt;br /&gt;&#xA;PHP error: `&lt;br /&gt;&#xA;Query string: `action=display&amp;bridge=Twitter&amp;context=By+username&amp;u=BLM5280&amp;norep=on&amp;nopic=on&amp;noimg=on&amp;format=Atom`&lt;br /&gt;&#xA;Version: `dev.2020-02-26`&lt;/p&gt;&#xA;&#x9;&lt;div class=&#34;advice&#34;&gt;&#xA;&#x9;&#x9;&lt;ul class=&#34;advice&#34;&gt;&#xA;&#x9;&#x9;&#x9;&lt;li&gt;Press Return to check your input parameters&lt;/li&gt;&#xA;&#x9;&#x9;&#x9;&lt;li&gt;Press F5 to retry&lt;/li&gt;&#xA;&#x9;&#x9;&#x9;&lt;li&gt;Check if this issue was already reported on &lt;a href=&#34;https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge&#34;&gt;GitHub&lt;/a&gt; (give it a thumbs-up)&lt;/li&gt;&#xA;&#x9;&#x9;&#x9;&lt;li&gt;Open a &lt;a href=&#34;https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40BLM5280+failed+with+error+400&amp;body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DBLM5280%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&amp;labels=Bridge-Broken&amp;assignee=pmaziere&#34;&gt;GitHub Issue&lt;/a&gt; if this error persists&lt;/li&gt;&#xA;&#x9;&#x9;&lt;/ul&gt;&#xA;&#x9;&lt;/div&gt;&#xA;&#x9;&lt;a href=&#34;https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge&#34; title=&#34;Opens GitHub to search for similar issues&#34;&gt;&#xA;&#x9;&#x9;&lt;button&gt;Search GitHub Issues&lt;/button&gt;&#xA;&#x9;&lt;/a&gt;&#xA;&#x9;&lt;a href=&#34;https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40BLM5280+failed+with+error+400&amp;body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DBLM5280%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&amp;labels=Bridge-Broken&amp;assignee=pmaziere&#34; title=&#34;After clicking this button you can review&#xA;&#x9;the issue before submitting it&#34;&gt;&lt;button&gt;Open GitHub Issue&lt;/button&gt;&lt;/a&gt;&#xA;&#x9;&lt;p class=&#34;maintainer&#34;&gt;pmaziere&lt;/p&gt;&#xA;&lt;/section&gt;</content>
     <link href="" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Black Lives Matter 5280</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Good morning beautiful people! #BlackIsBeautiful  📷:...</title>
+    <updated>2021-03-01T08:30:00-07:00</updated>
+    <id>https://www.facebook.com/BlackLivesMatter5280/photos/a.1437459096571319/2791394394511109/</id>
+    <content type="html">&lt;a href=&#34;https://www.facebook.com/BlackLivesMatter5280/&#34;&gt;&lt;img src=&#34;https://scontent.fapa1-2.fna.fbcdn.net/v/t31.0-1/cp0/p50x50/17814374_1783309405319618_6184875403618170148_o.jpg?_nc_cat=105&amp;ccb=3&amp;_nc_sid=dbb9e7&amp;_nc_ohc=TgyClJhlNAEAX-K4ZMt&amp;_nc_ht=scontent.fapa1-2.fna&amp;tp=27&amp;oh=99f0f4adaa770d286177622cd7069801&amp;oe=6062A562&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;a href=&#34;https://www.facebook.com/BlackLivesMatter5280/&#34;&gt;Black Lives Matter 5280&lt;a href=&#34;https://www.facebook.com/BlackLivesMatter5280/&#34;&gt;&lt;/a&gt;&lt;/a&gt;&lt;a href=&#34;https://www.facebook.com/BlackLivesMatter5280/photos/a.1437459096571319/2791394394511109/&#34;&gt;&lt;/a&gt;&lt;i&gt;&lt;/i&gt;&lt;p&gt;Good morning beautiful people!&lt;br /&gt; &lt;a href=&#34;https://www.facebook.com/hashtag/blackisbeautiful&#34;&gt;#BlackIsBeautiful&lt;/a&gt; &lt;br /&gt; 📷: &lt;a href=&#34;https://www.facebook.com/mellamoesjae/&#34;&gt;Jeannette Burchfield&lt;/a&gt;&lt;/p&gt;&lt;a href=&#34;https://www.facebook.com/BlackLivesMatter5280/photos/a.1437459096571319/2791394394511109/&#34;&gt;&lt;img src=&#34;https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/s640x640/149583029_2791394397844442_5643702168208384135_o.jpg?_nc_cat=111&amp;ccb=3&amp;_nc_sid=8024bb&amp;_nc_ohc=D2st_7cg-XQAX9B2RA7&amp;_nc_ht=scontent.fapa1-1.fna&amp;tp=7&amp;oh=baf1ea983acb14d0d7f41dd115ec218e&amp;oe=60635BD5&#34; alt=&#34;May be an image of 1 person&#34; width=&#34;501&#34; height=&#34;626&#34; caption=&#34;May be an image of 1 person&#34; /&gt;&lt;/a&gt;</content>
+    <link href="https://www.facebook.com/BlackLivesMatter5280/photos/a.1437459096571319/2791394394511109/" rel="alternate"></link>
     <summary type="html"></summary>
     <author>
       <name>Black Lives Matter 5280</name>
@@ -200,127 +222,6 @@
     <id>https://www.facebook.com/BlackLivesMatter5280/posts/2798668460450369</id>
     <content type="html">&lt;a href=&#34;https://www.facebook.com/BlackLivesMatter5280/&#34;&gt;&lt;img src=&#34;https://scontent.fapa1-2.fna.fbcdn.net/v/t31.0-1/cp0/p50x50/17814374_1783309405319618_6184875403618170148_o.jpg?_nc_cat=105&amp;ccb=3&amp;_nc_sid=dbb9e7&amp;_nc_ohc=TgyClJhlNAEAX-K4ZMt&amp;_nc_ht=scontent.fapa1-2.fna&amp;tp=27&amp;oh=99f0f4adaa770d286177622cd7069801&amp;oe=6062A562&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;a href=&#34;https://www.facebook.com/BlackLivesMatter5280/&#34;&gt;Black Lives Matter 5280&lt;a href=&#34;https://www.facebook.com/BlackLivesMatter5280/&#34;&gt;&lt;/a&gt;&lt;/a&gt;&lt;a href=&#34;https://www.facebook.com/BlackLivesMatter5280/posts/2798668460450369&#34;&gt;&lt;/a&gt;&lt;i&gt;&lt;/i&gt;&lt;p&gt;A spokesperson for a local Black Lives Matter group said the new report confirmed that McClain should never have been confronted by police in the first place.&lt;/p&gt;&lt;p&gt; &#34;Results from the independent investigation in the murder of Elijah further supports what his family and community already knew,&#34; said Apryl Alexander, a community organizer and spokesperson for BLM 5280. &#34;He was a young man trying to walk home and confronted without cause. Instead of simply talking to Elijah, physical force was used within 10 seconds—not enough time for him to even explain that he was going home. Criminalizing Black people for living their lives needs to end.&#34;&lt;/p&gt;&lt;a href=&#34;https://www.buzzfeednews.com/article/salvadorhernandez/elijah-mcclain-death-independent-investigation?utm_source=dynamic&amp;utm_campaign=bfsharefacebook&amp;ref=mobile_share&#34;&gt;Millions of people had called for justice for McClain, who died after he was put in a chokehold by Aurora, Colorado, police.&lt;img src=&#34;https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQF8H5KQFm6c1qwK&amp;w=540&amp;h=282&amp;url=https%3A%2F%2Fimg.buzzfeed.com%2Fbuzzfeed-static%2Fstatic%2F2021-02%2F22%2F19%2Fasset%2F5b7bf3ea7d24%2Fsub-buzz-604-1614020592-10.jpg%3Fcrop%3D434%3A227%3B367%2C348&amp;cfs=1&amp;upscale=1&amp;fallback=news_d_placeholder_publisher&amp;_nc_cb=1&amp;_nc_hash=AQHh2Ft88m4h0arc&#34; alt=&#34;&#34; width=&#34;500&#34; height=&#34;262&#34; caption=&#34;&#34; /&gt;&lt;/a&gt;&lt;p&gt;buzzfeednews.com&lt;/p&gt;&lt;p&gt;Police Had No Reason To Stop Elijah McClain, An Independent Report Found&lt;/p&gt;Millions of people had called for justice for McClain, who died after he was put in a chokehold by Aurora, Colorado, police.&lt;a href=&#34;https://www.buzzfeednews.com/article/salvadorhernandez/elijah-mcclain-death-independent-investigation?utm_source=dynamic&amp;utm_campaign=bfsharefacebook&amp;ref=mobile_share&#34;&gt;Millions of people had called for justice for McClain, who died after he was put in a chokehold by Aurora, Colorado, police.&lt;/a&gt;</content>
     <link href="https://www.facebook.com/BlackLivesMatter5280/posts/2798668460450369" rel="alternate"></link>
-    <summary type="html"></summary>
-    <author>
-      <name>Black Lives Matter 5280</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Now y&#39;all know DJ Big Styles was a WHOLE VIBE during Friday...</title>
-    <updated>2021-02-22T12:30:00-07:00</updated>
-    <id>https://www.facebook.com/BlackLivesMatter5280/photos/a.1437459096571319/2797920713858477/</id>
-    <content type="html">&lt;a href=&#34;https://www.facebook.com/BlackLivesMatter5280/&#34;&gt;&lt;img src=&#34;https://scontent.fapa1-2.fna.fbcdn.net/v/t31.0-1/cp0/p50x50/17814374_1783309405319618_6184875403618170148_o.jpg?_nc_cat=105&amp;ccb=3&amp;_nc_sid=dbb9e7&amp;_nc_ohc=TgyClJhlNAEAX-K4ZMt&amp;_nc_ht=scontent.fapa1-2.fna&amp;tp=27&amp;oh=99f0f4adaa770d286177622cd7069801&amp;oe=6062A562&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;a href=&#34;https://www.facebook.com/BlackLivesMatter5280/&#34;&gt;Black Lives Matter 5280&lt;a href=&#34;https://www.facebook.com/BlackLivesMatter5280/&#34;&gt;&lt;/a&gt;&lt;/a&gt;&lt;a href=&#34;https://www.facebook.com/BlackLivesMatter5280/photos/a.1437459096571319/2797920713858477/&#34;&gt;&lt;/a&gt;&lt;i&gt;&lt;/i&gt;&lt;p&gt;Now y&#39;all know &lt;a href=&#34;https://www.facebook.com/djbigstyles/&#34;&gt;DJ Big Styles&lt;/a&gt; was a WHOLE VIBE during Friday night&#39;s Compass Awards. Honor his excellence and show some love, just as he has always shown to his community. CashApp: $djbigstyles  Venmo: &amp;#064;djbigstyles   &lt;a href=&#34;https://PayPal.com/deejaystyles@gmail.com&#34;&gt;PayPal.com/deejaystyles&amp;#064;gmail.com&lt;/a&gt;&lt;/p&gt;&lt;a href=&#34;https://www.facebook.com/BlackLivesMatter5280/photos/a.1437459096571319/2797920713858477/&#34;&gt;&lt;img src=&#34;https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-0/p526x296/153253957_2797920720525143_2464457997738098001_o.jpg?_nc_cat=109&amp;ccb=3&amp;_nc_sid=8024bb&amp;_nc_ohc=VpYGogvOGc8AX-WOtEh&amp;_nc_ht=scontent.fapa1-2.fna&amp;tp=6&amp;oh=c37bdbfd443c5382101f92078caf8e06&amp;oe=60641650&#34; alt=&#34;May be an image of 1 person and text that says &#39;We hope you will honor the brilliant, Black artists who gave of themselves to make the 2021 Compass Awards a night to remember. Pay them for their work. DJ Big Styles CashApp: $dibigstyles Venmo: &amp;#064;djbigstyles PayPal.com/deejaystyles&amp;#064;gmail.com&#39;&#34; width=&#34;500&#34; height=&#34;282&#34; caption=&#34;May be an image of 1 person and text that says &#39;We hope you will honor the brilliant, Black artists who gave of themselves to make the 2021 Compass Awards a night to remember. Pay them for their work. DJ Big Styles CashApp: $dibigstyles Venmo: &amp;#064;djbigstyles PayPal.com/deejaystyles&amp;#064;gmail.com&#39;&#34; /&gt;&lt;/a&gt;</content>
-    <link href="https://www.facebook.com/BlackLivesMatter5280/photos/a.1437459096571319/2797920713858477/" rel="alternate"></link>
-    <summary type="html"></summary>
-    <author>
-      <name>Black Lives Matter 5280</name>
-    </author>
-  </entry>
-  <entry>
-    <title>▶ Join us this Friday on FB Live for our first ever Compass Awards</title>
-    <updated>2021-02-15T20:21:11-07:00</updated>
-    <id>https://www.instagram.com/p/CLVnS2DlRO6/</id>
-    <content type="html">&lt;video controls&gt;&lt;source src=&#34;https://instagram.fapa1-1.fna.fbcdn.net/v/t50.2886-16/149374264_3743710622362215_7493589677033952827_n.mp4?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=103&amp;_nc_ohc=wYYU9eC4LmgAX925ZFP&amp;oe=603F5CFB&amp;oh=576b34d66e189c6fe08ce274295cebaf&#34; poster=&#34;https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/150976663_754294502185102_7282435576238213385_n.jpg?tp=1&amp;_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=110&amp;_nc_ohc=ZqoGNZxexb4AX-TNmpI&amp;oh=7d7d549cbb17104da4009a37ed0a7f68&amp;oe=603F3C5D&#34; type=&#34;video/mp4&#34;&gt;&lt;img src=&#34;https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/150976663_754294502185102_7282435576238213385_n.jpg?tp=1&amp;_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=110&amp;_nc_ohc=ZqoGNZxexb4AX-TNmpI&amp;oh=7d7d549cbb17104da4009a37ed0a7f68&amp;oe=603F3C5D&#34; alt=&#34;&#34;&gt;&lt;/video&gt;&lt;br&gt;&lt;br&gt;Join us this Friday on FB Live for our first ever Compass Awards</content>
-    <link href="https://www.instagram.com/p/CLVnS2DlRO6/" rel="alternate"></link>
-    <summary type="html"></summary>
-    <author>
-      <name>Black Lives Matter 5280</name>
-    </author>
-  </entry>
-  <entry>
-    <title>What happened is foul but not at all surprising coming from Denver Health. They were just under fire in November for...</title>
-    <updated>2021-02-09T12:06:50-07:00</updated>
-    <id>https://www.instagram.com/p/CLFSSjdlFwq/</id>
-    <content type="html">&lt;a href=&#34;https://www.instagram.com/p/CLFSSjdlFwq/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/147547226_132230018687486_8485335032248271921_n.jpg?tp=1&amp;amp;_nc_ht=instagram.fapa1-2.fna.fbcdn.net&amp;amp;_nc_cat=102&amp;amp;_nc_ohc=6G40dxPBc3MAX8SroE7&amp;amp;oh=28b5c7aa2ca954e641992f985f8c8777&amp;amp;oe=6064B9F1&#34; alt=&#34;What happened is foul but not at all surprising coming from Denver Health. They were just under fire in November for...&#34; /&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;What happened is foul but not at all surprising coming from Denver Health. They were just under fire in November for retaliating against whistleblowers raising concerns about systemic racism. Tay Anderson and his mama deserve better, and the fight for an end to policing of our hospitals is far from over. &lt;br /&gt;&#xA;Please like, share, and comment to help amplify this injustice and call for change! &lt;br /&gt;&#xA;And email Patient_advocates@dhha.org to ask them what is being done to ensure that this does not happen again!  #DefundThePolice #DefendBlackLife #WeKeepUsSafe #CounselorsNotCops #MedicalRacism #DenverHealth &lt;br /&gt;&#xA;(image description in comments)</content>
-    <link href="https://www.instagram.com/p/CLFSSjdlFwq/" rel="alternate"></link>
-    <summary type="html"></summary>
-    <author>
-      <name>Black Lives Matter 5280</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Join us on Facebook Live for our #BlackLivesMatterAtSchoolWeek celebration Today from 5pm - 6pm!...</title>
-    <updated>2021-02-05T16:20:22-07:00</updated>
-    <id>https://www.instagram.com/p/CK7cH--lvDC/</id>
-    <content type="html">&lt;a href=&#34;https://www.instagram.com/p/CK7cH--lvDC/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/147509365_459743915035385_8500792527273291594_n.jpg?tp=1&amp;amp;_nc_ht=instagram.fapa1-2.fna.fbcdn.net&amp;amp;_nc_cat=105&amp;amp;_nc_ohc=aadxxElIE3gAX_DPSVA&amp;amp;oh=a17d6feab791d59d3e721df8dd10ade7&amp;amp;oe=6066A91B&#34; alt=&#34;Join us on Facebook Live for our #BlackLivesMatterAtSchoolWeek celebration Today from 5pm - 6pm!...&#34; /&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;Join us on Facebook Live for our #BlackLivesMatterAtSchoolWeek celebration Today from 5pm - 6pm!&lt;br /&gt;&#xA;&lt;br /&gt;&#xA;[Image Description:&lt;br /&gt;&#xA;A banner for a Facebook event page depicts a Black child looking determined on a black background. They are wearing a mask and are superimposed over a brown and white striped banner that says &amp;ldquo;Black Lives Matter.&amp;rdquo; There is a brown fist superimposed over her face.]</content>
-    <link href="https://www.instagram.com/p/CK7cH--lvDC/" rel="alternate"></link>
-    <summary type="html"></summary>
-    <author>
-      <name>Black Lives Matter 5280</name>
-    </author>
-  </entry>
-  <entry>
-    <title>▶ #Reparations Y’all probably remember our sister in need of secure housing not too long ago. With our help and the...</title>
-    <updated>2021-01-30T11:09:45-07:00</updated>
-    <id>https://www.instagram.com/p/CKrbeN4FiUj/</id>
-    <content type="html">&lt;video controls&gt;&lt;source src=&#34;https://instagram.fapa1-1.fna.fbcdn.net/v/t50.2886-16/143849610_161861189069795_4710417797354620876_n.mp4?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=111&amp;_nc_ohc=roO0NkFec5cAX9f_HSM&amp;oe=603F5C64&amp;oh=3204134aa4b561a06fd4902d274f6f91&#34; poster=&#34;https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/144825018_133363795280987_1522669209862474798_n.jpg?tp=1&amp;_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=111&amp;_nc_ohc=mV2cbY0sPvkAX-bp9y6&amp;oh=8b2ae98cd59e4bee6e1f0f74bd08477a&amp;oe=603F1D06&#34; type=&#34;video/mp4&#34;&gt;&lt;img src=&#34;https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/144825018_133363795280987_1522669209862474798_n.jpg?tp=1&amp;_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=111&amp;_nc_ohc=mV2cbY0sPvkAX-bp9y6&amp;oh=8b2ae98cd59e4bee6e1f0f74bd08477a&amp;oe=603F1D06&#34; alt=&#34;&#34;&gt;&lt;/video&gt;&lt;br&gt;&lt;br&gt;#Reparations Y&amp;rsquo;all probably remember our sister in need of secure housing not too long ago. With our help and the help of community she was able to find a place! She started working soon after to cover her monthly expenses despite her active and debilitating condition. Just one month later she was fired after missing too much work for medical treatment AND denied disability income at the same time. She plans to appeal the denial and take legal action against her employer for being in violation of the ADA. &lt;br /&gt;&#xA;&lt;br /&gt;&#xA;None of that will pay her bills right now though. Please, please share and give what you can. Enough people giving even just a few dollars really goes long way. And comment seen to help spread the word!&lt;br /&gt;&#xA;&lt;br /&gt;&#xA;‼️If you have any leads on remote work opportunities or pro bono Disability Lawyers please send them to blacklivesmatter5280@gmail.com ‼️&lt;br /&gt;&#xA;#BlackLivesMatter #BlackAndDisabled #CallToAction #MutualAid #CommunitySupport &lt;br /&gt;&#xA;(Image Description: flyer with pastel pink, blue, and yellow font on a black background reads: [venmo symbol] @Kim-and-Kush-00&lt;br /&gt;&#xA;Kim is fighting a brain tumor but was recently denied disability income&lt;br /&gt;&#xA;She can appeal but she needs our help staying housed and healthy right now &lt;br /&gt;&#xA;Please give what you can and share widely&lt;br /&gt;&#xA;#WeKeepUsSafe &lt;br /&gt;&#xA;There is a picture of Kim looking hopeful in the bottom left corner, and animated white embellishments arranged around the text)</content>
-    <link href="https://www.instagram.com/p/CKrbeN4FiUj/" rel="alternate"></link>
-    <summary type="html"></summary>
-    <author>
-      <name>Black Lives Matter 5280</name>
-    </author>
-  </entry>
-  <entry>
-    <title>▶ https://www.coloradogives.org/blacklivesmatter5280</title>
-    <updated>2020-12-08T11:32:06-07:00</updated>
-    <id>https://www.instagram.com/p/CIjAOGZFUY7/</id>
-    <content type="html">&lt;video controls&gt;&lt;source src=&#34;https://instagram.fapa1-1.fna.fbcdn.net/v/t50.2886-16/10000000_689169031613180_6632563838070330277_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjcyMC5pZ3R2LmRlZmF1bHQiLCJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSJ9&amp;_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=108&amp;_nc_ohc=YNZ5tpFCUxIAX9MbZWB&amp;vs=17972769439341552_924851252&amp;_nc_vs=HBksFQAYJEdJQ1dtQUQ4eWxHcnkzSUNBS1dUU0g2cm1RdGNicUNCQUFBRhUAAsgBABUAGCRHQXB4eWdkNlM2WVpGTFVDQU1rUEZkZkhGdlp3YnFDQkFBQUYVAgLIAQAoABgAGwGIB3VzZV9vaWwBMRUAACbgl42K74jtPxUCKAJDMywXQH38SbpeNT8YFWRhc2hfYmFzZWxpbmVfNzIwcF92MREAdewHAA%3D%3D&amp;oe=603F9117&amp;oh=daebda8c86652a207e994466ba11c006&#34; poster=&#34;https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/130549493_5440007162683411_7797579065946464619_n.jpg?tp=1&amp;_nc_ht=instagram.fapa1-2.fna.fbcdn.net&amp;_nc_cat=107&amp;_nc_ohc=zk0VMrLDCV0AX8o4NX3&amp;oh=ec9bce558cc547aed7132208e51afc05&amp;oe=603FA0EF&#34; type=&#34;video/mp4&#34;&gt;&lt;img src=&#34;https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/130549493_5440007162683411_7797579065946464619_n.jpg?tp=1&amp;_nc_ht=instagram.fapa1-2.fna.fbcdn.net&amp;_nc_cat=107&amp;_nc_ohc=zk0VMrLDCV0AX8o4NX3&amp;oh=ec9bce558cc547aed7132208e51afc05&amp;oe=603FA0EF&#34; alt=&#34;&#34;&gt;&lt;/video&gt;&lt;br&gt;&lt;br&gt;https://www.coloradogives.org/blacklivesmatter5280</content>
-    <link href="https://www.instagram.com/p/CIjAOGZFUY7/" rel="alternate"></link>
-    <summary type="html"></summary>
-    <author>
-      <name>Black Lives Matter 5280</name>
-    </author>
-  </entry>
-  <entry>
-    <title>▶ An educator telling you why your money REALLY helps. ...</title>
-    <updated>2020-12-04T11:46:08-07:00</updated>
-    <id>https://www.instagram.com/p/CIYupDfFjb9/</id>
-    <content type="html">&lt;video controls&gt;&lt;source src=&#34;https://instagram.fapa1-1.fna.fbcdn.net/v/t50.2886-16/10000000_493531254946678_1790205827783875621_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjcyMC5pZ3R2LmRlZmF1bHQiLCJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSJ9&amp;_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=110&amp;_nc_ohc=j6PHz2k2oywAX8RDV1S&amp;vs=17903111236612020_3537648634&amp;_nc_vs=HBksFQAYJEdJQ1dtQUIyX3lJejNjQUJBQ1ZjNUNlM0Z0Z1licUNCQUFBRhUAAsgBABUAGCRHSnlZdEFjUjN2dG9KNlVBQU5NanlNdmNOUGdXYnFDQkFBQUYVAgLIAQAoABgAGwGIB3VzZV9vaWwBMRUAACbonPqInbLNPxUCKAJDMywXQIU13ztkWh0YFWRhc2hfYmFzZWxpbmVfNzIwcF92MREAdewHAA%3D%3D&amp;oe=603F39FC&amp;oh=358b22be12cb1084f0121d1d61dc3fb2&#34; poster=&#34;https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/129095256_1571447249712128_8663211261111909906_n.jpg?tp=1&amp;_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=108&amp;_nc_ohc=WysSbANJ4RUAX_jTBoP&amp;oh=b6d66d2c528103588a610bd034125cfc&amp;oe=603F1C99&#34; type=&#34;video/mp4&#34;&gt;&lt;img src=&#34;https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/129095256_1571447249712128_8663211261111909906_n.jpg?tp=1&amp;_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=108&amp;_nc_ohc=WysSbANJ4RUAX_jTBoP&amp;oh=b6d66d2c528103588a610bd034125cfc&amp;oe=603F1C99&#34; alt=&#34;&#34;&gt;&lt;/video&gt;&lt;br&gt;&lt;br&gt;An educator telling you why your money REALLY helps. &lt;br /&gt;&#xA;&lt;br /&gt;&#xA;coloradogives.org/blacklivesmatter5280</content>
-    <link href="https://www.instagram.com/p/CIYupDfFjb9/" rel="alternate"></link>
-    <summary type="html"></summary>
-    <author>
-      <name>Black Lives Matter 5280</name>
-    </author>
-  </entry>
-  <entry>
-    <title>▶ Ari shares some of the responses we’ve received to our DD Fund program application....</title>
-    <updated>2020-12-03T13:03:52-07:00</updated>
-    <id>https://www.instagram.com/p/CIWSvrolcsV/</id>
-    <content type="html">&lt;video controls&gt;&lt;source src=&#34;https://instagram.fapa1-2.fna.fbcdn.net/v/t50.2886-16/10000000_848471102572603_9129869935555088562_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjcyMC5pZ3R2LmRlZmF1bHQiLCJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSJ9&amp;_nc_ht=instagram.fapa1-2.fna.fbcdn.net&amp;_nc_cat=107&amp;_nc_ohc=-qMeyeXg9BcAX_7mjMV&amp;vs=17869499525080295_2488201637&amp;_nc_vs=HBksFQAYJEdJQ1dtQUE3eUtzU3JnTURBTEtRUjVKVjBMTl9icUNCQUFBRhUAAsgBABUAGCRHTUo3dGdjbk91VHJFN2dBQU53YVVjTWZBUjFXYnFDQkFBQUYVAgLIAQAoABgAGwGIB3VzZV9vaWwBMRUAACbO6tCY4o2%2BPxUCKAJDMywXQIV9l41P3zsYFWRhc2hfYmFzZWxpbmVfNzIwcF92MREAdewHAA%3D%3D&amp;oe=603F9869&amp;oh=8e636256e4a8aff474ca5fddf4a36f04&#34; poster=&#34;https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/128938059_294472668620606_5064887761537967393_n.jpg?tp=1&amp;_nc_ht=instagram.fapa1-2.fna.fbcdn.net&amp;_nc_cat=102&amp;_nc_ohc=rnX5XQlQ6L4AX_SskSW&amp;oh=c936fced24166195feaaf2ae3cab2607&amp;oe=603F50E8&#34; type=&#34;video/mp4&#34;&gt;&lt;img src=&#34;https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/128938059_294472668620606_5064887761537967393_n.jpg?tp=1&amp;_nc_ht=instagram.fapa1-2.fna.fbcdn.net&amp;_nc_cat=102&amp;_nc_ohc=rnX5XQlQ6L4AX_SskSW&amp;oh=c936fced24166195feaaf2ae3cab2607&amp;oe=603F50E8&#34; alt=&#34;&#34;&gt;&lt;/video&gt;&lt;br&gt;&lt;br&gt;Ari shares some of the responses we&amp;rsquo;ve received to our DD Fund program application. coloradogives.org/blacklivesmatter5280 (link in bio)</content>
-    <link href="https://www.instagram.com/p/CIWSvrolcsV/" rel="alternate"></link>
-    <summary type="html"></summary>
-    <author>
-      <name>Black Lives Matter 5280</name>
-    </author>
-  </entry>
-  <entry>
-    <title>▶</title>
-    <updated>2020-12-02T12:01:19-07:00</updated>
-    <id>https://www.instagram.com/p/CITmynwlJMR/</id>
-    <content type="html">&lt;video controls&gt;&lt;source src=&#34;https://instagram.fapa1-2.fna.fbcdn.net/v/t50.2886-16/10000000_111350190804537_5093947713814726392_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjcyMC5pZ3R2LmRlZmF1bHQiLCJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSJ9&amp;_nc_ht=instagram.fapa1-2.fna.fbcdn.net&amp;_nc_cat=109&amp;_nc_ohc=HCV2_5W6vhEAX-o6Qj2&amp;vs=17919899956493185_3949406363&amp;_nc_vs=HBksFQAYJEdJQ1dtQUE1anBHOFJXVUFBUGdHVi1KMFZyRkdicUNCQUFBRhUAAsgBABUAGCRHRF9tcndjQTUyc0NWb2tEQUIzMkFXV3psUUE3YnFDQkFBQUYVAgLIAQAoABgAGwGIB3VzZV9vaWwBMRUAACaCnJG2uoPVPxUCKAJDMywXQIiv%2FfO2RaIYFWRhc2hfYmFzZWxpbmVfNzIwcF92MREAdewHAA%3D%3D&amp;oe=603F3518&amp;oh=b5b1e69e0af5df486740bc769cdcd0f0&#34; poster=&#34;https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/129450162_2786133958323488_7543181505136405012_n.jpg?tp=1&amp;_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=108&amp;_nc_ohc=VOlpHez7ZaEAX-Mr8c0&amp;oh=9b68e2b7c8423d5aae59eb9f6f813898&amp;oe=603F83B8&#34; type=&#34;video/mp4&#34;&gt;&lt;img src=&#34;https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/129450162_2786133958323488_7543181505136405012_n.jpg?tp=1&amp;_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=108&amp;_nc_ohc=VOlpHez7ZaEAX-Mr8c0&amp;oh=9b68e2b7c8423d5aae59eb9f6f813898&amp;oe=603F83B8&#34; alt=&#34;&#34;&gt;&lt;/video&gt;&lt;br&gt;&lt;br&gt;</content>
-    <link href="https://www.instagram.com/p/CITmynwlJMR/" rel="alternate"></link>
-    <summary type="html"></summary>
-    <author>
-      <name>Black Lives Matter 5280</name>
-    </author>
-  </entry>
-  <entry>
-    <title>▶ #GivingTuesday2020 Garcelle highlighting some of the dope work made possible by your donations!...</title>
-    <updated>2020-12-01T10:57:23-07:00</updated>
-    <id>https://www.instagram.com/p/CIQ6Uv_l891/</id>
-    <content type="html">&lt;video controls&gt;&lt;source src=&#34;https://instagram.fapa1-1.fna.fbcdn.net/v/t50.2886-16/10000000_709672349986434_4109665662281130625_n.mp4?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=106&amp;_nc_ohc=PGGUiuOOMpUAX8Ooj3q&amp;oe=603F2DD5&amp;oh=5996222faa386f3d6e8a4982ab3e722b&#34; poster=&#34;https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/128200531_1319562898379029_3451918056179481856_n.jpg?tp=1&amp;_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=101&amp;_nc_ohc=pEzGgnVKimkAX_-lD9-&amp;oh=0a19f0c1b00729091bb9e55e3e809233&amp;oe=603F2A7A&#34; type=&#34;video/mp4&#34;&gt;&lt;img src=&#34;https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/128200531_1319562898379029_3451918056179481856_n.jpg?tp=1&amp;_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=101&amp;_nc_ohc=pEzGgnVKimkAX_-lD9-&amp;oh=0a19f0c1b00729091bb9e55e3e809233&amp;oe=603F2A7A&#34; alt=&#34;&#34;&gt;&lt;/video&gt;&lt;br&gt;&lt;br&gt;#GivingTuesday2020 Garcelle highlighting some of the dope work made possible by your donations!&lt;br /&gt;&#xA;Coloradogives.org/blacklivesmattter5280</content>
-    <link href="https://www.instagram.com/p/CIQ6Uv_l891/" rel="alternate"></link>
-    <summary type="html"></summary>
-    <author>
-      <name>Black Lives Matter 5280</name>
-    </author>
-  </entry>
-  <entry>
-    <title>**FOR IMMEDIATE RELEASE ** Contact: Kelly Davidson CEO Kelly Davidson Media; Phone 301.300.4011 info@kellymavenmedia.com...</title>
-    <updated>2020-11-30T13:50:18-07:00</updated>
-    <id>https://www.instagram.com/p/CIOpsQxl3ZC/</id>
-    <content type="html">&lt;a href=&#34;https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/128709438_720325558608946_7292999345511512997_n.jpg?tp=1&amp;_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=110&amp;_nc_ohc=WbsU2ERobHoAX8mmw5M&amp;oh=4adef775e45f870220d7da576f420686&amp;oe=60651FFB&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/128709438_720325558608946_7292999345511512997_n.jpg?tp=1&amp;_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=110&amp;_nc_ohc=WbsU2ERobHoAX8mmw5M&amp;oh=4adef775e45f870220d7da576f420686&amp;oe=60651FFB&#34; alt=&#34;**FOR IMMEDIATE RELEASE ** Contact: Kelly Davidson CEO Kelly Davidson Media; Phone 301.300.4011 info@kellymavenmedia.com...&#34; /&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/128216452_227313785448223_9049222429334134271_n.jpg?tp=1&amp;_nc_ht=instagram.fapa1-2.fna.fbcdn.net&amp;_nc_cat=107&amp;_nc_ohc=WCU5DOXC67QAX_raR7q&amp;oh=ce96b2202cd2ada99631e492e6b7900b&amp;oe=60678753&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/128216452_227313785448223_9049222429334134271_n.jpg?tp=1&amp;_nc_ht=instagram.fapa1-2.fna.fbcdn.net&amp;_nc_cat=107&amp;_nc_ohc=WCU5DOXC67QAX_raR7q&amp;oh=ce96b2202cd2ada99631e492e6b7900b&amp;oe=60678753&#34; alt=&#34;**FOR IMMEDIATE RELEASE ** Contact: Kelly Davidson CEO Kelly Davidson Media; Phone 301.300.4011 info@kellymavenmedia.com...&#34; /&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;**FOR IMMEDIATE RELEASE ** Contact: Kelly Davidson CEO Kelly Davidson Media; Phone 301.300.4011 info@kellymavenmedia.com #BLM10</content>
-    <link href="https://www.instagram.com/p/CIOpsQxl3ZC/" rel="alternate"></link>
     <summary type="html"></summary>
     <author>
       <name>Black Lives Matter 5280</name>
