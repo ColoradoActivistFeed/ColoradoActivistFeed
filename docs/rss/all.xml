@@ -3,99 +3,38 @@
     <title>Colorado Activist Feed</title>
     <link>https://coloradoactivistfeed.github.io/ColoradoActivistFeed/</link>
     <description>Aggregation of Colorado activist posts from across social media.</description>
-    <pubDate>Wed, 10 Mar 2021 19:00:31 -0700</pubDate>
-    <item>
-      <title>Bridge returned error 500! (18697)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>blm5280 - Instagram Bridge</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `Unable to find username in search result.`<br />
-Query string: `action=display&bridge=Instagram&context=Username&u=blm5280&media_type=all&direct_links=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pauder</p>
-</section>]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>urn:sha1:3fd16e35a63a4ea39556689fa1ea69c3d8e82b0e</guid>
-      <pubDate>Wed, 10 Mar 2021 19:00:28 -0700</pubDate>
-    </item>
+    <pubDate>Wed, 10 Mar 2021 20:00:31 -0700</pubDate>
     <item>
       <title>Bridge returned error 400! (18697)</title>
       <link></link>
       <description></description>
       <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @BLM5280</strong> was unable to receive or process the
+	<p class="exception-message"><strong>Twitter @Sanctuary4AllCO</strong> was unable to receive or process the
 remote website's content!<br>
 Error message: `The requested resource cannot be found!<br />
 Please make sure your input parameters are correct!<br />
 cUrl error:  (0)<br />
 PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=BLM5280&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=Sanctuary4AllCO&norep=on&nopic=on&noimg=on&format=Atom`<br />
 Version: `dev.2020-02-26`</p>
 	<div class="advice">
 		<ul class="advice">
 			<li>Press Return to check your input parameters</li>
 			<li>Press F5 to retry</li>
 			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40BLM5280+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DBLM5280%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40Sanctuary4AllCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DSanctuary4AllCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
 		</ul>
 	</div>
 	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
 		<button>Search GitHub Issues</button>
 	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40BLM5280+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DBLM5280%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40Sanctuary4AllCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DSanctuary4AllCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
 	the issue before submitting it"><button>Open GitHub Issue</button></a>
 	<p class="maintainer">pmaziere</p>
 </section>]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>urn:sha1:d41f0010a0a8ed8aeb37927eae92c54678336b57</guid>
-      <pubDate>Wed, 10 Mar 2021 19:00:28 -0700</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 400! (18697)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @surjdenver</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=surjdenver&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40surjdenver+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dsurjdenver%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40surjdenver+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dsurjdenver%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>SURJ Denver</author>
-      <guid>urn:sha1:8875445ad8f7466218c2b7b1d81c0ac372841c60</guid>
-      <pubDate>Wed, 10 Mar 2021 19:00:22 -0700</pubDate>
+      <author>Sanctuary4All Colorado</author>
+      <guid>urn:sha1:8f61b42f3dcedd4192cd7a6b7949ff030b653261</guid>
+      <pubDate>Wed, 10 Mar 2021 20:00:31 -0700</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18697)</title>
@@ -127,7 +66,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Tay Anderson</author>
       <guid>urn:sha1:0e44bbeb251829cdfdad11a59fc05a95058cc26c</guid>
-      <pubDate>Wed, 10 Mar 2021 19:00:18 -0700</pubDate>
+      <pubDate>Wed, 10 Mar 2021 20:00:26 -0700</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18697)</title>
@@ -156,7 +95,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Abolish ICE Denver</author>
       <guid>urn:sha1:7c03e6391360c0ed92a99fda4322afcb72dd6135</guid>
-      <pubDate>Wed, 10 Mar 2021 19:00:14 -0700</pubDate>
+      <pubDate>Wed, 10 Mar 2021 20:00:22 -0700</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18697)</title>
@@ -188,103 +127,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Colorado - Familia</author>
       <guid>urn:sha1:cf5d157a0cddfae5465986791027210c4c249f3a</guid>
-      <pubDate>Wed, 10 Mar 2021 19:00:10 -0700</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 400! (18697)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @Sanctuary4AllCO</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=Sanctuary4AllCO&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40Sanctuary4AllCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DSanctuary4AllCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40Sanctuary4AllCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DSanctuary4AllCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>Sanctuary4All Colorado</author>
-      <guid>urn:sha1:8f61b42f3dcedd4192cd7a6b7949ff030b653261</guid>
-      <pubDate>Wed, 10 Mar 2021 19:00:07 -0700</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 400! (18697)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @leslieherod</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=leslieherod&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40leslieherod+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dleslieherod%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40leslieherod+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dleslieherod%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>Leslie Herod</author>
-      <guid>urn:sha1:bb44d31bf9cde62c5789506ec5494ae3394d206c</guid>
-      <pubDate>Wed, 10 Mar 2021 19:00:00 -0700</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 400! (18697)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @melanatedmic</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=melanatedmic&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40melanatedmic+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dmelanatedmic%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40melanatedmic+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dmelanatedmic%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>Melanated Mic Night</author>
-      <guid>urn:sha1:2ed5e3940e1f288016313665cc43d522803040ce</guid>
-      <pubDate>Wed, 10 Mar 2021 18:59:56 -0700</pubDate>
+      <pubDate>Wed, 10 Mar 2021 20:00:18 -0700</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18697)</title>
@@ -316,7 +159,71 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Denver Justice Project</author>
       <guid>urn:sha1:704bc4b2854710e701b4e3d56aa4271026b47d39</guid>
-      <pubDate>Wed, 10 Mar 2021 18:59:55 -0700</pubDate>
+      <pubDate>Wed, 10 Mar 2021 20:00:15 -0700</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 400! (18697)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @leslieherod</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=leslieherod&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40leslieherod+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dleslieherod%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40leslieherod+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dleslieherod%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>Leslie Herod</author>
+      <guid>urn:sha1:bb44d31bf9cde62c5789506ec5494ae3394d206c</guid>
+      <pubDate>Wed, 10 Mar 2021 20:00:07 -0700</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 400! (18697)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @melanatedmic</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=melanatedmic&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40melanatedmic+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dmelanatedmic%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40melanatedmic+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dmelanatedmic%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>Melanated Mic Night</author>
+      <guid>urn:sha1:2ed5e3940e1f288016313665cc43d522803040ce</guid>
+      <pubDate>Wed, 10 Mar 2021 20:00:03 -0700</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18697)</title>
@@ -348,7 +255,39 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Denver Homeless Out Loud</author>
       <guid>urn:sha1:4b1e2dffe6484479616ddd72a4c2e4344338a91c</guid>
-      <pubDate>Wed, 10 Mar 2021 18:59:51 -0700</pubDate>
+      <pubDate>Wed, 10 Mar 2021 20:00:03 -0700</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 400! (18697)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @surjdenver</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=surjdenver&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40surjdenver+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dsurjdenver%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40surjdenver+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dsurjdenver%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>SURJ Denver</author>
+      <guid>urn:sha1:8875445ad8f7466218c2b7b1d81c0ac372841c60</guid>
+      <pubDate>Wed, 10 Mar 2021 19:59:59 -0700</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18697)</title>
@@ -377,7 +316,68 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Denver Solidarity March</author>
       <guid>urn:sha1:92d5cb43b87c3fd27c8ca14a633a7112081f3e16</guid>
-      <pubDate>Wed, 10 Mar 2021 18:59:46 -0700</pubDate>
+      <pubDate>Wed, 10 Mar 2021 19:59:59 -0700</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 400! (18697)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @BLM5280</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=BLM5280&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40BLM5280+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DBLM5280%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40BLM5280+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DBLM5280%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>Black Lives Matter 5280</author>
+      <guid>urn:sha1:d41f0010a0a8ed8aeb37927eae92c54678336b57</guid>
+      <pubDate>Wed, 10 Mar 2021 19:59:54 -0700</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18697)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>blm5280 - Instagram Bridge</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Unable to find username in search result.`<br />
+Query string: `action=display&bridge=Instagram&context=Username&u=blm5280&media_type=all&direct_links=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pauder</p>
+</section>]]></content:encoded>
+      <author>Black Lives Matter 5280</author>
+      <guid>urn:sha1:3fd16e35a63a4ea39556689fa1ea69c3d8e82b0e</guid>
+      <pubDate>Wed, 10 Mar 2021 19:59:53 -0700</pubDate>
     </item>
     <item>
       <title>Educators,  How many times have you been approached by a student...</title>
@@ -752,7 +752,7 @@ Version: `dev.2020-02-26`</p>
       <title>&#34;There are still separate justice systems in America,&#34;...</title>
       <link>https://www.facebook.com/denverPSL/posts/1160761654376323</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverPSL/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/30222120_427704451015384_2069778794738089984_o.jpg?_nc_cat=102&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=li5apDUxm0MAX_ZOAJ7&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=60dcd7068c3a7b68a88fe92d396ab238&oe=607035D3" alt="" /></a><a href="https://www.facebook.com/denverPSL/">Party for Socialism and Liberation - Denver</a><a href="https://www.facebook.com/denverPSL/posts/1160761654376323"></a><i></i><p>"There are still separate justice systems in America," says the Root.</p><p> "The officers involved in [Elijah] McClain’s fatal arrest—Nathan Woodyard, Jason Rosenblatt and Randy Roedema—are still employed with the Aurora Police Department, after former Adams County District Attorney Dave Young said they did not break the law in their use of force against McClain. Protests against the lack of accountability for the cops went into overdrive in Aurora last summer amidst the nationwide... outrage against police brutality, especially when it came to light that police officers there had taken mocking selfies outside of a memorial to McClain. </p><p> Now several of the organizers who led those protests are potentially facing decades in prison on a suite of charges filed by Young before he left office.</p><p> “I think about the fact that we’ve done more jail time and have faced more consequences just for asking for justice for a man who we saw murdered on video, than any of the cops,” said Northam."</p> <a href="https://www.facebook.com/denverPSL/posts/1160761654376323">See More</a><a href="https://www.theroot.com/elijah-mcclain-organizers-facing-attempted-kidnapping-c-1846431664">There are still separate justice systems in America, as has been evidenced by the continuing dearth of criminal consequences for police officers who’ve caused the death of numerous Americans—even in light of last year’s uprisings against high-profile cases of police violence.<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?w=540&h=282&url=https%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fc_fill%2Cf_auto%2Cfl_progressive%2Cg_center%2Ch_675%2Cpg_1%2Cq_80%2Cw_1200%2Fpiqswokz2jj0ucge63ce.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&_nc_hash=AQHsol4MH0vZMJug" alt="" width="500" height="262" caption="" /></a><p>theroot.com</p><p>Elijah McClain Organizers Facing Attempted Kidnapping Charges and Decades of Prison Time for Protesting Aurora, Colo., Police</p>There are still separate justice systems in America, as has been evidenced by the continuing dearth of criminal consequences for police officers who’ve caused the death of numerous Americans—even in light of last year’s uprisings against high-profile cases of police violence.<a href="https://www.theroot.com/elijah-mcclain-organizers-facing-attempted-kidnapping-c-1846431664">There are still separate justice systems in America, as has been evidenced by the continuing dearth of criminal consequences for police officers who’ve caused the death of numerous Americans—even in light of last year’s uprisings against high-profile cases of police violence.</a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverPSL/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/30222120_427704451015384_2069778794738089984_o.jpg?_nc_cat=102&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=li5apDUxm0MAX_ZOAJ7&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=60dcd7068c3a7b68a88fe92d396ab238&oe=607035D3" alt="" /></a><a href="https://www.facebook.com/denverPSL/">Party for Socialism and Liberation - Denver</a><a href="https://www.facebook.com/denverPSL/posts/1160761654376323"></a><i></i><p>"There are still separate justice systems in America," says the Root.</p><p> "The officers involved in [Elijah] McClain’s fatal arrest—Nathan Woodyard, Jason Rosenblatt and Randy Roedema—are still employed with the Aurora Police Department, after former Adams County District Attorney Dave Young said they did not break the law in their use of force against McClain. Protests against the lack of accountability for the cops went into overdrive in Aurora last summer amidst the nationwide... outrage against police brutality, especially when it came to light that police officers there had taken mocking selfies outside of a memorial to McClain. </p><p> Now several of the organizers who led those protests are potentially facing decades in prison on a suite of charges filed by Young before he left office.</p><p> “I think about the fact that we’ve done more jail time and have faced more consequences just for asking for justice for a man who we saw murdered on video, than any of the cops,” said Northam."</p> <a href="https://www.facebook.com/denverPSL/posts/1160761654376323">See More</a><a href="https://www.theroot.com/elijah-mcclain-organizers-facing-attempted-kidnapping-c-1846431664">There are still separate justice systems in America, as has been evidenced by the continuing dearth of criminal consequences for police officers who’ve caused the death of numerous Americans—even in light of last year’s uprisings against high-profile cases of police violence.<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQFPWyBbr_zP5Jpt&w=540&h=282&url=https%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fc_fill%2Cf_auto%2Cfl_progressive%2Cg_center%2Ch_675%2Cpg_1%2Cq_80%2Cw_1200%2Fpiqswokz2jj0ucge63ce.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&_nc_hash=AQHLrja69tufGT2L" alt="" width="500" height="262" caption="" /></a><p>theroot.com</p><p>Elijah McClain Organizers Facing Attempted Kidnapping Charges and Decades of Prison Time for Protesting Aurora, Colo., Police</p>There are still separate justice systems in America, as has been evidenced by the continuing dearth of criminal consequences for police officers who’ve caused the death of numerous Americans—even in light of last year’s uprisings against high-profile cases of police violence.<a href="https://www.theroot.com/elijah-mcclain-organizers-facing-attempted-kidnapping-c-1846431664">There are still separate justice systems in America, as has been evidenced by the continuing dearth of criminal consequences for police officers who’ve caused the death of numerous Americans—even in light of last year’s uprisings against high-profile cases of police violence.</a>]]></content:encoded>
       <author>Party for Socialism and Liberation</author>
       <guid>https://www.facebook.com/denverPSL/posts/1160761654376323</guid>
       <pubDate>Mon, 08 Mar 2021 19:18:54 -0700</pubDate>
@@ -1031,7 +1031,7 @@ Version: `dev.2020-02-26`</p>
       <title>Black Lives Matter 5280+7Anti-Racism DailyNo, Dr. Seuss was not &#34;canceled&#34; by the &#34;woke mob&#34; this week. Learn more about the weaponization...</title>
       <link>https://www.facebook.com/BlackLivesMatter5280/posts/2807226739594541</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/BlackLivesMatter5280/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.0-1/cp0/p50x50/17814374_1783309405319618_6184875403618170148_o.jpg?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=q3hdHfts0vMAX9cC7xo&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=ad1083915253139ed71dda29d67e2373&oe=606E82E2" alt="" /></a><a href="https://www.facebook.com/BlackLivesMatter5280/">Black Lives Matter 5280<a href="https://www.facebook.com/BlackLivesMatter5280/"></a></a><a href="https://www.facebook.com/BlackLivesMatter5280/posts/2807226739594541"></a><i></i><a href="https://www.facebook.com/105090324588837/photos/pcb.268591628238705/268590228238845/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/p403x403/156704907_268590231572178_1386890535274551306_o.png?_nc_cat=103&ccb=1-3&_nc_sid=8024bb&_nc_ohc=tNNaqJcPB-QAX9rGBdv&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=e7523406b095fa8ee1a621527fb536f4&oe=606F49D2" alt="May be an image of one or more people and text that says 'ANTI-RACISM DAILY KNOW THE DIFFERENCE BETWEEN CANCEL CULTURE AND ACCOUNTABILITY.'" width="402" height="500" caption="May be an image of one or more people and text that says 'ANTI-RACISM DAILY KNOW THE DIFFERENCE BETWEEN CANCEL CULTURE AND ACCOUNTABILITY.'" /></a><a href="https://www.facebook.com/105090324588837/photos/pcb.268591628238705/268590201572181/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/s206x206/157172380_268590208238847_5919226918269840200_o.png?_nc_cat=110&ccb=1-3&_nc_sid=8024bb&_nc_ohc=YlfpcHB899gAX8C4qpm&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=cfdded05dc153ec33481f4985ded6f68&oe=606D9984" alt="May be an image of text" width="165" height="206" caption="May be an image of text" /></a><a href="https://www.facebook.com/105090324588837/photos/pcb.268591628238705/268590194905515/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-0/s206x206/158449023_268590198238848_4366679666540895997_o.png?_nc_cat=104&ccb=1-3&_nc_sid=8024bb&_nc_ohc=G9gqY0UVfSEAX9XhdEV&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=c58c29874ac9e0cd9112cb098189b7d9&oe=606F11C3" alt="May be an image of text that says 'There are definitely racist tropes in Dr. Seuss's work. This conversation is not new. In a study from 2019 titled Research on Diversity in Youth Literature, researchers Katie Ishizuka and Ramon Stephens analyzed all the published children's work of Dr. Suess and found that only two percent of the human characters were people of color. All of those characters were depicted using harmful racial caricatures that are unacceptable today (St. Catherine University). &#064;antiracismdaily'" width="165" height="206" caption="May be an image of text that says 'There are definitely racist tropes in Dr. Seuss's work. This conversation is not new. In a study from 2019 titled Research on Diversity in Youth Literature, researchers Katie Ishizuka and Ramon Stephens analyzed all the published children's work of Dr. Suess and found that only two percent of the human characters were people of color. All of those characters were depicted using harmful racial caricatures that are unacceptable today (St. Catherine University). &#064;antiracismdaily'" /></a><a href="https://www.facebook.com/105090324588837/photos/pcb.268591628238705/268590188238849/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/s206x206/157323906_268590191572182_4060051413969405607_o.png?_nc_cat=108&ccb=1-3&_nc_sid=8024bb&_nc_ohc=KqJjDKqH61QAX9xA6ko&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=54f92c3a076762f370d1099eebbbea73&oe=60703AF8" alt="May be an image of text" width="165" height="206" caption="May be an image of text" />+7</a><a href="https://www.facebook.com/Anti-Racism-Daily-105090324588837/">Anti-Racism Daily</a><a href="https://www.facebook.com/permalink.php"></a><p>No, Dr. Seuss was not "canceled" by the "woke mob" this week. Learn more about the weaponization of "cancel culture" by conservative media to distract from the ...accountability that matters most.</p><p> 👉🏾 Swipe for excerpts<br /> 📰 Read the full story and access all sources at <a href="http://antiracismdaily.com/read">antiracismdaily.com/read</a></p><p> This article also references an article with tools to discuss racist tropes in children's media with kids. What new children's media are you excited about for you and the kids in your life? Let us know in the comments 👇🏾</p> <a href="https://www.facebook.com">See More</a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/BlackLivesMatter5280/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.0-1/cp0/p50x50/17814374_1783309405319618_6184875403618170148_o.jpg?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=q3hdHfts0vMAX9cC7xo&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=ad1083915253139ed71dda29d67e2373&oe=606E82E2" alt="" /></a><a href="https://www.facebook.com/BlackLivesMatter5280/">Black Lives Matter 5280<a href="https://www.facebook.com/BlackLivesMatter5280/"></a></a><a href="https://www.facebook.com/BlackLivesMatter5280/posts/2807226739594541"></a><i></i><a href="https://www.facebook.com/105090324588837/photos/pcb.268591628238705/268590228238845/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/p403x403/156704907_268590231572178_1386890535274551306_o.png?_nc_cat=103&ccb=1-3&_nc_sid=8024bb&_nc_ohc=tNNaqJcPB-QAX9rGBdv&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=e7523406b095fa8ee1a621527fb536f4&oe=606F49D2" alt="May be an image of one or more people and text that says 'ANTI-RACISM DAILY KNOW THE DIFFERENCE BETWEEN CANCEL CULTURE AND ACCOUNTABILITY.'" width="402" height="500" caption="May be an image of one or more people and text that says 'ANTI-RACISM DAILY KNOW THE DIFFERENCE BETWEEN CANCEL CULTURE AND ACCOUNTABILITY.'" /></a><a href="https://www.facebook.com/105090324588837/photos/pcb.268591628238705/268590201572181/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/s206x206/157172380_268590208238847_5919226918269840200_o.png?_nc_cat=110&ccb=1-3&_nc_sid=8024bb&_nc_ohc=YlfpcHB899gAX8C4qpm&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=cfdded05dc153ec33481f4985ded6f68&oe=606D9984" alt="May be an image of text" width="165" height="206" caption="May be an image of text" /></a><a href="https://www.facebook.com/105090324588837/photos/pcb.268591628238705/268590194905515/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-0/s206x206/158449023_268590198238848_4366679666540895997_o.png?_nc_cat=104&ccb=1-3&_nc_sid=8024bb&_nc_ohc=pnMMqgDpvFUAX_dCLgU&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=8c874dac77466e3ec3bdf7027b9340ca&oe=606F11C3" alt="May be an image of text that says 'There are definitely racist tropes in Dr. Seuss's work. This conversation is not new. In a study from 2019 titled Research on Diversity in Youth Literature, researchers Katie Ishizuka and Ramon Stephens analyzed all the published children's work of Dr. Suess and found that only two percent of the human characters were people of color. All of those characters were depicted using harmful racial caricatures that are unacceptable today (St. Catherine University). &#064;antiracismdaily'" width="165" height="206" caption="May be an image of text that says 'There are definitely racist tropes in Dr. Seuss's work. This conversation is not new. In a study from 2019 titled Research on Diversity in Youth Literature, researchers Katie Ishizuka and Ramon Stephens analyzed all the published children's work of Dr. Suess and found that only two percent of the human characters were people of color. All of those characters were depicted using harmful racial caricatures that are unacceptable today (St. Catherine University). &#064;antiracismdaily'" /></a><a href="https://www.facebook.com/105090324588837/photos/pcb.268591628238705/268590188238849/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/s206x206/157323906_268590191572182_4060051413969405607_o.png?_nc_cat=108&ccb=1-3&_nc_sid=8024bb&_nc_ohc=KqJjDKqH61QAX9xA6ko&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=54f92c3a076762f370d1099eebbbea73&oe=60703AF8" alt="May be an image of text" width="165" height="206" caption="May be an image of text" />+7</a><a href="https://www.facebook.com/Anti-Racism-Daily-105090324588837/">Anti-Racism Daily</a><a href="https://www.facebook.com/permalink.php"></a><p>No, Dr. Seuss was not "canceled" by the "woke mob" this week. Learn more about the weaponization of "cancel culture" by conservative media to distract from the ...accountability that matters most.</p><p> 👉🏾 Swipe for excerpts<br /> 📰 Read the full story and access all sources at <a href="http://antiracismdaily.com/read">antiracismdaily.com/read</a></p><p> This article also references an article with tools to discuss racist tropes in children's media with kids. What new children's media are you excited about for you and the kids in your life? Let us know in the comments 👇🏾</p> <a href="https://www.facebook.com">See More</a>]]></content:encoded>
       <author>Black Lives Matter 5280</author>
       <guid>https://www.facebook.com/BlackLivesMatter5280/posts/2807226739594541</guid>
       <pubDate>Sat, 06 Mar 2021 08:57:56 -0700</pubDate>
@@ -1373,7 +1373,7 @@ Version: `dev.2020-02-26`</p>
       <title>Ingrid is selling empanadas &amp; chocoflan this weekend, as...</title>
       <link>https://www.facebook.com/Sanctuary4AllCO/posts/2863608663928048</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Sanctuary4AllCO/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/130721610_2803493399939575_729189452584090765_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=HUf1OphuuCUAX9N8ZKB&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=de7c416a41a6d97ed40f090fcaa4fd0f&oe=606F38C5" alt="" /></a><a href="https://www.facebook.com/Sanctuary4AllCO/">Sanctuary4All Colorado</a> is in <a href="https://www.facebook.com/pages/Boulder-Colorado/106083096088679">Boulder, Colorado</a>.<a href="https://www.facebook.com/Sanctuary4AllCO/posts/2863608663928048"></a><i></i><p>Ingrid is selling empanadas & chocoflan this weekend, as well as the masks, ponchos, beanies & jewelry that she sells every week to support herself and her family. Although she received a pardon from Governor Polis in December of 2019, she’s still at risk of deportation, and so continues to live in sanctuary, where she’s resided since late 2017. One way you can support her is by purchasing food from her this weekend at <a href="https://solidaritymeals.paperform.co/">https://solidaritymeals.paperform.co.</a></p><a href="https://www.facebook.com/Sanctuary4AllCO/photos/pcb.2863608663928048/2863608600594721/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-0/p526x296/156060642_2863608610594720_3826862535879966674_o.jpg?_nc_cat=100&ccb=1-3&_nc_sid=9e2e56&_nc_ohc=1arfJpOBf9QAX871VeN&_nc_ht=scontent.fapa1-2.fna&tp=6&oh=e2f6d82b3929ead03637443cfc3f8bcf&oe=606E7949" alt="May be an image of purse" width="500" height="500" caption="May be an image of purse" /></a><a href="https://www.facebook.com/Sanctuary4AllCO/photos/pcb.2863608663928048/2863608593928055/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-0/p526x296/154600417_2863608607261387_648739216501529853_o.jpg?_nc_cat=100&ccb=1-3&_nc_sid=9e2e56&_nc_ohc=YZQNDCCQysYAX9HC5GU&_nc_ht=scontent.fapa1-2.fna&tp=6&oh=ba54f80899b10d027828e12a39f7fb8a&oe=606D7870" alt="No photo description available." width="500" height="500" caption="No photo description available." /></a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/Sanctuary4AllCO/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/130721610_2803493399939575_729189452584090765_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=HUf1OphuuCUAX9N8ZKB&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=de7c416a41a6d97ed40f090fcaa4fd0f&oe=606F38C5" alt="" /></a><a href="https://www.facebook.com/Sanctuary4AllCO/">Sanctuary4All Colorado</a> is in <a href="https://www.facebook.com/pages/Boulder-Colorado/106083096088679">Boulder, Colorado</a>.<a href="https://www.facebook.com/Sanctuary4AllCO/posts/2863608663928048"></a><i></i><p>Ingrid is selling empanadas & chocoflan this weekend, as well as the masks, ponchos, beanies & jewelry that she sells every week to support herself and her family. Although she received a pardon from Governor Polis in December of 2019, she’s still at risk of deportation, and so continues to live in sanctuary, where she’s resided since late 2017. One way you can support her is by purchasing food from her this weekend at <a href="https://solidaritymeals.paperform.co/">https://solidaritymeals.paperform.co.</a></p><a href="https://www.facebook.com/Sanctuary4AllCO/photos/pcb.2863608663928048/2863608600594721/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-0/p526x296/156060642_2863608610594720_3826862535879966674_o.jpg?_nc_cat=100&ccb=1-3&_nc_sid=9e2e56&_nc_ohc=xJtH2Gr-F_AAX9lVtzl&_nc_ht=scontent.fapa1-2.fna&tp=6&oh=27a1f36a64c38bfdde3b6a14d06eb713&oe=606E7949" alt="May be an image of purse" width="500" height="500" caption="May be an image of purse" /></a><a href="https://www.facebook.com/Sanctuary4AllCO/photos/pcb.2863608663928048/2863608593928055/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-0/p526x296/154600417_2863608607261387_648739216501529853_o.jpg?_nc_cat=100&ccb=1-3&_nc_sid=9e2e56&_nc_ohc=YZQNDCCQysYAX9HC5GU&_nc_ht=scontent.fapa1-2.fna&tp=6&oh=ba54f80899b10d027828e12a39f7fb8a&oe=606D7870" alt="No photo description available." width="500" height="500" caption="No photo description available." /></a>]]></content:encoded>
       <author>Sanctuary4All Colorado</author>
       <guid>https://www.facebook.com/Sanctuary4AllCO/posts/2863608663928048</guid>
       <pubDate>Tue, 02 Mar 2021 17:02:46 -0700</pubDate>
@@ -1676,10 +1676,10 @@ Version: `dev.2020-02-26`</p>
       <pubDate>Fri, 26 Feb 2021 17:49:40 -0700</pubDate>
     </item>
     <item>
-      <title>Denver Homeless Out Loud was live.392 Views</title>
+      <title>Denver Homeless Out Loud was live.393 Views</title>
       <link>https://www.facebook.com/DenverHomelessOutLoud/videos/341305090483523/</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverHomelessOutLoud/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/12645267_765701936893095_4336088808811260721_n.png?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=5QA42yS-bX4AX-NKPJm&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=60ec3f552a4fdd3df5281ec30a3f1650&oe=606F403E" alt="" /></a><a href="https://www.facebook.com/DenverHomelessOutLoud/">Denver Homeless Out Loud</a> was live.<a href="https://www.facebook.com/DenverHomelessOutLoud/videos/341305090483523/"></a><i></i><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t15.13418-10/p600x600/144060723_1524168697781166_2384641992342426543_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=c3DesSP9kYIAX_nlUry&_nc_ht=scontent.fapa1-2.fna&tp=6&oh=6c89c7d9a7f9d36531382dc17afdd5c6&oe=606E2993" />392 Views]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverHomelessOutLoud/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/12645267_765701936893095_4336088808811260721_n.png?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=5QA42yS-bX4AX-NKPJm&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=60ec3f552a4fdd3df5281ec30a3f1650&oe=606F403E" alt="" /></a><a href="https://www.facebook.com/DenverHomelessOutLoud/">Denver Homeless Out Loud</a> was live.<a href="https://www.facebook.com/DenverHomelessOutLoud/videos/341305090483523/"></a><i></i><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t15.13418-10/p600x600/144060723_1524168697781166_2384641992342426543_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=c3DesSP9kYIAX_nlUry&_nc_ht=scontent.fapa1-2.fna&tp=6&oh=6c89c7d9a7f9d36531382dc17afdd5c6&oe=606E2993" />393 Views]]></content:encoded>
       <author>Denver Homeless Out Loud</author>
       <guid>https://www.facebook.com/DenverHomelessOutLoud/videos/341305090483523/</guid>
       <pubDate>Fri, 26 Feb 2021 14:33:40 -0700</pubDate>
@@ -1760,7 +1760,7 @@ Version: `dev.2020-02-26`</p>
       <title>Speaking with camp resident 10th and Bannock</title>
       <link>https://www.facebook.com/DenverHomelessOutLoud/videos/269318644548525/</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverHomelessOutLoud/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/12645267_765701936893095_4336088808811260721_n.png?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=5QA42yS-bX4AX-NKPJm&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=60ec3f552a4fdd3df5281ec30a3f1650&oe=606F403E" alt="" /></a><a href="https://www.facebook.com/DenverHomelessOutLoud/">Denver Homeless Out Loud</a> was live.<a href="https://www.facebook.com/DenverHomelessOutLoud/videos/269318644548525/"></a><i></i><p>Speaking with camp resident 10th and Bannock</p><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t15.13418-10/149797051_1420527884959411_7701161922786092042_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=3rYIzapbpMcAX9ADHxX&_nc_ht=scontent.fapa1-1.fna&oh=4c30da4b167348eda7dc0e9a1639ed9f&oe=607020C2" />627 Views]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverHomelessOutLoud/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/12645267_765701936893095_4336088808811260721_n.png?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=5QA42yS-bX4AX-NKPJm&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=60ec3f552a4fdd3df5281ec30a3f1650&oe=606F403E" alt="" /></a><a href="https://www.facebook.com/DenverHomelessOutLoud/">Denver Homeless Out Loud</a> was live.<a href="https://www.facebook.com/DenverHomelessOutLoud/videos/269318644548525/"></a><i></i><p>Speaking with camp resident 10th and Bannock</p><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t15.13418-10/149797051_1420527884959411_7701161922786092042_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=3rYIzapbpMcAX9ADHxX&_nc_ht=scontent.fapa1-1.fna&oh=4c30da4b167348eda7dc0e9a1639ed9f&oe=607020C2" />628 Views]]></content:encoded>
       <author>Denver Homeless Out Loud</author>
       <guid>https://www.facebook.com/DenverHomelessOutLoud/videos/269318644548525/</guid>
       <pubDate>Fri, 26 Feb 2021 08:28:32 -0700</pubDate>
@@ -1940,7 +1940,7 @@ Version: `dev.2020-02-26`</p>
       <title>The Aurora independent investigation report confirms in stark...</title>
       <link>https://www.facebook.com/acluofcolorado/posts/4007494942617298</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/acluofcolorado/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t31.0-1/cp0/p50x50/21950661_1662566980443451_7358479861831904430_o.jpg?_nc_cat=103&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=4YA4u8tzOb4AX-n8fL5&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=60fba043b54410aba0996d29f217c35f&oe=6070CF7C" alt="" /></a><a href="https://www.facebook.com/acluofcolorado/">ACLU of Colorado</a><a href="https://www.facebook.com/acluofcolorado/posts/4007494942617298"></a><i></i><p>The Aurora independent investigation report confirms in stark terms what the community has long understood: Aurora police killed Elijah McClain. Mr. McClain was the innocent victim of multiple violations of longstanding law that is supposed to limit the authority of law enforcement. The family of Elijah McClain deserves justice. The community is calling for accountability. Aurora decision-makers cannot and must not ignore these calls. <a href="http://acluco.org/3qO8NX5">http://acluco.org/3qO8NX5</a></p><a href="http://acluco.org/3qO8NX5">February 23, 2021 DENVER – The following statement can be attributed to Mark Silverstein, Legal Director for ACLU of Colorado. “The Aurora independent investigation report confirms in stark terms what the community has long understood: Aurora police killed Elijah McClain. Mr. McClain … Continu...<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQFPdGhZrXloDcLg&w=160&h=160&url=https%3A%2F%2Facluco-wpengine.netdna-ssl.com%2Fwp-content%2Fthemes%2Fworkhorse-boilerplate%2F_images%2FACLU_Colorado_Logo.svg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher_square&_nc_cb=1&_nc_hash=AQHjqgeaqZl1OYRS" alt="" width="158" height="158" caption="" /></a><p>aclu-co.org</p><p>ACLU of Colorado Statement on the Aurora Independent Investigation Into Elijah McClain’s Death | ACLU of Colorado</p>February 23, 2021 DENVER – The following statement can be attributed to Mark Silverstein, Legal Director for ACLU of Colorado. “The Aurora independent investigation report confirms in stark terms what the community has long understood: Aurora police killed Elijah McClain. Mr. McClain … Continu...<a href="http://acluco.org/3qO8NX5">February 23, 2021 DENVER – The following statement can be attributed to Mark Silverstein, Legal Director for ACLU of Colorado. “The Aurora independent investigation report confirms in stark terms what the community has long understood: Aurora police killed Elijah McClain. Mr. McClain … Continu...</a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/acluofcolorado/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t31.0-1/cp0/p50x50/21950661_1662566980443451_7358479861831904430_o.jpg?_nc_cat=103&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=4YA4u8tzOb4AX-n8fL5&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=60fba043b54410aba0996d29f217c35f&oe=6070CF7C" alt="" /></a><a href="https://www.facebook.com/acluofcolorado/">ACLU of Colorado</a><a href="https://www.facebook.com/acluofcolorado/posts/4007494942617298"></a><i></i><p>The Aurora independent investigation report confirms in stark terms what the community has long understood: Aurora police killed Elijah McClain. Mr. McClain was the innocent victim of multiple violations of longstanding law that is supposed to limit the authority of law enforcement. The family of Elijah McClain deserves justice. The community is calling for accountability. Aurora decision-makers cannot and must not ignore these calls. <a href="http://acluco.org/3qO8NX5">http://acluco.org/3qO8NX5</a></p><a href="http://acluco.org/3qO8NX5">February 23, 2021 DENVER – The following statement can be attributed to Mark Silverstein, Legal Director for ACLU of Colorado. “The Aurora independent investigation report confirms in stark terms what the community has long understood: Aurora police killed Elijah McClain. Mr. McClain … Continu...<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?w=160&h=160&url=https%3A%2F%2Facluco-wpengine.netdna-ssl.com%2Fwp-content%2Fthemes%2Fworkhorse-boilerplate%2F_images%2FACLU_Colorado_Logo.svg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher_square&_nc_cb=1&_nc_hash=AQERtioeV4j2SXmA" alt="" width="158" height="158" caption="" /></a><p>aclu-co.org</p><p>ACLU of Colorado Statement on the Aurora Independent Investigation Into Elijah McClain’s Death | ACLU of Colorado</p>February 23, 2021 DENVER – The following statement can be attributed to Mark Silverstein, Legal Director for ACLU of Colorado. “The Aurora independent investigation report confirms in stark terms what the community has long understood: Aurora police killed Elijah McClain. Mr. McClain … Continu...<a href="http://acluco.org/3qO8NX5">February 23, 2021 DENVER – The following statement can be attributed to Mark Silverstein, Legal Director for ACLU of Colorado. “The Aurora independent investigation report confirms in stark terms what the community has long understood: Aurora police killed Elijah McClain. Mr. McClain … Continu...</a>]]></content:encoded>
       <author>ACLU of Colorado</author>
       <guid>https://www.facebook.com/acluofcolorado/posts/4007494942617298</guid>
       <pubDate>Tue, 23 Feb 2021 17:52:08 -0700</pubDate>
@@ -2462,7 +2462,7 @@ Version: `dev.2020-02-26`</p>
       <title>Reyes Lopez Tijerina in Denver</title>
       <link>https://www.facebook.com/DenverXikanoproject/posts/3669572156457519</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverXikanoproject/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/c49.49.609.609a/s50x50/19214_411086845639416_1856091396_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=kUI0GR1mDIoAX9FuvgF&_nc_ht=scontent.fapa1-1.fna&tp=28&oh=44dc2f96c1da6368487f2ac80618bb71&oe=606D96D0" alt="" /></a><a href="https://www.facebook.com/DenverXikanoproject/">Denver's Chicano Movement  Legacy Project</a><a href="https://www.facebook.com/DenverXikanoproject/posts/3669572156457519"></a><i></i><p>Reyes Lopez Tijerina in Denver</p><a href="https://www.facebook.com/photo.php"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t31.0-0/r180/p526x296/10917941_750250768396917_7763576841627448166_o.jpg?_nc_cat=106&ccb=1-3&_nc_sid=43edb5&_nc_ohc=DrNSTseB6mUAX8upnX9&_nc_ht=scontent.fapa1-1.fna&_nc_tp=31&oh=8931de42034ad144fa952a955f2ca073&oe=606D174F" alt="No photo description available." width="500" height="376" caption="No photo description available." /></a><a href="https://www.facebook.com/arturobonesrodriguez">Arturo Rodriguez</a><a href="https://www.facebook.com/photo.php"></a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverXikanoproject/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/c49.49.609.609a/s50x50/19214_411086845639416_1856091396_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=kUI0GR1mDIoAX9FuvgF&_nc_ht=scontent.fapa1-1.fna&tp=28&oh=44dc2f96c1da6368487f2ac80618bb71&oe=606D96D0" alt="" /></a><a href="https://www.facebook.com/DenverXikanoproject/">Denver's Chicano Movement  Legacy Project</a><a href="https://www.facebook.com/DenverXikanoproject/posts/3669572156457519"></a><i></i><p>Reyes Lopez Tijerina in Denver</p><a href="https://www.facebook.com/photo.php"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t31.0-0/r180/p526x296/10917941_750250768396917_7763576841627448166_o.jpg?_nc_cat=106&ccb=1-3&_nc_sid=43edb5&_nc_ohc=DrNSTseB6mUAX8upnX9&_nc_ht=scontent.fapa1-1.fna&_nc_tp=31&oh=8f3820f5fdcd922be5d0766941f1c23a&oe=60710BCF" alt="No photo description available." width="500" height="376" caption="No photo description available." /></a><a href="https://www.facebook.com/arturobonesrodriguez">Arturo Rodriguez</a><a href="https://www.facebook.com/photo.php"></a>]]></content:encoded>
       <author>Denver&#39;s Chicano Movement Legacy Project</author>
       <guid>https://www.facebook.com/DenverXikanoproject/posts/3669572156457519</guid>
       <pubDate>Wed, 27 Jan 2021 14:10:05 -0700</pubDate>
@@ -2552,7 +2552,7 @@ Version: `dev.2020-02-26`</p>
       <title>Today! #J20</title>
       <link>https://www.facebook.com/denverautonomous/posts/3681389221923845</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverautonomous/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/c0.0.50.50a/p50x50/103580551_3052720338124073_9083764054879607131_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=fE_yfM7Tc5UAX-Efkga&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=1d891920cd3e972a0b83d94da876b03a&oe=606D4C60" alt="" /></a><a href="https://www.facebook.com/denverautonomous/">Denver Action Network</a><a href="https://www.facebook.com/denverautonomous/posts/3681389221923845"></a><i></i><p>Today!</p><p> <a href="https://www.facebook.com/hashtag/j20">#J20</a></p><a href="https://www.facebook.com/denverautonomous/photos/pcb.3681389221923845/3681389095257191/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/s261x260/140931619_3681389101923857_4872636833137199528_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=110474&_nc_ohc=cNC3KUh7P0YAX_8hZKe&_nc_ht=scontent.fapa1-1.fna&tp=7&oh=9c38578eb6f0fe7ac8e5579225824db3&oe=6070D64D" alt="May be a cartoon of text that says 'BLM- BLM-Antifa #J20 STOP THE FASCIST CREEP! MARCH TO THE CAPITOL TO COUNTERPROTEST THE TRUMP RALLY CHEESMAn PARK WED, JAN 20 10:30 Am'" width="250" height="250" caption="May be a cartoon of text that says 'BLM- BLM-Antifa #J20 STOP THE FASCIST CREEP! MARCH TO THE CAPITOL TO COUNTERPROTEST THE TRUMP RALLY CHEESMAn PARK WED, JAN 20 10:30 Am'" /></a><a href="https://www.facebook.com/denverautonomous/photos/pcb.3681389221923845/3681389165257184/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-0/s261x260/141038735_3681389168590517_52053528521669359_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=110474&_nc_ohc=ZXHMag01-YkAX-9sYpn&_nc_ht=scontent.fapa1-2.fna&tp=7&oh=1c9c6fe5a2f57f1b423eee916f1fe1d4&oe=606D1A77" alt="May be an image of one or more people and text that says 'COLORADO INAUGURATION MARCH Fight for Black & Indigenous Lives! Free the Kids In Cages! No Honeymoon For Biden! Jan 20th Back side of the Capitol 2pm'" width="250" height="250" caption="May be an image of one or more people and text that says 'COLORADO INAUGURATION MARCH Fight for Black & Indigenous Lives! Free the Kids In Cages! No Honeymoon For Biden! Jan 20th Back side of the Capitol 2pm'" /></a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverautonomous/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/c0.0.50.50a/p50x50/103580551_3052720338124073_9083764054879607131_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=fE_yfM7Tc5UAX-Efkga&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=1d891920cd3e972a0b83d94da876b03a&oe=606D4C60" alt="" /></a><a href="https://www.facebook.com/denverautonomous/">Denver Action Network</a><a href="https://www.facebook.com/denverautonomous/posts/3681389221923845"></a><i></i><p>Today!</p><p> <a href="https://www.facebook.com/hashtag/j20">#J20</a></p><a href="https://www.facebook.com/denverautonomous/photos/pcb.3681389221923845/3681389095257191/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/s261x260/140931619_3681389101923857_4872636833137199528_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=110474&_nc_ohc=cNC3KUh7P0YAX_8hZKe&_nc_ht=scontent.fapa1-1.fna&tp=7&oh=9c38578eb6f0fe7ac8e5579225824db3&oe=6070D64D" alt="May be a cartoon of text that says 'BLM- BLM-Antifa #J20 STOP THE FASCIST CREEP! MARCH TO THE CAPITOL TO COUNTERPROTEST THE TRUMP RALLY CHEESMAn PARK WED, JAN 20 10:30 Am'" width="250" height="250" caption="May be a cartoon of text that says 'BLM- BLM-Antifa #J20 STOP THE FASCIST CREEP! MARCH TO THE CAPITOL TO COUNTERPROTEST THE TRUMP RALLY CHEESMAn PARK WED, JAN 20 10:30 Am'" /></a><a href="https://www.facebook.com/denverautonomous/photos/pcb.3681389221923845/3681389165257184/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-0/s261x260/141038735_3681389168590517_52053528521669359_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=110474&_nc_ohc=ZXHMag01-YkAX-9sYpn&_nc_ht=scontent.fapa1-2.fna&tp=7&oh=129e42d59575929292736be860015d1e&oe=60710EF7" alt="May be an image of one or more people and text that says 'COLORADO INAUGURATION MARCH Fight for Black & Indigenous Lives! Free the Kids In Cages! No Honeymoon For Biden! Jan 20th Back side of the Capitol 2pm'" width="250" height="250" caption="May be an image of one or more people and text that says 'COLORADO INAUGURATION MARCH Fight for Black & Indigenous Lives! Free the Kids In Cages! No Honeymoon For Biden! Jan 20th Back side of the Capitol 2pm'" /></a>]]></content:encoded>
       <author>Denver Action Network</author>
       <guid>https://www.facebook.com/denverautonomous/posts/3681389221923845</guid>
       <pubDate>Wed, 20 Jan 2021 10:09:07 -0700</pubDate>
@@ -2858,7 +2858,7 @@ Version: `dev.2020-02-26`</p>
       <title>Denver&#39;s Chicano Movement  Legacy ProjectAmanda Sandoval is with Des Manzanares and 29 others.¡Que Viva La Raza! Tonight on the winter...</title>
       <link>https://www.facebook.com/DenverXikanoproject/posts/3576218262459576</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverXikanoproject/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/c49.49.609.609a/s50x50/19214_411086845639416_1856091396_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=kUI0GR1mDIoAX9FuvgF&_nc_ht=scontent.fapa1-1.fna&tp=28&oh=44dc2f96c1da6368487f2ac80618bb71&oe=606D96D0" alt="" /></a><a href="https://www.facebook.com/DenverXikanoproject/">Denver's Chicano Movement  Legacy Project</a><a href="https://www.facebook.com/DenverXikanoproject/posts/3576218262459576"></a><i></i><a href="https://www.facebook.com/photo.php"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/p180x540/132176001_10224216448427184_5804779392178991068_o.jpg?_nc_cat=111&ccb=1-3&_nc_sid=110474&_nc_ohc=Gp5Hf6VB9_sAX_GQri9&_nc_ht=scontent.fapa1-1.fna&tp=6&oh=46dcb48b77229334b64d101a70f744c2&oe=606D18A2" alt="No photo description available." width="509" height="540" caption="No photo description available." /></a>Amanda Sandoval is with <a title="Des Manzanares" href="https://www.facebook.com/des.manzanares">Des Manzanares</a> and <a href="https://www.facebook.com">29 others</a>.<a href="https://www.facebook.com/photo.php"></a><p>¡Que Viva La Raza! Tonight on the winter solstice City Council voted unanimously to change the name of C*lumbus Park to La Raza. I’m so proud of our community! ...</p><p> I am standing on the shoulders of the ones who came before me, I am honored by their passion for our liberty I will stand a little taller, I will work a little longer. And my shoulders will be there to hold the ones who follow me.</p> <a href="https://www.facebook.com">See More</a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverXikanoproject/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/c49.49.609.609a/s50x50/19214_411086845639416_1856091396_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=kUI0GR1mDIoAX9FuvgF&_nc_ht=scontent.fapa1-1.fna&tp=28&oh=44dc2f96c1da6368487f2ac80618bb71&oe=606D96D0" alt="" /></a><a href="https://www.facebook.com/DenverXikanoproject/">Denver's Chicano Movement  Legacy Project</a><a href="https://www.facebook.com/DenverXikanoproject/posts/3576218262459576"></a><i></i><a href="https://www.facebook.com/photo.php"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/p180x540/132176001_10224216448427184_5804779392178991068_o.jpg?_nc_cat=111&ccb=1-3&_nc_sid=110474&_nc_ohc=Gp5Hf6VB9_sAX_GQri9&_nc_ht=scontent.fapa1-1.fna&tp=6&oh=0a609a27d016f7784a51c37ff570a84a&oe=60710D22" alt="No photo description available." width="509" height="540" caption="No photo description available." /></a>Amanda Sandoval is with <a title="Des Manzanares" href="https://www.facebook.com/des.manzanares">Des Manzanares</a> and <a href="https://www.facebook.com">29 others</a>.<a href="https://www.facebook.com/photo.php"></a><p>¡Que Viva La Raza! Tonight on the winter solstice City Council voted unanimously to change the name of C*lumbus Park to La Raza. I’m so proud of our community! ...</p><p> I am standing on the shoulders of the ones who came before me, I am honored by their passion for our liberty I will stand a little taller, I will work a little longer. And my shoulders will be there to hold the ones who follow me.</p> <a href="https://www.facebook.com">See More</a>]]></content:encoded>
       <author>Denver&#39;s Chicano Movement Legacy Project</author>
       <guid>https://www.facebook.com/DenverXikanoproject/posts/3576218262459576</guid>
       <pubDate>Mon, 21 Dec 2020 20:55:16 -0700</pubDate>
@@ -2930,7 +2930,7 @@ Version: `dev.2020-02-26`</p>
       <title>Ten years after the Dream Act failed in the Senate on December...</title>
       <link>https://www.facebook.com/cofamiliatqlm/posts/3110936112341572</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/cofamiliatqlm/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/120090361_2886619768106542_2204607326271869280_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=nPTDx8KQUeMAX97sSNB&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=2c89a2566b886db656678b41c01691f5&oe=606DF9E5" alt="" /></a><a href="https://www.facebook.com/cofamiliatqlm/">Colorado - Familia: Trans Queer Liberation Movement</a><a href="https://www.facebook.com/cofamiliatqlm/posts/3110936112341572"></a><i></i><p>Ten years after the Dream Act failed in the Senate on December 18, 2010, join us for a virtual panel conversation with immigrant rights organizers and leaders as they share their reflections and, as we enter 2021, ask whether national leaders have learned the lessons of past failures.</p><p> Speakers:<br /> - Erika Andiola<br /> - Jorge Gutierrez...<br /> - Lizbeth Mateo<br /> - Neidi Dominguez</p><p> Live streaming on these FB pages: <br /> - <a href="https://www.facebook.com/Familiatqlm/">https://www.facebook.com/Familiatqlm</a><br /> - <a href="https://www.facebook.com/ImmJusticeNetwork/">https://www.facebook.com/ImmJusticeNetwork</a><br /> - <a href="https://www.facebook.com/raicestexas/">https://www.facebook.com/raicestexas</a><br /> - <a href="https://www.facebook.com/NeverAgainAction/">https://www.facebook.com/NeverAgainAction</a></p><p> <a href="https://fb.me/e/484ma4Tgu">https://fb.me/e/484ma4Tgu</a></p> <a href="https://www.facebook.com/cofamiliatqlm/posts/3110936112341572">See More</a><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-9/s720x720/131130725_2403863736426402_3626002926079957791_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=b386c4&_nc_ohc=7H2hMy4ths8AX82pEKZ&_nc_oc=AQmbHPj0LowdQyrXlAMZDdcwQktlW-R1oqTVVYjdLRK8ZSEuoPqLfVn93mtg_EMdxEE&_nc_ht=scontent.fapa1-1.fna&tp=7&oh=3a36f1082a52be0fd9a54de8a845b889&oe=606D1D4A" alt="Familia: Trans Queer Liberation Movement's photo." width="500" height="708" caption="Familia: Trans Queer Liberation Movement's photo." /><a href="https://www.facebook.com/events/4818311514909210/"></a><p>THU, DEC 17, 2020</p><p>Post the Dream Act...A DECADE LATER</p>Online Event<i></i>54 people interested]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/cofamiliatqlm/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/120090361_2886619768106542_2204607326271869280_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=nPTDx8KQUeMAX97sSNB&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=2c89a2566b886db656678b41c01691f5&oe=606DF9E5" alt="" /></a><a href="https://www.facebook.com/cofamiliatqlm/">Colorado - Familia: Trans Queer Liberation Movement</a><a href="https://www.facebook.com/cofamiliatqlm/posts/3110936112341572"></a><i></i><p>Ten years after the Dream Act failed in the Senate on December 18, 2010, join us for a virtual panel conversation with immigrant rights organizers and leaders as they share their reflections and, as we enter 2021, ask whether national leaders have learned the lessons of past failures.</p><p> Speakers:<br /> - Erika Andiola<br /> - Jorge Gutierrez...<br /> - Lizbeth Mateo<br /> - Neidi Dominguez</p><p> Live streaming on these FB pages: <br /> - <a href="https://www.facebook.com/Familiatqlm/">https://www.facebook.com/Familiatqlm</a><br /> - <a href="https://www.facebook.com/ImmJusticeNetwork/">https://www.facebook.com/ImmJusticeNetwork</a><br /> - <a href="https://www.facebook.com/raicestexas/">https://www.facebook.com/raicestexas</a><br /> - <a href="https://www.facebook.com/NeverAgainAction/">https://www.facebook.com/NeverAgainAction</a></p><p> <a href="https://fb.me/e/484ma4Tgu">https://fb.me/e/484ma4Tgu</a></p> <a href="https://www.facebook.com/cofamiliatqlm/posts/3110936112341572">See More</a><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-9/s720x720/131130725_2403863736426402_3626002926079957791_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=b386c4&_nc_ohc=7H2hMy4ths8AX82pEKZ&_nc_oc=AQmbHPj0LowdQyrXlAMZDdcwQktlW-R1oqTVVYjdLRK8ZSEuoPqLfVn93mtg_EMdxEE&_nc_ht=scontent.fapa1-1.fna&tp=7&oh=30fccddda63e2e30692138f54a2fd377&oe=607111CA" alt="Familia: Trans Queer Liberation Movement's photo." width="500" height="708" caption="Familia: Trans Queer Liberation Movement's photo." /><a href="https://www.facebook.com/events/4818311514909210/"></a><p>THU, DEC 17, 2020</p><p>Post the Dream Act...A DECADE LATER</p>Online Event<i></i>54 people interested]]></content:encoded>
       <author>Colorado - Familia</author>
       <guid>https://www.facebook.com/cofamiliatqlm/posts/3110936112341572</guid>
       <pubDate>Wed, 16 Dec 2020 15:53:02 -0700</pubDate>
@@ -2966,7 +2966,7 @@ Version: `dev.2020-02-26`</p>
       <title>World Peace Council December 8, 2020</title>
       <link>https://www.facebook.com/1039700329877369</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/17553958_178342902679787_5748199256766769398_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=ScTIs74Q5_MAX9vJxDC&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=21ec60e6f678a33d365f604490bd9a82&oe=6070E974" alt="" /></a><a href="https://www.facebook.com/Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015/">Denver Peace Council - Affiliate of US Peace Council</a><a href="https://www.facebook.com/permalink.php"></a><i></i><p>World Peace Council<br /> December 8, 2020</p><a href="http://wpc-in.org/statements/statement-wpc-delegation-venezuela-occasion-serving-international-observers-venezuelan">Statement of the WPC Delegation to Venezuela on the Occasion of Serving as International Observers for Venezuelan Parliamentary Elections Tuesday, December 8, 2020StatementsDecember 6, 2020 Upon the invitation of the National Elections Council of Venezuela (CNE), a World Peace Council (WPC) delegati...<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?w=160&h=160&url=http%3A%2F%2Fwww.wpc-in.org%2Fsites%2Fdefault%2Ffiles%2Fwpc-logo.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher_square&_nc_cb=1&_nc_hash=AQHA85viYlzU3dDU" alt="" width="158" height="158" caption="" /></a><p>wpc-in.org</p><p>Statement of the WPC Delegation to Venezuela on the Occasion of Serving as International Observers for Venezuelan Parliamentary Elections | World Peace Council</p>Statement of the WPC Delegation to Venezuela on the Occasion of Serving as International Observers for Venezuelan Parliamentary Elections Tuesday, December 8, 2020StatementsDecember 6, 2020 Upon the invitation of the National Elections Council of Venezuela (CNE), a World Peace Council (WPC) delegati...<a href="http://wpc-in.org/statements/statement-wpc-delegation-venezuela-occasion-serving-international-observers-venezuelan">Statement of the WPC Delegation to Venezuela on the Occasion of Serving as International Observers for Venezuelan Parliamentary Elections Tuesday, December 8, 2020StatementsDecember 6, 2020 Upon the invitation of the National Elections Council of Venezuela (CNE), a World Peace Council (WPC) delegati...</a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/17553958_178342902679787_5748199256766769398_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=ScTIs74Q5_MAX9vJxDC&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=21ec60e6f678a33d365f604490bd9a82&oe=6070E974" alt="" /></a><a href="https://www.facebook.com/Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015/">Denver Peace Council - Affiliate of US Peace Council</a><a href="https://www.facebook.com/permalink.php"></a><i></i><p>World Peace Council<br /> December 8, 2020</p><a href="http://wpc-in.org/statements/statement-wpc-delegation-venezuela-occasion-serving-international-observers-venezuelan">Statement of the WPC Delegation to Venezuela on the Occasion of Serving as International Observers for Venezuelan Parliamentary Elections Tuesday, December 8, 2020StatementsDecember 6, 2020 Upon the invitation of the National Elections Council of Venezuela (CNE), a World Peace Council (WPC) delegati...<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQGWU6JArApVG8a7&w=160&h=160&url=http%3A%2F%2Fwww.wpc-in.org%2Fsites%2Fdefault%2Ffiles%2Fwpc-logo.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher_square&_nc_cb=1&_nc_hash=AQFB9S75quPxpbT4" alt="" width="158" height="158" caption="" /></a><p>wpc-in.org</p><p>Statement of the WPC Delegation to Venezuela on the Occasion of Serving as International Observers for Venezuelan Parliamentary Elections | World Peace Council</p>Statement of the WPC Delegation to Venezuela on the Occasion of Serving as International Observers for Venezuelan Parliamentary Elections Tuesday, December 8, 2020StatementsDecember 6, 2020 Upon the invitation of the National Elections Council of Venezuela (CNE), a World Peace Council (WPC) delegati...<a href="http://wpc-in.org/statements/statement-wpc-delegation-venezuela-occasion-serving-international-observers-venezuelan">Statement of the WPC Delegation to Venezuela on the Occasion of Serving as International Observers for Venezuelan Parliamentary Elections Tuesday, December 8, 2020StatementsDecember 6, 2020 Upon the invitation of the National Elections Council of Venezuela (CNE), a World Peace Council (WPC) delegati...</a>]]></content:encoded>
       <author>Denver Peace Council</author>
       <guid>https://www.facebook.com/1039700329877369</guid>
       <pubDate>Wed, 09 Dec 2020 06:30:35 -0700</pubDate>
@@ -2975,7 +2975,7 @@ Version: `dev.2020-02-26`</p>
       <title>COMING SOON: Save your coins to buy from the tiendita...</title>
       <link>https://www.facebook.com/cofamiliatqlm/posts/3092527787515738</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/cofamiliatqlm/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/120090361_2886619768106542_2204607326271869280_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=nPTDx8KQUeMAX97sSNB&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=2c89a2566b886db656678b41c01691f5&oe=606DF9E5" alt="" /></a><a href="https://www.facebook.com/cofamiliatqlm/">Colorado - Familia: Trans Queer Liberation Movement</a><a href="https://www.facebook.com/cofamiliatqlm/posts/3092527787515738"></a><i></i><p>COMING SOON: Save your coins to buy from the tiendita <a href="http://compacuir.com/">compacuir.com</a> as the ‘mi existir es resistir’ merch returns December 10th! </p><p> <a href="https://www.facebook.com/hashtag/compracuir">#CompraCuir</a></p><a href="https://www.facebook.com/Familiatqlm/photos/a.436890239790438/2396000247212751/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-0/p526x296/130006741_2396000250546084_8214849761844326898_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=110474&_nc_ohc=5ZfZEhxIYSwAX8DiwCC&_nc_ht=scontent.fapa1-2.fna&tp=6&oh=69f22f9d17588e45128181e3ac09e5bb&oe=606D1833" alt="May be a cartoon of 4 people, hair and text that says 'f &#064;FamiliaTQLM Save your coins to buy from the tiendita as the 'mi existir es resistir' merch returns December 10th! Familia TQLM COMPRACUIR.COM Black&Brong Over ofit AboLis ICE'" width="500" height="500" caption="May be a cartoon of 4 people, hair and text that says 'f &#064;FamiliaTQLM Save your coins to buy from the tiendita as the 'mi existir es resistir' merch returns December 10th! Familia TQLM COMPRACUIR.COM Black&Brong Over ofit AboLis ICE'" /></a><a href="https://www.facebook.com/Familiatqlm/">Familia: Trans Queer Liberation Movement</a><a href="https://www.facebook.com/Familiatqlm/photos/a.436890239790438/2396000247212751/"></a><p>COMING SOON: Save your coins to buy from the tiendita <a href="http://compacuir.com/">compacuir.com</a> as the ‘mi existir es resistir’ merch returns December 10th! </p><p> <a href="https://www.facebook.com/hashtag/compracuir">#CompraCuir</a></p>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/cofamiliatqlm/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/120090361_2886619768106542_2204607326271869280_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=nPTDx8KQUeMAX97sSNB&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=2c89a2566b886db656678b41c01691f5&oe=606DF9E5" alt="" /></a><a href="https://www.facebook.com/cofamiliatqlm/">Colorado - Familia: Trans Queer Liberation Movement</a><a href="https://www.facebook.com/cofamiliatqlm/posts/3092527787515738"></a><i></i><p>COMING SOON: Save your coins to buy from the tiendita <a href="http://compacuir.com/">compacuir.com</a> as the ‘mi existir es resistir’ merch returns December 10th! </p><p> <a href="https://www.facebook.com/hashtag/compracuir">#CompraCuir</a></p><a href="https://www.facebook.com/Familiatqlm/photos/a.436890239790438/2396000247212751/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-0/p526x296/130006741_2396000250546084_8214849761844326898_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=110474&_nc_ohc=5ZfZEhxIYSwAX8DiwCC&_nc_ht=scontent.fapa1-2.fna&tp=6&oh=6d70e12d97202ae09e829d66205995ed&oe=60710CB3" alt="May be a cartoon of 4 people, hair and text that says 'f &#064;FamiliaTQLM Save your coins to buy from the tiendita as the 'mi existir es resistir' merch returns December 10th! Familia TQLM COMPRACUIR.COM Black&Brong Over ofit AboLis ICE'" width="500" height="500" caption="May be a cartoon of 4 people, hair and text that says 'f &#064;FamiliaTQLM Save your coins to buy from the tiendita as the 'mi existir es resistir' merch returns December 10th! Familia TQLM COMPRACUIR.COM Black&Brong Over ofit AboLis ICE'" /></a><a href="https://www.facebook.com/Familiatqlm/">Familia: Trans Queer Liberation Movement</a><a href="https://www.facebook.com/Familiatqlm/photos/a.436890239790438/2396000247212751/"></a><p>COMING SOON: Save your coins to buy from the tiendita <a href="http://compacuir.com/">compacuir.com</a> as the ‘mi existir es resistir’ merch returns December 10th! </p><p> <a href="https://www.facebook.com/hashtag/compracuir">#CompraCuir</a></p>]]></content:encoded>
       <author>Colorado - Familia</author>
       <guid>https://www.facebook.com/cofamiliatqlm/posts/3092527787515738</guid>
       <pubDate>Tue, 08 Dec 2020 21:35:36 -0700</pubDate>
@@ -3182,7 +3182,7 @@ Version: `dev.2020-02-26`</p>
       <title>Denver Peace Council - Affiliate of US Peace CouncilA discussion with Venezuelan peace organizations on the upcoming legislative elections...</title>
       <link>https://www.facebook.com/1019400875240648</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/17553958_178342902679787_5748199256766769398_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=ScTIs74Q5_MAX9vJxDC&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=21ec60e6f678a33d365f604490bd9a82&oe=6070E974" alt="" /></a><a href="https://www.facebook.com/Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015/">Denver Peace Council - Affiliate of US Peace Council</a><a href="https://www.facebook.com/permalink.php"></a><i></i><a href="https://uspeacecouncil.org/international-zoom-webinar-defending-venezuelan-elections-against-u-s-intervention/">A discussion with Venezuelan peace organizations on the upcoming legislative elections in Venezuela and how peace forces around the world can help protect the people's right to vote in the face of U.S. blockade and intervention.<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQH64ihVajN-h7d_&w=540&h=282&url=https%3A%2F%2Fuspeacecouncil.org%2Fwp-content%2Fuploads%2F2020%2F11%2FElections-1.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&_nc_hash=AQHLY3kfDQ9inPTf" alt="" width="500" height="262" caption="" /></a><p>uspeacecouncil.org</p><p>International Zoom Webinar: Defending Venezuelan Elections Against U.S. Intervention – U.S. Peace Council</p>A discussion with Venezuelan peace organizations on the upcoming legislative elections in Venezuela and how peace forces around the world can help protect the people's right to vote in the face of U.S. blockade and intervention.<a href="https://uspeacecouncil.org/international-zoom-webinar-defending-venezuelan-elections-against-u-s-intervention/">A discussion with Venezuelan peace organizations on the upcoming legislative elections in Venezuela and how peace forces around the world can help protect the people's right to vote in the face of U.S. blockade and intervention.</a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/17553958_178342902679787_5748199256766769398_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=ScTIs74Q5_MAX9vJxDC&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=21ec60e6f678a33d365f604490bd9a82&oe=6070E974" alt="" /></a><a href="https://www.facebook.com/Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015/">Denver Peace Council - Affiliate of US Peace Council</a><a href="https://www.facebook.com/permalink.php"></a><i></i><a href="https://uspeacecouncil.org/international-zoom-webinar-defending-venezuelan-elections-against-u-s-intervention/">A discussion with Venezuelan peace organizations on the upcoming legislative elections in Venezuela and how peace forces around the world can help protect the people's right to vote in the face of U.S. blockade and intervention.<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?w=540&h=282&url=https%3A%2F%2Fuspeacecouncil.org%2Fwp-content%2Fuploads%2F2020%2F11%2FElections-1.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&_nc_hash=AQGJ_ZvHXfyKF5h9" alt="" width="500" height="262" caption="" /></a><p>uspeacecouncil.org</p><p>International Zoom Webinar: Defending Venezuelan Elections Against U.S. Intervention – U.S. Peace Council</p>A discussion with Venezuelan peace organizations on the upcoming legislative elections in Venezuela and how peace forces around the world can help protect the people's right to vote in the face of U.S. blockade and intervention.<a href="https://uspeacecouncil.org/international-zoom-webinar-defending-venezuelan-elections-against-u-s-intervention/">A discussion with Venezuelan peace organizations on the upcoming legislative elections in Venezuela and how peace forces around the world can help protect the people's right to vote in the face of U.S. blockade and intervention.</a>]]></content:encoded>
       <author>Denver Peace Council</author>
       <guid>https://www.facebook.com/1019400875240648</guid>
       <pubDate>Thu, 12 Nov 2020 07:17:38 -0700</pubDate>
@@ -3290,7 +3290,7 @@ Version: `dev.2020-02-26`</p>
       <title>Big thanks to everyone who came out last night and supported the...</title>
       <link>https://www.facebook.com/DenverJusticeProject/posts/3481844851869879</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverJusticeProject/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/c19.0.50.50a/p50x50/52595415_2187642837956760_2079880141206454272_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=prIRLvugIH4AX_G1zwK&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=f064d48b4fd3c03efa99ee7ebc745b41&oe=606E2D63" alt="" /></a><a href="https://www.facebook.com/DenverJusticeProject/">Denver Justice Project</a><a href="https://www.facebook.com/DenverJusticeProject/posts/3481844851869879"></a><i></i><p>Big thanks to everyone who came out last night and supported the Business Empowerment Network.</p><p> There are significant racial disparities in who has access to financial education, resources, and opportunities. Racial justice seems difficult to ￼achieve ￼without some level equity.  Equity in ourselves, equity in our communities, an equity in our opportunities. This is part of the reason Denver Justice Project has collaborated with the Business Empowerment Network. Keep watch for more powerful community opportunities to get involved.￼ ￼￼￼</p><a href="https://youtu.be/7N8BYr7AvyU"><img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQHBacKJ8D00bGux&w=540&h=282&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F7N8BYr7AvyU%2Fhqdefault.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&_nc_hash=AQGMZRkVgrPBWcUb" alt="" width="500" height="262" caption="" /></a><p>youtube.com</p><p>An evening with (B.E.N.) Business Empowerment Network</p><a href="https://youtu.be/7N8BYr7AvyU"></a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverJusticeProject/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/c19.0.50.50a/p50x50/52595415_2187642837956760_2079880141206454272_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=prIRLvugIH4AX_G1zwK&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=f064d48b4fd3c03efa99ee7ebc745b41&oe=606E2D63" alt="" /></a><a href="https://www.facebook.com/DenverJusticeProject/">Denver Justice Project</a><a href="https://www.facebook.com/DenverJusticeProject/posts/3481844851869879"></a><i></i><p>Big thanks to everyone who came out last night and supported the Business Empowerment Network.</p><p> There are significant racial disparities in who has access to financial education, resources, and opportunities. Racial justice seems difficult to ￼achieve ￼without some level equity.  Equity in ourselves, equity in our communities, an equity in our opportunities. This is part of the reason Denver Justice Project has collaborated with the Business Empowerment Network. Keep watch for more powerful community opportunities to get involved.￼ ￼￼￼</p><a href="https://youtu.be/7N8BYr7AvyU"><img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?w=540&h=282&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F7N8BYr7AvyU%2Fhqdefault.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&_nc_hash=AQEA0dwAH15xvUWg" alt="" width="500" height="262" caption="" /></a><p>youtube.com</p><p>An evening with (B.E.N.) Business Empowerment Network</p><a href="https://youtu.be/7N8BYr7AvyU"></a>]]></content:encoded>
       <author>Denver Justice Project</author>
       <guid>https://www.facebook.com/DenverJusticeProject/posts/3481844851869879</guid>
       <pubDate>Wed, 14 Oct 2020 10:58:33 -0600</pubDate>
@@ -3335,7 +3335,7 @@ Version: `dev.2020-02-26`</p>
       <title>🚨 TODAY:  Join Coloradans as we refuse to partner with...</title>
       <link>https://www.facebook.com/cofamiliatqlm/posts/2886618424773343</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/cofamiliatqlm/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/120090361_2886619768106542_2204607326271869280_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=nPTDx8KQUeMAX97sSNB&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=2c89a2566b886db656678b41c01691f5&oe=606DF9E5" alt="" /></a><a href="https://www.facebook.com/cofamiliatqlm/">Colorado - Familia: Trans Queer Liberation Movement</a><a href="https://www.facebook.com/cofamiliatqlm/posts/2886618424773343"></a><i></i><p>🚨 TODAY: </p><p> Join Coloradans as we refuse to partner with Palantir by giving them a hearty unwelcome! </p><p> The company, Palantir Technologies, is ICE’s technology backbone, providing the digital infrastructure to surveil, detain and deport immigrants. Palantir’s tools have been used to conduct mass workplace raids, including the biggest raid in US history in which 680 people were detained in Mississippi. Palantir moved its headquarters to Colorado this month. Let's show them that th...ey are not welcome in our city and state! We will not let Palantir profile our people and separate our families. </p><p> Meet outside 1555 Blake Street at 4pm for a socially distant "Unwelcome Party"! MASKS REQUIRED! And Sign this petition to pledge your resistance to Palantir and ICE: <a href="https://actionnetwork.org/petitions/palantir-out-of-colorado-palantir-fuera-de-colorado/">https://actionnetwork.org/…/palantir-out-of-colorado-palan…/</a></p> <a href="https://www.facebook.com/cofamiliatqlm/posts/2886618424773343">See More</a><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-0/p526x296/119564466_10157333259310143_865111205691666305_o.jpg?_nc_cat=109&ccb=1-3&_nc_sid=b386c4&_nc_ohc=85Y4nrcxETkAX8_9DvY&_nc_ht=scontent.fapa1-2.fna&tp=6&oh=a48d36bb1e717c541b18ede5d7bb981a&oe=6070CD72" alt="Colorado Immigrant Rights Coalition - CIRC's photo." width="500" height="282" caption="Colorado Immigrant Rights Coalition - CIRC's photo." /><a href="https://www.facebook.com/events/668864717052618/"></a><p>TUE, SEP 22, 2020</p><p>Unwelcome Party for Palantir</p>1555 Blake St, Denver, CO 80202-1321, United States<i></i><a href="https://www.facebook.com/events/discovery/">Causes</a> · 432 people]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/cofamiliatqlm/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/120090361_2886619768106542_2204607326271869280_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=nPTDx8KQUeMAX97sSNB&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=2c89a2566b886db656678b41c01691f5&oe=606DF9E5" alt="" /></a><a href="https://www.facebook.com/cofamiliatqlm/">Colorado - Familia: Trans Queer Liberation Movement</a><a href="https://www.facebook.com/cofamiliatqlm/posts/2886618424773343"></a><i></i><p>🚨 TODAY: </p><p> Join Coloradans as we refuse to partner with Palantir by giving them a hearty unwelcome! </p><p> The company, Palantir Technologies, is ICE’s technology backbone, providing the digital infrastructure to surveil, detain and deport immigrants. Palantir’s tools have been used to conduct mass workplace raids, including the biggest raid in US history in which 680 people were detained in Mississippi. Palantir moved its headquarters to Colorado this month. Let's show them that th...ey are not welcome in our city and state! We will not let Palantir profile our people and separate our families. </p><p> Meet outside 1555 Blake Street at 4pm for a socially distant "Unwelcome Party"! MASKS REQUIRED! And Sign this petition to pledge your resistance to Palantir and ICE: <a href="https://actionnetwork.org/petitions/palantir-out-of-colorado-palantir-fuera-de-colorado/">https://actionnetwork.org/…/palantir-out-of-colorado-palan…/</a></p> <a href="https://www.facebook.com/cofamiliatqlm/posts/2886618424773343">See More</a><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-0/p526x296/119564466_10157333259310143_865111205691666305_o.jpg?_nc_cat=109&ccb=1-3&_nc_sid=b386c4&_nc_ohc=vRBBFP-_JEoAX9KiphM&_nc_ht=scontent.fapa1-2.fna&tp=6&oh=5017950c48a4636bbcee24f731668c36&oe=6070CD72" alt="Colorado Immigrant Rights Coalition - CIRC's photo." width="500" height="282" caption="Colorado Immigrant Rights Coalition - CIRC's photo." /><a href="https://www.facebook.com/events/668864717052618/"></a><p>TUE, SEP 22, 2020</p><p>Unwelcome Party for Palantir</p>1555 Blake St, Denver, CO 80202-1321, United States<i></i><a href="https://www.facebook.com/events/discovery/">Causes</a> · 432 people]]></content:encoded>
       <author>Colorado - Familia</author>
       <guid>https://www.facebook.com/cofamiliatqlm/posts/2886618424773343</guid>
       <pubDate>Tue, 22 Sep 2020 09:47:48 -0600</pubDate>
