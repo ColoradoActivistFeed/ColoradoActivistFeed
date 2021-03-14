@@ -4,36 +4,7 @@
     <link>http://www.blacklivesmatter5280.com/</link>
     <description>Posts from Black Lives Matter 5280</description>
     <managingEditor> (Black Lives Matter 5280)</managingEditor>
-    <pubDate>Sun, 14 Mar 2021 11:00:09 -0600</pubDate>
-    <item>
-      <title>Bridge returned error 500! (18700)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>blm5280 - Instagram Bridge</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `Unable to find username in search result.`<br />
-Query string: `action=display&bridge=Instagram&context=Username&u=blm5280&media_type=all&direct_links=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pauder</p>
-</section>]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>urn:sha1:2bdf3ec46207510a5a6e6695dcf83fc18ed5648f</guid>
-      <pubDate>Sun, 14 Mar 2021 11:00:11 -0600</pubDate>
-    </item>
+    <pubDate>Sun, 14 Mar 2021 12:00:25 -0600</pubDate>
     <item>
       <title>Bridge returned error 400! (18700)</title>
       <link></link>
@@ -64,7 +35,54 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Black Lives Matter 5280</author>
       <guid>urn:sha1:abde109fcdbac29272da7c924f4b6e1fc1a5f7c0</guid>
-      <pubDate>Sun, 14 Mar 2021 11:00:11 -0600</pubDate>
+      <pubDate>Sun, 14 Mar 2021 12:00:27 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18700)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>blm5280 - Instagram Bridge</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Unable to find username in search result.`<br />
+Query string: `action=display&bridge=Instagram&context=Username&u=blm5280&media_type=all&direct_links=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pauder</p>
+</section>]]></content:encoded>
+      <author>Black Lives Matter 5280</author>
+      <guid>urn:sha1:2bdf3ec46207510a5a6e6695dcf83fc18ed5648f</guid>
+      <pubDate>Sun, 14 Mar 2021 12:00:26 -0600</pubDate>
+    </item>
+    <item>
+      <title>“This work is a full-time job,” Brown said. “It doesn’t...</title>
+      <link>https://www.facebook.com/BlackLivesMatter5280/posts/2813191728998042</link>
+      <description></description>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/BlackLivesMatter5280/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.0-1/cp0/p50x50/17814374_1783309405319618_6184875403618170148_o.jpg?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=8E8mReWXuOAAX8nCAlI&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=94aee69d86aeac22a7f3736353acd950&oe=60727762" alt="" /></a><a href="https://www.facebook.com/BlackLivesMatter5280/">Black Lives Matter 5280<a href="https://www.facebook.com/BlackLivesMatter5280/"></a></a><a href="https://www.facebook.com/BlackLivesMatter5280/posts/2813191728998042"></a><i></i><p>“This work is a full-time job,” Brown said. “It doesn’t make headlines and it’s not glamorous. But it’s the stuff that will build community long term. Places to find employment, places to find resources, places to feel safe.” </p><p> <a href="https://www.msmayhem.com/how-blm-5280-became-more-than-hashtag/">https://www.msmayhem.com/how-blm-5280-became-more-than-has…/</a></p><a href="https://www.msmayhem.com/how-blm-5280-became-more-than-hashtag/">With the help of co-founder Amy E. Brown, Black Lives Matter 5280 is far more than just a hashtag. They're building long-term community.<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQEC8Ma3OfzOWkUu&w=540&h=282&url=https%3A%2F%2Fwww.msmayhem.com%2Fwp-content%2Fuploads%2F2021%2F03%2FUntitled_Artwork.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&_nc_hash=AQHZfxm7runNWxS2" alt="" width="500" height="262" caption="" /></a><p>msmayhem.com</p><p>How BLM 5280 became more than just a hashtag - Ms. Mayhem</p>With the help of co-founder Amy E. Brown, Black Lives Matter 5280 is far more than just a hashtag. They're building long-term community.<a href="https://www.msmayhem.com/how-blm-5280-became-more-than-hashtag/">With the help of co-founder Amy E. Brown, Black Lives Matter 5280 is far more than just a hashtag. They're building long-term community.</a>]]></content:encoded>
+      <author>Black Lives Matter 5280</author>
+      <guid>https://www.facebook.com/BlackLivesMatter5280/posts/2813191728998042</guid>
+      <pubDate>Sun, 14 Mar 2021 11:22:05 -0600</pubDate>
+    </item>
+    <item>
+      <title>Get into this all-day virtual healing space!...</title>
+      <link>https://www.facebook.com/BlackLivesMatter5280/posts/2813189855664896</link>
+      <description></description>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/BlackLivesMatter5280/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.0-1/cp0/p50x50/17814374_1783309405319618_6184875403618170148_o.jpg?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=8E8mReWXuOAAX8nCAlI&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=94aee69d86aeac22a7f3736353acd950&oe=60727762" alt="" /></a><a href="https://www.facebook.com/BlackLivesMatter5280/">Black Lives Matter 5280<a href="https://www.facebook.com/BlackLivesMatter5280/"></a></a><a href="https://www.facebook.com/BlackLivesMatter5280/posts/2813189855664896"></a><i></i><p>Get into this all-day virtual healing space!<br /> <a href="https://www.facebook.com/hashtag/blackhealingisrevolutionary">#BlackHealingIsRevolutionary</a></p><a href="https://www.facebook.com/blacklivesmatterlouisville/photos/a.2078910892390814/2884866371795258/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-0/p180x540/160850617_2884866375128591_1031471085285460777_o.jpg?_nc_cat=104&ccb=1-3&_nc_sid=9e2e56&_nc_ohc=_2NQnQ3PqIEAX8QRr-k&_nc_ht=scontent.fapa1-2.fna&tp=6&oh=cdea98aaeee23cb24c515834bf318072&oe=60744863" alt="May be an image of text that says 'BL CK LO VE DAY ADAYHEING HILL BITCH FREE HARRIETS GET TRYNA WE SUNDAY MARCH 14TH 9AM- 9PM'" width="500" height="522" caption="May be an image of text that says 'BL CK LO VE DAY ADAYHEING HILL BITCH FREE HARRIETS GET TRYNA WE SUNDAY MARCH 14TH 9AM- 9PM'" /></a><a href="https://www.facebook.com/blacklivesmatterlouisville/">Black Lives Matter Louisville<a href="https://www.facebook.com/blacklivesmatterlouisville/"></a></a> is in <a href="https://www.facebook.com/pages/Louisville-Kentucky/104006346303593">Louisville, Kentucky</a>.<a href="https://www.facebook.com/blacklivesmatterlouisville/photos/a.2078910892390814/2884866371795258/"></a><p>TA-DAY!!! ALL DAY TODAY IS A DOCUS ON HEALING! </p><p> We've gathered practitioners and therapists of all backgrounds to discuss how Black women and femmes questions f...or healing is a must. </p><p> Learn to practice healing techniques. </p><p> Watch on Facebook, YouTube and Twitter.</p><p> Donate here: <a href="https://bit.ly/BlackFemmeHealingFund">bit.ly/BlackFemmeHealingFund</a></p> <a href="https://www.facebook.com">See More</a>]]></content:encoded>
+      <author>Black Lives Matter 5280</author>
+      <guid>https://www.facebook.com/BlackLivesMatter5280/posts/2813189855664896</guid>
+      <pubDate>Sun, 14 Mar 2021 11:19:00 -0600</pubDate>
     </item>
     <item>
       <title>Good morning beautiful people! #BlackIsBeautiful  📷:...</title>
@@ -209,24 +227,6 @@ Version: `dev.2020-02-26`</p>
       <author>Black Lives Matter 5280</author>
       <guid>https://www.facebook.com/BlackLivesMatter5280/posts/2809437576040124</guid>
       <pubDate>Tue, 09 Mar 2021 11:05:05 -0700</pubDate>
-    </item>
-    <item>
-      <title>Good morning beautiful people! #BlackIsBeautiful  📷:...</title>
-      <link>https://www.facebook.com/BlackLivesMatter5280/photos/a.1439923922991503/2809375909379624/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/BlackLivesMatter5280/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.0-1/cp0/p50x50/17814374_1783309405319618_6184875403618170148_o.jpg?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=8E8mReWXuOAAX8nCAlI&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=94aee69d86aeac22a7f3736353acd950&oe=60727762" alt="" /></a><a href="https://www.facebook.com/BlackLivesMatter5280/">Black Lives Matter 5280<a href="https://www.facebook.com/BlackLivesMatter5280/"></a></a><a href="https://www.facebook.com/BlackLivesMatter5280/photos/a.1439923922991503/2809375909379624/"></a><i></i><p>Good morning beautiful people! <a href="https://www.facebook.com/hashtag/blackisbeautiful">#BlackIsBeautiful</a> <br /> 📷: &#064;stacey_jayyy</p><a href="https://www.facebook.com/BlackLivesMatter5280/photos/a.1439923922991503/2809375909379624/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/p235x350/158954436_2809375912712957_3078791784039862260_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=110474&_nc_ohc=W05YVk_yStEAX9LJ__y&_nc_ht=scontent.fapa1-1.fna&tp=6&oh=e79a44a4888f2432ab2e351692c2c707&oe=6072053A" alt="May be an image of 1 person, standing, footwear and outdoors" width="500" height="334" caption="May be an image of 1 person, standing, footwear and outdoors" /></a>]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>https://www.facebook.com/BlackLivesMatter5280/photos/a.1439923922991503/2809375909379624/</guid>
-      <pubDate>Tue, 09 Mar 2021 09:06:27 -0700</pubDate>
-    </item>
-    <item>
-      <title>Black Lives Matter 5280Asia LyonsLadies, drop ya Venmo. Everyone else let&#39;s start  gifting.</title>
-      <link>https://www.facebook.com/BlackLivesMatter5280/posts/2808898109427404</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/BlackLivesMatter5280/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.0-1/cp0/p50x50/17814374_1783309405319618_6184875403618170148_o.jpg?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=8E8mReWXuOAAX8nCAlI&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=94aee69d86aeac22a7f3736353acd950&oe=60727762" alt="" /></a><a href="https://www.facebook.com/BlackLivesMatter5280/">Black Lives Matter 5280<a href="https://www.facebook.com/BlackLivesMatter5280/"></a></a><a href="https://www.facebook.com/BlackLivesMatter5280/posts/2808898109427404"></a><i></i><a href="https://www.facebook.com/photo.php"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-0/p526x296/159268738_10158193544808022_6977630562173834104_o.jpg?_nc_cat=102&ccb=1-3&_nc_sid=110474&_nc_ohc=SGfkhkWV64gAX_4KRFA&_nc_ht=scontent.fapa1-2.fna&tp=6&oh=fff178a6937ec534914f42825a0e0c0b&oe=607463DA" alt="May be an image of text that says 'R$ &#064;xxoorita today is a beautiful day to send a black woman $1000'" width="500" height="376" caption="May be an image of text that says 'R$ &#064;xxoorita today is a beautiful day to send a black woman $1000'" /></a><a href="https://www.facebook.com/asia.lyons.5">Asia Lyons</a><a href="https://www.facebook.com/photo.php"></a><p>Ladies, drop ya Venmo. Everyone else let's start  gifting.</p>]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>https://www.facebook.com/BlackLivesMatter5280/posts/2808898109427404</guid>
-      <pubDate>Mon, 08 Mar 2021 16:44:14 -0700</pubDate>
     </item>
     <item>
       <title>Many have asked about where to donate. We have shared and will...</title>
