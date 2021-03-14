@@ -3,7 +3,39 @@
     <title>Colorado Activist Feed</title>
     <link>https://coloradoactivistfeed.github.io/ColoradoActivistFeed/</link>
     <description>Aggregation of Colorado activist posts from across social media.</description>
-    <pubDate>Sun, 14 Mar 2021 03:00:26 -0600</pubDate>
+    <pubDate>Sun, 14 Mar 2021 04:00:36 -0600</pubDate>
+    <item>
+      <title>Bridge returned error 400! (18700)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @TayAndersonCO</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=TayAndersonCO&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40TayAndersonCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DTayAndersonCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40TayAndersonCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DTayAndersonCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>Tay Anderson</author>
+      <guid>urn:sha1:0bd17b5d8954d149dc3823dbab4a5a06ae483fe2</guid>
+      <pubDate>Sun, 14 Mar 2021 04:00:36 -0600</pubDate>
+    </item>
     <item>
       <title>Bridge returned error 500! (18700)</title>
       <link></link>
@@ -31,7 +63,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Abolish ICE Denver</author>
       <guid>urn:sha1:21d26ffccfcf7c4f63c31a2ec43ba88e8a803741</guid>
-      <pubDate>Sun, 14 Mar 2021 03:00:26 -0600</pubDate>
+      <pubDate>Sun, 14 Mar 2021 04:00:31 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18700)</title>
@@ -63,7 +95,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Colorado - Familia</author>
       <guid>urn:sha1:cd9fd2804c313461c5481c05782594062bdf0af7</guid>
-      <pubDate>Sun, 14 Mar 2021 03:00:22 -0600</pubDate>
+      <pubDate>Sun, 14 Mar 2021 04:00:25 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18700)</title>
@@ -95,103 +127,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Sanctuary4All Colorado</author>
       <guid>urn:sha1:a9d07b727a8984863712cc466f0387761033e4e2</guid>
-      <pubDate>Sun, 14 Mar 2021 03:00:19 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 400! (18700)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @TayAndersonCO</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=TayAndersonCO&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40TayAndersonCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DTayAndersonCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40TayAndersonCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DTayAndersonCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>urn:sha1:0bd17b5d8954d149dc3823dbab4a5a06ae483fe2</guid>
-      <pubDate>Sun, 14 Mar 2021 03:00:16 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 400! (18700)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @DenJustPro</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=DenJustPro&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40DenJustPro+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DDenJustPro%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40DenJustPro+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DDenJustPro%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>Denver Justice Project</author>
-      <guid>urn:sha1:8e693b2be0dfd9c2af349ca27b2da9e0c59bf33f</guid>
-      <pubDate>Sun, 14 Mar 2021 03:00:12 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 400! (18700)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @melanatedmic</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=melanatedmic&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40melanatedmic+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dmelanatedmic%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40melanatedmic+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dmelanatedmic%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>Melanated Mic Night</author>
-      <guid>urn:sha1:137d7d525b5a5c901d102b0c88e945b356233940</guid>
-      <pubDate>Sun, 14 Mar 2021 03:00:12 -0600</pubDate>
+      <pubDate>Sun, 14 Mar 2021 04:00:22 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18700)</title>
@@ -223,7 +159,71 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Leslie Herod</author>
       <guid>urn:sha1:f89ba20ecc59788f0efbe56b64fff17a16ac3293</guid>
-      <pubDate>Sun, 14 Mar 2021 03:00:05 -0600</pubDate>
+      <pubDate>Sun, 14 Mar 2021 04:00:13 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 400! (18700)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @DenJustPro</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=DenJustPro&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40DenJustPro+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DDenJustPro%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40DenJustPro+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DDenJustPro%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>Denver Justice Project</author>
+      <guid>urn:sha1:8e693b2be0dfd9c2af349ca27b2da9e0c59bf33f</guid>
+      <pubDate>Sun, 14 Mar 2021 04:00:07 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 400! (18700)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @melanatedmic</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=melanatedmic&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40melanatedmic+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dmelanatedmic%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40melanatedmic+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dmelanatedmic%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>Melanated Mic Night</author>
+      <guid>urn:sha1:137d7d525b5a5c901d102b0c88e945b356233940</guid>
+      <pubDate>Sun, 14 Mar 2021 04:00:07 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18700)</title>
@@ -255,7 +255,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Denver Homeless Out Loud</author>
       <guid>urn:sha1:5351c9ca79ff6d35811180a6bfde1432e0d14cd6</guid>
-      <pubDate>Sun, 14 Mar 2021 03:00:01 -0600</pubDate>
+      <pubDate>Sun, 14 Mar 2021 04:00:03 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18700)</title>
@@ -284,7 +284,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Denver Solidarity March</author>
       <guid>urn:sha1:df3155f20eec129efc5b6d7b1bbfc2c42e5283d5</guid>
-      <pubDate>Sun, 14 Mar 2021 03:00:01 -0600</pubDate>
+      <pubDate>Sun, 14 Mar 2021 03:59:58 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18700)</title>
@@ -313,7 +313,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Black Lives Matter 5280</author>
       <guid>urn:sha1:2bdf3ec46207510a5a6e6695dcf83fc18ed5648f</guid>
-      <pubDate>Sun, 14 Mar 2021 01:59:57 -0700</pubDate>
+      <pubDate>Sun, 14 Mar 2021 03:59:55 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18700)</title>
@@ -345,7 +345,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Black Lives Matter 5280</author>
       <guid>urn:sha1:abde109fcdbac29272da7c924f4b6e1fc1a5f7c0</guid>
-      <pubDate>Sun, 14 Mar 2021 01:59:57 -0700</pubDate>
+      <pubDate>Sun, 14 Mar 2021 03:59:55 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18700)</title>
@@ -377,7 +377,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>SURJ Denver</author>
       <guid>urn:sha1:e59fa4f15bdd28eb8bbc3215f3f32d366d4f3492</guid>
-      <pubDate>Sun, 14 Mar 2021 01:59:51 -0700</pubDate>
+      <pubDate>Sun, 14 Mar 2021 03:59:49 -0600</pubDate>
     </item>
     <item>
       <title>Showing Up for Racial Justice - SURJ DenverCelestial Alegría was live.Current and past reparations recipients of the Celestial Alegria...</title>
@@ -410,7 +410,7 @@ Version: `dev.2020-02-26`</p>
       <title>IF Denver Public Schools has a snow day on Monday join Director...</title>
       <link>https://www.facebook.com/Tay2019/posts/1329141000802070</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_o.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=_dR88GQmCZ8AX9QQWrE&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=38a2a4f0e50437d959c336aa0b492280&oe=60723331" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1329141000802070"></a><i></i><p>IF Denver Public Schools has a snow day on Monday join Director Tay Anderson for a snowball tournament in Central Park!</p><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/p235x350/160247673_1329140620802108_6060779781286904456_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=b386c4&_nc_ohc=p8zjHFacSMwAX8SHl-F&_nc_ht=scontent.fapa1-1.fna&tp=6&oh=b21e62ac4be6dffa15cbe86464ccfe35&oe=60743262" alt="Denver School Board Director - Tay Anderson's photo." width="500" height="344" caption="Denver School Board Director - Tay Anderson's photo." /><a href="https://www.facebook.com/events/958354544699542/"></a><p>MON, MAR 15 AT 11:00 AM MDT</p><p>Snowball Tournament w/ Director Tay</p>Central Park Blvd, Denver, CO 80238, United States<i></i>63 people interested]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_o.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=_dR88GQmCZ8AX9QQWrE&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=38a2a4f0e50437d959c336aa0b492280&oe=60723331" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1329141000802070"></a><i></i><p>IF Denver Public Schools has a snow day on Monday join Director Tay Anderson for a snowball tournament in Central Park!</p><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/p235x350/160247673_1329140620802108_6060779781286904456_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=b386c4&_nc_ohc=p8zjHFacSMwAX8SHl-F&_nc_ht=scontent.fapa1-1.fna&tp=6&oh=b21e62ac4be6dffa15cbe86464ccfe35&oe=60743262" alt="Denver School Board Director - Tay Anderson's photo." width="500" height="344" caption="Denver School Board Director - Tay Anderson's photo." /><a href="https://www.facebook.com/events/958354544699542/"></a><p>MON, MAR 15 AT 11:00 AM MDT</p><p>Snowball Tournament w/ Director Tay</p>Central Park Blvd, Denver, CO 80238, United States<i></i>64 people interested]]></content:encoded>
       <author>Tay Anderson</author>
       <guid>https://www.facebook.com/Tay2019/posts/1329141000802070</guid>
       <pubDate>Sat, 13 Mar 2021 13:27:05 -0700</pubDate>
@@ -419,7 +419,7 @@ Version: `dev.2020-02-26`</p>
       <title>Denver School Board Director - Tay Anderson added an event.MON, MAR 15 AT 11:00 AM MDTSnowball Tournament w/ Director TayCentral Park Blvd,...</title>
       <link>https://www.facebook.com/events/958354544699542/</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_o.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=_dR88GQmCZ8AX9QQWrE&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=38a2a4f0e50437d959c336aa0b492280&oe=60723331" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a> added an <a href="https://www.facebook.com/events/958354544699542/">event</a>.<a href="https://www.facebook.com/events/958354544699542/"></a><i></i><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/p235x350/160247673_1329140620802108_6060779781286904456_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=b386c4&_nc_ohc=p8zjHFacSMwAX8SHl-F&_nc_ht=scontent.fapa1-1.fna&tp=6&oh=b21e62ac4be6dffa15cbe86464ccfe35&oe=60743262" alt="Denver School Board Director - Tay Anderson's photo." width="500" height="344" caption="Denver School Board Director - Tay Anderson's photo." /><a href="https://www.facebook.com/events/958354544699542/"></a><p>MON, MAR 15 AT 11:00 AM MDT</p><p>Snowball Tournament w/ Director Tay</p>Central Park Blvd, Denver, CO 80238, United States<i></i>63 people interested]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_o.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=_dR88GQmCZ8AX9QQWrE&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=38a2a4f0e50437d959c336aa0b492280&oe=60723331" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a> added an <a href="https://www.facebook.com/events/958354544699542/">event</a>.<a href="https://www.facebook.com/events/958354544699542/"></a><i></i><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/p235x350/160247673_1329140620802108_6060779781286904456_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=b386c4&_nc_ohc=p8zjHFacSMwAX8SHl-F&_nc_ht=scontent.fapa1-1.fna&tp=6&oh=b21e62ac4be6dffa15cbe86464ccfe35&oe=60743262" alt="Denver School Board Director - Tay Anderson's photo." width="500" height="344" caption="Denver School Board Director - Tay Anderson's photo." /><a href="https://www.facebook.com/events/958354544699542/"></a><p>MON, MAR 15 AT 11:00 AM MDT</p><p>Snowball Tournament w/ Director Tay</p>Central Park Blvd, Denver, CO 80238, United States<i></i>64 people interested]]></content:encoded>
       <author>Tay Anderson</author>
       <guid>https://www.facebook.com/events/958354544699542/</guid>
       <pubDate>Sat, 13 Mar 2021 13:26:05 -0700</pubDate>
@@ -1049,7 +1049,7 @@ Version: `dev.2020-02-26`</p>
       <title>The City has planned THREE SWEEPS THIS WEEK!  Tuesday 3/10 at...</title>
       <link>https://www.facebook.com/DenverHomelessOutLoud/photos/a.271630356300258/2149014818561793/</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverHomelessOutLoud/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/12645267_765701936893095_4336088808811260721_n.png?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=nUaK0G8vkSwAX9lAEMy&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=876ef2d9e6119194f69ca03f8239e13e&oe=607334BE" alt="" /></a><a href="https://www.facebook.com/DenverHomelessOutLoud/">Denver Homeless Out Loud</a><a href="https://www.facebook.com/DenverHomelessOutLoud/photos/a.271630356300258/2149014818561793/"></a><i></i><p>The City has planned THREE SWEEPS THIS WEEK!  Tuesday 3/10 at 16th and Lafayette, Wednesday 3/11 at 5th ave to Broadway to Acoma/Bannock from 4th ave to 6th ave, and Thursday 3/12 at Colfax and Washington.The SWEEPS will begin each day at 6:30 a.m.Please come and support our unhoused community members as they demand real housing or places where they are allowed to survive.Bring the following things to assist residents:<br /> -Truck, or any vehicle to help move-Carts-Bungee Cords-Ro...pe-Trash Bags-Food-Coffee/CoCo-Water<br /> Your assistance is much appreciated! Somewhere around 6:30am and all morning help will likely be needed.<br /> Toward Rights, Dignity and Housing…</p><p> Contact: info&#064;denverhomelessoutloud.org<br /> 720-940-5291</p> <a href="https://www.facebook.com/DenverHomelessOutLoud/posts/2149014868561788">See More</a><a href="https://www.facebook.com/DenverHomelessOutLoud/photos/a.271630356300258/2149014818561793/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-9/158434879_2149014821895126_874571574369427573_n.png?_nc_cat=101&ccb=1-3&_nc_sid=8024bb&_nc_ohc=pYXnnyglSBwAX9md5AE&_nc_ht=scontent.fapa1-1.fna&oh=aff510dac27071519d040d398b51bd87&oe=6072D67A" alt="May be an image of 1 person and text that says 'Welcome to The City of Denver DEATH ANDPISPLACEMENT SWEEPS THIS WEEK: TUESDAY 3/9: 16TH & LAFAYETTE WEDNESDAY 3/10: 5TH AVE BRODWAY TO ACOMA/ BANNOCK FROM 4TH TO 6TH AVE THURSDAY 3/11: WASHINGTON & COLFAX'" width="500" height="500" caption="May be an image of 1 person and text that says 'Welcome to The City of Denver DEATH ANDPISPLACEMENT SWEEPS THIS WEEK: TUESDAY 3/9: 16TH & LAFAYETTE WEDNESDAY 3/10: 5TH AVE BRODWAY TO ACOMA/ BANNOCK FROM 4TH TO 6TH AVE THURSDAY 3/11: WASHINGTON & COLFAX'" /></a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverHomelessOutLoud/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/12645267_765701936893095_4336088808811260721_n.png?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=nUaK0G8vkSwAX9lAEMy&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=876ef2d9e6119194f69ca03f8239e13e&oe=607334BE" alt="" /></a><a href="https://www.facebook.com/DenverHomelessOutLoud/">Denver Homeless Out Loud</a><a href="https://www.facebook.com/DenverHomelessOutLoud/photos/a.271630356300258/2149014818561793/"></a><i></i><p>The City has planned THREE SWEEPS THIS WEEK!  Tuesday 3/10 at 16th and Lafayette, Wednesday 3/11 at 5th ave to Broadway to Acoma/Bannock from 4th ave to 6th ave, and Thursday 3/12 at Colfax and Washington.The SWEEPS will begin each day at 6:30 a.m.Please come and support our unhoused community members as they demand real housing or places where they are allowed to survive.Bring the following things to assist residents:<br /> -Truck, or any vehicle to help move-Carts-Bungee Cords-Ro...pe-Trash Bags-Food-Coffee/CoCo-Water<br /> Your assistance is much appreciated! Somewhere around 6:30am and all morning help will likely be needed.<br /> Toward Rights, Dignity and Housing…</p><p> Contact: info&#064;denverhomelessoutloud.org<br /> 720-940-5291</p> <a href="https://www.facebook.com/DenverHomelessOutLoud/posts/2149014868561788">See More</a><a href="https://www.facebook.com/DenverHomelessOutLoud/photos/a.271630356300258/2149014818561793/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-9/158434879_2149014821895126_874571574369427573_n.png?_nc_cat=101&ccb=1-3&_nc_sid=8024bb&_nc_ohc=f_P5g-OsrlUAX8U3D8p&_nc_ht=scontent.fapa1-1.fna&oh=f0f634aeb9c389f08607a810396b4ea6&oe=6072D67A" alt="May be an image of 1 person and text that says 'Welcome to The City of Denver DEATH ANDPISPLACEMENT SWEEPS THIS WEEK: TUESDAY 3/9: 16TH & LAFAYETTE WEDNESDAY 3/10: 5TH AVE BRODWAY TO ACOMA/ BANNOCK FROM 4TH TO 6TH AVE THURSDAY 3/11: WASHINGTON & COLFAX'" width="500" height="500" caption="May be an image of 1 person and text that says 'Welcome to The City of Denver DEATH ANDPISPLACEMENT SWEEPS THIS WEEK: TUESDAY 3/9: 16TH & LAFAYETTE WEDNESDAY 3/10: 5TH AVE BRODWAY TO ACOMA/ BANNOCK FROM 4TH TO 6TH AVE THURSDAY 3/11: WASHINGTON & COLFAX'" /></a>]]></content:encoded>
       <author>Denver Homeless Out Loud</author>
       <guid>https://www.facebook.com/DenverHomelessOutLoud/photos/a.271630356300258/2149014818561793/</guid>
       <pubDate>Mon, 08 Mar 2021 15:52:15 -0700</pubDate>
@@ -1166,7 +1166,7 @@ Version: `dev.2020-02-26`</p>
       <title>Live now!</title>
       <link>https://www.facebook.com/denverPSL/posts/1159398671179288</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverPSL/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/30222120_427704451015384_2069778794738089984_o.jpg?_nc_cat=102&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=cf14UGs1rdQAX82CT9D&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=704b115d85f9f70eb1760e0720771a01&oe=60742A53" alt="" /></a><a href="https://www.facebook.com/denverPSL/">Party for Socialism and Liberation - Denver</a><a href="https://www.facebook.com/denverPSL/posts/1159398671179288"></a><i></i><p>Live now!</p><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t15.13418-10/151528363_467455114441595_6750590478685509578_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=trepveaqyrkAX9aCGCt&_nc_ht=scontent.fapa1-2.fna&oh=d0854d338b0c24075d96e4cf5076e947&oe=60722628" /><a href="https://www.facebook.com/justiceindenver/">National Committee for Justice in Denver</a> was live.<a href="https://www.facebook.com/justiceindenver/videos/133236351961474/"></a><p>Civil rights attorneys and movement leaders speak out against the dangerous political prosecution of the leaders of the peaceful protest movement for justice fo...r Elijah McClain!</p><p> Hear from:</p><p> Heidi Boghosian<br /> -Constitutional & civil rights attorney<br /> -Executive Director of the NY-based AJ Muste Institute<br /> -Former Executive Director of the National Lawyers Guild</p><p> Kerbie Joseph<br /> -NY-based anti-police brutality activist<br /> -Political prisoner advocate<br /> -Program coordinator of the Audre Lorde Project</p><p> Mara Verheyden-Hilliard<br /> -Constitutional & civil rights attorney<br /> -Founder of the DC-based Partnership for Civil Justice Fund</p><p> Joel Northam and Lillian House, leaders of the Elijah McClain protests now facing 42 and 48 years in prison respectively</p><p> Amelia Power, one of the attorneys representing the targeted organizers</p> <a href="https://www.facebook.com">See More</a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverPSL/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/30222120_427704451015384_2069778794738089984_o.jpg?_nc_cat=102&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=cf14UGs1rdQAX82CT9D&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=704b115d85f9f70eb1760e0720771a01&oe=60742A53" alt="" /></a><a href="https://www.facebook.com/denverPSL/">Party for Socialism and Liberation - Denver</a><a href="https://www.facebook.com/denverPSL/posts/1159398671179288"></a><i></i><p>Live now!</p><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t15.13418-10/151528363_467455114441595_6750590478685509578_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=MSpjknhok_AAX-fogfN&_nc_ht=scontent.fapa1-2.fna&oh=2cc99c596b570c6a11249736bf75f0dc&oe=60722628" /><a href="https://www.facebook.com/justiceindenver/">National Committee for Justice in Denver</a> was live.<a href="https://www.facebook.com/justiceindenver/videos/133236351961474/"></a><p>Civil rights attorneys and movement leaders speak out against the dangerous political prosecution of the leaders of the peaceful protest movement for justice fo...r Elijah McClain!</p><p> Hear from:</p><p> Heidi Boghosian<br /> -Constitutional & civil rights attorney<br /> -Executive Director of the NY-based AJ Muste Institute<br /> -Former Executive Director of the National Lawyers Guild</p><p> Kerbie Joseph<br /> -NY-based anti-police brutality activist<br /> -Political prisoner advocate<br /> -Program coordinator of the Audre Lorde Project</p><p> Mara Verheyden-Hilliard<br /> -Constitutional & civil rights attorney<br /> -Founder of the DC-based Partnership for Civil Justice Fund</p><p> Joel Northam and Lillian House, leaders of the Elijah McClain protests now facing 42 and 48 years in prison respectively</p><p> Amelia Power, one of the attorneys representing the targeted organizers</p> <a href="https://www.facebook.com">See More</a>]]></content:encoded>
       <author>Party for Socialism and Liberation</author>
       <guid>https://www.facebook.com/denverPSL/posts/1159398671179288</guid>
       <pubDate>Sat, 06 Mar 2021 16:04:49 -0700</pubDate>
@@ -1274,7 +1274,7 @@ Version: `dev.2020-02-26`</p>
       <title>North Denver for Social JusticeAn experiment in Stockton that gave dozens of residents an extra $500 per month...</title>
       <link>https://www.facebook.com/NDenverSocialJustice/posts/2838318856434334</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/NDenverSocialJustice/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/16427561_1829786807287549_4287910356639356917_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=ei1X9DY1zyMAX9ULRPg&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=be1c0c46c2cc28d9b1b33d478d4c1502&oe=6072F4FC" alt="" /></a><a href="https://www.facebook.com/NDenverSocialJustice/">North Denver for Social Justice</a><a href="https://www.facebook.com/NDenverSocialJustice/posts/2838318856434334"></a><i></i><a href="https://trib.al/3KRsJf4">An experiment in Stockton that gave dozens of residents an extra $500 per month reduced...<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQHVhR2jSiSRLsyz&w=540&h=282&url=https%3A%2F%2Fs.hdnux.com%2Fphotos%2F01%2F16%2F76%2F51%2F20703862%2F5%2FrawImage.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&_nc_hash=AQFeXRvjOCQNm5U1" alt="" width="500" height="262" caption="" /></a><p>sfchronicle.com</p><p>Stockton's $500 monthly income program led to better jobs and lives, study concludes</p>An experiment in Stockton that gave dozens of residents an extra $500 per month reduced...<a href="https://trib.al/3KRsJf4">An experiment in Stockton that gave dozens of residents an extra $500 per month reduced...</a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/NDenverSocialJustice/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/16427561_1829786807287549_4287910356639356917_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=ei1X9DY1zyMAX9ULRPg&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=be1c0c46c2cc28d9b1b33d478d4c1502&oe=6072F4FC" alt="" /></a><a href="https://www.facebook.com/NDenverSocialJustice/">North Denver for Social Justice</a><a href="https://www.facebook.com/NDenverSocialJustice/posts/2838318856434334"></a><i></i><a href="https://trib.al/3KRsJf4">An experiment in Stockton that gave dozens of residents an extra $500 per month reduced...<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?w=540&h=282&url=https%3A%2F%2Fs.hdnux.com%2Fphotos%2F01%2F16%2F76%2F51%2F20703862%2F5%2FrawImage.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&_nc_hash=AQGPBfcmvGOAJh-r" alt="" width="500" height="262" caption="" /></a><p>sfchronicle.com</p><p>Stockton's $500 monthly income program led to better jobs and lives, study concludes</p>An experiment in Stockton that gave dozens of residents an extra $500 per month reduced...<a href="https://trib.al/3KRsJf4">An experiment in Stockton that gave dozens of residents an extra $500 per month reduced...</a>]]></content:encoded>
       <author>North Denver for Social Justice</author>
       <guid>https://www.facebook.com/NDenverSocialJustice/posts/2838318856434334</guid>
       <pubDate>Thu, 04 Mar 2021 22:43:28 -0700</pubDate>
@@ -1625,7 +1625,7 @@ Version: `dev.2020-02-26`</p>
       <title>“They were forcing us out of the dorm, pushing and dragging...</title>
       <link>https://www.facebook.com/AbolishICEDenver/posts/786578321951747</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/AbolishICEDenver/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/150195730_779431862666393_1302271980234752190_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=Crd8DAfGpw8AX_JrmKk&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=29244ec08a4307a8146384a62b4aef56&oe=607203DF" alt="" /></a><a href="https://www.facebook.com/AbolishICEDenver/">Abolish ICE Denver</a><a href="https://www.facebook.com/AbolishICEDenver/posts/786578321951747"></a><i></i><p>“They were forcing us out of the dorm, pushing and dragging us,” Fozao said, explaining the altercation when the guards tried to force them to submit to the deportation. “They threatened to call the SWAT team. They said they were going to put all of us into Bravo-Alpha, which is for quarantine, where they keep everyone with coronavirus.”</p><p> The Pine Prairie facility, which is operated by the private prison firm GEO Group, currently has 21 confirmed coronavirus cases, according to ICE’s own tracker."</p><p> <a href="https://www.facebook.com/hashtag/abolishice">#AbolishICE</a> <a href="https://www.facebook.com/hashtag/asylumseekers">#AsylumSeekers</a> <a href="https://www.facebook.com/hashtag/blacklivesmatter">#BlackLivesMatter</a> <a href="https://www.facebook.com/hashtag/cameroon">#Cameroon</a></p><a href="https://theintercept.com/2021/02/06/ice-covid-threat-asylum-deportation/">Amid a rush of deportations, four detainees at two different ICE detention centers said that guards threatened to put them in Covid-19 wards.<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQFSooer1ywGaaYN&w=540&h=282&url=https%3A%2F%2Ftheintercept.imgix.net%2Fwp-uploads%2Fsites%2F1%2F2021%2F02%2Fpine-prairie-processing-center.jpg%3Fauto%3Dcompress%252Cformat%26q%3D90%26fit%3Dcrop%26w%3D1200%26h%3D800&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&_nc_hash=AQHXUdp6e66WYKP4" alt="" width="500" height="262" caption="" /></a><p>theintercept.com</p><p>ICE Threatened to Expose Asylum-Seekers to Covid-19 if They Did Not Accept Deportation</p>Amid a rush of deportations, four detainees at two different ICE detention centers said that guards threatened to put them in Covid-19 wards.<a href="https://theintercept.com/2021/02/06/ice-covid-threat-asylum-deportation/">Amid a rush of deportations, four detainees at two different ICE detention centers said that guards threatened to put them in Covid-19 wards.</a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/AbolishICEDenver/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/150195730_779431862666393_1302271980234752190_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=Crd8DAfGpw8AX_JrmKk&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=29244ec08a4307a8146384a62b4aef56&oe=607203DF" alt="" /></a><a href="https://www.facebook.com/AbolishICEDenver/">Abolish ICE Denver</a><a href="https://www.facebook.com/AbolishICEDenver/posts/786578321951747"></a><i></i><p>“They were forcing us out of the dorm, pushing and dragging us,” Fozao said, explaining the altercation when the guards tried to force them to submit to the deportation. “They threatened to call the SWAT team. They said they were going to put all of us into Bravo-Alpha, which is for quarantine, where they keep everyone with coronavirus.”</p><p> The Pine Prairie facility, which is operated by the private prison firm GEO Group, currently has 21 confirmed coronavirus cases, according to ICE’s own tracker."</p><p> <a href="https://www.facebook.com/hashtag/abolishice">#AbolishICE</a> <a href="https://www.facebook.com/hashtag/asylumseekers">#AsylumSeekers</a> <a href="https://www.facebook.com/hashtag/blacklivesmatter">#BlackLivesMatter</a> <a href="https://www.facebook.com/hashtag/cameroon">#Cameroon</a></p><a href="https://theintercept.com/2021/02/06/ice-covid-threat-asylum-deportation/">Amid a rush of deportations, four detainees at two different ICE detention centers said that guards threatened to put them in Covid-19 wards.<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?w=540&h=282&url=https%3A%2F%2Ftheintercept.imgix.net%2Fwp-uploads%2Fsites%2F1%2F2021%2F02%2Fpine-prairie-processing-center.jpg%3Fauto%3Dcompress%252Cformat%26q%3D90%26fit%3Dcrop%26w%3D1200%26h%3D800&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&_nc_hash=AQH_8xlff_kbC0F6" alt="" width="500" height="262" caption="" /></a><p>theintercept.com</p><p>ICE Threatened to Expose Asylum-Seekers to Covid-19 if They Did Not Accept Deportation</p>Amid a rush of deportations, four detainees at two different ICE detention centers said that guards threatened to put them in Covid-19 wards.<a href="https://theintercept.com/2021/02/06/ice-covid-threat-asylum-deportation/">Amid a rush of deportations, four detainees at two different ICE detention centers said that guards threatened to put them in Covid-19 wards.</a>]]></content:encoded>
       <author>Abolish ICE Denver</author>
       <guid>https://www.facebook.com/AbolishICEDenver/posts/786578321951747</guid>
       <pubDate>Sun, 28 Feb 2021 04:48:53 -0700</pubDate>
@@ -1994,7 +1994,7 @@ Version: `dev.2020-02-26`</p>
       <title>The Aurora independent investigation report confirms in stark...</title>
       <link>https://www.facebook.com/acluofcolorado/posts/4007494942617298</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/acluofcolorado/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t31.0-1/cp0/p50x50/21950661_1662566980443451_7358479861831904430_o.jpg?_nc_cat=103&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=nQbK7LA5r8oAX8jGS7Q&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=5ac33dccb268a9cd81db589ea52a8d99&oe=6074C3FC" alt="" /></a><a href="https://www.facebook.com/acluofcolorado/">ACLU of Colorado</a><a href="https://www.facebook.com/acluofcolorado/posts/4007494942617298"></a><i></i><p>The Aurora independent investigation report confirms in stark terms what the community has long understood: Aurora police killed Elijah McClain. Mr. McClain was the innocent victim of multiple violations of longstanding law that is supposed to limit the authority of law enforcement. The family of Elijah McClain deserves justice. The community is calling for accountability. Aurora decision-makers cannot and must not ignore these calls. <a href="http://acluco.org/3qO8NX5">http://acluco.org/3qO8NX5</a></p><a href="http://acluco.org/3qO8NX5">February 23, 2021 DENVER – The following statement can be attributed to Mark Silverstein, Legal Director for ACLU of Colorado. “The Aurora independent investigation report confirms in stark terms what the community has long understood: Aurora police killed Elijah McClain. Mr. McClain … Continu...<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQFPdGhZrXloDcLg&w=160&h=160&url=https%3A%2F%2Facluco-wpengine.netdna-ssl.com%2Fwp-content%2Fthemes%2Fworkhorse-boilerplate%2F_images%2FACLU_Colorado_Logo.svg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher_square&_nc_cb=1&_nc_hash=AQHjqgeaqZl1OYRS" alt="" width="158" height="158" caption="" /></a><p>aclu-co.org</p><p>ACLU of Colorado Statement on the Aurora Independent Investigation Into Elijah McClain’s Death | ACLU of Colorado</p>February 23, 2021 DENVER – The following statement can be attributed to Mark Silverstein, Legal Director for ACLU of Colorado. “The Aurora independent investigation report confirms in stark terms what the community has long understood: Aurora police killed Elijah McClain. Mr. McClain … Continu...<a href="http://acluco.org/3qO8NX5">February 23, 2021 DENVER – The following statement can be attributed to Mark Silverstein, Legal Director for ACLU of Colorado. “The Aurora independent investigation report confirms in stark terms what the community has long understood: Aurora police killed Elijah McClain. Mr. McClain … Continu...</a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/acluofcolorado/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t31.0-1/cp0/p50x50/21950661_1662566980443451_7358479861831904430_o.jpg?_nc_cat=103&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=nQbK7LA5r8oAX8jGS7Q&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=5ac33dccb268a9cd81db589ea52a8d99&oe=6074C3FC" alt="" /></a><a href="https://www.facebook.com/acluofcolorado/">ACLU of Colorado</a><a href="https://www.facebook.com/acluofcolorado/posts/4007494942617298"></a><i></i><p>The Aurora independent investigation report confirms in stark terms what the community has long understood: Aurora police killed Elijah McClain. Mr. McClain was the innocent victim of multiple violations of longstanding law that is supposed to limit the authority of law enforcement. The family of Elijah McClain deserves justice. The community is calling for accountability. Aurora decision-makers cannot and must not ignore these calls. <a href="http://acluco.org/3qO8NX5">http://acluco.org/3qO8NX5</a></p><a href="http://acluco.org/3qO8NX5">February 23, 2021 DENVER – The following statement can be attributed to Mark Silverstein, Legal Director for ACLU of Colorado. “The Aurora independent investigation report confirms in stark terms what the community has long understood: Aurora police killed Elijah McClain. Mr. McClain … Continu...<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?w=160&h=160&url=https%3A%2F%2Facluco-wpengine.netdna-ssl.com%2Fwp-content%2Fthemes%2Fworkhorse-boilerplate%2F_images%2FACLU_Colorado_Logo.svg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher_square&_nc_cb=1&_nc_hash=AQERtioeV4j2SXmA" alt="" width="158" height="158" caption="" /></a><p>aclu-co.org</p><p>ACLU of Colorado Statement on the Aurora Independent Investigation Into Elijah McClain’s Death | ACLU of Colorado</p>February 23, 2021 DENVER – The following statement can be attributed to Mark Silverstein, Legal Director for ACLU of Colorado. “The Aurora independent investigation report confirms in stark terms what the community has long understood: Aurora police killed Elijah McClain. Mr. McClain … Continu...<a href="http://acluco.org/3qO8NX5">February 23, 2021 DENVER – The following statement can be attributed to Mark Silverstein, Legal Director for ACLU of Colorado. “The Aurora independent investigation report confirms in stark terms what the community has long understood: Aurora police killed Elijah McClain. Mr. McClain … Continu...</a>]]></content:encoded>
       <author>ACLU of Colorado</author>
       <guid>https://www.facebook.com/acluofcolorado/posts/4007494942617298</guid>
       <pubDate>Tue, 23 Feb 2021 17:52:08 -0700</pubDate>
@@ -2192,7 +2192,7 @@ Version: `dev.2020-02-26`</p>
       <title>North Denver for Social JusticeDenver’s auditor says he’s gearing up for two investigations in 2021 that may help shed light on the...</title>
       <link>https://www.facebook.com/NDenverSocialJustice/posts/2827361024196784</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/NDenverSocialJustice/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/16427561_1829786807287549_4287910356639356917_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=ei1X9DY1zyMAX9ULRPg&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=be1c0c46c2cc28d9b1b33d478d4c1502&oe=6072F4FC" alt="" /></a><a href="https://www.facebook.com/NDenverSocialJustice/">North Denver for Social Justice</a><a href="https://www.facebook.com/NDenverSocialJustice/posts/2827361024196784"></a><i></i><a href="https://denverite.com/2021/02/12/activists-want-denver-to-investigate-its-treatment-of-people-living-on-city-streets/">Denver’s auditor says he’s gearing up for two investigations in 2021 that may help shed light on the so-called “sweeps.”<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQHFViMbicesRVd1&w=540&h=282&url=https%3A%2F%2Fi0.wp.com%2Fwp-denverite.s3.amazonaws.com%2Fwp-content%2Fuploads%2Fsites%2F4%2F2020%2F11%2F201130-HOMELESS-SWEEP-DENVER-0033.jpg%3Fresize%3D1200%252C630%26ssl%3D1&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&_nc_hash=AQH7Woeb5_ISlcyp" alt="" width="500" height="262" caption="" /></a><p>denverite.com</p><p>Activists want Denver to investigate its treatment of people living on city streets</p>Denver’s auditor says he’s gearing up for two investigations in 2021 that may help shed light on the so-called “sweeps.”<a href="https://denverite.com/2021/02/12/activists-want-denver-to-investigate-its-treatment-of-people-living-on-city-streets/">Denver’s auditor says he’s gearing up for two investigations in 2021 that may help shed light on the so-called “sweeps.”</a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/NDenverSocialJustice/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/16427561_1829786807287549_4287910356639356917_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=ei1X9DY1zyMAX9ULRPg&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=be1c0c46c2cc28d9b1b33d478d4c1502&oe=6072F4FC" alt="" /></a><a href="https://www.facebook.com/NDenverSocialJustice/">North Denver for Social Justice</a><a href="https://www.facebook.com/NDenverSocialJustice/posts/2827361024196784"></a><i></i><a href="https://denverite.com/2021/02/12/activists-want-denver-to-investigate-its-treatment-of-people-living-on-city-streets/">Denver’s auditor says he’s gearing up for two investigations in 2021 that may help shed light on the so-called “sweeps.”<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?w=540&h=282&url=https%3A%2F%2Fi0.wp.com%2Fwp-denverite.s3.amazonaws.com%2Fwp-content%2Fuploads%2Fsites%2F4%2F2020%2F11%2F201130-HOMELESS-SWEEP-DENVER-0033.jpg%3Fresize%3D1200%252C630%26ssl%3D1&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&_nc_hash=AQEDxHD3u7Aw6-D8" alt="" width="500" height="262" caption="" /></a><p>denverite.com</p><p>Activists want Denver to investigate its treatment of people living on city streets</p>Denver’s auditor says he’s gearing up for two investigations in 2021 that may help shed light on the so-called “sweeps.”<a href="https://denverite.com/2021/02/12/activists-want-denver-to-investigate-its-treatment-of-people-living-on-city-streets/">Denver’s auditor says he’s gearing up for two investigations in 2021 that may help shed light on the so-called “sweeps.”</a>]]></content:encoded>
       <author>North Denver for Social Justice</author>
       <guid>https://www.facebook.com/NDenverSocialJustice/posts/2827361024196784</guid>
       <pubDate>Tue, 16 Feb 2021 19:05:01 -0700</pubDate>
@@ -2687,7 +2687,7 @@ Version: `dev.2020-02-26`</p>
       <title>Denver Peace Council - Affiliate of US Peace CouncilU.S. Peace Council Statement on the January 6, 2020 Events in Washington DC People’s...</title>
       <link>https://www.facebook.com/1061947594319309</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/17553958_178342902679787_5748199256766769398_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=9wa7zaMlxfwAX93u7XH&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=7156c39dc16fc4fea8ba45d8fd7b3c2c&oe=6074DDF4" alt="" /></a><a href="https://www.facebook.com/Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015/">Denver Peace Council - Affiliate of US Peace Council</a><a href="https://www.facebook.com/permalink.php"></a><i></i><a href="https://uspeacecouncil.org/u-s-peace-council-statement-on-the-january-6-2020-events-in-washington-dc/">U.S. Peace Council Statement on the January 6, 2020 Events in Washington DC People’s Movement is Faced with a Serious Threat! January 10, 2020 The deep political and social contradictions of the U.S. capitalist system, which were becoming increasingly visible to the people during the past few deca...<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQEn7w2ck7k4ZHhj&w=540&h=282&url=https%3A%2F%2Fuspeacecouncil.org%2Fwp-content%2Fuploads%2F2021%2F01%2FRiots-1.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&_nc_hash=AQFPprdnPjMGaUYQ" alt="" width="500" height="262" caption="" /></a><p>uspeacecouncil.org</p><p>U.S. Peace Council Statement On the January 6, 2020 Events in Washington DC – U.S. Peace Council</p>U.S. Peace Council Statement on the January 6, 2020 Events in Washington DC People’s Movement is Faced with a Serious Threat! January 10, 2020 The deep political and social contradictions of the U.S. capitalist system, which were becoming increasingly visible to the people during the past few deca...<a href="https://uspeacecouncil.org/u-s-peace-council-statement-on-the-january-6-2020-events-in-washington-dc/">U.S. Peace Council Statement on the January 6, 2020 Events in Washington DC People’s Movement is Faced with a Serious Threat! January 10, 2020 The deep political and social contradictions of the U.S. capitalist system, which were becoming increasingly visible to the people during the past few deca...</a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/17553958_178342902679787_5748199256766769398_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=9wa7zaMlxfwAX93u7XH&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=7156c39dc16fc4fea8ba45d8fd7b3c2c&oe=6074DDF4" alt="" /></a><a href="https://www.facebook.com/Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015/">Denver Peace Council - Affiliate of US Peace Council</a><a href="https://www.facebook.com/permalink.php"></a><i></i><a href="https://uspeacecouncil.org/u-s-peace-council-statement-on-the-january-6-2020-events-in-washington-dc/">U.S. Peace Council Statement on the January 6, 2020 Events in Washington DC People’s Movement is Faced with a Serious Threat! January 10, 2020 The deep political and social contradictions of the U.S. capitalist system, which were becoming increasingly visible to the people during the past few deca...<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?w=540&h=282&url=https%3A%2F%2Fuspeacecouncil.org%2Fwp-content%2Fuploads%2F2021%2F01%2FRiots-1.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&_nc_hash=AQEYcQ8reOKKR30v" alt="" width="500" height="262" caption="" /></a><p>uspeacecouncil.org</p><p>U.S. Peace Council Statement On the January 6, 2020 Events in Washington DC – U.S. Peace Council</p>U.S. Peace Council Statement on the January 6, 2020 Events in Washington DC People’s Movement is Faced with a Serious Threat! January 10, 2020 The deep political and social contradictions of the U.S. capitalist system, which were becoming increasingly visible to the people during the past few deca...<a href="https://uspeacecouncil.org/u-s-peace-council-statement-on-the-january-6-2020-events-in-washington-dc/">U.S. Peace Council Statement on the January 6, 2020 Events in Washington DC People’s Movement is Faced with a Serious Threat! January 10, 2020 The deep political and social contradictions of the U.S. capitalist system, which were becoming increasingly visible to the people during the past few deca...</a>]]></content:encoded>
       <author>Denver Peace Council</author>
       <guid>https://www.facebook.com/1061947594319309</guid>
       <pubDate>Mon, 11 Jan 2021 10:36:18 -0700</pubDate>
@@ -2804,7 +2804,7 @@ Version: `dev.2020-02-26`</p>
       <title>Hecho en Aztlan</title>
       <link>https://www.facebook.com/DenverXikanoproject/posts/3612196022195133</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverXikanoproject/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/c49.49.609.609a/s50x50/19214_411086845639416_1856091396_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=uDdLr9_ibeUAX9D3Cb_&_nc_ht=scontent.fapa1-1.fna&tp=28&oh=ee33852162a539abb9d894bd891bc384&oe=60718B50" alt="" /></a><a href="https://www.facebook.com/DenverXikanoproject/">Denver's Chicano Movement  Legacy Project</a><a href="https://www.facebook.com/DenverXikanoproject/posts/3612196022195133"></a><i></i><p>Hecho en Aztlan</p><a href="https://www.historycolorado.org/exhibit/hecho-en-colorado">Closing January 10<img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t45.1600-4/cp0/q90/spS444/c0.37.525.276a/p235x350/134153740_6211952151449_6930290848852810236_n.png.jpg?_nc_cat=107&ccb=1-3&_nc_sid=67cdda&_nc_ohc=iHfELHdLAW0AX-nYe2J&_nc_ht=scontent.fapa1-2.fna&_nc_tp=31&oh=c68372410d83927ab552c6a95e127362&oe=60726BF8" alt="" width="500" height="262" caption="" /></a><p>historycolorado.org</p><p>Hecho en Colorado</p>Closing January 10<a href="https://www.historycolorado.org/exhibit/hecho-en-colorado">Book Now</a><a href="https://www.historycolorado.org/exhibit/hecho-en-colorado">Closing January 10</a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverXikanoproject/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/c49.49.609.609a/s50x50/19214_411086845639416_1856091396_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=uDdLr9_ibeUAX9D3Cb_&_nc_ht=scontent.fapa1-1.fna&tp=28&oh=ee33852162a539abb9d894bd891bc384&oe=60718B50" alt="" /></a><a href="https://www.facebook.com/DenverXikanoproject/">Denver's Chicano Movement  Legacy Project</a><a href="https://www.facebook.com/DenverXikanoproject/posts/3612196022195133"></a><i></i><p>Hecho en Aztlan</p><a href="https://www.historycolorado.org/exhibit/hecho-en-colorado">Closing January 10<img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t45.1600-4/cp0/q90/spS444/c0.37.525.276a/p235x350/134153740_6211952151449_6930290848852810236_n.png.jpg?_nc_cat=107&ccb=1-3&_nc_sid=67cdda&_nc_ohc=OKCCAkXq2ukAX9hOw6y&_nc_ht=scontent.fapa1-2.fna&_nc_tp=31&oh=0c72fb7f63698e78345506f710fd6efb&oe=60726BF8" alt="" width="500" height="262" caption="" /></a><p>historycolorado.org</p><p>Hecho en Colorado</p>Closing January 10<a href="https://www.historycolorado.org/exhibit/hecho-en-colorado">Book Now</a><a href="https://www.historycolorado.org/exhibit/hecho-en-colorado">Closing January 10</a>]]></content:encoded>
       <author>Denver&#39;s Chicano Movement Legacy Project</author>
       <guid>https://www.facebook.com/DenverXikanoproject/posts/3612196022195133</guid>
       <pubDate>Tue, 05 Jan 2021 20:56:22 -0700</pubDate>
@@ -2885,7 +2885,7 @@ Version: `dev.2020-02-26`</p>
       <title>Denver Peace Council - Affiliate of US Peace CouncilHere from 4 people who were in Venezuela as election observers and...</title>
       <link>https://www.facebook.com/1047808052399930</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/17553958_178342902679787_5748199256766769398_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=9wa7zaMlxfwAX93u7XH&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=7156c39dc16fc4fea8ba45d8fd7b3c2c&oe=6074DDF4" alt="" /></a><a href="https://www.facebook.com/Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015/">Denver Peace Council - Affiliate of US Peace Council</a><a href="https://www.facebook.com/permalink.php"></a><i></i><a href="https://www.youtube.com/watch?v=yN8dGE4dO4M&t=17s">Here from 4 people who were in Venezuela as election observers and journalists.<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?w=540&h=282&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FyN8dGE4dO4M%2Fhqdefault.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&_nc_hash=AQFKwXCWuNSbk9sz" alt="" width="500" height="262" caption="" /></a><p>youtube.com</p><p>Venezuelan elections, a blow to US Imperialism</p>Here from 4 people who were in Venezuela as election observers and journalists.<a href="https://www.youtube.com/watch?v=yN8dGE4dO4M&t=17s">Here from 4 people who were in Venezuela as election observers and journalists.</a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/17553958_178342902679787_5748199256766769398_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=9wa7zaMlxfwAX93u7XH&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=7156c39dc16fc4fea8ba45d8fd7b3c2c&oe=6074DDF4" alt="" /></a><a href="https://www.facebook.com/Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015/">Denver Peace Council - Affiliate of US Peace Council</a><a href="https://www.facebook.com/permalink.php"></a><i></i><a href="https://www.youtube.com/watch?v=yN8dGE4dO4M&t=17s">Here from 4 people who were in Venezuela as election observers and journalists.<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQF1hn5zKqw3nQ0l&w=540&h=282&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FyN8dGE4dO4M%2Fhqdefault.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&_nc_hash=AQGzTt3vd3R8Aaht" alt="" width="500" height="262" caption="" /></a><p>youtube.com</p><p>Venezuelan elections, a blow to US Imperialism</p>Here from 4 people who were in Venezuela as election observers and journalists.<a href="https://www.youtube.com/watch?v=yN8dGE4dO4M&t=17s">Here from 4 people who were in Venezuela as election observers and journalists.</a>]]></content:encoded>
       <author>Denver Peace Council</author>
       <guid>https://www.facebook.com/1047808052399930</guid>
       <pubDate>Mon, 21 Dec 2020 08:37:15 -0700</pubDate>
@@ -2993,7 +2993,7 @@ Version: `dev.2020-02-26`</p>
       <title>Our clothing store is up!  The East Colfax t-shirts and hats are...</title>
       <link>https://www.facebook.com/AuroraWarmstheNight/posts/3468059076577411</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/AuroraWarmstheNight/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.0-1/cp0/p50x50/17814640_1264247936958547_1392996099081820795_o.png?_nc_cat=104&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=FytfriLPm3sAX9Rn1vQ&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=cc9884442cf79f073306af0a7bd5ce86&oe=60744221" alt="" /></a><a href="https://www.facebook.com/AuroraWarmstheNight/">Aurora Warms the Night</a><a href="https://www.facebook.com/AuroraWarmstheNight/posts/3468059076577411"></a><i></i><p>Our clothing store is up! </p><p> The East Colfax t-shirts and hats are a tribute to our East Colfax neighborhood - 100% of the profits go to Aurora Warms the Night <br /> <a href="https://www.bonfire.com/store/awtn/">https://www.bonfire.com/store/awtn/</a></p><a href="https://www.facebook.com/AuroraWarmstheNight/photos/pcb.3468059076577411/3468053313244654/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/p168x128/130540318_3468053323244653_8971202934665140659_o.jpg?_nc_cat=103&ccb=1-3&_nc_sid=8024bb&_nc_ohc=2UhTIK8fb1UAX8rTvue&_nc_ht=scontent.fapa1-1.fna&tp=6&oh=8e21676a19972f7933a04d08b9f83d64&oe=6074FD1E" alt="May be a black-and-white image of outerwear" width="167" height="167" caption="May be a black-and-white image of outerwear" /></a><a href="https://www.facebook.com/AuroraWarmstheNight/photos/pcb.3468059076577411/3468053279911324/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/p168x128/130768058_3468053283244657_4752143644419131991_o.jpg?_nc_cat=110&ccb=1-3&_nc_sid=8024bb&_nc_ohc=U4E1lNDJnbIAX9_9Z6V&_nc_ht=scontent.fapa1-1.fna&tp=6&oh=1f956aa2111804611f8458bb1949cb58&oe=6072B61B" alt="May be a black-and-white image of outerwear" width="167" height="167" caption="May be a black-and-white image of outerwear" /></a><a href="https://www.facebook.com/AuroraWarmstheNight/photos/pcb.3468059076577411/3468053289911323/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/p168x128/130851458_3468053293244656_4703475741067306477_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=8024bb&_nc_ohc=Z_knjPWQT0EAX9innyz&_nc_oc=AQn-S7ayV_F2eoc5XuOsQb_VVA_giUpMwmCPPZmPEXOSTLqeSpzYhMaPc_rRmn4iSys&_nc_ht=scontent.fapa1-1.fna&tp=6&oh=e6dedfc9a7f1b9dfd2bd607ccac14ae1&oe=6075210A" alt="May be an image of text that says 'SHELTER, HEALTH AND AURORA warms THE NIGHT HOPE AURORA, co'" width="167" height="167" caption="May be an image of text that says 'SHELTER, HEALTH AND AURORA warms THE NIGHT HOPE AURORA, co'" /></a>Aurora Warms the NightCharity Organization<a href="https://www.facebook.com"><i></i>Send Message</a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/AuroraWarmstheNight/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.0-1/cp0/p50x50/17814640_1264247936958547_1392996099081820795_o.png?_nc_cat=104&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=FytfriLPm3sAX9Rn1vQ&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=cc9884442cf79f073306af0a7bd5ce86&oe=60744221" alt="" /></a><a href="https://www.facebook.com/AuroraWarmstheNight/">Aurora Warms the Night</a><a href="https://www.facebook.com/AuroraWarmstheNight/posts/3468059076577411"></a><i></i><p>Our clothing store is up! </p><p> The East Colfax t-shirts and hats are a tribute to our East Colfax neighborhood - 100% of the profits go to Aurora Warms the Night <br /> <a href="https://www.bonfire.com/store/awtn/">https://www.bonfire.com/store/awtn/</a></p><a href="https://www.facebook.com/AuroraWarmstheNight/photos/pcb.3468059076577411/3468053313244654/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/p168x128/130540318_3468053323244653_8971202934665140659_o.jpg?_nc_cat=103&ccb=1-3&_nc_sid=8024bb&_nc_ohc=2UhTIK8fb1UAX8rTvue&_nc_ht=scontent.fapa1-1.fna&tp=6&oh=8e21676a19972f7933a04d08b9f83d64&oe=6074FD1E" alt="May be a black-and-white image of outerwear" width="167" height="167" caption="May be a black-and-white image of outerwear" /></a><a href="https://www.facebook.com/AuroraWarmstheNight/photos/pcb.3468059076577411/3468053279911324/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/p168x128/130768058_3468053283244657_4752143644419131991_o.jpg?_nc_cat=110&ccb=1-3&_nc_sid=8024bb&_nc_ohc=U4E1lNDJnbIAX9_9Z6V&_nc_ht=scontent.fapa1-1.fna&tp=6&oh=1f956aa2111804611f8458bb1949cb58&oe=6072B61B" alt="May be a black-and-white image of outerwear" width="167" height="167" caption="May be a black-and-white image of outerwear" /></a><a href="https://www.facebook.com/AuroraWarmstheNight/photos/pcb.3468059076577411/3468053289911323/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/p168x128/130851458_3468053293244656_4703475741067306477_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=8024bb&_nc_ohc=7KJtn21KNU4AX9f0Sei&_nc_oc=AQnyDY68eybpinzu-2hnglRqJoyUZ6X8rV03fBaSOdFr_euqI1VnfZeZckw8vl5Id0M&_nc_ht=scontent.fapa1-1.fna&tp=6&oh=1764e7f0831ee7806ddc0c4212003abe&oe=6075210A" alt="May be an image of text that says 'SHELTER, HEALTH AND AURORA warms THE NIGHT HOPE AURORA, co'" width="167" height="167" caption="May be an image of text that says 'SHELTER, HEALTH AND AURORA warms THE NIGHT HOPE AURORA, co'" /></a>Aurora Warms the NightCharity Organization<a href="https://www.facebook.com"><i></i>Send Message</a>]]></content:encoded>
       <author>Aurora Warms the Night</author>
       <guid>https://www.facebook.com/AuroraWarmstheNight/posts/3468059076577411</guid>
       <pubDate>Tue, 08 Dec 2020 12:12:01 -0700</pubDate>
@@ -3362,7 +3362,7 @@ Version: `dev.2020-02-26`</p>
       <title>50 years y que. see fb page Denver&#34;s La Raza Park Legacy...</title>
       <link>https://www.facebook.com/DenverXikanoproject/posts/3311258102288928</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverXikanoproject/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/c49.49.609.609a/s50x50/19214_411086845639416_1856091396_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=uDdLr9_ibeUAX9D3Cb_&_nc_ht=scontent.fapa1-1.fna&tp=28&oh=ee33852162a539abb9d894bd891bc384&oe=60718B50" alt="" /></a><a href="https://www.facebook.com/DenverXikanoproject/">Denver's Chicano Movement  Legacy Project</a><a href="https://www.facebook.com/DenverXikanoproject/posts/3311258102288928"></a><i></i><p>50 years y que. see fb page Denver"s La Raza Park Legacy Project</p><a href="https://history.denverlibrary.org/news/whats-name">As various Columbus-related monuments around the country have become a focus of debate, many Denverites are, again, looking at Columbus Park, referred to by many locals as La Raza Park. Many library users have contacted Western History and Genealogy regarding more information on the historical detai...<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?w=540&h=282&url=https%3A%2F%2Fhistory.denverlibrary.org%2Fsites%2Fhistory%2Ffiles%2Fcdm_1620.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&_nc_hash=AQFVLJhbZlzECbeL" alt="" width="500" height="262" caption="" /></a><p>history.denverlibrary.org</p><p>What's in a name? From Navajo to Columbus to La Raza.</p>As various Columbus-related monuments around the country have become a focus of debate, many Denverites are, again, looking at Columbus Park, referred to by many locals as La Raza Park. Many library users have contacted Western History and Genealogy regarding more information on the historical detai...<a href="https://history.denverlibrary.org/news/whats-name">As various Columbus-related monuments around the country have become a focus of debate, many Denverites are, again, looking at Columbus Park, referred to by many locals as La Raza Park. Many library users have contacted Western History and Genealogy regarding more information on the historical detai...</a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverXikanoproject/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/c49.49.609.609a/s50x50/19214_411086845639416_1856091396_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=uDdLr9_ibeUAX9D3Cb_&_nc_ht=scontent.fapa1-1.fna&tp=28&oh=ee33852162a539abb9d894bd891bc384&oe=60718B50" alt="" /></a><a href="https://www.facebook.com/DenverXikanoproject/">Denver's Chicano Movement  Legacy Project</a><a href="https://www.facebook.com/DenverXikanoproject/posts/3311258102288928"></a><i></i><p>50 years y que. see fb page Denver"s La Raza Park Legacy Project</p><a href="https://history.denverlibrary.org/news/whats-name">As various Columbus-related monuments around the country have become a focus of debate, many Denverites are, again, looking at Columbus Park, referred to by many locals as La Raza Park. Many library users have contacted Western History and Genealogy regarding more information on the historical detai...<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQFr7sUF_Xe_3UWn&w=540&h=282&url=https%3A%2F%2Fhistory.denverlibrary.org%2Fsites%2Fhistory%2Ffiles%2Fcdm_1620.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&_nc_hash=AQF7ZyPKXFEzgVxV" alt="" width="500" height="262" caption="" /></a><p>history.denverlibrary.org</p><p>What's in a name? From Navajo to Columbus to La Raza.</p>As various Columbus-related monuments around the country have become a focus of debate, many Denverites are, again, looking at Columbus Park, referred to by many locals as La Raza Park. Many library users have contacted Western History and Genealogy regarding more information on the historical detai...<a href="https://history.denverlibrary.org/news/whats-name">As various Columbus-related monuments around the country have become a focus of debate, many Denverites are, again, looking at Columbus Park, referred to by many locals as La Raza Park. Many library users have contacted Western History and Genealogy regarding more information on the historical detai...</a>]]></content:encoded>
       <author>Denver&#39;s Chicano Movement Legacy Project</author>
       <guid>https://www.facebook.com/DenverXikanoproject/posts/3311258102288928</guid>
       <pubDate>Wed, 16 Sep 2020 20:00:47 -0600</pubDate>
