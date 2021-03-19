@@ -3,286 +3,7 @@
     <title>Colorado Activist Feed</title>
     <link>https://coloradoactivistfeed.github.io/ColoradoActivistFeed/</link>
     <description>Aggregation of Colorado activist posts from across social media.</description>
-    <pubDate>Fri, 19 Mar 2021 05:00:26 -0600</pubDate>
-    <item>
-      <title>Bridge returned error 400! (18705)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @homelessoutloud</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=homelessoutloud&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40homelessoutloud+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dhomelessoutloud%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40homelessoutloud+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dhomelessoutloud%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>Denver Homeless Out Loud</author>
-      <guid>urn:sha1:a2fe3b280c6a58ea17f19e0919af8d7238f987f3</guid>
-      <pubDate>Fri, 19 Mar 2021 05:00:26 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 500! (18705)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=Denver-Solidarity-March-118949813177149&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Solidarity-March-118949813177149%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Solidarity-March-118949813177149%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Denver Solidarity March</author>
-      <guid>urn:sha1:9822256f96fbea72af82d8ac0ab42a65053e5a9c</guid>
-      <pubDate>Fri, 19 Mar 2021 05:00:23 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 400! (18705)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @BLM5280</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=BLM5280&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40BLM5280+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DBLM5280%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40BLM5280+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DBLM5280%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>urn:sha1:7081667a62818b427187ddbeaf8351ba436b8b3a</guid>
-      <pubDate>Fri, 19 Mar 2021 05:00:20 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 500! (18705)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>blm5280 - Instagram Bridge</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `Unable to find username in search result.`<br />
-Query string: `action=display&bridge=Instagram&context=Username&u=blm5280&media_type=all&direct_links=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pauder</p>
-</section>]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>urn:sha1:ce72aa1a91587f371937ef818ece1a849f298360</guid>
-      <pubDate>Fri, 19 Mar 2021 05:00:19 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 400! (18705)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @surjdenver</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=surjdenver&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40surjdenver+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dsurjdenver%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40surjdenver+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dsurjdenver%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>SURJ Denver</author>
-      <guid>urn:sha1:d2941c0d4be31fe2adeb8d0db2ff7e5f566639e0</guid>
-      <pubDate>Fri, 19 Mar 2021 05:00:14 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 400! (18705)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @TayAndersonCO</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=TayAndersonCO&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40TayAndersonCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DTayAndersonCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40TayAndersonCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DTayAndersonCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>urn:sha1:10534f917f1a7e65d5fc6314ab090ea4bdb3ec60</guid>
-      <pubDate>Fri, 19 Mar 2021 05:00:10 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 500! (18705)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>abolishicedenver - Instagram Bridge</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `Unable to find username in search result.`<br />
-Query string: `action=display&bridge=Instagram&context=Username&u=abolishicedenver&media_type=all&direct_links=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=abolishicedenver+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dabolishicedenver%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=abolishicedenver+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dabolishicedenver%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pauder</p>
-</section>]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>urn:sha1:af0ca0923556ad04e0934ec352a8ba1f949df2db</guid>
-      <pubDate>Fri, 19 Mar 2021 05:00:06 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 400! (18705)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @familiatqlm</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=familiatqlm&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40familiatqlm+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dfamiliatqlm%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40familiatqlm+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dfamiliatqlm%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>Colorado - Familia</author>
-      <guid>urn:sha1:e8569a47357bfaee0dfa2d559b8cbf56db867fc6</guid>
-      <pubDate>Fri, 19 Mar 2021 05:00:02 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 400! (18705)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @Sanctuary4AllCO</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=Sanctuary4AllCO&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40Sanctuary4AllCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DSanctuary4AllCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40Sanctuary4AllCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DSanctuary4AllCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>Sanctuary4All Colorado</author>
-      <guid>urn:sha1:5cf753b1405a6034379d64e1d715024a515821df</guid>
-      <pubDate>Fri, 19 Mar 2021 05:00:00 -0600</pubDate>
-    </item>
+    <pubDate>Fri, 19 Mar 2021 06:00:25 -0600</pubDate>
     <item>
       <title>Bridge returned error 400! (18705)</title>
       <link></link>
@@ -313,7 +34,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Denver Justice Project</author>
       <guid>urn:sha1:f146cb31d8b7d0aebfb3e7d4a53331188b72b1e9</guid>
-      <pubDate>Fri, 19 Mar 2021 04:59:57 -0600</pubDate>
+      <pubDate>Fri, 19 Mar 2021 06:00:25 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18705)</title>
@@ -345,7 +66,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Leslie Herod</author>
       <guid>urn:sha1:7a3092aaa797e8ee1e12a72b6f043c8b0e4d8d9a</guid>
-      <pubDate>Fri, 19 Mar 2021 04:59:50 -0600</pubDate>
+      <pubDate>Fri, 19 Mar 2021 06:00:19 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18705)</title>
@@ -377,7 +98,286 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Melanated Mic Night</author>
       <guid>urn:sha1:aa4b50bab270245e8a1f873c1bda2d1dd72e8310</guid>
-      <pubDate>Fri, 19 Mar 2021 04:59:47 -0600</pubDate>
+      <pubDate>Fri, 19 Mar 2021 06:00:14 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 400! (18705)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @homelessoutloud</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=homelessoutloud&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40homelessoutloud+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dhomelessoutloud%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40homelessoutloud+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dhomelessoutloud%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>Denver Homeless Out Loud</author>
+      <guid>urn:sha1:a2fe3b280c6a58ea17f19e0919af8d7238f987f3</guid>
+      <pubDate>Fri, 19 Mar 2021 06:00:14 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18705)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=Denver-Solidarity-March-118949813177149&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Solidarity-March-118949813177149%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Solidarity-March-118949813177149%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Denver Solidarity March</author>
+      <guid>urn:sha1:9822256f96fbea72af82d8ac0ab42a65053e5a9c</guid>
+      <pubDate>Fri, 19 Mar 2021 06:00:10 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18705)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>blm5280 - Instagram Bridge</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Unable to find username in search result.`<br />
+Query string: `action=display&bridge=Instagram&context=Username&u=blm5280&media_type=all&direct_links=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pauder</p>
+</section>]]></content:encoded>
+      <author>Black Lives Matter 5280</author>
+      <guid>urn:sha1:ce72aa1a91587f371937ef818ece1a849f298360</guid>
+      <pubDate>Fri, 19 Mar 2021 06:00:07 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 400! (18705)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @BLM5280</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=BLM5280&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40BLM5280+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DBLM5280%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40BLM5280+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DBLM5280%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>Black Lives Matter 5280</author>
+      <guid>urn:sha1:7081667a62818b427187ddbeaf8351ba436b8b3a</guid>
+      <pubDate>Fri, 19 Mar 2021 06:00:07 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 400! (18705)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @surjdenver</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=surjdenver&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40surjdenver+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dsurjdenver%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40surjdenver+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dsurjdenver%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>SURJ Denver</author>
+      <guid>urn:sha1:d2941c0d4be31fe2adeb8d0db2ff7e5f566639e0</guid>
+      <pubDate>Fri, 19 Mar 2021 06:00:01 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 400! (18705)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @TayAndersonCO</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=TayAndersonCO&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40TayAndersonCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DTayAndersonCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40TayAndersonCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DTayAndersonCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>Tay Anderson</author>
+      <guid>urn:sha1:10534f917f1a7e65d5fc6314ab090ea4bdb3ec60</guid>
+      <pubDate>Fri, 19 Mar 2021 05:59:58 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18705)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>abolishicedenver - Instagram Bridge</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Unable to find username in search result.`<br />
+Query string: `action=display&bridge=Instagram&context=Username&u=abolishicedenver&media_type=all&direct_links=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=abolishicedenver+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dabolishicedenver%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=abolishicedenver+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dabolishicedenver%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pauder</p>
+</section>]]></content:encoded>
+      <author>Abolish ICE Denver</author>
+      <guid>urn:sha1:af0ca0923556ad04e0934ec352a8ba1f949df2db</guid>
+      <pubDate>Fri, 19 Mar 2021 05:59:55 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 400! (18705)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @familiatqlm</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=familiatqlm&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40familiatqlm+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dfamiliatqlm%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40familiatqlm+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dfamiliatqlm%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>Colorado - Familia</author>
+      <guid>urn:sha1:e8569a47357bfaee0dfa2d559b8cbf56db867fc6</guid>
+      <pubDate>Fri, 19 Mar 2021 05:59:51 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 400! (18705)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @Sanctuary4AllCO</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=Sanctuary4AllCO&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40Sanctuary4AllCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DSanctuary4AllCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40Sanctuary4AllCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DSanctuary4AllCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>Sanctuary4All Colorado</author>
+      <guid>urn:sha1:5cf753b1405a6034379d64e1d715024a515821df</guid>
+      <pubDate>Fri, 19 Mar 2021 05:59:49 -0600</pubDate>
     </item>
     <item>
       <title>Party for Socialism and Liberation - Denver+3Party for Socialism and Liberation - PSLAtlanta takes to the streets against racism and...</title>
@@ -419,7 +419,7 @@ Version: `dev.2020-02-26`</p>
       <title>My response to the bigotry that took place in our School Board...</title>
       <link>https://www.facebook.com/Tay2019/photos/a.257357004647147/1332706963778807/</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_o.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=Z-MPlmGszXAAX-XuOvx&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=69d46917171c0aa664a47ff403a6b983&oe=607A1C31" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/photos/a.257357004647147/1332706963778807/"></a><i></i><p>My response to the bigotry that took place in our School Board meeting today from a parent in our public comment session. </p><p> 1.) Denver Public Schools believes Black Lives Matter! </p><p> 2.) Wear a mask 😷</p><a href="https://www.facebook.com/Tay2019/photos/a.257357004647147/1332706963778807/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-0/p526x296/162431702_1332706967112140_2383643508394977883_o.jpg?_nc_cat=104&ccb=1-3&_nc_sid=110474&_nc_ohc=Eh407ZfTik8AX9lyb1n&_nc_ht=scontent.fapa1-2.fna&tp=6&oh=c5a4ddbd71f3219b3c482336cefc03a0&oe=60782282" alt="May be an image of one or more people and text that says 'BLACK LIVES ACK LIVES MATTER BURIE'" width="500" height="667" caption="May be an image of one or more people and text that says 'BLACK LIVES ACK LIVES MATTER BURIE'" /></a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_o.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=Z-MPlmGszXAAX-XuOvx&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=69d46917171c0aa664a47ff403a6b983&oe=607A1C31" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/photos/a.257357004647147/1332706963778807/"></a><i></i><p>My response to the bigotry that took place in our School Board meeting today from a parent in our public comment session. </p><p> 1.) Denver Public Schools believes Black Lives Matter! </p><p> 2.) Wear a mask 😷</p><a href="https://www.facebook.com/Tay2019/photos/a.257357004647147/1332706963778807/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-0/p526x296/162431702_1332706967112140_2383643508394977883_o.jpg?_nc_cat=104&ccb=1-3&_nc_sid=110474&_nc_ohc=Eh407ZfTik8AX9lyb1n&_nc_ht=scontent.fapa1-2.fna&tp=6&oh=dbe8290334aed141a06d4448ca99881d&oe=607C1702" alt="May be an image of one or more people and text that says 'BLACK LIVES ACK LIVES MATTER BURIE'" width="500" height="667" caption="May be an image of one or more people and text that says 'BLACK LIVES ACK LIVES MATTER BURIE'" /></a>]]></content:encoded>
       <author>Tay Anderson</author>
       <guid>https://www.facebook.com/Tay2019/photos/a.257357004647147/1332706963778807/</guid>
       <pubDate>Thu, 18 Mar 2021 19:38:48 -0600</pubDate>
@@ -446,7 +446,7 @@ Version: `dev.2020-02-26`</p>
       <title>&#34;Colorado lawmakers have introduced several bills this...</title>
       <link>https://www.facebook.com/LeslieforColorado/posts/4000527793332091</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/LeslieforColorado/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/46110182_2103163249735231_8400532839258390528_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=dMg5dCTS12QAX-izp2w&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=82fd2868be205bb563497fc8cb117554&oe=607A5491" alt="" /></a><a href="https://www.facebook.com/LeslieforColorado/">Representative Leslie Herod<a href="https://www.facebook.com/LeslieforColorado/"></a></a><a href="https://www.facebook.com/LeslieforColorado/posts/4000527793332091"></a><i></i><p>"Colorado lawmakers have introduced several bills this session meant to shield immigrants from being arrested over civil immigration violations..."</p><p> <a href="https://www.facebook.com/denverpost/">The Denver Post</a></p><a href="https://www.denverpost.com/2021/03/17/colorado-bills-immigrants-ice/">A look at four bills in the Colorado Legislature that would significantly change to how the state interacts with immigrants who are living in the U.S. without legal permission.<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?w=540&h=282&url=https%3A%2F%2Fwww.denverpost.com%2Fwp-content%2Fuploads%2F2020%2F04%2FTDP-L-GEOAuroraICE040920-cha-466.jpg%3Fw%3D1024%26h%3D682&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&ccb=3-4&_nc_hash=AQFTlItYDcsUQ75q" alt="" width="500" height="262" caption="" /></a><p>denverpost.com</p><p>Colorado bills seek to shield immigrants from ICE, provide legal representation</p>A look at four bills in the Colorado Legislature that would significantly change to how the state interacts with immigrants who are living in the U.S. without legal permission.<a href="https://www.denverpost.com/2021/03/17/colorado-bills-immigrants-ice/">A look at four bills in the Colorado Legislature that would significantly change to how the state interacts with immigrants who are living in the U.S. without legal permission.</a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/LeslieforColorado/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/46110182_2103163249735231_8400532839258390528_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=dMg5dCTS12QAX-izp2w&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=82fd2868be205bb563497fc8cb117554&oe=607A5491" alt="" /></a><a href="https://www.facebook.com/LeslieforColorado/">Representative Leslie Herod<a href="https://www.facebook.com/LeslieforColorado/"></a></a><a href="https://www.facebook.com/LeslieforColorado/posts/4000527793332091"></a><i></i><p>"Colorado lawmakers have introduced several bills this session meant to shield immigrants from being arrested over civil immigration violations..."</p><p> <a href="https://www.facebook.com/denverpost/">The Denver Post</a></p><a href="https://www.denverpost.com/2021/03/17/colorado-bills-immigrants-ice/">A look at four bills in the Colorado Legislature that would significantly change to how the state interacts with immigrants who are living in the U.S. without legal permission.<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQEKQy4834z1DiFj&w=540&h=282&url=https%3A%2F%2Fwww.denverpost.com%2Fwp-content%2Fuploads%2F2020%2F04%2FTDP-L-GEOAuroraICE040920-cha-466.jpg%3Fw%3D1024%26h%3D682&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&ccb=3-4&_nc_hash=AQGUm2EisVs-PcGX" alt="" width="500" height="262" caption="" /></a><p>denverpost.com</p><p>Colorado bills seek to shield immigrants from ICE, provide legal representation</p>A look at four bills in the Colorado Legislature that would significantly change to how the state interacts with immigrants who are living in the U.S. without legal permission.<a href="https://www.denverpost.com/2021/03/17/colorado-bills-immigrants-ice/">A look at four bills in the Colorado Legislature that would significantly change to how the state interacts with immigrants who are living in the U.S. without legal permission.</a>]]></content:encoded>
       <author>Leslie Herod</author>
       <guid>https://www.facebook.com/LeslieforColorado/posts/4000527793332091</guid>
       <pubDate>Thu, 18 Mar 2021 17:15:45 -0600</pubDate>
@@ -578,10 +578,10 @@ Version: `dev.2020-02-26`</p>
       <pubDate>Thu, 18 Mar 2021 10:23:48 -0600</pubDate>
     </item>
     <item>
-      <title>Denver Homeless Out Loud was live.437 Views</title>
+      <title>Denver Homeless Out Loud was live.443 Views</title>
       <link>https://www.facebook.com/DenverHomelessOutLoud/videos/151007223557466/</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverHomelessOutLoud/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/12645267_765701936893095_4336088808811260721_n.png?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=CFestteHwxQAX8uig7Q&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=ca13880c8cbc7660a8ac1ac69092dff9&oe=607B1DBE" alt="" /></a><a href="https://www.facebook.com/DenverHomelessOutLoud/">Denver Homeless Out Loud</a> was live.<a href="https://www.facebook.com/DenverHomelessOutLoud/videos/151007223557466/"></a><i></i><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t15.13418-10/157685367_1438959303102385_5595898893786070097_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=d58ON6I12CgAX8_hqjZ&_nc_ht=scontent.fapa1-2.fna&oh=5afa00867f3279522ff19000badda0f8&oe=607B8080" />437 Views]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverHomelessOutLoud/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/12645267_765701936893095_4336088808811260721_n.png?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=CFestteHwxQAX8uig7Q&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=ca13880c8cbc7660a8ac1ac69092dff9&oe=607B1DBE" alt="" /></a><a href="https://www.facebook.com/DenverHomelessOutLoud/">Denver Homeless Out Loud</a> was live.<a href="https://www.facebook.com/DenverHomelessOutLoud/videos/151007223557466/"></a><i></i><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t15.13418-10/157685367_1438959303102385_5595898893786070097_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=d58ON6I12CgAX8_hqjZ&_nc_ht=scontent.fapa1-2.fna&oh=5afa00867f3279522ff19000badda0f8&oe=607B8080" />443 Views]]></content:encoded>
       <author>Denver Homeless Out Loud</author>
       <guid>https://www.facebook.com/DenverHomelessOutLoud/videos/151007223557466/</guid>
       <pubDate>Thu, 18 Mar 2021 09:42:07 -0600</pubDate>
@@ -596,10 +596,10 @@ Version: `dev.2020-02-26`</p>
       <pubDate>Thu, 18 Mar 2021 09:32:55 -0600</pubDate>
     </item>
     <item>
-      <title>Denver Homeless Out Loud was live.496 Views</title>
+      <title>Denver Homeless Out Loud was live.503 Views</title>
       <link>https://www.facebook.com/DenverHomelessOutLoud/videos/346178360097809/</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverHomelessOutLoud/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/12645267_765701936893095_4336088808811260721_n.png?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=CFestteHwxQAX8uig7Q&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=ca13880c8cbc7660a8ac1ac69092dff9&oe=607B1DBE" alt="" /></a><a href="https://www.facebook.com/DenverHomelessOutLoud/">Denver Homeless Out Loud</a> was live.<a href="https://www.facebook.com/DenverHomelessOutLoud/videos/346178360097809/"></a><i></i><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t15.13418-10/158624734_820786312199997_6074707002866994520_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=U2MAptERHQwAX8dKs5D&_nc_ht=scontent.fapa1-1.fna&oh=3e2d4c88cf9bd1bec2e2bbeef4a4a94a&oe=6079574C" />496 Views]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverHomelessOutLoud/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/12645267_765701936893095_4336088808811260721_n.png?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=CFestteHwxQAX8uig7Q&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=ca13880c8cbc7660a8ac1ac69092dff9&oe=607B1DBE" alt="" /></a><a href="https://www.facebook.com/DenverHomelessOutLoud/">Denver Homeless Out Loud</a> was live.<a href="https://www.facebook.com/DenverHomelessOutLoud/videos/346178360097809/"></a><i></i><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t15.13418-10/158624734_820786312199997_6074707002866994520_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=U2MAptERHQwAX8dKs5D&_nc_ht=scontent.fapa1-1.fna&oh=3e2d4c88cf9bd1bec2e2bbeef4a4a94a&oe=6079574C" />503 Views]]></content:encoded>
       <author>Denver Homeless Out Loud</author>
       <guid>https://www.facebook.com/DenverHomelessOutLoud/videos/346178360097809/</guid>
       <pubDate>Thu, 18 Mar 2021 09:26:53 -0600</pubDate>
@@ -608,7 +608,7 @@ Version: `dev.2020-02-26`</p>
       <title>SWEEP 21st and California</title>
       <link>https://www.facebook.com/DenverHomelessOutLoud/videos/372145707107639/</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverHomelessOutLoud/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/12645267_765701936893095_4336088808811260721_n.png?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=CFestteHwxQAX8uig7Q&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=ca13880c8cbc7660a8ac1ac69092dff9&oe=607B1DBE" alt="" /></a><a href="https://www.facebook.com/DenverHomelessOutLoud/">Denver Homeless Out Loud</a> was live.<a href="https://www.facebook.com/DenverHomelessOutLoud/videos/372145707107639/"></a><i></i><p>SWEEP 21st and California</p><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t15.13418-10/146113014_434976454274563_5636722933176807716_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=xjWKBKK4noIAX_AzYpk&_nc_ht=scontent.fapa1-1.fna&oh=3e35e530601d8c104a7f7f92629a650b&oe=6079FC72" />126 Views]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverHomelessOutLoud/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/12645267_765701936893095_4336088808811260721_n.png?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=CFestteHwxQAX8uig7Q&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=ca13880c8cbc7660a8ac1ac69092dff9&oe=607B1DBE" alt="" /></a><a href="https://www.facebook.com/DenverHomelessOutLoud/">Denver Homeless Out Loud</a> was live.<a href="https://www.facebook.com/DenverHomelessOutLoud/videos/372145707107639/"></a><i></i><p>SWEEP 21st and California</p><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t15.13418-10/146113014_434976454274563_5636722933176807716_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=xjWKBKK4noIAX_AzYpk&_nc_ht=scontent.fapa1-1.fna&oh=3e35e530601d8c104a7f7f92629a650b&oe=6079FC72" />127 Views]]></content:encoded>
       <author>Denver Homeless Out Loud</author>
       <guid>https://www.facebook.com/DenverHomelessOutLoud/videos/372145707107639/</guid>
       <pubDate>Thu, 18 Mar 2021 09:24:42 -0600</pubDate>
@@ -1022,7 +1022,7 @@ Version: `dev.2020-02-26`</p>
       <title>Check out my Live with &amp;#064;dshootsbossup where we discussed...</title>
       <link>https://www.facebook.com/LeslieforColorado/videos/766260634307490/</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/LeslieforColorado/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/46110182_2103163249735231_8400532839258390528_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=dMg5dCTS12QAX-izp2w&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=82fd2868be205bb563497fc8cb117554&oe=607A5491" alt="" /></a><a href="https://www.facebook.com/LeslieforColorado/">Representative Leslie Herod<a href="https://www.facebook.com/LeslieforColorado/"></a></a><a href="https://www.facebook.com/LeslieforColorado/videos/766260634307490/"></a><i></i><p>Check out my Live with &#064;dshootsbossup where we discussed our experiences working while Black, how we protect our peace, and more!</p><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t15.5256-10/150240278_766264357640451_1830834586367328719_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=ialG9wteWYcAX-boRJa&_nc_ht=scontent.fapa1-1.fna&oh=51e177e1d2e4d40b44736b3f36d40a47&oe=60783C95" />]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/LeslieforColorado/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/46110182_2103163249735231_8400532839258390528_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=dMg5dCTS12QAX-izp2w&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=82fd2868be205bb563497fc8cb117554&oe=607A5491" alt="" /></a><a href="https://www.facebook.com/LeslieforColorado/">Representative Leslie Herod<a href="https://www.facebook.com/LeslieforColorado/"></a></a><a href="https://www.facebook.com/LeslieforColorado/videos/766260634307490/"></a><i></i><p>Check out my Live with &#064;dshootsbossup where we discussed our experiences working while Black, how we protect our peace, and more!</p><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t15.5256-10/150240278_766264357640451_1830834586367328719_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=1I0xp1LkedgAX8UrEor&_nc_ht=scontent.fapa1-1.fna&oh=608495b60b0aa8fd8e47406e3c341274&oe=60783C95" />]]></content:encoded>
       <author>Leslie Herod</author>
       <guid>https://www.facebook.com/LeslieforColorado/videos/766260634307490/</guid>
       <pubDate>Tue, 16 Mar 2021 11:42:06 -0600</pubDate>
@@ -1166,7 +1166,7 @@ Version: `dev.2020-02-26`</p>
       <title>&#34;The Centers for Disease Control and Prevention recommends...</title>
       <link>https://www.facebook.com/DenverHomelessOutLoud/posts/2154298924700049</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverHomelessOutLoud/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/12645267_765701936893095_4336088808811260721_n.png?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=CFestteHwxQAX8uig7Q&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=ca13880c8cbc7660a8ac1ac69092dff9&oe=607B1DBE" alt="" /></a><a href="https://www.facebook.com/DenverHomelessOutLoud/">Denver Homeless Out Loud</a><a href="https://www.facebook.com/DenverHomelessOutLoud/posts/2154298924700049"></a><i></i><p>"The Centers for Disease Control and Prevention recommends that officials not disturb tent encampments during the coronavirus pandemic unless people are given individual hotel rooms, as homeless advocates want to see. Those advocates say providing a safe space where people can get meals, use a toilet and avoid harassing passers-by is a reasonable option given the times.</p><p> “The best, best option would be housing. The second-best option would be hotel rooms, but if you can’t do that and we’re going to have so many people outside then I think it makes sense ... to make those outside as safe as can be,” said Dr. Margot Kushel, director of the Center for Vulnerable Populations at the University of California, San Francisco."</p><p> <a href="https://www.usnews.com/news/politics/articles/2020-05-22/san-francisco-sanctions-once-shunned-homeless-encampments">https://www.usnews.com/…/san-francisco-sanctions-once-shunn…</a>"</p><a href="https://www.usnews.com/news/politics/articles/2020-05-22/san-francisco-sanctions-once-shunned-homeless-encampments">A city-sanctioned homeless encampment with 80 tents has sprung up by San Francisco's City Hall, part of an effort to protect the homeless amid the coronavirus pandemic.<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQGb4xeQcNJV_DE2&w=540&h=282&url=https%3A%2F%2Fwww.usnews.com%2Fdims4%2FUSNEWS%2F1e3f8c2%2F2147483647%2Fthumbnail%2F970x647%2Fquality%2F85%2F%3Furl%3Dhttp%253A%252F%252Fmedia.beam.usnews.com%252F3c%252F28c9a6f77b505a1088ff06428c9f8f%252Fmedia%253Ab0ebac386dcf4ccbbf1b70f6fc11d1c2APTOPIX_Virus_Outbreak_Homeless_Encampments_57086.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&ccb=3-4&_nc_hash=AQFiwSIowKl0HsrK" alt="" width="500" height="262" caption="" /></a><p>usnews.com</p><p>San Francisco Sanctions Once-Shunned Homeless Encampments</p>A city-sanctioned homeless encampment with 80 tents has sprung up by San Francisco's City Hall, part of an effort to protect the homeless amid the coronavirus pandemic.<a href="https://www.usnews.com/news/politics/articles/2020-05-22/san-francisco-sanctions-once-shunned-homeless-encampments">A city-sanctioned homeless encampment with 80 tents has sprung up by San Francisco's City Hall, part of an effort to protect the homeless amid the coronavirus pandemic.</a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverHomelessOutLoud/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/12645267_765701936893095_4336088808811260721_n.png?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=CFestteHwxQAX8uig7Q&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=ca13880c8cbc7660a8ac1ac69092dff9&oe=607B1DBE" alt="" /></a><a href="https://www.facebook.com/DenverHomelessOutLoud/">Denver Homeless Out Loud</a><a href="https://www.facebook.com/DenverHomelessOutLoud/posts/2154298924700049"></a><i></i><p>"The Centers for Disease Control and Prevention recommends that officials not disturb tent encampments during the coronavirus pandemic unless people are given individual hotel rooms, as homeless advocates want to see. Those advocates say providing a safe space where people can get meals, use a toilet and avoid harassing passers-by is a reasonable option given the times.</p><p> “The best, best option would be housing. The second-best option would be hotel rooms, but if you can’t do that and we’re going to have so many people outside then I think it makes sense ... to make those outside as safe as can be,” said Dr. Margot Kushel, director of the Center for Vulnerable Populations at the University of California, San Francisco."</p><p> <a href="https://www.usnews.com/news/politics/articles/2020-05-22/san-francisco-sanctions-once-shunned-homeless-encampments">https://www.usnews.com/…/san-francisco-sanctions-once-shunn…</a>"</p><a href="https://www.usnews.com/news/politics/articles/2020-05-22/san-francisco-sanctions-once-shunned-homeless-encampments">A city-sanctioned homeless encampment with 80 tents has sprung up by San Francisco's City Hall, part of an effort to protect the homeless amid the coronavirus pandemic.<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?w=540&h=282&url=https%3A%2F%2Fwww.usnews.com%2Fdims4%2FUSNEWS%2F1e3f8c2%2F2147483647%2Fthumbnail%2F970x647%2Fquality%2F85%2F%3Furl%3Dhttp%253A%252F%252Fmedia.beam.usnews.com%252F3c%252F28c9a6f77b505a1088ff06428c9f8f%252Fmedia%253Ab0ebac386dcf4ccbbf1b70f6fc11d1c2APTOPIX_Virus_Outbreak_Homeless_Encampments_57086.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&ccb=3-4&_nc_hash=AQGAwTwhOdttwO1T" alt="" width="500" height="262" caption="" /></a><p>usnews.com</p><p>San Francisco Sanctions Once-Shunned Homeless Encampments</p>A city-sanctioned homeless encampment with 80 tents has sprung up by San Francisco's City Hall, part of an effort to protect the homeless amid the coronavirus pandemic.<a href="https://www.usnews.com/news/politics/articles/2020-05-22/san-francisco-sanctions-once-shunned-homeless-encampments">A city-sanctioned homeless encampment with 80 tents has sprung up by San Francisco's City Hall, part of an effort to protect the homeless amid the coronavirus pandemic.</a>]]></content:encoded>
       <author>Denver Homeless Out Loud</author>
       <guid>https://www.facebook.com/DenverHomelessOutLoud/posts/2154298924700049</guid>
       <pubDate>Mon, 15 Mar 2021 09:34:51 -0600</pubDate>
@@ -1175,7 +1175,7 @@ Version: `dev.2020-02-26`</p>
       <title>** TODAY **  We will meet on the south side of the park at the...</title>
       <link>https://www.facebook.com/Tay2019/posts/1330440327338804</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_o.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=Z-MPlmGszXAAX-XuOvx&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=69d46917171c0aa664a47ff403a6b983&oe=607A1C31" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1330440327338804"></a><i></i><p>** TODAY ** </p><p> We will meet on the south side of the park at the corner of MLK & Xenia at 11:00-ish AM. </p><p> Wear gloves, bundle up, and wear a mask! 😷</p><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/p235x350/160247673_1329140620802108_6060779781286904456_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=b386c4&_nc_ohc=7N746SQah_QAX92F7dH&_nc_ht=scontent.fapa1-1.fna&tp=6&oh=634663ff8fb1291df0648c9f17be0e0a&oe=607826E2" alt="Denver School Board Director - Tay Anderson's photo." width="500" height="344" caption="Denver School Board Director - Tay Anderson's photo." /><a href="https://www.facebook.com/events/958354544699542/"></a><p>MON, MAR 15</p><p>Snowball Tournament w/ Director Tay</p>Central Park Blvd, Denver, CO 80238, United States<i></i><a href="https://www.facebook.com/events/discovery/">Networking</a> · 104 people]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_o.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=Z-MPlmGszXAAX-XuOvx&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=69d46917171c0aa664a47ff403a6b983&oe=607A1C31" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1330440327338804"></a><i></i><p>** TODAY ** </p><p> We will meet on the south side of the park at the corner of MLK & Xenia at 11:00-ish AM. </p><p> Wear gloves, bundle up, and wear a mask! 😷</p><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/p235x350/160247673_1329140620802108_6060779781286904456_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=b386c4&_nc_ohc=7N746SQah_QAX92F7dH&_nc_ht=scontent.fapa1-1.fna&tp=6&oh=74e6f80ff3f1970da75f7989d6991bc5&oe=607C1B62" alt="Denver School Board Director - Tay Anderson's photo." width="500" height="344" caption="Denver School Board Director - Tay Anderson's photo." /><a href="https://www.facebook.com/events/958354544699542/"></a><p>MON, MAR 15</p><p>Snowball Tournament w/ Director Tay</p>Central Park Blvd, Denver, CO 80238, United States<i></i><a href="https://www.facebook.com/events/discovery/">Networking</a> · 104 people]]></content:encoded>
       <author>Tay Anderson</author>
       <guid>https://www.facebook.com/Tay2019/posts/1330440327338804</guid>
       <pubDate>Mon, 15 Mar 2021 08:57:09 -0600</pubDate>
@@ -1229,7 +1229,7 @@ Version: `dev.2020-02-26`</p>
       <title>We will meet on the south side of the park at the corner of MLK...</title>
       <link>https://www.facebook.com/Tay2019/posts/1330054157377421</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_o.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=Z-MPlmGszXAAX-XuOvx&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=69d46917171c0aa664a47ff403a6b983&oe=607A1C31" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1330054157377421"></a><i></i><p>We will meet on the south side of the park at the corner of MLK & Xenia at 11:00-ish AM. </p><p> Wear gloves, bundle up, and wear a mask! 😷</p><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/p235x350/160247673_1329140620802108_6060779781286904456_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=b386c4&_nc_ohc=7N746SQah_QAX92F7dH&_nc_ht=scontent.fapa1-1.fna&tp=6&oh=634663ff8fb1291df0648c9f17be0e0a&oe=607826E2" alt="Denver School Board Director - Tay Anderson's photo." width="500" height="344" caption="Denver School Board Director - Tay Anderson's photo." /><a href="https://www.facebook.com/events/958354544699542/"></a><p>MON, MAR 15</p><p>Snowball Tournament w/ Director Tay</p>Central Park Blvd, Denver, CO 80238, United States<i></i><a href="https://www.facebook.com/events/discovery/">Networking</a> · 104 people]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_o.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=Z-MPlmGszXAAX-XuOvx&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=69d46917171c0aa664a47ff403a6b983&oe=607A1C31" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1330054157377421"></a><i></i><p>We will meet on the south side of the park at the corner of MLK & Xenia at 11:00-ish AM. </p><p> Wear gloves, bundle up, and wear a mask! 😷</p><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/p235x350/160247673_1329140620802108_6060779781286904456_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=b386c4&_nc_ohc=7N746SQah_QAX92F7dH&_nc_ht=scontent.fapa1-1.fna&tp=6&oh=74e6f80ff3f1970da75f7989d6991bc5&oe=607C1B62" alt="Denver School Board Director - Tay Anderson's photo." width="500" height="344" caption="Denver School Board Director - Tay Anderson's photo." /><a href="https://www.facebook.com/events/958354544699542/"></a><p>MON, MAR 15</p><p>Snowball Tournament w/ Director Tay</p>Central Park Blvd, Denver, CO 80238, United States<i></i><a href="https://www.facebook.com/events/discovery/">Networking</a> · 104 people]]></content:encoded>
       <author>Tay Anderson</author>
       <guid>https://www.facebook.com/Tay2019/posts/1330054157377421</guid>
       <pubDate>Sun, 14 Mar 2021 17:33:27 -0600</pubDate>
@@ -1247,7 +1247,7 @@ Version: `dev.2020-02-26`</p>
       <title>Denver Public Schools will have a snow day, which means .... WE...</title>
       <link>https://www.facebook.com/Tay2019/posts/1329870724062431</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_o.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=Z-MPlmGszXAAX-XuOvx&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=69d46917171c0aa664a47ff403a6b983&oe=607A1C31" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1329870724062431"></a><i></i><p>Denver Public Schools will have a snow day, which means .... WE ARE HAVING THE SNOWBALL TOURNAMENT! </p><p> Central Park — 11:00 AM!</p><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/p235x350/160247673_1329140620802108_6060779781286904456_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=b386c4&_nc_ohc=7N746SQah_QAX92F7dH&_nc_ht=scontent.fapa1-1.fna&tp=6&oh=634663ff8fb1291df0648c9f17be0e0a&oe=607826E2" alt="Denver School Board Director - Tay Anderson's photo." width="500" height="344" caption="Denver School Board Director - Tay Anderson's photo." /><a href="https://www.facebook.com/events/958354544699542/"></a><p>MON, MAR 15</p><p>Snowball Tournament w/ Director Tay</p>Central Park Blvd, Denver, CO 80238, United States<i></i><a href="https://www.facebook.com/events/discovery/">Networking</a> · 104 people]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_o.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=Z-MPlmGszXAAX-XuOvx&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=69d46917171c0aa664a47ff403a6b983&oe=607A1C31" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1329870724062431"></a><i></i><p>Denver Public Schools will have a snow day, which means .... WE ARE HAVING THE SNOWBALL TOURNAMENT! </p><p> Central Park — 11:00 AM!</p><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/p235x350/160247673_1329140620802108_6060779781286904456_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=b386c4&_nc_ohc=7N746SQah_QAX92F7dH&_nc_ht=scontent.fapa1-1.fna&tp=6&oh=74e6f80ff3f1970da75f7989d6991bc5&oe=607C1B62" alt="Denver School Board Director - Tay Anderson's photo." width="500" height="344" caption="Denver School Board Director - Tay Anderson's photo." /><a href="https://www.facebook.com/events/958354544699542/"></a><p>MON, MAR 15</p><p>Snowball Tournament w/ Director Tay</p>Central Park Blvd, Denver, CO 80238, United States<i></i><a href="https://www.facebook.com/events/discovery/">Networking</a> · 104 people]]></content:encoded>
       <author>Tay Anderson</author>
       <guid>https://www.facebook.com/Tay2019/posts/1329870724062431</guid>
       <pubDate>Sun, 14 Mar 2021 12:54:35 -0600</pubDate>
@@ -2219,7 +2219,7 @@ Version: `dev.2020-02-26`</p>
       <title>Using an arbitrary system to decide which views and beliefs can...</title>
       <link>https://www.facebook.com/acluofcolorado/posts/4006555326044593</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/acluofcolorado/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t31.0-1/cp0/p50x50/21950661_1662566980443451_7358479861831904430_o.jpg?_nc_cat=103&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=6SaPxZSh0tQAX_o4yHa&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=8bd54ecbb95732a8eab17a41ee59756c&oe=6078B87C" alt="" /></a><a href="https://www.facebook.com/acluofcolorado/">ACLU of Colorado</a><a href="https://www.facebook.com/acluofcolorado/posts/4006555326044593"></a><i></i><p>Using an arbitrary system to decide which views and beliefs can and can’t be expressed clearly violates the First Amendment. We must hold HOAs and Metro Districts to the Constitution, and ensure that residents can exercise their right to free speech.</p><p> <a href="https://www.denverpost.com/2021/02/23/aclu-lawsuit-free-speech-hoa-special-districts/">https://www.denverpost.com/…/aclu-lawsuit-free-speech-hoa-…/</a></p><a href="https://www.denverpost.com/2021/02/23/aclu-lawsuit-free-speech-hoa-special-districts/">The American Civil Liberties Union of Colorado filed a federal lawsuit Tuesday challenging neighborhood subdivision rules that prohibit residents from displaying certain flags and signs on their pr…<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQG1Rzt_ZIa4HDk5&w=540&h=282&url=https%3A%2F%2Fwww.denverpost.com%2Fwp-content%2Fuploads%2F2018%2F06%2FDenver-Pride-Parade_SAM4404.jpg%3Fw%3D1024%26h%3D681&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&ccb=3-4&_nc_hash=AQH5pjiVMS3bm5xm" alt="" width="500" height="262" caption="" /></a><p>denverpost.com</p><p>ACLU sues Denver-area subdivision for barring pride flags, social justice signs</p>The American Civil Liberties Union of Colorado filed a federal lawsuit Tuesday challenging neighborhood subdivision rules that prohibit residents from displaying certain flags and signs on their pr…<a href="https://www.denverpost.com/2021/02/23/aclu-lawsuit-free-speech-hoa-special-districts/">The American Civil Liberties Union of Colorado filed a federal lawsuit Tuesday challenging neighborhood subdivision rules that prohibit residents from displaying certain flags and signs on their pr…</a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/acluofcolorado/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t31.0-1/cp0/p50x50/21950661_1662566980443451_7358479861831904430_o.jpg?_nc_cat=103&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=6SaPxZSh0tQAX_o4yHa&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=8bd54ecbb95732a8eab17a41ee59756c&oe=6078B87C" alt="" /></a><a href="https://www.facebook.com/acluofcolorado/">ACLU of Colorado</a><a href="https://www.facebook.com/acluofcolorado/posts/4006555326044593"></a><i></i><p>Using an arbitrary system to decide which views and beliefs can and can’t be expressed clearly violates the First Amendment. We must hold HOAs and Metro Districts to the Constitution, and ensure that residents can exercise their right to free speech.</p><p> <a href="https://www.denverpost.com/2021/02/23/aclu-lawsuit-free-speech-hoa-special-districts/">https://www.denverpost.com/…/aclu-lawsuit-free-speech-hoa-…/</a></p><a href="https://www.denverpost.com/2021/02/23/aclu-lawsuit-free-speech-hoa-special-districts/">The American Civil Liberties Union of Colorado filed a federal lawsuit Tuesday challenging neighborhood subdivision rules that prohibit residents from displaying certain flags and signs on their pr…<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?w=540&h=282&url=https%3A%2F%2Fwww.denverpost.com%2Fwp-content%2Fuploads%2F2018%2F06%2FDenver-Pride-Parade_SAM4404.jpg%3Fw%3D1024%26h%3D681&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&ccb=3-4&_nc_hash=AQHHkN5F-ckhPAJZ" alt="" width="500" height="262" caption="" /></a><p>denverpost.com</p><p>ACLU sues Denver-area subdivision for barring pride flags, social justice signs</p>The American Civil Liberties Union of Colorado filed a federal lawsuit Tuesday challenging neighborhood subdivision rules that prohibit residents from displaying certain flags and signs on their pr…<a href="https://www.denverpost.com/2021/02/23/aclu-lawsuit-free-speech-hoa-special-districts/">The American Civil Liberties Union of Colorado filed a federal lawsuit Tuesday challenging neighborhood subdivision rules that prohibit residents from displaying certain flags and signs on their pr…</a>]]></content:encoded>
       <author>ACLU of Colorado</author>
       <guid>https://www.facebook.com/acluofcolorado/posts/4006555326044593</guid>
       <pubDate>Tue, 23 Feb 2021 15:08:02 -0700</pubDate>
@@ -2606,7 +2606,7 @@ Version: `dev.2020-02-26`</p>
       <title>stripping unhoused neighbors of their homes and their belongings...</title>
       <link>https://www.facebook.com/220059113089764</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Colorado-Attorneys-Against-Police-Violence-106087521153591/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/c23.0.50.50a/p50x50/118569704_145892603839749_1971037107782593743_n.png?_nc_cat=108&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=f8uhIWNCdKUAX-psyKM&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=1d7bffa745e85b970978d651b6fab75e&oe=607A9CAF" alt="" /></a><a href="https://www.facebook.com/Colorado-Attorneys-Against-Police-Violence-106087521153591/">Colorado Attorneys Against Police Violence</a><a href="https://www.facebook.com/permalink.php"></a><i></i><p>stripping unhoused neighbors of their homes and their belongings is police violence. </p><p> <a href="https://www.westword.com/news/federal-judge-grants-notice-denver-homeless-sweeps-preliminary-injunction-11888171?fbclid=IwAR0057n6f5GPCeNvd6fSYqsNHFbTNWdjuOdpp_ldYRSIAXgHbvpgErylaNo">https://www.westword.com/…/federal-judge-grants-notice-denv…</a></p><a href="https://www.westword.com/news/federal-judge-grants-notice-denver-homeless-sweeps-preliminary-injunction-11888171">A motion for preliminary injunction was granted...in part.<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQGqTorwE_9o-Qj6&w=540&h=282&url=https%3A%2F%2Fimages1.westword.com%2Fimager%2Fu%2Foriginal%2F11888185%2F_dhp1952.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&ccb=3-4&_nc_hash=AQFJwu--i2QwnCM4" alt="" width="500" height="262" caption="" /></a><p>westword.com</p><p>Federal Judge Puts Restrictions on Denver Homeless Sweeps</p>A motion for preliminary injunction was granted...in part.<a href="https://www.westword.com/news/federal-judge-grants-notice-denver-homeless-sweeps-preliminary-injunction-11888171">A motion for preliminary injunction was granted...in part.</a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/Colorado-Attorneys-Against-Police-Violence-106087521153591/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/c23.0.50.50a/p50x50/118569704_145892603839749_1971037107782593743_n.png?_nc_cat=108&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=f8uhIWNCdKUAX-psyKM&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=1d7bffa745e85b970978d651b6fab75e&oe=607A9CAF" alt="" /></a><a href="https://www.facebook.com/Colorado-Attorneys-Against-Police-Violence-106087521153591/">Colorado Attorneys Against Police Violence</a><a href="https://www.facebook.com/permalink.php"></a><i></i><p>stripping unhoused neighbors of their homes and their belongings is police violence. </p><p> <a href="https://www.westword.com/news/federal-judge-grants-notice-denver-homeless-sweeps-preliminary-injunction-11888171?fbclid=IwAR0057n6f5GPCeNvd6fSYqsNHFbTNWdjuOdpp_ldYRSIAXgHbvpgErylaNo">https://www.westword.com/…/federal-judge-grants-notice-denv…</a></p><a href="https://www.westword.com/news/federal-judge-grants-notice-denver-homeless-sweeps-preliminary-injunction-11888171">A motion for preliminary injunction was granted...in part.<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?w=540&h=282&url=https%3A%2F%2Fimages1.westword.com%2Fimager%2Fu%2Foriginal%2F11888185%2F_dhp1952.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&ccb=3-4&_nc_hash=AQEy246ikobzBUYe" alt="" width="500" height="262" caption="" /></a><p>westword.com</p><p>Federal Judge Puts Restrictions on Denver Homeless Sweeps</p>A motion for preliminary injunction was granted...in part.<a href="https://www.westword.com/news/federal-judge-grants-notice-denver-homeless-sweeps-preliminary-injunction-11888171">A motion for preliminary injunction was granted...in part.</a>]]></content:encoded>
       <author>Colorado Attorneys Against Police Violence</author>
       <guid>https://www.facebook.com/220059113089764</guid>
       <pubDate>Tue, 26 Jan 2021 07:27:01 -0700</pubDate>
@@ -2669,7 +2669,7 @@ Version: `dev.2020-02-26`</p>
       <title>...</title>
       <link>https://www.facebook.com/216963660065976</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Colorado-Attorneys-Against-Police-Violence-106087521153591/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/c23.0.50.50a/p50x50/118569704_145892603839749_1971037107782593743_n.png?_nc_cat=108&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=f8uhIWNCdKUAX-psyKM&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=1d7bffa745e85b970978d651b6fab75e&oe=607A9CAF" alt="" /></a><a href="https://www.facebook.com/Colorado-Attorneys-Against-Police-Violence-106087521153591/">Colorado Attorneys Against Police Violence</a><a href="https://www.facebook.com/permalink.php"></a><i></i><p><a href="https://www.denverpost.com/2021/01/20/anthony-martinez-colorado-special-needs-prison-parole/?fbclid=IwAR3tMz0wcSWXyPy-JfrRzxKu4Opd4N1GoaUFGZl3_WDsIYzd4JmYlkoyNGw">https://www.denverpost.com/…/anthony-martinez-colorado-sp…/…</a></p><a href="https://www.denverpost.com/2021/01/20/anthony-martinez-colorado-special-needs-prison-parole/">At 84 years old, Anthony Martinez’s health was deteriorating quickly. He was nearly deaf, losing his vision, using a wheelchair, suffering renal failure and beginning to show signs of dementia. Col…<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?w=540&h=282&url=https%3A%2F%2Fwww.denverpost.com%2Fwp-content%2Fuploads%2F2021%2F01%2FTDP-L-ANTHONY-MARTINEZ-RELEASE_JAC3822x.jpg%3Fw%3D1024%26h%3D751&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&ccb=3-4&_nc_hash=AQEFWoEtylCKg4b1" alt="" width="500" height="262" caption="" /></a><p>denverpost.com</p><p>Release of 84-year-old Colorado prisoner highlights push to fix “fundamentally broken” parole option</p>At 84 years old, Anthony Martinez’s health was deteriorating quickly. He was nearly deaf, losing his vision, using a wheelchair, suffering renal failure and beginning to show signs of dementia. Col…<a href="https://www.denverpost.com/2021/01/20/anthony-martinez-colorado-special-needs-prison-parole/">At 84 years old, Anthony Martinez’s health was deteriorating quickly. He was nearly deaf, losing his vision, using a wheelchair, suffering renal failure and beginning to show signs of dementia. Col…</a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/Colorado-Attorneys-Against-Police-Violence-106087521153591/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/c23.0.50.50a/p50x50/118569704_145892603839749_1971037107782593743_n.png?_nc_cat=108&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=f8uhIWNCdKUAX-psyKM&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=1d7bffa745e85b970978d651b6fab75e&oe=607A9CAF" alt="" /></a><a href="https://www.facebook.com/Colorado-Attorneys-Against-Police-Violence-106087521153591/">Colorado Attorneys Against Police Violence</a><a href="https://www.facebook.com/permalink.php"></a><i></i><p><a href="https://www.denverpost.com/2021/01/20/anthony-martinez-colorado-special-needs-prison-parole/?fbclid=IwAR3tMz0wcSWXyPy-JfrRzxKu4Opd4N1GoaUFGZl3_WDsIYzd4JmYlkoyNGw">https://www.denverpost.com/…/anthony-martinez-colorado-sp…/…</a></p><a href="https://www.denverpost.com/2021/01/20/anthony-martinez-colorado-special-needs-prison-parole/">At 84 years old, Anthony Martinez’s health was deteriorating quickly. He was nearly deaf, losing his vision, using a wheelchair, suffering renal failure and beginning to show signs of dementia. Col…<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQHiNrv0tjRxVZME&w=540&h=282&url=https%3A%2F%2Fwww.denverpost.com%2Fwp-content%2Fuploads%2F2021%2F01%2FTDP-L-ANTHONY-MARTINEZ-RELEASE_JAC3822x.jpg%3Fw%3D1024%26h%3D751&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&ccb=3-4&_nc_hash=AQFSjFcs4Csav0W5" alt="" width="500" height="262" caption="" /></a><p>denverpost.com</p><p>Release of 84-year-old Colorado prisoner highlights push to fix “fundamentally broken” parole option</p>At 84 years old, Anthony Martinez’s health was deteriorating quickly. He was nearly deaf, losing his vision, using a wheelchair, suffering renal failure and beginning to show signs of dementia. Col…<a href="https://www.denverpost.com/2021/01/20/anthony-martinez-colorado-special-needs-prison-parole/">At 84 years old, Anthony Martinez’s health was deteriorating quickly. He was nearly deaf, losing his vision, using a wheelchair, suffering renal failure and beginning to show signs of dementia. Col…</a>]]></content:encoded>
       <author>Colorado Attorneys Against Police Violence</author>
       <guid>https://www.facebook.com/216963660065976</guid>
       <pubDate>Thu, 21 Jan 2021 10:07:55 -0700</pubDate>
@@ -2858,7 +2858,7 @@ Version: `dev.2020-02-26`</p>
       <title>Now more than ever the need to help our homeless population on...</title>
       <link>https://www.facebook.com/AuroraWarmstheNight/posts/3541129282603723</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/AuroraWarmstheNight/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.0-1/cp0/p50x50/17814640_1264247936958547_1392996099081820795_o.png?_nc_cat=104&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=S7oMU7S8bQ4AX9r-Rvd&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=e93601189714d8f8b00ab93c58728898&oe=607836A1" alt="" /></a><a href="https://www.facebook.com/AuroraWarmstheNight/">Aurora Warms the Night</a><a href="https://www.facebook.com/AuroraWarmstheNight/posts/3541129282603723"></a><i></i><p>Now more than ever the need to help our homeless population on East Colfax is mounting. With the affects of COVID-19 only just beginning and the number of people we see on the streets growing, we must act now.</p><a href="https://www.flipcause.com/secure/cause_pdetails/OTk1NjY=">Funds to provide food, shelter and clothing for our East Colfax Community<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQFXaKFLw1hj1O9Q&w=160&h=160&url=https%3A%2F%2Fwww.flipcause.com%2Fuploads%2Fcrop_thumb%2F5f89cfa6e3fe6_5f89cf1e77e5f_AWTN-Thumbnailpng&cfs=1&upscale=1&fallback=news_d_placeholder_publisher_square&_nc_cb=1&ccb=3-4&_nc_hash=AQH74tDRLv7lONyv" alt="" width="158" height="158" caption="" /></a><p>flipcause.com</p><p>Its cold Be part of our homeless outreach</p>Funds to provide food, shelter and clothing for our East Colfax Community<a href="https://www.flipcause.com/secure/cause_pdetails/OTk1NjY=">Funds to provide food, shelter and clothing for our East Colfax Community</a><a href="https://www.facebook.com/AuroraWarmstheNight/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.0-1/cp0/p56x56/17814640_1264247936958547_1392996099081820795_o.png?_nc_cat=104&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=S7oMU7S8bQ4AX9r-Rvd&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=480fb2bb488a446c3852f6b6dcda6090&oe=60782E96" alt="" /></a><a href="https://www.facebook.com">Donate</a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/AuroraWarmstheNight/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.0-1/cp0/p50x50/17814640_1264247936958547_1392996099081820795_o.png?_nc_cat=104&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=S7oMU7S8bQ4AX9r-Rvd&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=e93601189714d8f8b00ab93c58728898&oe=607836A1" alt="" /></a><a href="https://www.facebook.com/AuroraWarmstheNight/">Aurora Warms the Night</a><a href="https://www.facebook.com/AuroraWarmstheNight/posts/3541129282603723"></a><i></i><p>Now more than ever the need to help our homeless population on East Colfax is mounting. With the affects of COVID-19 only just beginning and the number of people we see on the streets growing, we must act now.</p><a href="https://www.flipcause.com/secure/cause_pdetails/OTk1NjY=">Funds to provide food, shelter and clothing for our East Colfax Community<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQFXaKFLw1hj1O9Q&w=160&h=160&url=https%3A%2F%2Fwww.flipcause.com%2Fuploads%2Fcrop_thumb%2F5f89cfa6e3fe6_5f89cf1e77e5f_AWTN-Thumbnailpng&cfs=1&upscale=1&fallback=news_d_placeholder_publisher_square&_nc_cb=1&ccb=3-4&_nc_hash=AQH74tDRLv7lONyv" alt="" width="158" height="158" caption="" /></a><p>flipcause.com</p><p>Its cold Be part of our homeless outreach</p>Funds to provide food, shelter and clothing for our East Colfax Community<a href="https://www.flipcause.com/secure/cause_pdetails/OTk1NjY=">Funds to provide food, shelter and clothing for our East Colfax Community</a><a href="https://www.facebook.com/AuroraWarmstheNight/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.0-1/cp0/p56x56/17814640_1264247936958547_1392996099081820795_o.png?_nc_cat=104&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=S7oMU7S8bQ4AX9r-Rvd&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=d2032e09c339bfdd9a4ea55cfc754ecd&oe=607C2316" alt="" /></a><a href="https://www.facebook.com">Donate</a>]]></content:encoded>
       <author>Aurora Warms the Night</author>
       <guid>https://www.facebook.com/AuroraWarmstheNight/posts/3541129282603723</guid>
       <pubDate>Thu, 07 Jan 2021 08:44:14 -0700</pubDate>
@@ -2921,7 +2921,7 @@ Version: `dev.2020-02-26`</p>
       <title>This fund is national and is intended to provide financial...</title>
       <link>https://www.facebook.com/cofamiliatqlm/posts/3127111320724051</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/cofamiliatqlm/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/120090361_2886619768106542_2204607326271869280_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=7yEc5MiMasUAX90ohMi&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=d648502214fa4e177d8d541fa55b5e49&oe=6079D765" alt="" /></a><a href="https://www.facebook.com/cofamiliatqlm/">Colorado - Familia: Trans Queer Liberation Movement</a><a href="https://www.facebook.com/cofamiliatqlm/posts/3127111320724051"></a><i></i><p>This fund is national and is intended to provide financial assistance for LGBTQ+ individuals applying for DACA for the first time. The applicant will be provided with legal services at no cost to them by a law firm and the check will be issued directly to USCIS as part of the application.</p><p> <a href="https://docs.google.com/forms/d/e/1FAIpQLSedjc97c-33rvhqjFv9zk5ENwS4J8rSEi3hjvJgO1koiCU5FA/viewform?fbclid=IwAR3UDUQdO42ejg4iSYp7l9yrFUrV6UUSS68dmZTOJOZ_DaljDEa2S1jQcIA">https://docs.google.com/…/1FAIpQLSedjc97c-33rvhqj…/viewform…</a></p><a href="https://docs.google.com/forms/d/e/1FAIpQLSedjc97c-33rvhqjFv9zk5ENwS4J8rSEi3hjvJgO1koiCU5FA/viewform">This fund is intended to provide financial assistance for LGBTQ+ individuals applying for DACA for the first time. The applicant will be provided with legal services at no cost to them by a law firm and the check will be issued directly to USCIS as part of the application. To prevent fraud and ensur...<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?w=540&h=282&url=https%3A%2F%2Flh6.googleusercontent.com%2FGyB8zzAK9VQU9tSbp0J_rRJfTinKnWWMfDLkXOYsCesBBVSKWbcgYReLOHj8Ka_8SOjQb8o%3Dw1200-h630-p&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&ccb=3-4&_nc_hash=AQE9smZKmZBUV-5z" alt="" width="500" height="262" caption="" /></a><p>docs.google.com</p><p>Application for Financial Assistance for LGBTQ+ First Time DACA Applications</p>This fund is intended to provide financial assistance for LGBTQ+ individuals applying for DACA for the first time. The applicant will be provided with legal services at no cost to them by a law firm and the check will be issued directly to USCIS as part of the application. To prevent fraud and ensur...<a href="https://docs.google.com/forms/d/e/1FAIpQLSedjc97c-33rvhqjFv9zk5ENwS4J8rSEi3hjvJgO1koiCU5FA/viewform">This fund is intended to provide financial assistance for LGBTQ+ individuals applying for DACA for the first time. The applicant will be provided with legal services at no cost to them by a law firm and the check will be issued directly to USCIS as part of the application. To prevent fraud and ensur...</a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/cofamiliatqlm/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/120090361_2886619768106542_2204607326271869280_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=7yEc5MiMasUAX90ohMi&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=d648502214fa4e177d8d541fa55b5e49&oe=6079D765" alt="" /></a><a href="https://www.facebook.com/cofamiliatqlm/">Colorado - Familia: Trans Queer Liberation Movement</a><a href="https://www.facebook.com/cofamiliatqlm/posts/3127111320724051"></a><i></i><p>This fund is national and is intended to provide financial assistance for LGBTQ+ individuals applying for DACA for the first time. The applicant will be provided with legal services at no cost to them by a law firm and the check will be issued directly to USCIS as part of the application.</p><p> <a href="https://docs.google.com/forms/d/e/1FAIpQLSedjc97c-33rvhqjFv9zk5ENwS4J8rSEi3hjvJgO1koiCU5FA/viewform?fbclid=IwAR3UDUQdO42ejg4iSYp7l9yrFUrV6UUSS68dmZTOJOZ_DaljDEa2S1jQcIA">https://docs.google.com/…/1FAIpQLSedjc97c-33rvhqj…/viewform…</a></p><a href="https://docs.google.com/forms/d/e/1FAIpQLSedjc97c-33rvhqjFv9zk5ENwS4J8rSEi3hjvJgO1koiCU5FA/viewform">This fund is intended to provide financial assistance for LGBTQ+ individuals applying for DACA for the first time. The applicant will be provided with legal services at no cost to them by a law firm and the check will be issued directly to USCIS as part of the application. To prevent fraud and ensur...<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQGawrVS5qLNkjjq&w=540&h=282&url=https%3A%2F%2Flh6.googleusercontent.com%2FGyB8zzAK9VQU9tSbp0J_rRJfTinKnWWMfDLkXOYsCesBBVSKWbcgYReLOHj8Ka_8SOjQb8o%3Dw1200-h630-p&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&ccb=3-4&_nc_hash=AQEWZ5nda_Ap6UoM" alt="" width="500" height="262" caption="" /></a><p>docs.google.com</p><p>Application for Financial Assistance for LGBTQ+ First Time DACA Applications</p>This fund is intended to provide financial assistance for LGBTQ+ individuals applying for DACA for the first time. The applicant will be provided with legal services at no cost to them by a law firm and the check will be issued directly to USCIS as part of the application. To prevent fraud and ensur...<a href="https://docs.google.com/forms/d/e/1FAIpQLSedjc97c-33rvhqjFv9zk5ENwS4J8rSEi3hjvJgO1koiCU5FA/viewform">This fund is intended to provide financial assistance for LGBTQ+ individuals applying for DACA for the first time. The applicant will be provided with legal services at no cost to them by a law firm and the check will be issued directly to USCIS as part of the application. To prevent fraud and ensur...</a>]]></content:encoded>
       <author>Colorado - Familia</author>
       <guid>https://www.facebook.com/cofamiliatqlm/posts/3127111320724051</guid>
       <pubDate>Wed, 23 Dec 2020 13:35:22 -0700</pubDate>
@@ -3299,7 +3299,7 @@ Version: `dev.2020-02-26`</p>
       <title>Carl and the team are getting ready for our first cold weather...</title>
       <link>https://www.facebook.com/AuroraWarmstheNight/posts/3347742081942445</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/AuroraWarmstheNight/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.0-1/cp0/p50x50/17814640_1264247936958547_1392996099081820795_o.png?_nc_cat=104&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=S7oMU7S8bQ4AX9r-Rvd&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=e93601189714d8f8b00ab93c58728898&oe=607836A1" alt="" /></a><a href="https://www.facebook.com/AuroraWarmstheNight/">Aurora Warms the Night</a> is <img src="https://static.xx.fbcdn.net/rsrc.php/v3/yg/r/8GY3_O3nUad.png" alt="" width="16" height="16" />asking for donations.<a href="https://www.facebook.com/AuroraWarmstheNight/posts/3347742081942445"></a><i></i><p>Carl and the team are getting ready for our first cold weather activation starting tonight! <a href="https://www.facebook.com/hashtag/homeless">#homeless</a> <a href="https://www.facebook.com/hashtag/eastcolfax">#eastcolfax</a> <a href="https://www.facebook.com/hashtag/service">#service</a></p><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t15.5256-10/121874144_388326195881718_831291340183886268_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=Fp5Z4lQRyewAX8Upf4b&_nc_oc=AQmJ8sItuvWNacKrxGh1DfzHwBMDIDLszVhks-4KI96KLQkIO4BpOkMnUSYhkzjokmM&_nc_ht=scontent.fapa1-2.fna&oh=a05a3b99cfb0a2ef723bd5caf0deb6bc&oe=607BBC04" /><a href="https://www.facebook.com/AuroraWarmstheNight/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.0-1/cp0/p56x56/17814640_1264247936958547_1392996099081820795_o.png?_nc_cat=104&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=S7oMU7S8bQ4AX9r-Rvd&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=480fb2bb488a446c3852f6b6dcda6090&oe=60782E96" alt="" /></a><a href="https://www.facebook.com/ajax/browser/dialog/fundraiser_users/"></a><a href="https://www.facebook.com">Donate</a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/AuroraWarmstheNight/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.0-1/cp0/p50x50/17814640_1264247936958547_1392996099081820795_o.png?_nc_cat=104&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=S7oMU7S8bQ4AX9r-Rvd&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=e93601189714d8f8b00ab93c58728898&oe=607836A1" alt="" /></a><a href="https://www.facebook.com/AuroraWarmstheNight/">Aurora Warms the Night</a> is <img src="https://static.xx.fbcdn.net/rsrc.php/v3/yg/r/8GY3_O3nUad.png" alt="" width="16" height="16" />asking for donations.<a href="https://www.facebook.com/AuroraWarmstheNight/posts/3347742081942445"></a><i></i><p>Carl and the team are getting ready for our first cold weather activation starting tonight! <a href="https://www.facebook.com/hashtag/homeless">#homeless</a> <a href="https://www.facebook.com/hashtag/eastcolfax">#eastcolfax</a> <a href="https://www.facebook.com/hashtag/service">#service</a></p><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t15.5256-10/121874144_388326195881718_831291340183886268_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=Fp5Z4lQRyewAX8Upf4b&_nc_oc=AQmJ8sItuvWNacKrxGh1DfzHwBMDIDLszVhks-4KI96KLQkIO4BpOkMnUSYhkzjokmM&_nc_ht=scontent.fapa1-2.fna&oh=a05a3b99cfb0a2ef723bd5caf0deb6bc&oe=607BBC04" /><a href="https://www.facebook.com/AuroraWarmstheNight/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.0-1/cp0/p56x56/17814640_1264247936958547_1392996099081820795_o.png?_nc_cat=104&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=S7oMU7S8bQ4AX9r-Rvd&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=d2032e09c339bfdd9a4ea55cfc754ecd&oe=607C2316" alt="" /></a><a href="https://www.facebook.com/ajax/browser/dialog/fundraiser_users/"></a><a href="https://www.facebook.com">Donate</a>]]></content:encoded>
       <author>Aurora Warms the Night</author>
       <guid>https://www.facebook.com/AuroraWarmstheNight/posts/3347742081942445</guid>
       <pubDate>Sat, 24 Oct 2020 13:41:13 -0600</pubDate>
@@ -3488,7 +3488,7 @@ Version: `dev.2020-02-26`</p>
       <title>SB217 will be on the floor of the House for a vote TODAY. We...</title>
       <link>https://www.facebook.com/DenverJusticeProject/photos/a.900402720014118/3118225678231800/</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverJusticeProject/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/c19.0.50.50a/p50x50/52595415_2187642837956760_2079880141206454272_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=3ok-kRzkNNkAX-ayV6b&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=9bac7ad7f49bcf9f9e6a9d5b2e7488da&oe=607A0AE3" alt="" /></a><a href="https://www.facebook.com/DenverJusticeProject/">Denver Justice Project</a><a href="https://www.facebook.com/DenverJusticeProject/photos/a.900402720014118/3118225678231800/"></a><i></i><p>SB217 will be on the floor of the House for a vote TODAY. We need to put our collective energy and efforts into putting pressure on our representatives, especially rural Democrats to support this key legislation. Click the link below for the ACLU's amazing resource<br /> <a href="https://docs.google.com/document/d/1oTegrbkeAWZGgoYa_EIVIbMxC0s1VjtHORWOcVfn2Yk/edit">https://docs.google.com/…/1oTegrbkeAWZGgoYa_EIVIbMxC0s…/edit</a></p><p> Key Reps.: These Reps. need as much public pressure/support as possible to support SB217 --- especially around ending qualified immunity. Tell them to su...pport passing SB217 intact! </p><p> Rep. Julie McCluskie<br /> Email: Julie.mccluskie.house&#064;state.co.us<br /> Phone: 303-866-2952<br /> Facebook: <a href="https://www.facebook.com/McCluskieforCO/">https://www.facebook.com/McCluskieforCO</a><br /> Instagram: &#064;mccluskieforco<br /> Twitter: &#064;McCluskieforCO</p><p> Rep. Dylan Roberts:<br /> Twitter: &#064;Dylan_RobertsCO<br /> Instagram: &#064;drobco<br /> Facebook: <a href="https://www.facebook.com/DylanforColorado/">https://www.facebook.com/DylanforColorado/</a><br /> Phone: 303-866-2923 <br /> Email: dylan.roberts.house&#064;state.co.us</p><p> Rep. Jeni Arndt<br /> Phone: 303-866-2917  <br /> Email: jeni.arndt.house&#064;state.co.us<br /> Facebook: <a href="https://www.facebook.com/JeniArndtForColorado/">https://www.facebook.com/JeniArndtForColorado/</a><br /> Twitter: &#064;RepJeniArndt</p><p> Rep. Brianna Buentello<br /> Email: bri.buentello.house&#064;state.co.us<br /> Phone: 303-866-2905 <br /> Facebook: <a title="Representative Bri Buentello" href="https://www.facebook.com/RepBuentello">https://www.facebook.com/RepBuentello</a><br /> Twitter: &#064;Bri4CO</p><p> Rep. KC Becker<br /> Email: kcbecker.house&#064;state.co.us<br /> Phone: 303-866-2578<br /> Facebook: <a href="https://www.facebook.com/RepKCBecker">https://www.facebook.com/RepKCBecker</a><br /> Twitter: &#064;kcbecker </p><p> Rep. Hugh McKean<br /> Email: hugh.mckean.house&#064;state.co.us<br /> Phone: 303-866-2947<br /> Facebook: <a href="https://www.facebook.com/mckeanforstatehouse/">https://www.facebook.com/mckeanforstatehouse/</a><br /> Twitter: &#064;hmckean</p><p> Governor: We need Governor Polis to champion SB217. Urge him to support and defend SB217. We need the bill to pass intact, with an end to qualified immunity. </p><p> Governor Polis: <br /> Phone: (303) 866-2885 <br /> (303) 866-2471<br /> Email: governorpolis&#064;state.co.us<br /> Twitter: &#064;GovofCO <br /> &#064;jaredpolis <br /> &#064;LtGovofCO<br /> Facebook: <a href="https://www.facebook.com/jaredpolis/">https://m.facebook.com/jaredpolis/</a><br />  <a href="https://www.facebook.com/PolisForColorado/">https://m.facebook.com/PolisForColorado/</a><br /> Also: <a href="https://colorado.gov/governor/ask-help">https://colorado.gov/governor/ask-help</a></p> <a href="https://www.facebook.com/DenverJusticeProject/posts/3118238871563814">See More</a><a href="https://www.facebook.com/DenverJusticeProject/photos/a.900402720014118/3118225678231800/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-0/p261x260/102889481_3118225681565133_1777387283506850111_o.jpg?_nc_cat=102&ccb=1-3&_nc_sid=8024bb&_nc_ohc=0OWBxgHfJn8AX_Jkj-9&_nc_ht=scontent.fapa1-2.fna&tp=6&oh=1530f5137d6f733362422b6953f24ceb&oe=6078EFE9" alt="May be an image of text that says 'ACT NOW TELL YOUR STATE REPRESENTATIVE: Support the Law Law Enforcement Integrity Act ACLU co'" width="500" height="252" caption="May be an image of text that says 'ACT NOW TELL YOUR STATE REPRESENTATIVE: Support the Law Law Enforcement Integrity Act ACLU co'" /></a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverJusticeProject/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/c19.0.50.50a/p50x50/52595415_2187642837956760_2079880141206454272_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=3ok-kRzkNNkAX-ayV6b&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=9bac7ad7f49bcf9f9e6a9d5b2e7488da&oe=607A0AE3" alt="" /></a><a href="https://www.facebook.com/DenverJusticeProject/">Denver Justice Project</a><a href="https://www.facebook.com/DenverJusticeProject/photos/a.900402720014118/3118225678231800/"></a><i></i><p>SB217 will be on the floor of the House for a vote TODAY. We need to put our collective energy and efforts into putting pressure on our representatives, especially rural Democrats to support this key legislation. Click the link below for the ACLU's amazing resource<br /> <a href="https://docs.google.com/document/d/1oTegrbkeAWZGgoYa_EIVIbMxC0s1VjtHORWOcVfn2Yk/edit">https://docs.google.com/…/1oTegrbkeAWZGgoYa_EIVIbMxC0s…/edit</a></p><p> Key Reps.: These Reps. need as much public pressure/support as possible to support SB217 --- especially around ending qualified immunity. Tell them to su...pport passing SB217 intact! </p><p> Rep. Julie McCluskie<br /> Email: Julie.mccluskie.house&#064;state.co.us<br /> Phone: 303-866-2952<br /> Facebook: <a href="https://www.facebook.com/McCluskieforCO/">https://www.facebook.com/McCluskieforCO</a><br /> Instagram: &#064;mccluskieforco<br /> Twitter: &#064;McCluskieforCO</p><p> Rep. Dylan Roberts:<br /> Twitter: &#064;Dylan_RobertsCO<br /> Instagram: &#064;drobco<br /> Facebook: <a href="https://www.facebook.com/DylanforColorado/">https://www.facebook.com/DylanforColorado/</a><br /> Phone: 303-866-2923 <br /> Email: dylan.roberts.house&#064;state.co.us</p><p> Rep. Jeni Arndt<br /> Phone: 303-866-2917  <br /> Email: jeni.arndt.house&#064;state.co.us<br /> Facebook: <a href="https://www.facebook.com/JeniArndtForColorado/">https://www.facebook.com/JeniArndtForColorado/</a><br /> Twitter: &#064;RepJeniArndt</p><p> Rep. Brianna Buentello<br /> Email: bri.buentello.house&#064;state.co.us<br /> Phone: 303-866-2905 <br /> Facebook: <a title="Representative Bri Buentello" href="https://www.facebook.com/RepBuentello">https://www.facebook.com/RepBuentello</a><br /> Twitter: &#064;Bri4CO</p><p> Rep. KC Becker<br /> Email: kcbecker.house&#064;state.co.us<br /> Phone: 303-866-2578<br /> Facebook: <a href="https://www.facebook.com/RepKCBecker">https://www.facebook.com/RepKCBecker</a><br /> Twitter: &#064;kcbecker </p><p> Rep. Hugh McKean<br /> Email: hugh.mckean.house&#064;state.co.us<br /> Phone: 303-866-2947<br /> Facebook: <a href="https://www.facebook.com/mckeanforstatehouse/">https://www.facebook.com/mckeanforstatehouse/</a><br /> Twitter: &#064;hmckean</p><p> Governor: We need Governor Polis to champion SB217. Urge him to support and defend SB217. We need the bill to pass intact, with an end to qualified immunity. </p><p> Governor Polis: <br /> Phone: (303) 866-2885 <br /> (303) 866-2471<br /> Email: governorpolis&#064;state.co.us<br /> Twitter: &#064;GovofCO <br /> &#064;jaredpolis <br /> &#064;LtGovofCO<br /> Facebook: <a href="https://www.facebook.com/jaredpolis/">https://m.facebook.com/jaredpolis/</a><br />  <a href="https://www.facebook.com/PolisForColorado/">https://m.facebook.com/PolisForColorado/</a><br /> Also: <a href="https://colorado.gov/governor/ask-help">https://colorado.gov/governor/ask-help</a></p> <a href="https://www.facebook.com/DenverJusticeProject/posts/3118238871563814">See More</a><a href="https://www.facebook.com/DenverJusticeProject/photos/a.900402720014118/3118225678231800/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-0/p261x260/102889481_3118225681565133_1777387283506850111_o.jpg?_nc_cat=102&ccb=1-3&_nc_sid=8024bb&_nc_ohc=iUIThY6PwQUAX_0MNYY&_nc_ht=scontent.fapa1-2.fna&tp=6&oh=7ee66987dffb19ab55c4411bb9225a9e&oe=6078EFE9" alt="May be an image of text that says 'ACT NOW TELL YOUR STATE REPRESENTATIVE: Support the Law Law Enforcement Integrity Act ACLU co'" width="500" height="252" caption="May be an image of text that says 'ACT NOW TELL YOUR STATE REPRESENTATIVE: Support the Law Law Enforcement Integrity Act ACLU co'" /></a>]]></content:encoded>
       <author>Denver Justice Project</author>
       <guid>https://www.facebook.com/DenverJusticeProject/photos/a.900402720014118/3118225678231800/</guid>
       <pubDate>Thu, 11 Jun 2020 13:07:01 -0600</pubDate>
