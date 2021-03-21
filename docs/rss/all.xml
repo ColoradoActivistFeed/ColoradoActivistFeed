@@ -3,100 +3,7 @@
     <title>Colorado Activist Feed</title>
     <link>https://coloradoactivistfeed.github.io/ColoradoActivistFeed/</link>
     <description>Aggregation of Colorado activist posts from across social media.</description>
-    <pubDate>Sun, 21 Mar 2021 13:43:50 -0600</pubDate>
-    <item>
-      <title>Bridge returned error 400! (18707)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @homelessoutloud</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=homelessoutloud&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40homelessoutloud+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dhomelessoutloud%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40homelessoutloud+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dhomelessoutloud%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>Denver Homeless Out Loud</author>
-      <guid>urn:sha1:a407d2f0d6096e3fc25072c341393878a2ad8530</guid>
-      <pubDate>Sun, 21 Mar 2021 13:43:50 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 500! (18707)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>blm5280 - Instagram Bridge</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `Unable to find username in search result.`<br />
-Query string: `action=display&bridge=Instagram&context=Username&u=blm5280&media_type=all&direct_links=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pauder</p>
-</section>]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>urn:sha1:86f00ff2ecc81634eaae47c89c3f0ace0698b0c7</guid>
-      <pubDate>Sun, 21 Mar 2021 13:43:45 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 400! (18707)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @BLM5280</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=BLM5280&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40BLM5280+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DBLM5280%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40BLM5280+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DBLM5280%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>urn:sha1:aa09eb383de2bd0b522722795e521e357f9bda92</guid>
-      <pubDate>Sun, 21 Mar 2021 13:43:45 -0600</pubDate>
-    </item>
+    <pubDate>Sun, 21 Mar 2021 14:43:45 -0600</pubDate>
     <item>
       <title>Bridge returned error 400! (18707)</title>
       <link></link>
@@ -127,7 +34,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Denver Justice Project</author>
       <guid>urn:sha1:745c5febea134524688efd41ffd6781babe511dd</guid>
-      <pubDate>Sun, 21 Mar 2021 13:43:42 -0600</pubDate>
+      <pubDate>Sun, 21 Mar 2021 14:43:45 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18707)</title>
@@ -156,7 +63,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Denver Solidarity March</author>
       <guid>urn:sha1:b987466fbb5aa2449365fbcf6ea4ccc2f64131b4</guid>
-      <pubDate>Sun, 21 Mar 2021 13:43:32 -0600</pubDate>
+      <pubDate>Sun, 21 Mar 2021 14:43:35 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18707)</title>
@@ -185,7 +92,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Abolish ICE Denver</author>
       <guid>urn:sha1:5baeabad4025e587ef4f3f2242fb4156a692e170</guid>
-      <pubDate>Sun, 21 Mar 2021 13:43:31 -0600</pubDate>
+      <pubDate>Sun, 21 Mar 2021 14:43:33 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18707)</title>
@@ -217,7 +124,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Colorado - Familia</author>
       <guid>urn:sha1:f225b497e4b0d8b8e71ecbdd68c01fe76873eae8</guid>
-      <pubDate>Sun, 21 Mar 2021 13:43:25 -0600</pubDate>
+      <pubDate>Sun, 21 Mar 2021 14:43:29 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18707)</title>
@@ -249,7 +156,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Sanctuary4All Colorado</author>
       <guid>urn:sha1:2113ffac3322910cf6b64673cd58635397d93d63</guid>
-      <pubDate>Sun, 21 Mar 2021 13:43:20 -0600</pubDate>
+      <pubDate>Sun, 21 Mar 2021 14:43:25 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18707)</title>
@@ -281,7 +188,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>SURJ Denver</author>
       <guid>urn:sha1:c0e761080cac3a55f64183b55fd465e334633472</guid>
-      <pubDate>Sun, 21 Mar 2021 13:43:13 -0600</pubDate>
+      <pubDate>Sun, 21 Mar 2021 14:43:18 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18707)</title>
@@ -313,7 +220,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Leslie Herod</author>
       <guid>urn:sha1:4badeaf8ade42193f4fa7ae3259e3a4ffaf5a692</guid>
-      <pubDate>Sun, 21 Mar 2021 13:43:11 -0600</pubDate>
+      <pubDate>Sun, 21 Mar 2021 14:43:16 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18707)</title>
@@ -345,7 +252,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Tay Anderson</author>
       <guid>urn:sha1:27bfa15191ccfa69d69b669d3d0d91f45ecee5c2</guid>
-      <pubDate>Sun, 21 Mar 2021 13:43:05 -0600</pubDate>
+      <pubDate>Sun, 21 Mar 2021 14:43:11 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18707)</title>
@@ -377,7 +284,100 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Melanated Mic Night</author>
       <guid>urn:sha1:91e114caa827c45c30f742292b05c9ad4c819390</guid>
-      <pubDate>Sun, 21 Mar 2021 13:43:03 -0600</pubDate>
+      <pubDate>Sun, 21 Mar 2021 14:43:09 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 400! (18707)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @homelessoutloud</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=homelessoutloud&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40homelessoutloud+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dhomelessoutloud%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40homelessoutloud+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dhomelessoutloud%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>Denver Homeless Out Loud</author>
+      <guid>urn:sha1:a407d2f0d6096e3fc25072c341393878a2ad8530</guid>
+      <pubDate>Sun, 21 Mar 2021 14:43:09 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18707)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>blm5280 - Instagram Bridge</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Unable to find username in search result.`<br />
+Query string: `action=display&bridge=Instagram&context=Username&u=blm5280&media_type=all&direct_links=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pauder</p>
+</section>]]></content:encoded>
+      <author>Black Lives Matter 5280</author>
+      <guid>urn:sha1:86f00ff2ecc81634eaae47c89c3f0ace0698b0c7</guid>
+      <pubDate>Sun, 21 Mar 2021 14:43:04 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 400! (18707)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @BLM5280</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=BLM5280&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40BLM5280+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DBLM5280%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40BLM5280+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DBLM5280%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>Black Lives Matter 5280</author>
+      <guid>urn:sha1:aa09eb383de2bd0b522722795e521e357f9bda92</guid>
+      <pubDate>Sun, 21 Mar 2021 14:43:04 -0600</pubDate>
     </item>
     <item>
       <title>I’ll just leave this here. (MLK)</title>
@@ -470,19 +470,19 @@ Version: `dev.2020-02-26`</p>
       <pubDate>Sat, 20 Mar 2021 14:57:42 -0600</pubDate>
     </item>
     <item>
-      <title>Denver Homeless Out Loud was live.411 Views</title>
+      <title>Denver Homeless Out Loud was live.415 Views</title>
       <link>https://www.facebook.com/DenverHomelessOutLoud/videos/269941027925935/</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverHomelessOutLoud/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/12645267_765701936893095_4336088808811260721_n.png?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=Hg2kJmsPrxgAX-CeH2l&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=645f554336508d107c41d147cd265570&oe=607F123E" alt="" /></a><a href="https://www.facebook.com/DenverHomelessOutLoud/">Denver Homeless Out Loud</a> was live.<a href="https://www.facebook.com/DenverHomelessOutLoud/videos/269941027925935/"></a><i></i><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t15.13418-10/157685367_2918335005116587_2684141085404661143_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=sxejNuGjpGYAX-5V3dE&_nc_ht=scontent.fapa1-2.fna&oh=b9715b95a1a6d29faca6c900d9f02683&oe=607C1BE8" />411 Views]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverHomelessOutLoud/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/12645267_765701936893095_4336088808811260721_n.png?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=Hg2kJmsPrxgAX-CeH2l&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=645f554336508d107c41d147cd265570&oe=607F123E" alt="" /></a><a href="https://www.facebook.com/DenverHomelessOutLoud/">Denver Homeless Out Loud</a> was live.<a href="https://www.facebook.com/DenverHomelessOutLoud/videos/269941027925935/"></a><i></i><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t15.13418-10/157685367_2918335005116587_2684141085404661143_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=eWvcu5xLkLYAX-WAUbs&_nc_ht=scontent.fapa1-2.fna&oh=6fe74932a6edc5c11f86b8c11e759282&oe=607C1BE8" />415 Views]]></content:encoded>
       <author>Denver Homeless Out Loud</author>
       <guid>https://www.facebook.com/DenverHomelessOutLoud/videos/269941027925935/</guid>
       <pubDate>Sat, 20 Mar 2021 14:51:51 -0600</pubDate>
     </item>
     <item>
-      <title>Denver Homeless Out Loud was live.200 Views</title>
+      <title>Denver Homeless Out Loud was live.201 Views</title>
       <link>https://www.facebook.com/DenverHomelessOutLoud/videos/2928099740802394/</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverHomelessOutLoud/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/12645267_765701936893095_4336088808811260721_n.png?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=Hg2kJmsPrxgAX-CeH2l&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=645f554336508d107c41d147cd265570&oe=607F123E" alt="" /></a><a href="https://www.facebook.com/DenverHomelessOutLoud/">Denver Homeless Out Loud</a> was live.<a href="https://www.facebook.com/DenverHomelessOutLoud/videos/2928099740802394/"></a><i></i><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t15.13418-10/145514861_1050065842215539_2424175312968117482_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=rBiYuY-zAh0AX_bOkUV&_nc_ht=scontent.fapa1-1.fna&oh=dd9294ad760fc353de3596ae2b6986da&oe=607D3829" />200 Views]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverHomelessOutLoud/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/12645267_765701936893095_4336088808811260721_n.png?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=Hg2kJmsPrxgAX-CeH2l&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=645f554336508d107c41d147cd265570&oe=607F123E" alt="" /></a><a href="https://www.facebook.com/DenverHomelessOutLoud/">Denver Homeless Out Loud</a> was live.<a href="https://www.facebook.com/DenverHomelessOutLoud/videos/2928099740802394/"></a><i></i><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t15.13418-10/145514861_1050065842215539_2424175312968117482_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=rBiYuY-zAh0AX_bOkUV&_nc_ht=scontent.fapa1-1.fna&oh=dd9294ad760fc353de3596ae2b6986da&oe=607D3829" />201 Views]]></content:encoded>
       <author>Denver Homeless Out Loud</author>
       <guid>https://www.facebook.com/DenverHomelessOutLoud/videos/2928099740802394/</guid>
       <pubDate>Sat, 20 Mar 2021 14:48:46 -0600</pubDate>
@@ -491,7 +491,7 @@ Version: `dev.2020-02-26`</p>
       <title>Solidary meals</title>
       <link>https://www.facebook.com/Sanctuary4AllCO/videos/550268386369467/</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/130721610_2803493399939575_729189452584090765_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=RCZ6vGxaG6MAX_uJG39&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=c8c5a412916b7ecad9468b7d7438e1b8&oe=607F0AC5" alt="" /></a><a href="https://www.facebook.com/Sanctuary4AllCO/">Sanctuary4All Colorado</a> was live.<a href="https://www.facebook.com/Sanctuary4AllCO/videos/550268386369467/"></a><i></i><p>Solidary meals</p><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t15.5256-10/151058688_550268523036120_702140419810248308_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=4afSysj5zk0AX-jVTGO&_nc_ht=scontent.fapa1-1.fna&oh=f4e6e730bf0a092c0150794182e268e0&oe=607BEEDA" />91 Views]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/130721610_2803493399939575_729189452584090765_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=RCZ6vGxaG6MAX_uJG39&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=c8c5a412916b7ecad9468b7d7438e1b8&oe=607F0AC5" alt="" /></a><a href="https://www.facebook.com/Sanctuary4AllCO/">Sanctuary4All Colorado</a> was live.<a href="https://www.facebook.com/Sanctuary4AllCO/videos/550268386369467/"></a><i></i><p>Solidary meals</p><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t15.5256-10/151058688_550268523036120_702140419810248308_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=4afSysj5zk0AX-jVTGO&_nc_ht=scontent.fapa1-1.fna&oh=f4e6e730bf0a092c0150794182e268e0&oe=607BEEDA" />92 Views]]></content:encoded>
       <author>Sanctuary4All Colorado</author>
       <guid>https://www.facebook.com/Sanctuary4AllCO/videos/550268386369467/</guid>
       <pubDate>Sat, 20 Mar 2021 13:39:22 -0600</pubDate>
@@ -527,7 +527,7 @@ Version: `dev.2020-02-26`</p>
       <title>&#34;Many people have been paying increasing attention to the...</title>
       <link>https://www.facebook.com/LeslieforColorado/posts/4000744499977087</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/LeslieforColorado/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/46110182_2103163249735231_8400532839258390528_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=dMg5dCTS12QAX-izp2w&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=109874a780aba8e8d1575be96bbb6b9d&oe=607E4911" alt="" /></a><a href="https://www.facebook.com/LeslieforColorado/">Representative Leslie Herod<a href="https://www.facebook.com/LeslieforColorado/"></a></a><a href="https://www.facebook.com/LeslieforColorado/posts/4000744499977087"></a><i></i><p>"Many people have been paying increasing attention to the language used to refer to people in relation to feminism and LGBTQ+ activism....Beyond language, many people point to the need to focus more on intersectional feminism by centering on the stories of trans women and women of color."</p><p> <a href="https://www.facebook.com/thedailyillini/">The Daily Illini</a></p><a href="https://dailyillini.com/features/2021/03/15/intersectional-feminism-encouraged-during-womens-history-month/">Many people have been paying increasing attention to the language used to refer to people in relation to feminism and LGBTQ+ activism. For example, the words “womxn” and “Latinx” are gaining popularity. Beyond language, many people point to the need to focus more on intersectional feminism b...<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?w=540&h=282&url=https%3A%2F%2Fdailyillini.com%2Fwp-content%2Fuploads%2F2021%2F03%2FUntitled_Artwork-2.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&ccb=3-4&_nc_hash=AQGnXjt1Hqsle90S" alt="" width="500" height="262" caption="" /></a><p>dailyillini.com</p><p>Intersectional feminism encouraged during Women's History Month</p>Many people have been paying increasing attention to the language used to refer to people in relation to feminism and LGBTQ+ activism. For example, the words “womxn” and “Latinx” are gaining popularity. Beyond language, many people point to the need to focus more on intersectional feminism b...<a href="https://dailyillini.com/features/2021/03/15/intersectional-feminism-encouraged-during-womens-history-month/">Many people have been paying increasing attention to the language used to refer to people in relation to feminism and LGBTQ+ activism. For example, the words “womxn” and “Latinx” are gaining popularity. Beyond language, many people point to the need to focus more on intersectional feminism b...</a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/LeslieforColorado/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/46110182_2103163249735231_8400532839258390528_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=dMg5dCTS12QAX-izp2w&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=109874a780aba8e8d1575be96bbb6b9d&oe=607E4911" alt="" /></a><a href="https://www.facebook.com/LeslieforColorado/">Representative Leslie Herod<a href="https://www.facebook.com/LeslieforColorado/"></a></a><a href="https://www.facebook.com/LeslieforColorado/posts/4000744499977087"></a><i></i><p>"Many people have been paying increasing attention to the language used to refer to people in relation to feminism and LGBTQ+ activism....Beyond language, many people point to the need to focus more on intersectional feminism by centering on the stories of trans women and women of color."</p><p> <a href="https://www.facebook.com/thedailyillini/">The Daily Illini</a></p><a href="https://dailyillini.com/features/2021/03/15/intersectional-feminism-encouraged-during-womens-history-month/">Many people have been paying increasing attention to the language used to refer to people in relation to feminism and LGBTQ+ activism. For example, the words “womxn” and “Latinx” are gaining popularity. Beyond language, many people point to the need to focus more on intersectional feminism b...<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQG2ras7hmXDXeJj&w=540&h=282&url=https%3A%2F%2Fdailyillini.com%2Fwp-content%2Fuploads%2F2021%2F03%2FUntitled_Artwork-2.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&ccb=3-4&_nc_hash=AQEgTMAUBt5eIgiI" alt="" width="500" height="262" caption="" /></a><p>dailyillini.com</p><p>Intersectional feminism encouraged during Women's History Month</p>Many people have been paying increasing attention to the language used to refer to people in relation to feminism and LGBTQ+ activism. For example, the words “womxn” and “Latinx” are gaining popularity. Beyond language, many people point to the need to focus more on intersectional feminism b...<a href="https://dailyillini.com/features/2021/03/15/intersectional-feminism-encouraged-during-womens-history-month/">Many people have been paying increasing attention to the language used to refer to people in relation to feminism and LGBTQ+ activism. For example, the words “womxn” and “Latinx” are gaining popularity. Beyond language, many people point to the need to focus more on intersectional feminism b...</a>]]></content:encoded>
       <author>Leslie Herod</author>
       <guid>https://www.facebook.com/LeslieforColorado/posts/4000744499977087</guid>
       <pubDate>Sat, 20 Mar 2021 10:15:04 -0600</pubDate>
@@ -938,10 +938,10 @@ Version: `dev.2020-02-26`</p>
       <pubDate>Thu, 18 Mar 2021 10:23:48 -0600</pubDate>
     </item>
     <item>
-      <title>Denver Homeless Out Loud was live.644 Views</title>
+      <title>Denver Homeless Out Loud was live.645 Views</title>
       <link>https://www.facebook.com/DenverHomelessOutLoud/videos/151007223557466/</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverHomelessOutLoud/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/12645267_765701936893095_4336088808811260721_n.png?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=Hg2kJmsPrxgAX-CeH2l&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=645f554336508d107c41d147cd265570&oe=607F123E" alt="" /></a><a href="https://www.facebook.com/DenverHomelessOutLoud/">Denver Homeless Out Loud</a> was live.<a href="https://www.facebook.com/DenverHomelessOutLoud/videos/151007223557466/"></a><i></i><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t15.13418-10/157685367_1438959303102385_5595898893786070097_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=vsD4TZOCM9cAX_S2x9Z&_nc_ht=scontent.fapa1-2.fna&oh=aefbfba90ded2263b18fdc138976bdbe&oe=607B8080" />644 Views]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverHomelessOutLoud/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/12645267_765701936893095_4336088808811260721_n.png?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=Hg2kJmsPrxgAX-CeH2l&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=645f554336508d107c41d147cd265570&oe=607F123E" alt="" /></a><a href="https://www.facebook.com/DenverHomelessOutLoud/">Denver Homeless Out Loud</a> was live.<a href="https://www.facebook.com/DenverHomelessOutLoud/videos/151007223557466/"></a><i></i><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t15.13418-10/157685367_1438959303102385_5595898893786070097_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=vsD4TZOCM9cAX_S2x9Z&_nc_ht=scontent.fapa1-2.fna&oh=aefbfba90ded2263b18fdc138976bdbe&oe=607B8080" />645 Views]]></content:encoded>
       <author>Denver Homeless Out Loud</author>
       <guid>https://www.facebook.com/DenverHomelessOutLoud/videos/151007223557466/</guid>
       <pubDate>Thu, 18 Mar 2021 09:42:07 -0600</pubDate>
@@ -956,10 +956,10 @@ Version: `dev.2020-02-26`</p>
       <pubDate>Thu, 18 Mar 2021 09:32:55 -0600</pubDate>
     </item>
     <item>
-      <title>Denver Homeless Out Loud was live.623 Views</title>
+      <title>Denver Homeless Out Loud was live.624 Views</title>
       <link>https://www.facebook.com/DenverHomelessOutLoud/videos/346178360097809/</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverHomelessOutLoud/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/12645267_765701936893095_4336088808811260721_n.png?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=Hg2kJmsPrxgAX-CeH2l&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=645f554336508d107c41d147cd265570&oe=607F123E" alt="" /></a><a href="https://www.facebook.com/DenverHomelessOutLoud/">Denver Homeless Out Loud</a> was live.<a href="https://www.facebook.com/DenverHomelessOutLoud/videos/346178360097809/"></a><i></i><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t15.13418-10/158624734_820786312199997_6074707002866994520_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=U2MAptERHQwAX8dKs5D&_nc_ht=scontent.fapa1-1.fna&oh=d5dbf277e5e48a8d53ba36cf7009db77&oe=607D4BCC" />623 Views]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverHomelessOutLoud/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/12645267_765701936893095_4336088808811260721_n.png?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=Hg2kJmsPrxgAX-CeH2l&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=645f554336508d107c41d147cd265570&oe=607F123E" alt="" /></a><a href="https://www.facebook.com/DenverHomelessOutLoud/">Denver Homeless Out Loud</a> was live.<a href="https://www.facebook.com/DenverHomelessOutLoud/videos/346178360097809/"></a><i></i><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t15.13418-10/158624734_820786312199997_6074707002866994520_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=U2MAptERHQwAX8dKs5D&_nc_ht=scontent.fapa1-1.fna&oh=d5dbf277e5e48a8d53ba36cf7009db77&oe=607D4BCC" />624 Views]]></content:encoded>
       <author>Denver Homeless Out Loud</author>
       <guid>https://www.facebook.com/DenverHomelessOutLoud/videos/346178360097809/</guid>
       <pubDate>Thu, 18 Mar 2021 09:26:53 -0600</pubDate>
@@ -1589,7 +1589,7 @@ Version: `dev.2020-02-26`</p>
       <title>Lack of clarity from the court is a problem. The Mayors office...</title>
       <link>https://www.facebook.com/DenverHomelessOutLoud/posts/2150332878429987</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverHomelessOutLoud/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/12645267_765701936893095_4336088808811260721_n.png?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=Hg2kJmsPrxgAX-CeH2l&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=645f554336508d107c41d147cd265570&oe=607F123E" alt="" /></a><a href="https://www.facebook.com/DenverHomelessOutLoud/">Denver Homeless Out Loud</a><a href="https://www.facebook.com/DenverHomelessOutLoud/posts/2150332878429987"></a><i></i><p>Lack of clarity from the court is a problem. The Mayors office takes every opportunity in those instances to muddle it up. (As demonstrated in the testimony) We for sure we were interested in what was said at the time and were glued to our phones listening in (as provided by the court). Being able to review hours of testimony without having to wait weeks and pay for transcripts is helpful. The Allies to Abolitionists recording has been helpful in trying to keep the Mayors off...ices manipulation tactics in check.  We can repeat the things they testified to and can draw on all the testimony rather than small snippets of what we can remember.  </p><p> BTW</p><p> But wasn't the OJ trial on TV? <br /> What is the difference? [other than it was not Federal Court]<br /> Was it because it was a rich and famous guy generating public support for his cause as his trial goes vs in this case we have poor homeless not getting the same opportunity.</p><p> The Mayors office has been adversarial all along the way, every step of the way. imagine how good things would be for the city if they fought for the people the way the fight for the real-estate developers. </p><p> <a href="https://www.westword.com/news/colorado-court-hearing-recording-homeless-documentary-denver-11908681?fbclid=IwAR2CLHD9MxkmzzLpJtRDIj7srAOIhE6JqjHr6hq3YuKTv8Ucfl7tNsNMiig">https://www.westword.com/…/colorado-court-hearing-recording…</a></p> <a href="https://www.facebook.com/DenverHomelessOutLoud/posts/2150332878429987">See More</a><a href="https://www.westword.com/news/colorado-court-hearing-recording-homeless-documentary-denver-11908681">The audio plays a starring role in a new documentary.<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?w=540&h=282&url=https%3A%2F%2Fimages1.westword.com%2Fimager%2Fu%2Foriginal%2F11909485%2Fyoutube_screenshot.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&ccb=3-4&_nc_hash=AQGo-tk3dxjzY5ZY" alt="" width="500" height="262" caption="" /></a><p>westword.com</p><p>Does the Public Have a Right to Record a Homeless Sweeps Court Hearing?</p>The audio plays a starring role in a new documentary.<a href="https://www.westword.com/news/colorado-court-hearing-recording-homeless-documentary-denver-11908681">The audio plays a starring role in a new documentary.</a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverHomelessOutLoud/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/12645267_765701936893095_4336088808811260721_n.png?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=Hg2kJmsPrxgAX-CeH2l&_nc_ht=scontent.fapa1-1.fna&_nc_tp=30&oh=645f554336508d107c41d147cd265570&oe=607F123E" alt="" /></a><a href="https://www.facebook.com/DenverHomelessOutLoud/">Denver Homeless Out Loud</a><a href="https://www.facebook.com/DenverHomelessOutLoud/posts/2150332878429987"></a><i></i><p>Lack of clarity from the court is a problem. The Mayors office takes every opportunity in those instances to muddle it up. (As demonstrated in the testimony) We for sure we were interested in what was said at the time and were glued to our phones listening in (as provided by the court). Being able to review hours of testimony without having to wait weeks and pay for transcripts is helpful. The Allies to Abolitionists recording has been helpful in trying to keep the Mayors off...ices manipulation tactics in check.  We can repeat the things they testified to and can draw on all the testimony rather than small snippets of what we can remember.  </p><p> BTW</p><p> But wasn't the OJ trial on TV? <br /> What is the difference? [other than it was not Federal Court]<br /> Was it because it was a rich and famous guy generating public support for his cause as his trial goes vs in this case we have poor homeless not getting the same opportunity.</p><p> The Mayors office has been adversarial all along the way, every step of the way. imagine how good things would be for the city if they fought for the people the way the fight for the real-estate developers. </p><p> <a href="https://www.westword.com/news/colorado-court-hearing-recording-homeless-documentary-denver-11908681?fbclid=IwAR2CLHD9MxkmzzLpJtRDIj7srAOIhE6JqjHr6hq3YuKTv8Ucfl7tNsNMiig">https://www.westword.com/…/colorado-court-hearing-recording…</a></p> <a href="https://www.facebook.com/DenverHomelessOutLoud/posts/2150332878429987">See More</a><a href="https://www.westword.com/news/colorado-court-hearing-recording-homeless-documentary-denver-11908681">The audio plays a starring role in a new documentary.<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQHH_kf72Owp0iNP&w=540&h=282&url=https%3A%2F%2Fimages1.westword.com%2Fimager%2Fu%2Foriginal%2F11909485%2Fyoutube_screenshot.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&ccb=3-4&_nc_hash=AQH5WRJSYMb8GAGi" alt="" width="500" height="262" caption="" /></a><p>westword.com</p><p>Does the Public Have a Right to Record a Homeless Sweeps Court Hearing?</p>The audio plays a starring role in a new documentary.<a href="https://www.westword.com/news/colorado-court-hearing-recording-homeless-documentary-denver-11908681">The audio plays a starring role in a new documentary.</a>]]></content:encoded>
       <author>Denver Homeless Out Loud</author>
       <guid>https://www.facebook.com/DenverHomelessOutLoud/posts/2150332878429987</guid>
       <pubDate>Wed, 10 Mar 2021 09:54:48 -0700</pubDate>
@@ -1742,7 +1742,7 @@ Version: `dev.2020-02-26`</p>
       <title>Ted Cruz stupid</title>
       <link>https://www.facebook.com/Sanctuary4AllCO/posts/2866979640257617</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/130721610_2803493399939575_729189452584090765_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=RCZ6vGxaG6MAX_uJG39&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=c8c5a412916b7ecad9468b7d7438e1b8&oe=607F0AC5" alt="" /></a><a href="https://www.facebook.com/Sanctuary4AllCO/">Sanctuary4All Colorado</a><a href="https://www.facebook.com/Sanctuary4AllCO/posts/2866979640257617"></a><i></i><p>Ted Cruz stupid</p><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t15.5256-10/156856619_359454641765981_5060987028214412700_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=qwDNA100zHQAX_i75vz&_nc_ht=scontent.fapa1-1.fna&oh=46771f7de25444435525e6b856422d64&oe=607BA36F" /><a href="https://www.facebook.com/OccupyDemocrats/">Occupy Democrats<a href="https://www.facebook.com/OccupyDemocrats/"></a></a><a href="https://www.facebook.com/OccupyDemocrats/videos/3719682528122005/"></a><p>BREAKING: Ted Cruz was just caught lying about the relief bill and was INSTANTLY humiliated on the Senate floor.</p><p> To demand Ted Cruz resign for abandoning his state, sign here 👉 <a href="http://odaction.com/btc-resign-ted">http://odaction.com/btc-resign-ted</a></p><p> Video by <a href="https://www.facebook.com/OccupyDemocrats/">Occupy Democrats</a> host <a href="https://www.facebook.com/briantylercohen/">Brian Tyler Cohen</a></p>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/130721610_2803493399939575_729189452584090765_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=RCZ6vGxaG6MAX_uJG39&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=c8c5a412916b7ecad9468b7d7438e1b8&oe=607F0AC5" alt="" /></a><a href="https://www.facebook.com/Sanctuary4AllCO/">Sanctuary4All Colorado</a><a href="https://www.facebook.com/Sanctuary4AllCO/posts/2866979640257617"></a><i></i><p>Ted Cruz stupid</p><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t15.5256-10/156856619_359454641765981_5060987028214412700_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=zall8m1BJ4sAX9qvXxk&_nc_ht=scontent.fapa1-1.fna&oh=af9d124b3516544fa63e469c38d5fc6d&oe=607BA36F" /><a href="https://www.facebook.com/OccupyDemocrats/">Occupy Democrats<a href="https://www.facebook.com/OccupyDemocrats/"></a></a><a href="https://www.facebook.com/OccupyDemocrats/videos/3719682528122005/"></a><p>BREAKING: Ted Cruz was just caught lying about the relief bill and was INSTANTLY humiliated on the Senate floor.</p><p> To demand Ted Cruz resign for abandoning his state, sign here 👉 <a href="http://odaction.com/btc-resign-ted">http://odaction.com/btc-resign-ted</a></p><p> Video by <a href="https://www.facebook.com/OccupyDemocrats/">Occupy Democrats</a> host <a href="https://www.facebook.com/briantylercohen/">Brian Tyler Cohen</a></p>]]></content:encoded>
       <author>Sanctuary4All Colorado</author>
       <guid>https://www.facebook.com/Sanctuary4AllCO/posts/2866979640257617</guid>
       <pubDate>Sun, 07 Mar 2021 08:52:33 -0700</pubDate>
@@ -1751,7 +1751,7 @@ Version: `dev.2020-02-26`</p>
       <title>Ted Cruz stupid</title>
       <link>https://www.facebook.com/AbolishICEDenver/posts/790552951554284</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/AbolishICEDenver/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/150195730_779431862666393_1302271980234752190_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=Gh0G768slWAAX_faSyb&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=eec44a8181e9eb8b4842f0db9a5377c1&oe=607DE15F" alt="" /></a><a href="https://www.facebook.com/AbolishICEDenver/">Abolish ICE Denver</a><a href="https://www.facebook.com/AbolishICEDenver/posts/790552951554284"></a><i></i><p>Ted Cruz stupid</p><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t15.5256-10/156856619_359454641765981_5060987028214412700_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=qwDNA100zHQAX_i75vz&_nc_ht=scontent.fapa1-1.fna&oh=46771f7de25444435525e6b856422d64&oe=607BA36F" /><a href="https://www.facebook.com/OccupyDemocrats/">Occupy Democrats<a href="https://www.facebook.com/OccupyDemocrats/"></a></a><a href="https://www.facebook.com/OccupyDemocrats/videos/3719682528122005/"></a><p>BREAKING: Ted Cruz was just caught lying about the relief bill and was INSTANTLY humiliated on the Senate floor.</p><p> To demand Ted Cruz resign for abandoning his state, sign here 👉 <a href="http://odaction.com/btc-resign-ted">http://odaction.com/btc-resign-ted</a></p><p> Video by <a href="https://www.facebook.com/OccupyDemocrats/">Occupy Democrats</a> host <a href="https://www.facebook.com/briantylercohen/">Brian Tyler Cohen</a></p>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/AbolishICEDenver/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/150195730_779431862666393_1302271980234752190_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=Gh0G768slWAAX_faSyb&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=eec44a8181e9eb8b4842f0db9a5377c1&oe=607DE15F" alt="" /></a><a href="https://www.facebook.com/AbolishICEDenver/">Abolish ICE Denver</a><a href="https://www.facebook.com/AbolishICEDenver/posts/790552951554284"></a><i></i><p>Ted Cruz stupid</p><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t15.5256-10/156856619_359454641765981_5060987028214412700_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=f2c4d5&_nc_ohc=zall8m1BJ4sAX9qvXxk&_nc_ht=scontent.fapa1-1.fna&oh=af9d124b3516544fa63e469c38d5fc6d&oe=607BA36F" /><a href="https://www.facebook.com/OccupyDemocrats/">Occupy Democrats<a href="https://www.facebook.com/OccupyDemocrats/"></a></a><a href="https://www.facebook.com/OccupyDemocrats/videos/3719682528122005/"></a><p>BREAKING: Ted Cruz was just caught lying about the relief bill and was INSTANTLY humiliated on the Senate floor.</p><p> To demand Ted Cruz resign for abandoning his state, sign here 👉 <a href="http://odaction.com/btc-resign-ted">http://odaction.com/btc-resign-ted</a></p><p> Video by <a href="https://www.facebook.com/OccupyDemocrats/">Occupy Democrats</a> host <a href="https://www.facebook.com/briantylercohen/">Brian Tyler Cohen</a></p>]]></content:encoded>
       <author>Abolish ICE Denver</author>
       <guid>https://www.facebook.com/AbolishICEDenver/posts/790552951554284</guid>
       <pubDate>Sun, 07 Mar 2021 08:51:13 -0700</pubDate>
@@ -1931,7 +1931,7 @@ Version: `dev.2020-02-26`</p>
       <title>UPDATE Angel&#39;s family - Call Governor Newsom at...</title>
       <link>https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/789028315040081/</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/AbolishICEDenver/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/150195730_779431862666393_1302271980234752190_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=Gh0G768slWAAX_faSyb&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=eec44a8181e9eb8b4842f0db9a5377c1&oe=607DE15F" alt="" /></a><a href="https://www.facebook.com/AbolishICEDenver/">Abolish ICE Denver</a><a href="https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/789028315040081/"></a><i></i><p>UPDATE Angel's family - Call Governor Newsom at 916-445-2841 and let him know now thanks to his inaction ***Angel has been deported*** and is far from his family. Ask him to stop ICE transfers in California. Keep this from happening to other families!</p><p> You could say "I am calling your office to request you end ICE transfers from California prisons. After you allowed ICE to pick up Angel Benito A#204-239-454, he tested positive last month for COVID and is at high risk for serious long term impacts. He's now in a country he's barely lived in without his immediate family."<br /> Abolish ICE Denver Sanctuary4All Colorado Colorado People's Alliance<br /> <a href="https://www.facebook.com/hashtag/stopicetransfers">#StopICEtransfers</a> <a href="https://www.facebook.com/hashtag/100daysoffreedom">#100DaysOfFreedom</a></p><a href="https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/789028315040081/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-0/s526x395/156510960_789028318373414_2349371069280514016_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=110474&_nc_ohc=wq8OglE17vgAX91VGDE&_nc_oc=AQmAr-sJRhjH4scZCdXUgQ-AiZxg9kG6nHPfNeReqXnqVlFToGrZdwq5IB5ZpYtLQTI&_nc_ht=scontent.fapa1-2.fna&tp=7&oh=3b084d0466f1a03ac6d1930c63618761&oe=607B4482" alt="May be an image of 2 people, people standing and text" width="500" height="387" caption="May be an image of 2 people, people standing and text" /></a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/AbolishICEDenver/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/150195730_779431862666393_1302271980234752190_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=Gh0G768slWAAX_faSyb&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=eec44a8181e9eb8b4842f0db9a5377c1&oe=607DE15F" alt="" /></a><a href="https://www.facebook.com/AbolishICEDenver/">Abolish ICE Denver</a><a href="https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/789028315040081/"></a><i></i><p>UPDATE Angel's family - Call Governor Newsom at 916-445-2841 and let him know now thanks to his inaction ***Angel has been deported*** and is far from his family. Ask him to stop ICE transfers in California. Keep this from happening to other families!</p><p> You could say "I am calling your office to request you end ICE transfers from California prisons. After you allowed ICE to pick up Angel Benito A#204-239-454, he tested positive last month for COVID and is at high risk for serious long term impacts. He's now in a country he's barely lived in without his immediate family."<br /> Abolish ICE Denver Sanctuary4All Colorado Colorado People's Alliance<br /> <a href="https://www.facebook.com/hashtag/stopicetransfers">#StopICEtransfers</a> <a href="https://www.facebook.com/hashtag/100daysoffreedom">#100DaysOfFreedom</a></p><a href="https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/789028315040081/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-0/s526x395/156510960_789028318373414_2349371069280514016_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=110474&_nc_ohc=wq8OglE17vgAX91VGDE&_nc_oc=AQmAr-sJRhjH4scZCdXUgQ-AiZxg9kG6nHPfNeReqXnqVlFToGrZdwq5IB5ZpYtLQTI&_nc_ht=scontent.fapa1-2.fna&tp=7&oh=eb2d2e769e586a82d106abd0bf92b0a9&oe=607F3902" alt="May be an image of 2 people, people standing and text" width="500" height="387" caption="May be an image of 2 people, people standing and text" /></a>]]></content:encoded>
       <author>Abolish ICE Denver</author>
       <guid>https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/789028315040081/</guid>
       <pubDate>Thu, 04 Mar 2021 12:16:09 -0700</pubDate>
@@ -2219,7 +2219,7 @@ Version: `dev.2020-02-26`</p>
       <title>North Denver for Social JusticeDenver Police DepartmentVEHICLE REGISTRATION ENFORCEMENT RESUMES APRIL 1ST No, this is not an April Fool&#39;s...</title>
       <link>https://www.facebook.com/NDenverSocialJustice/posts/2833969746869245</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/NDenverSocialJustice/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/16427561_1829786807287549_4287910356639356917_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=jScZ7B58AtkAX-5WAWh&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=e18b79984782615520d9ae05bc6143a0&oe=607ED27C" alt="" /></a><a href="https://www.facebook.com/NDenverSocialJustice/">North Denver for Social Justice</a><a href="https://www.facebook.com/NDenverSocialJustice/posts/2833969746869245"></a><i></i><a href="https://www.facebook.com/denverpolice/photos/a.216526168452374/3357199667718326/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/p235x350/155118542_3357199671051659_1471350474599897555_o.jpg?_nc_cat=106&ccb=1-3&_nc_sid=8024bb&_nc_ohc=y_TH2qRjXc0AX893NOn&_nc_ht=scontent.fapa1-1.fna&tp=6&oh=74265d997d100fdde295bdd1a6a26c05&oe=607E659E" alt="May be an image of wrist watch and text that says 'Q&#x104b; 6 T &#x3bc; 1 20 30 0 15 E A 50 20- 15 25 40 35 30 WAIT'" width="500" height="334" caption="May be an image of wrist watch and text that says 'Q&#x104b; 6 T &#x3bc; 1 20 30 0 15 E A 50 20- 15 25 40 35 30 WAIT'" /></a><a href="https://www.facebook.com/denverpolice/">Denver Police Department<a href="https://www.facebook.com/denverpolice/"></a></a><a href="https://www.facebook.com/denverpolice/photos/a.216526168452374/3357199667718326/"></a><p>VEHICLE REGISTRATION ENFORCEMENT RESUMES APRIL 1ST</p><p> No, this is not an April Fool's joke. With the State of Colorado indicating to county motor vehicle offices t...hat it will be resuming timely processing of requests for new, standard (green and white) license plates by the end of March, clearing its backlog of work, the City and County of Denver will restart enforcement of vehicle registrations laws on April 1, 2021. </p><p> Here are steps Denver County residents can take to further take care of your vehicle plates and registration status before April 1:</p><p> • NEW, STANDARD PLATES</p><p> Denver County vehicle owners who prefer standard green and white plates can get their plates without waiting by visiting one of the Denver County Motor Vehicle Offices. Please note, vehicle owners must utilize the motor vehicle office located in their county of primary residence.</p><p> • NEW, SPECIALTY/VANITY PLATES</p><p> Denver County vehicle owners who order or have ordered specialty/vanity plates from the state may continue to experience a delay in receiving their new plates due to a backlog caused by a COVID 19 work delay. Denver vehicle owners who already ordered, but don’t want to wait for these specialty plates and risk getting a ticket, can go to a Denver Motor Vehicle office to get a standard green and white plate instead. Note that Denver will not be able the refund the $25 collected for the organization benefitting from the specialty plate.</p><p> • TEMPORARY PLATES</p><p> Vehicle owners with temporary permits that are about to expire and who haven’t received their permanent license plates yet, should seek an extension of their temporary permits from either the dealer from which they bought the car or their County Motor Vehicle Office, including Denver Motor Vehicle. Or, if you are a Denver County resident who has paid for new plates, but haven’t received them yet, visit a Denver Motor Vehicle Office to get them.</p><p> • REGISTRATION RENEWALS</p><p> Residents with vehicle registrations due for renewal and who have yet to apply for their renewal stickers should take immediate steps to complete that process to avoid a citation in April. Registration renewals are processed at the County level and Denver Motor Vehicle offices have renewal stickers in stock and no processing backlogs. Residents are encouraged to go online, visit a motor vehicle office, or mail their renewal as soon as possible to complete their registration renewal.</p><p> • CONTESTING A CITATION</p><p> Drivers who don’t address their plate/registration situations by April 1 may receive a ticket and can contest the citation if they believe they received it in error at <a href="http://www.parksmartdenver.com/">www.parksmartdenver.com.</a></p> <a href="https://www.facebook.com">See More</a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/NDenverSocialJustice/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/16427561_1829786807287549_4287910356639356917_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=jScZ7B58AtkAX-5WAWh&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=e18b79984782615520d9ae05bc6143a0&oe=607ED27C" alt="" /></a><a href="https://www.facebook.com/NDenverSocialJustice/">North Denver for Social Justice</a><a href="https://www.facebook.com/NDenverSocialJustice/posts/2833969746869245"></a><i></i><a href="https://www.facebook.com/denverpolice/photos/a.216526168452374/3357199667718326/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/p235x350/155118542_3357199671051659_1471350474599897555_o.jpg?_nc_cat=106&ccb=1-3&_nc_sid=8024bb&_nc_ohc=sXb7Z_zNE-8AX_CWUHM&_nc_ht=scontent.fapa1-1.fna&tp=6&oh=9842c34a5f29f1b182a4c0cf48118be0&oe=607E659E" alt="May be an image of wrist watch and text that says 'Q&#x104b; 6 T &#x3bc; 1 20 30 0 15 E A 50 20- 15 25 40 35 30 WAIT'" width="500" height="334" caption="May be an image of wrist watch and text that says 'Q&#x104b; 6 T &#x3bc; 1 20 30 0 15 E A 50 20- 15 25 40 35 30 WAIT'" /></a><a href="https://www.facebook.com/denverpolice/">Denver Police Department<a href="https://www.facebook.com/denverpolice/"></a></a><a href="https://www.facebook.com/denverpolice/photos/a.216526168452374/3357199667718326/"></a><p>VEHICLE REGISTRATION ENFORCEMENT RESUMES APRIL 1ST</p><p> No, this is not an April Fool's joke. With the State of Colorado indicating to county motor vehicle offices t...hat it will be resuming timely processing of requests for new, standard (green and white) license plates by the end of March, clearing its backlog of work, the City and County of Denver will restart enforcement of vehicle registrations laws on April 1, 2021. </p><p> Here are steps Denver County residents can take to further take care of your vehicle plates and registration status before April 1:</p><p> • NEW, STANDARD PLATES</p><p> Denver County vehicle owners who prefer standard green and white plates can get their plates without waiting by visiting one of the Denver County Motor Vehicle Offices. Please note, vehicle owners must utilize the motor vehicle office located in their county of primary residence.</p><p> • NEW, SPECIALTY/VANITY PLATES</p><p> Denver County vehicle owners who order or have ordered specialty/vanity plates from the state may continue to experience a delay in receiving their new plates due to a backlog caused by a COVID 19 work delay. Denver vehicle owners who already ordered, but don’t want to wait for these specialty plates and risk getting a ticket, can go to a Denver Motor Vehicle office to get a standard green and white plate instead. Note that Denver will not be able the refund the $25 collected for the organization benefitting from the specialty plate.</p><p> • TEMPORARY PLATES</p><p> Vehicle owners with temporary permits that are about to expire and who haven’t received their permanent license plates yet, should seek an extension of their temporary permits from either the dealer from which they bought the car or their County Motor Vehicle Office, including Denver Motor Vehicle. Or, if you are a Denver County resident who has paid for new plates, but haven’t received them yet, visit a Denver Motor Vehicle Office to get them.</p><p> • REGISTRATION RENEWALS</p><p> Residents with vehicle registrations due for renewal and who have yet to apply for their renewal stickers should take immediate steps to complete that process to avoid a citation in April. Registration renewals are processed at the County level and Denver Motor Vehicle offices have renewal stickers in stock and no processing backlogs. Residents are encouraged to go online, visit a motor vehicle office, or mail their renewal as soon as possible to complete their registration renewal.</p><p> • CONTESTING A CITATION</p><p> Drivers who don’t address their plate/registration situations by April 1 may receive a ticket and can contest the citation if they believe they received it in error at <a href="http://www.parksmartdenver.com/">www.parksmartdenver.com.</a></p> <a href="https://www.facebook.com">See More</a>]]></content:encoded>
       <author>North Denver for Social Justice</author>
       <guid>https://www.facebook.com/NDenverSocialJustice/posts/2833969746869245</guid>
       <pubDate>Fri, 26 Feb 2021 09:54:52 -0700</pubDate>
@@ -3200,7 +3200,7 @@ Version: `dev.2020-02-26`</p>
       <title>Denver Peace Council - Affiliate of US Peace CouncilRed Lines host Anya Parampil speaks with Leo Flores, the Latin American Campaign...</title>
       <link>https://www.facebook.com/1022000584980677</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/17553958_178342902679787_5748199256766769398_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=CCvJFh5pYi8AX9-9Vqf&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=aabf2848007271b492524dcac3995aff&oe=607CC6F4" alt="" /></a><a href="https://www.facebook.com/Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015/">Denver Peace Council - Affiliate of US Peace Council</a><a href="https://www.facebook.com/permalink.php"></a><i></i><a href="https://www.youtube.com/watch?v=8_jnd3uXFMY&feature=emb_logo">Red Lines host Anya Parampil speaks with Leo Flores, the Latin American Campaign Coordinator for CODEPINK, about what the election of Joe Biden will mean for...<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?w=540&h=282&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8_jnd3uXFMY%2Fmaxresdefault.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&ccb=3-4&_nc_hash=AQGKiyOGwePElfJ9" alt="" width="500" height="262" caption="" /></a><p>youtube.com</p><p>What Biden's election means for Venezuela</p>Red Lines host Anya Parampil speaks with Leo Flores, the Latin American Campaign Coordinator for CODEPINK, about what the election of Joe Biden will mean for...<a href="https://www.youtube.com/watch?v=8_jnd3uXFMY&feature=emb_logo">Red Lines host Anya Parampil speaks with Leo Flores, the Latin American Campaign Coordinator for CODEPINK, about what the election of Joe Biden will mean for...</a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-1/cp0/p50x50/17553958_178342902679787_5748199256766769398_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=CCvJFh5pYi8AX9-9Vqf&_nc_ht=scontent.fapa1-1.fna&tp=27&oh=aabf2848007271b492524dcac3995aff&oe=607CC6F4" alt="" /></a><a href="https://www.facebook.com/Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015/">Denver Peace Council - Affiliate of US Peace Council</a><a href="https://www.facebook.com/permalink.php"></a><i></i><a href="https://www.youtube.com/watch?v=8_jnd3uXFMY&feature=emb_logo">Red Lines host Anya Parampil speaks with Leo Flores, the Latin American Campaign Coordinator for CODEPINK, about what the election of Joe Biden will mean for...<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQG9PZ_UkidJGOeT&w=540&h=282&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8_jnd3uXFMY%2Fmaxresdefault.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&ccb=3-4&_nc_hash=AQGribWcl24GNO3g" alt="" width="500" height="262" caption="" /></a><p>youtube.com</p><p>What Biden's election means for Venezuela</p>Red Lines host Anya Parampil speaks with Leo Flores, the Latin American Campaign Coordinator for CODEPINK, about what the election of Joe Biden will mean for...<a href="https://www.youtube.com/watch?v=8_jnd3uXFMY&feature=emb_logo">Red Lines host Anya Parampil speaks with Leo Flores, the Latin American Campaign Coordinator for CODEPINK, about what the election of Joe Biden will mean for...</a>]]></content:encoded>
       <author>Denver Peace Council</author>
       <guid>https://www.facebook.com/1022000584980677</guid>
       <pubDate>Sun, 15 Nov 2020 06:49:29 -0700</pubDate>
@@ -3245,7 +3245,7 @@ Version: `dev.2020-02-26`</p>
       <title>Huge thanks to Maisha Fields and all the folks at the Dayton...</title>
       <link>https://www.facebook.com/DenverJusticeProject/posts/3551921611528869</link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverJusticeProject/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/c19.0.50.50a/p50x50/52595415_2187642837956760_2079880141206454272_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=3ok-kRzkNNkAX-ayV6b&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=cc75c9c9005698234eb2d766c4e381e9&oe=607DFF63" alt="" /></a><a href="https://www.facebook.com/DenverJusticeProject/">Denver Justice Project</a><a href="https://www.facebook.com/DenverJusticeProject/posts/3551921611528869"></a><i></i><p>Huge thanks to Maisha Fields and all the folks at the Dayton Opportunity Center for allowing Denver Justice Project and Youth Empowerment Agency ￼￼ along with other folks from the Business Empowerment Network￼ to host a know your rights trainin￼g where we educated over 20 young people ranging from 6-16 on how to navigate interactions with law-enforcement to the best possible outcome￼.</p><a href="https://www.facebook.com/DenverJusticeProject/photos/pcb.3551921611528869/3551921114862252/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-0/p350x350/124619188_3551921118195585_1607705326641608371_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=110474&_nc_ohc=36YaHQvcO3cAX_q5OId&_nc_ht=scontent.fapa1-2.fna&tp=6&oh=575be01ea061542dc96d93f571d68791&oe=607B4C1F" alt="May be an image of 1 person, sitting and standing" width="348" height="500" caption="May be an image of 1 person, sitting and standing" /></a><a href="https://www.facebook.com/DenverJusticeProject/photos/pcb.3551921611528869/3551921121528918/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-0/p168x128/124575526_3551921124862251_6353409469447801702_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=110474&_nc_ohc=xUeHTpuEeksAX8dp37O&_nc_ht=scontent.fapa1-2.fna&tp=6&oh=c42a21805a28f23dc68e0e16743450c7&oe=607D7718" alt="May be an image of one or more people, people standing, outerwear and text that says 'Rose Petal's Photography'" width="165" height="214" caption="May be an image of one or more people, people standing, outerwear and text that says 'Rose Petal's Photography'" /></a><a href="https://www.facebook.com/DenverJusticeProject/photos/pcb.3551921611528869/3551921211528909/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-0/s235x165/124470735_3551921214862242_4199907688552773439_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=110474&_nc_ohc=U0z_kklUM3QAX_SxfZY&_nc_ht=scontent.fapa1-2.fna&tp=7&oh=d8dba7ad2c6cafa3f0443ad7f38389ec&oe=607E09E4" alt="May be an image of 15 people, hair, child, people sitting, people standing and outerwear" width="226" height="165" caption="May be an image of 15 people, hair, child, people sitting, people standing and outerwear" /></a><a href="https://www.facebook.com/DenverJusticeProject/photos/pcb.3551921611528869/3551921204862243/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-0/p168x128/124549198_3551921208195576_1931056031532099447_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=110474&_nc_ohc=iG1UvfDsc_YAX-D9cc3&_nc_ht=scontent.fapa1-2.fna&tp=6&oh=a5795a856fbd9c3327540e179201ea01&oe=607E36D7" alt="May be art" width="165" height="220" caption="May be art" />+2</a>]]></content:encoded>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/DenverJusticeProject/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/cp0/c19.0.50.50a/p50x50/52595415_2187642837956760_2079880141206454272_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=3ok-kRzkNNkAX-ayV6b&_nc_ht=scontent.fapa1-2.fna&tp=27&oh=cc75c9c9005698234eb2d766c4e381e9&oe=607DFF63" alt="" /></a><a href="https://www.facebook.com/DenverJusticeProject/">Denver Justice Project</a><a href="https://www.facebook.com/DenverJusticeProject/posts/3551921611528869"></a><i></i><p>Huge thanks to Maisha Fields and all the folks at the Dayton Opportunity Center for allowing Denver Justice Project and Youth Empowerment Agency ￼￼ along with other folks from the Business Empowerment Network￼ to host a know your rights trainin￼g where we educated over 20 young people ranging from 6-16 on how to navigate interactions with law-enforcement to the best possible outcome￼.</p><a href="https://www.facebook.com/DenverJusticeProject/photos/pcb.3551921611528869/3551921114862252/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-0/p350x350/124619188_3551921118195585_1607705326641608371_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=110474&_nc_ohc=36YaHQvcO3cAX_q5OId&_nc_ht=scontent.fapa1-2.fna&tp=6&oh=d88d2de7de19405e9b1ebc56074231d5&oe=607F409F" alt="May be an image of 1 person, sitting and standing" width="348" height="500" caption="May be an image of 1 person, sitting and standing" /></a><a href="https://www.facebook.com/DenverJusticeProject/photos/pcb.3551921611528869/3551921121528918/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-0/p168x128/124575526_3551921124862251_6353409469447801702_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=110474&_nc_ohc=xUeHTpuEeksAX8dp37O&_nc_ht=scontent.fapa1-2.fna&tp=6&oh=c42a21805a28f23dc68e0e16743450c7&oe=607D7718" alt="May be an image of one or more people, people standing, outerwear and text that says 'Rose Petal's Photography'" width="165" height="214" caption="May be an image of one or more people, people standing, outerwear and text that says 'Rose Petal's Photography'" /></a><a href="https://www.facebook.com/DenverJusticeProject/photos/pcb.3551921611528869/3551921211528909/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-0/s235x165/124470735_3551921214862242_4199907688552773439_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=110474&_nc_ohc=U0z_kklUM3QAX_SxfZY&_nc_ht=scontent.fapa1-2.fna&tp=7&oh=d8dba7ad2c6cafa3f0443ad7f38389ec&oe=607E09E4" alt="May be an image of 15 people, hair, child, people sitting, people standing and outerwear" width="226" height="165" caption="May be an image of 15 people, hair, child, people sitting, people standing and outerwear" /></a><a href="https://www.facebook.com/DenverJusticeProject/photos/pcb.3551921611528869/3551921204862243/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-0/p168x128/124549198_3551921208195576_1931056031532099447_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=110474&_nc_ohc=iG1UvfDsc_YAX-D9cc3&_nc_ht=scontent.fapa1-2.fna&tp=6&oh=a5795a856fbd9c3327540e179201ea01&oe=607E36D7" alt="May be art" width="165" height="220" caption="May be art" />+2</a>]]></content:encoded>
       <author>Denver Justice Project</author>
       <guid>https://www.facebook.com/DenverJusticeProject/posts/3551921611528869</guid>
       <pubDate>Mon, 09 Nov 2020 07:02:10 -0700</pubDate>
