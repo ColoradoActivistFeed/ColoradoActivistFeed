@@ -3,39 +3,7 @@
     <title>Colorado Activist Feed</title>
     <link>https://coloradoactivistfeed.github.io/ColoradoActivistFeed/</link>
     <description>Aggregation of Colorado activist posts from across social media.</description>
-    <pubDate>Wed, 31 Mar 2021 14:43:12 -0600</pubDate>
-    <item>
-      <title>Bridge returned error 400! (18717)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @surjdenver</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=surjdenver&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40surjdenver+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dsurjdenver%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40surjdenver+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dsurjdenver%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>SURJ Denver</author>
-      <guid>urn:sha1:7a32dc3c7bc817e531f945426f7151895312eb49</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:12 -0600</pubDate>
-    </item>
+    <pubDate>Wed, 31 Mar 2021 15:43:12 -0600</pubDate>
     <item>
       <title>Bridge returned error 500! (18717)</title>
       <link></link>
@@ -44,299 +12,26 @@ Version: `dev.2020-02-26`</p>
 	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
 remote website's content!<br>
 Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=LeslieforColorado&media_type=all&limit=-1&format=Atom`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=DenverHomelessOutLoud&media_type=all&limit=-1&format=Atom`<br />
 Version: `dev.2020-02-26`</p>
 	<div class="advice">
 		<ul class="advice">
 			<li>Press Return to check your input parameters</li>
 			<li>Press F5 to retry</li>
 			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DLeslieforColorado%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverHomelessOutLoud%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
 		</ul>
 	</div>
 	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
 		<button>Search GitHub Issues</button>
 	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DLeslieforColorado%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverHomelessOutLoud%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
 	the issue before submitting it"><button>Open GitHub Issue</button></a>
 	<p class="maintainer">teromene, logmanoriginal</p>
 </section>]]></content:encoded>
-      <author>Leslie Herod</author>
-      <guid>urn:sha1:0e385e81079a41bd4f34fb1ecf4428a1aed2ee3e</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:11 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 400! (18717)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @leslieherod</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=leslieherod&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40leslieherod+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dleslieherod%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40leslieherod+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dleslieherod%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>Leslie Herod</author>
-      <guid>urn:sha1:aa2d1ed3e6e1dd66a3ba58e23bc1d596d92ead2b</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:11 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 500! (18717)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=Colorado-Attorneys-Against-Police-Violence-106087521153591&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DColorado-Attorneys-Against-Police-Violence-106087521153591%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DColorado-Attorneys-Against-Police-Violence-106087521153591%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Colorado Attorneys Against Police Violence</author>
-      <guid>urn:sha1:a215fb6084f6f27d2d4472f91d987b51306dc29a</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:11 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 500! (18717)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=SURJDenver&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DSURJDenver%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DSURJDenver%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>SURJ Denver</author>
-      <guid>urn:sha1:8fcd976268a08bea348c374aae2f7fe64cc8bc16</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:11 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 500! (18717)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=Tay2019&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DTay2019%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DTay2019%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>urn:sha1:b0166abe30aec41338cef70f2b062197a10062b3</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:10 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 400! (18717)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @TayAndersonCO</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=TayAndersonCO&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40TayAndersonCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DTayAndersonCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40TayAndersonCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DTayAndersonCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>urn:sha1:d9192cd133877e7e73be1564a8312fd455fc3f65</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:10 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 400! (18717)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @Sanctuary4AllCO</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=Sanctuary4AllCO&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40Sanctuary4AllCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DSanctuary4AllCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40Sanctuary4AllCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DSanctuary4AllCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>Sanctuary4All Colorado</author>
-      <guid>urn:sha1:c64a9e8320e5a20da82ceb3eddc7edf6f7743c44</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:10 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 400! (18717)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @melanatedmic</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=melanatedmic&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40melanatedmic+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dmelanatedmic%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40melanatedmic+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dmelanatedmic%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>Melanated Mic Night</author>
-      <guid>urn:sha1:b30b3d383a4dbe5d9e32a22653eee37f6f4661e6</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:10 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 500! (18717)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=acluofcolorado&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Dacluofcolorado%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Dacluofcolorado%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>ACLU of Colorado</author>
-      <guid>urn:sha1:80e7f863801d706f0f7c97789f3c53b255f8b29d</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:09 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 500! (18717)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=Sanctuary4AllCO&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DSanctuary4AllCO%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DSanctuary4AllCO%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Sanctuary4All Colorado</author>
-      <guid>urn:sha1:ef63fe514fc1a64a6e31fac0129f8bdfe7c02abf</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:09 -0600</pubDate>
+      <author>Denver Homeless Out Loud</author>
+      <guid>urn:sha1:5c60f1ec235753fccb4d29b15f1093e3f250df82</guid>
+      <pubDate>Wed, 31 Mar 2021 15:43:12 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18717)</title>
@@ -368,7 +63,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Denver Homeless Out Loud</author>
       <guid>urn:sha1:25e1933eab13b5c675b12127d61b946f12ed47ff</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:09 -0600</pubDate>
+      <pubDate>Wed, 31 Mar 2021 15:43:12 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18717)</title>
@@ -378,26 +73,26 @@ Version: `dev.2020-02-26`</p>
 	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
 remote website's content!<br>
 Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=AuroraWarmstheNight&media_type=all&limit=-1&format=Atom`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=BlackLivesMatter5280&media_type=all&limit=-1&format=Atom`<br />
 Version: `dev.2020-02-26`</p>
 	<div class="advice">
 		<ul class="advice">
 			<li>Press Return to check your input parameters</li>
 			<li>Press F5 to retry</li>
 			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAuroraWarmstheNight%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DBlackLivesMatter5280%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
 		</ul>
 	</div>
 	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
 		<button>Search GitHub Issues</button>
 	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAuroraWarmstheNight%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DBlackLivesMatter5280%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
 	the issue before submitting it"><button>Open GitHub Issue</button></a>
 	<p class="maintainer">teromene, logmanoriginal</p>
 </section>]]></content:encoded>
-      <author>Aurora Warms the Night</author>
-      <guid>urn:sha1:20a1348d245dc1525bd3d827cf68900dd7c72889</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:08 -0600</pubDate>
+      <author>Black Lives Matter 5280</author>
+      <guid>urn:sha1:c1947550453b763507f39d65e9b22175fa40eeae</guid>
+      <pubDate>Wed, 31 Mar 2021 15:43:11 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18717)</title>
@@ -426,7 +121,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Black Lives Matter 5280</author>
       <guid>urn:sha1:108883169068141f71fb4430f100b7e219c1ab8a</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:08 -0600</pubDate>
+      <pubDate>Wed, 31 Mar 2021 15:43:11 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18717)</title>
@@ -458,7 +153,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Black Lives Matter 5280</author>
       <guid>urn:sha1:060a513e10e6acaa96ab060f84a739d42a589cf2</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:08 -0600</pubDate>
+      <pubDate>Wed, 31 Mar 2021 15:43:11 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18717)</title>
@@ -468,26 +163,26 @@ Version: `dev.2020-02-26`</p>
 	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
 remote website's content!<br>
 Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=DenverHomelessOutLoud&media_type=all&limit=-1&format=Atom`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=AuroraWarmstheNight&media_type=all&limit=-1&format=Atom`<br />
 Version: `dev.2020-02-26`</p>
 	<div class="advice">
 		<ul class="advice">
 			<li>Press Return to check your input parameters</li>
 			<li>Press F5 to retry</li>
 			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverHomelessOutLoud%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAuroraWarmstheNight%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
 		</ul>
 	</div>
 	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
 		<button>Search GitHub Issues</button>
 	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverHomelessOutLoud%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAuroraWarmstheNight%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
 	the issue before submitting it"><button>Open GitHub Issue</button></a>
 	<p class="maintainer">teromene, logmanoriginal</p>
 </section>]]></content:encoded>
-      <author>Denver Homeless Out Loud</author>
-      <guid>urn:sha1:5c60f1ec235753fccb4d29b15f1093e3f250df82</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:08 -0600</pubDate>
+      <author>Aurora Warms the Night</author>
+      <guid>urn:sha1:20a1348d245dc1525bd3d827cf68900dd7c72889</guid>
+      <pubDate>Wed, 31 Mar 2021 15:43:11 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18717)</title>
@@ -497,26 +192,26 @@ Version: `dev.2020-02-26`</p>
 	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
 remote website's content!<br>
 Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=DenverXikanoproject&media_type=all&limit=-1&format=Atom`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=denverautonomous&media_type=all&limit=-1&format=Atom`<br />
 Version: `dev.2020-02-26`</p>
 	<div class="advice">
 		<ul class="advice">
 			<li>Press Return to check your input parameters</li>
 			<li>Press F5 to retry</li>
 			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverXikanoproject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Ddenverautonomous%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
 		</ul>
 	</div>
 	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
 		<button>Search GitHub Issues</button>
 	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverXikanoproject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Ddenverautonomous%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
 	the issue before submitting it"><button>Open GitHub Issue</button></a>
 	<p class="maintainer">teromene, logmanoriginal</p>
 </section>]]></content:encoded>
-      <author>Denver&#39;s Chicano Movement Legacy Project</author>
-      <guid>urn:sha1:356ef9a6dc08d228b1fc4971e374317d5bfaa560</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:07 -0600</pubDate>
+      <author>Denver Action Network</author>
+      <guid>urn:sha1:1beaf6d37be3ef07d9b437fd5c41222f4866c4d2</guid>
+      <pubDate>Wed, 31 Mar 2021 15:43:10 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18717)</title>
@@ -526,142 +221,26 @@ Version: `dev.2020-02-26`</p>
 	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
 remote website's content!<br>
 Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015&media_type=all&limit=-1&format=Atom`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=DenverJusticeProject&media_type=all&limit=-1&format=Atom`<br />
 Version: `dev.2020-02-26`</p>
 	<div class="advice">
 		<ul class="advice">
 			<li>Press Return to check your input parameters</li>
 			<li>Press F5 to retry</li>
 			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverJusticeProject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
 		</ul>
 	</div>
 	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
 		<button>Search GitHub Issues</button>
 	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverJusticeProject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
 	the issue before submitting it"><button>Open GitHub Issue</button></a>
 	<p class="maintainer">teromene, logmanoriginal</p>
 </section>]]></content:encoded>
-      <author>Denver Peace Council</author>
-      <guid>urn:sha1:ec4575cd4b8c6f409bc836173722aa4f06dc2d59</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:07 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 500! (18717)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=BlackLivesMatter5280&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DBlackLivesMatter5280%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DBlackLivesMatter5280%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>urn:sha1:c1947550453b763507f39d65e9b22175fa40eeae</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:07 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 500! (18717)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=denverPSL&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DdenverPSL%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DdenverPSL%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Party for Socialism and Liberation</author>
-      <guid>urn:sha1:2d1fdc0a613f4c672780dac4712468b8bf4aef24</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:06 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 500! (18717)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=Denver-Solidarity-March-118949813177149&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Solidarity-March-118949813177149%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Solidarity-March-118949813177149%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Denver Solidarity March</author>
-      <guid>urn:sha1:978e55d2e340f56749d0981fd4960eaceaee5acc</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:06 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 500! (18717)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>abolishicedenver - Instagram Bridge</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `Unable to find username in search result.`<br />
-Query string: `action=display&bridge=Instagram&context=Username&u=abolishicedenver&media_type=all&direct_links=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=abolishicedenver+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dabolishicedenver%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=abolishicedenver+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dabolishicedenver%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pauder</p>
-</section>]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>urn:sha1:65a22d165090a20a581413198429ee9bc55fcc79</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:06 -0600</pubDate>
+      <author>Denver Justice Project</author>
+      <guid>urn:sha1:a45cb11eddd0705e5ba4f2e0ea7ed47800f651ee</guid>
+      <pubDate>Wed, 31 Mar 2021 15:43:10 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18717)</title>
@@ -693,7 +272,123 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Denver Justice Project</author>
       <guid>urn:sha1:854c7c2966569ebf25f77eba64b2beda5a012bf8</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:05 -0600</pubDate>
+      <pubDate>Wed, 31 Mar 2021 15:43:10 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18717)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=Denver-Solidarity-March-118949813177149&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Solidarity-March-118949813177149%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Solidarity-March-118949813177149%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Denver Solidarity March</author>
+      <guid>urn:sha1:978e55d2e340f56749d0981fd4960eaceaee5acc</guid>
+      <pubDate>Wed, 31 Mar 2021 15:43:09 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18717)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Denver Peace Council</author>
+      <guid>urn:sha1:ec4575cd4b8c6f409bc836173722aa4f06dc2d59</guid>
+      <pubDate>Wed, 31 Mar 2021 15:43:09 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18717)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=denverPSL&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DdenverPSL%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DdenverPSL%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Party for Socialism and Liberation</author>
+      <guid>urn:sha1:2d1fdc0a613f4c672780dac4712468b8bf4aef24</guid>
+      <pubDate>Wed, 31 Mar 2021 15:43:09 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18717)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=DenverXikanoproject&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverXikanoproject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverXikanoproject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Denver&#39;s Chicano Movement Legacy Project</author>
+      <guid>urn:sha1:356ef9a6dc08d228b1fc4971e374317d5bfaa560</guid>
+      <pubDate>Wed, 31 Mar 2021 15:43:09 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18717)</title>
@@ -722,7 +417,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>North Denver for Social Justice</author>
       <guid>urn:sha1:ac903ae6a4f000e34c4e042be71d81659a4b3505</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:05 -0600</pubDate>
+      <pubDate>Wed, 31 Mar 2021 15:43:08 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18717)</title>
@@ -751,7 +446,36 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Abolish ICE Denver</author>
       <guid>urn:sha1:ec3bf95227e13ae3d08f06f7bca229d57aec6eee</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:05 -0600</pubDate>
+      <pubDate>Wed, 31 Mar 2021 15:43:08 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18717)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>abolishicedenver - Instagram Bridge</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Unable to find username in search result.`<br />
+Query string: `action=display&bridge=Instagram&context=Username&u=abolishicedenver&media_type=all&direct_links=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=abolishicedenver+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dabolishicedenver%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=abolishicedenver+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dabolishicedenver%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pauder</p>
+</section>]]></content:encoded>
+      <author>Abolish ICE Denver</author>
+      <guid>urn:sha1:65a22d165090a20a581413198429ee9bc55fcc79</guid>
+      <pubDate>Wed, 31 Mar 2021 15:43:08 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18717)</title>
@@ -761,26 +485,26 @@ Version: `dev.2020-02-26`</p>
 	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
 remote website's content!<br>
 Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=denverautonomous&media_type=all&limit=-1&format=Atom`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=denvermetroblm&media_type=all&limit=-1&format=Atom`<br />
 Version: `dev.2020-02-26`</p>
 	<div class="advice">
 		<ul class="advice">
 			<li>Press Return to check your input parameters</li>
 			<li>Press F5 to retry</li>
 			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Ddenverautonomous%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Ddenvermetroblm%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
 		</ul>
 	</div>
 	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
 		<button>Search GitHub Issues</button>
 	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Ddenverautonomous%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Ddenvermetroblm%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
 	the issue before submitting it"><button>Open GitHub Issue</button></a>
 	<p class="maintainer">teromene, logmanoriginal</p>
 </section>]]></content:encoded>
-      <author>Denver Action Network</author>
-      <guid>urn:sha1:1beaf6d37be3ef07d9b437fd5c41222f4866c4d2</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:04 -0600</pubDate>
+      <author>Denver Metro BLM</author>
+      <guid>urn:sha1:4614a5ebdaec8843d19a57df35bd2068cfa4bf4c</guid>
+      <pubDate>Wed, 31 Mar 2021 15:43:07 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18717)</title>
@@ -809,7 +533,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Colorado - Familia</author>
       <guid>urn:sha1:669c04a2d29e7a1de9befcd4b2e5e44be2477c2b</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:04 -0600</pubDate>
+      <pubDate>Wed, 31 Mar 2021 15:43:07 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18717)</title>
@@ -841,7 +565,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Colorado - Familia</author>
       <guid>urn:sha1:26c1a98018e8d8f80d51c3588301770e3287a3aa</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:04 -0600</pubDate>
+      <pubDate>Wed, 31 Mar 2021 15:43:07 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18717)</title>
@@ -851,26 +575,58 @@ Version: `dev.2020-02-26`</p>
 	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
 remote website's content!<br>
 Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=DenverJusticeProject&media_type=all&limit=-1&format=Atom`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=Sanctuary4AllCO&media_type=all&limit=-1&format=Atom`<br />
 Version: `dev.2020-02-26`</p>
 	<div class="advice">
 		<ul class="advice">
 			<li>Press Return to check your input parameters</li>
 			<li>Press F5 to retry</li>
 			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverJusticeProject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DSanctuary4AllCO%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
 		</ul>
 	</div>
 	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
 		<button>Search GitHub Issues</button>
 	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverJusticeProject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DSanctuary4AllCO%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
 	the issue before submitting it"><button>Open GitHub Issue</button></a>
 	<p class="maintainer">teromene, logmanoriginal</p>
 </section>]]></content:encoded>
-      <author>Denver Justice Project</author>
-      <guid>urn:sha1:a45cb11eddd0705e5ba4f2e0ea7ed47800f651ee</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:04 -0600</pubDate>
+      <author>Sanctuary4All Colorado</author>
+      <guid>urn:sha1:ef63fe514fc1a64a6e31fac0129f8bdfe7c02abf</guid>
+      <pubDate>Wed, 31 Mar 2021 15:43:06 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 400! (18717)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @Sanctuary4AllCO</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=Sanctuary4AllCO&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40Sanctuary4AllCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DSanctuary4AllCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40Sanctuary4AllCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DSanctuary4AllCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>Sanctuary4All Colorado</author>
+      <guid>urn:sha1:c64a9e8320e5a20da82ceb3eddc7edf6f7743c44</guid>
+      <pubDate>Wed, 31 Mar 2021 15:43:06 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18717)</title>
@@ -880,32 +636,276 @@ Version: `dev.2020-02-26`</p>
 	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
 remote website's content!<br>
 Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=denvermetroblm&media_type=all&limit=-1&format=Atom`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=acluofcolorado&media_type=all&limit=-1&format=Atom`<br />
 Version: `dev.2020-02-26`</p>
 	<div class="advice">
 		<ul class="advice">
 			<li>Press Return to check your input parameters</li>
 			<li>Press F5 to retry</li>
 			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Ddenvermetroblm%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Dacluofcolorado%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
 		</ul>
 	</div>
 	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
 		<button>Search GitHub Issues</button>
 	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Ddenvermetroblm%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Dacluofcolorado%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
 	the issue before submitting it"><button>Open GitHub Issue</button></a>
 	<p class="maintainer">teromene, logmanoriginal</p>
 </section>]]></content:encoded>
-      <author>Denver Metro BLM</author>
-      <guid>urn:sha1:4614a5ebdaec8843d19a57df35bd2068cfa4bf4c</guid>
-      <pubDate>Wed, 31 Mar 2021 14:43:03 -0600</pubDate>
+      <author>ACLU of Colorado</author>
+      <guid>urn:sha1:80e7f863801d706f0f7c97789f3c53b255f8b29d</guid>
+      <pubDate>Wed, 31 Mar 2021 15:43:05 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18717)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=SURJDenver&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DSURJDenver%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DSURJDenver%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>SURJ Denver</author>
+      <guid>urn:sha1:8fcd976268a08bea348c374aae2f7fe64cc8bc16</guid>
+      <pubDate>Wed, 31 Mar 2021 15:43:05 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 400! (18717)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @surjdenver</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=surjdenver&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40surjdenver+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dsurjdenver%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40surjdenver+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dsurjdenver%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>SURJ Denver</author>
+      <guid>urn:sha1:7a32dc3c7bc817e531f945426f7151895312eb49</guid>
+      <pubDate>Wed, 31 Mar 2021 15:43:05 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18717)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=Colorado-Attorneys-Against-Police-Violence-106087521153591&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DColorado-Attorneys-Against-Police-Violence-106087521153591%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DColorado-Attorneys-Against-Police-Violence-106087521153591%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Colorado Attorneys Against Police Violence</author>
+      <guid>urn:sha1:a215fb6084f6f27d2d4472f91d987b51306dc29a</guid>
+      <pubDate>Wed, 31 Mar 2021 15:43:04 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18717)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=LeslieforColorado&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DLeslieforColorado%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DLeslieforColorado%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Leslie Herod</author>
+      <guid>urn:sha1:0e385e81079a41bd4f34fb1ecf4428a1aed2ee3e</guid>
+      <pubDate>Wed, 31 Mar 2021 15:43:04 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 400! (18717)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @leslieherod</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=leslieherod&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40leslieherod+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dleslieherod%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40leslieherod+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dleslieherod%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>Leslie Herod</author>
+      <guid>urn:sha1:aa2d1ed3e6e1dd66a3ba58e23bc1d596d92ead2b</guid>
+      <pubDate>Wed, 31 Mar 2021 15:43:04 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18717)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=Tay2019&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DTay2019%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DTay2019%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Tay Anderson</author>
+      <guid>urn:sha1:b0166abe30aec41338cef70f2b062197a10062b3</guid>
+      <pubDate>Wed, 31 Mar 2021 15:43:03 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 400! (18717)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @TayAndersonCO</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=TayAndersonCO&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40TayAndersonCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DTayAndersonCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40TayAndersonCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DTayAndersonCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>Tay Anderson</author>
+      <guid>urn:sha1:d9192cd133877e7e73be1564a8312fd455fc3f65</guid>
+      <pubDate>Wed, 31 Mar 2021 15:43:03 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 400! (18717)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @melanatedmic</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=melanatedmic&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40melanatedmic+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dmelanatedmic%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40melanatedmic+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dmelanatedmic%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>Melanated Mic Night</author>
+      <guid>urn:sha1:b30b3d383a4dbe5d9e32a22653eee37f6f4661e6</guid>
+      <pubDate>Wed, 31 Mar 2021 15:43:03 -0600</pubDate>
     </item>
     <item>
       <title>Tay Anderson Retaliation Finding and Controversy Update | Westword</title>
       <link>https://www.reddit.com/r/DenverProtests/comments/mh801k/tay_anderson_retaliation_finding_and_controversy/</link>
       <description></description>
-      <content:encoded><![CDATA[<table> <tr><td> <a href="https://www.reddit.com/r/DenverProtests/comments/mh801k/tay_anderson_retaliation_finding_and_controversy/"> <img src="https://b.thumbs.redditmedia.com/MlJpKvbQqem_LiwPndemi7yA8l8KQeRmxumaQMqRWTY.jpg" alt="Tay Anderson Retaliation Finding and Controversy Update | Westword" title="Tay Anderson Retaliation Finding and Controversy Update | Westword" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pinkottah"> /u/pinkottah </a> <br/> <span><a href="https://www.westword.com/news/tay-anderson-retaliation-finding-and-controversy-update-11932071">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DenverProtests/comments/mh801k/tay_anderson_retaliation_finding_and_controversy/">[comments]</a></span> </td></tr></table>]]></content:encoded>
+      <content:encoded><![CDATA[<table> <tr><td> <a href="https://www.reddit.com/r/DenverProtests/comments/mh801k/tay_anderson_retaliation_finding_and_controversy/"> <img src="https://external-preview.redd.it/ZoDYhlgIXwro25dGRF4xMdVze-5Vc9e7BCh5VydEnzQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=063cdd8505ecebd495cba4de13948ece6de0f3c6" alt="Tay Anderson Retaliation Finding and Controversy Update | Westword" title="Tay Anderson Retaliation Finding and Controversy Update | Westword" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pinkottah"> /u/pinkottah </a> <br/> <span><a href="https://www.westword.com/news/tay-anderson-retaliation-finding-and-controversy-update-11932071">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DenverProtests/comments/mh801k/tay_anderson_retaliation_finding_and_controversy/">[comments]</a></span> </td></tr></table>]]></content:encoded>
       <author>r/DenverProtests</author>
       <guid>https://www.reddit.com/r/DenverProtests/comments/mh801k/tay_anderson_retaliation_finding_and_controversy/</guid>
       <pubDate>Wed, 31 Mar 2021 09:01:58 -0600</pubDate>
@@ -923,7 +923,7 @@ Version: `dev.2020-02-26`</p>
       <title>July 24th... Any organization around this date for our area?</title>
       <link>https://www.reddit.com/r/DenverProtests/comments/mg1ie2/july_24th_any_organization_around_this_date_for/</link>
       <description></description>
-      <content:encoded><![CDATA[<table> <tr><td> <a href="https://www.reddit.com/r/DenverProtests/comments/mg1ie2/july_24th_any_organization_around_this_date_for/"> <img src="https://b.thumbs.redditmedia.com/2mCl6Ftx9Qiq_jCC9DJarpATjoqEkS-Q4ZERCNpIAjs.jpg" alt="July 24th... Any organization around this date for our area?" title="July 24th... Any organization around this date for our area?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MoonBapple"> /u/MoonBapple </a> <br/> <span><a href="https://i.redd.it/0v3iii558xo61.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DenverProtests/comments/mg1ie2/july_24th_any_organization_around_this_date_for/">[comments]</a></span> </td></tr></table>]]></content:encoded>
+      <content:encoded><![CDATA[<table> <tr><td> <a href="https://www.reddit.com/r/DenverProtests/comments/mg1ie2/july_24th_any_organization_around_this_date_for/"> <img src="https://preview.redd.it/0v3iii558xo61.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=143faf93a273f9c7504950b06cbbdf18b182ade8" alt="July 24th... Any organization around this date for our area?" title="July 24th... Any organization around this date for our area?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MoonBapple"> /u/MoonBapple </a> <br/> <span><a href="https://i.redd.it/0v3iii558xo61.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DenverProtests/comments/mg1ie2/july_24th_any_organization_around_this_date_for/">[comments]</a></span> </td></tr></table>]]></content:encoded>
       <author>r/DenverProtests</author>
       <guid>https://www.reddit.com/r/DenverProtests/comments/mg1ie2/july_24th_any_organization_around_this_date_for/</guid>
       <pubDate>Mon, 29 Mar 2021 16:37:55 -0600</pubDate>
@@ -941,7 +941,7 @@ Version: `dev.2020-02-26`</p>
       <title>Judge throws out attempted-kidnapping charges against Aurora protest leaders</title>
       <link>https://www.reddit.com/r/DenverProtests/comments/mdov6r/judge_throws_out_attemptedkidnapping_charges/</link>
       <description></description>
-      <content:encoded><![CDATA[<table> <tr><td> <a href="https://www.reddit.com/r/DenverProtests/comments/mdov6r/judge_throws_out_attemptedkidnapping_charges/"> <img src="https://b.thumbs.redditmedia.com/5NzxtL5Qw2VL-Xgov8Zonb0RRmLpbOv4rvZS7k-omsM.jpg" alt="Judge throws out attempted-kidnapping charges against Aurora protest leaders" title="Judge throws out attempted-kidnapping charges against Aurora protest leaders" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pinkottah"> /u/pinkottah </a> <br/> <span><a href="https://www.thedenverchannel.com/news/local-news/judge-throws-out-attempted-kidnapping-charges-against-aurora-protest-leaders">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DenverProtests/comments/mdov6r/judge_throws_out_attemptedkidnapping_charges/">[comments]</a></span> </td></tr></table>]]></content:encoded>
+      <content:encoded><![CDATA[<table> <tr><td> <a href="https://www.reddit.com/r/DenverProtests/comments/mdov6r/judge_throws_out_attemptedkidnapping_charges/"> <img src="https://external-preview.redd.it/AsY5SFGm2xW8SI1-5Q9MrsTNpxz9Lw-DkaC0owIv6zE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0843cc5bb75c044475b5b9a79566ceb85fb80cec" alt="Judge throws out attempted-kidnapping charges against Aurora protest leaders" title="Judge throws out attempted-kidnapping charges against Aurora protest leaders" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pinkottah"> /u/pinkottah </a> <br/> <span><a href="https://www.thedenverchannel.com/news/local-news/judge-throws-out-attempted-kidnapping-charges-against-aurora-protest-leaders">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DenverProtests/comments/mdov6r/judge_throws_out_attemptedkidnapping_charges/">[comments]</a></span> </td></tr></table>]]></content:encoded>
       <author>r/DenverProtests</author>
       <guid>https://www.reddit.com/r/DenverProtests/comments/mdov6r/judge_throws_out_attemptedkidnapping_charges/</guid>
       <pubDate>Fri, 26 Mar 2021 07:39:41 -0600</pubDate>
@@ -959,7 +959,7 @@ Version: `dev.2020-02-26`</p>
       <title>Bring awareness to Denvers Chinatown History. Anyone going to the candlelight vigil at 20th and Blake tonight should share this.</title>
       <link>https://www.reddit.com/r/DenverProtests/comments/m9dlvz/bring_awareness_to_denvers_chinatown_history/</link>
       <description></description>
-      <content:encoded><![CDATA[<table> <tr><td> <a href="https://www.reddit.com/r/DenverProtests/comments/m9dlvz/bring_awareness_to_denvers_chinatown_history/"> <img src="https://a.thumbs.redditmedia.com/bHbKOYJXtHPzuQpubfKa-0xPmbut0Zab21-yiXVA0G0.jpg" alt="Bring awareness to Denvers Chinatown History. Anyone going to the candlelight vigil at 20th and Blake tonight should share this." title="Bring awareness to Denvers Chinatown History. Anyone going to the candlelight vigil at 20th and Blake tonight should share this." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wewatta"> /u/Wewatta </a> <br/> <span><a href="https://coloradosun.com/2020/12/24/lodo-chinatown-asian-district/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DenverProtests/comments/m9dlvz/bring_awareness_to_denvers_chinatown_history/">[comments]</a></span> </td></tr></table>]]></content:encoded>
+      <content:encoded><![CDATA[<table> <tr><td> <a href="https://www.reddit.com/r/DenverProtests/comments/m9dlvz/bring_awareness_to_denvers_chinatown_history/"> <img src="https://external-preview.redd.it/gCs0AGyQMN1Pl2DWOV1ho4EtsXbKF9NZ7B7lr8eVNo8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=194c71d3e6c9e61b861c3039d48cdfa53021b167" alt="Bring awareness to Denvers Chinatown History. Anyone going to the candlelight vigil at 20th and Blake tonight should share this." title="Bring awareness to Denvers Chinatown History. Anyone going to the candlelight vigil at 20th and Blake tonight should share this." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wewatta"> /u/Wewatta </a> <br/> <span><a href="https://coloradosun.com/2020/12/24/lodo-chinatown-asian-district/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DenverProtests/comments/m9dlvz/bring_awareness_to_denvers_chinatown_history/">[comments]</a></span> </td></tr></table>]]></content:encoded>
       <author>r/DenverProtests</author>
       <guid>https://www.reddit.com/r/DenverProtests/comments/m9dlvz/bring_awareness_to_denvers_chinatown_history/</guid>
       <pubDate>Sat, 20 Mar 2021 12:57:11 -0600</pubDate>
@@ -977,7 +977,7 @@ Version: `dev.2020-02-26`</p>
       <title>Vigil for Asian Victims of White Supremacist Violence</title>
       <link>https://www.reddit.com/r/DenverProtests/comments/m8scfa/vigil_for_asian_victims_of_white_supremacist/</link>
       <description></description>
-      <content:encoded><![CDATA[<table> <tr><td> <a href="https://www.reddit.com/r/DenverProtests/comments/m8scfa/vigil_for_asian_victims_of_white_supremacist/"> <img src="https://b.thumbs.redditmedia.com/NmBKYZgdQdL4aUZD7VcT3VXfHZK-O5_3ooKE9ADN-dY.jpg" alt="Vigil for Asian Victims of White Supremacist Violence" title="Vigil for Asian Victims of White Supremacist Violence" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/anarkybarbie"> /u/anarkybarbie </a> <br/> <span><a href="https://i.redd.it/sqskxcpe52o61.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DenverProtests/comments/m8scfa/vigil_for_asian_victims_of_white_supremacist/">[comments]</a></span> </td></tr></table>]]></content:encoded>
+      <content:encoded><![CDATA[<table> <tr><td> <a href="https://www.reddit.com/r/DenverProtests/comments/m8scfa/vigil_for_asian_victims_of_white_supremacist/"> <img src="https://preview.redd.it/sqskxcpe52o61.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b327dfb5287f350c39d434eb43aba0e5ea2eb118" alt="Vigil for Asian Victims of White Supremacist Violence" title="Vigil for Asian Victims of White Supremacist Violence" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/anarkybarbie"> /u/anarkybarbie </a> <br/> <span><a href="https://i.redd.it/sqskxcpe52o61.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DenverProtests/comments/m8scfa/vigil_for_asian_victims_of_white_supremacist/">[comments]</a></span> </td></tr></table>]]></content:encoded>
       <author>r/DenverProtests</author>
       <guid>https://www.reddit.com/r/DenverProtests/comments/m8scfa/vigil_for_asian_victims_of_white_supremacist/</guid>
       <pubDate>Fri, 19 Mar 2021 16:03:58 -0600</pubDate>
@@ -986,7 +986,7 @@ Version: `dev.2020-02-26`</p>
       <title>Denver | Stop Anti-Asian Violence, Stop China-Bashing! National Day of Action</title>
       <link>https://www.reddit.com/r/DenverProtests/comments/m8qksl/denver_stop_antiasian_violence_stop_chinabashing/</link>
       <description></description>
-      <content:encoded><![CDATA[<table> <tr><td> <a href="https://www.reddit.com/r/DenverProtests/comments/m8qksl/denver_stop_antiasian_violence_stop_chinabashing/"> <img src="https://b.thumbs.redditmedia.com/4OqThYWE8xQ-tA1YQYp_WTxPhIWAZ31OO-6KhL90wdg.jpg" alt="Denver | Stop Anti-Asian Violence, Stop China-Bashing! National Day of Action" title="Denver | Stop Anti-Asian Violence, Stop China-Bashing! National Day of Action" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bourbon-Decay"> /u/Bourbon-Decay </a> <br/> <span><a href="https://www.facebook.com/events/5496101720430449/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DenverProtests/comments/m8qksl/denver_stop_antiasian_violence_stop_chinabashing/">[comments]</a></span> </td></tr></table>]]></content:encoded>
+      <content:encoded><![CDATA[<table> <tr><td> <a href="https://www.reddit.com/r/DenverProtests/comments/m8qksl/denver_stop_antiasian_violence_stop_chinabashing/"> <img src="https://external-preview.redd.it/eMtj0nMcTraZj8QR-5iVU071LmI_2KiNlBeJQ8aDOV4.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=ced4c91e153f298662ff75a3bc30d769504e2394" alt="Denver | Stop Anti-Asian Violence, Stop China-Bashing! National Day of Action" title="Denver | Stop Anti-Asian Violence, Stop China-Bashing! National Day of Action" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bourbon-Decay"> /u/Bourbon-Decay </a> <br/> <span><a href="https://www.facebook.com/events/5496101720430449/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DenverProtests/comments/m8qksl/denver_stop_antiasian_violence_stop_chinabashing/">[comments]</a></span> </td></tr></table>]]></content:encoded>
       <author>r/DenverProtests</author>
       <guid>https://www.reddit.com/r/DenverProtests/comments/m8qksl/denver_stop_antiasian_violence_stop_chinabashing/</guid>
       <pubDate>Fri, 19 Mar 2021 14:42:18 -0600</pubDate>
@@ -1013,7 +1013,7 @@ Version: `dev.2020-02-26`</p>
       <title>3 BULLETS TO THE BACK: The striking silence around a police killing in small-town Colorado - Sentinel Colorado</title>
       <link>https://www.reddit.com/r/DenverProtests/comments/m3mrgy/3_bullets_to_the_back_the_striking_silence_around/</link>
       <description></description>
-      <content:encoded><![CDATA[<table> <tr><td> <a href="https://www.reddit.com/r/DenverProtests/comments/m3mrgy/3_bullets_to_the_back_the_striking_silence_around/"> <img src="https://b.thumbs.redditmedia.com/RquNe4ou9eyrjNV5qV42qkLiu87eJKkuxFFTuQxxWEk.jpg" alt="3 BULLETS TO THE BACK: The striking silence around a police killing in small-town Colorado - Sentinel Colorado" title="3 BULLETS TO THE BACK: The striking silence around a police killing in small-town Colorado - Sentinel Colorado" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Agent_Tangerine"> /u/Agent_Tangerine </a> <br/> <span><a href="https://sentinelcolorado.com/0trending/3-bullets-to-the-back-the-striking-silence-around-a-police-killing-in-small-town-colorado/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DenverProtests/comments/m3mrgy/3_bullets_to_the_back_the_striking_silence_around/">[comments]</a></span> </td></tr></table>]]></content:encoded>
+      <content:encoded><![CDATA[<table> <tr><td> <a href="https://www.reddit.com/r/DenverProtests/comments/m3mrgy/3_bullets_to_the_back_the_striking_silence_around/"> <img src="https://external-preview.redd.it/ipZJQjk4wffr_UG1zWC6c_P4GSjsZfj9k4NxpWkAxiY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=678684e3d6ae01a023098368c12c60917e539e5f" alt="3 BULLETS TO THE BACK: The striking silence around a police killing in small-town Colorado - Sentinel Colorado" title="3 BULLETS TO THE BACK: The striking silence around a police killing in small-town Colorado - Sentinel Colorado" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Agent_Tangerine"> /u/Agent_Tangerine </a> <br/> <span><a href="https://sentinelcolorado.com/0trending/3-bullets-to-the-back-the-striking-silence-around-a-police-killing-in-small-town-colorado/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DenverProtests/comments/m3mrgy/3_bullets_to_the_back_the_striking_silence_around/">[comments]</a></span> </td></tr></table>]]></content:encoded>
       <author>r/DenverProtests</author>
       <guid>https://www.reddit.com/r/DenverProtests/comments/m3mrgy/3_bullets_to_the_back_the_striking_silence_around/</guid>
       <pubDate>Fri, 12 Mar 2021 10:41:05 -0700</pubDate>
@@ -1022,7 +1022,7 @@ Version: `dev.2020-02-26`</p>
       <title>Prosecutors accuse retired Aurora police sergeant of helping suspected pipe bomber hide evidence - Sentinel Colorado</title>
       <link>https://www.reddit.com/r/DenverProtests/comments/m313tr/prosecutors_accuse_retired_aurora_police_sergeant/</link>
       <description></description>
-      <content:encoded><![CDATA[<table> <tr><td> <a href="https://www.reddit.com/r/DenverProtests/comments/m313tr/prosecutors_accuse_retired_aurora_police_sergeant/"> <img src="https://b.thumbs.redditmedia.com/ArBMGwEauB9_vrQ8I86bWtVB1KBkemVU6Vs6bEeKLiw.jpg" alt="Prosecutors accuse retired Aurora police sergeant of helping suspected pipe bomber hide evidence - Sentinel Colorado" title="Prosecutors accuse retired Aurora police sergeant of helping suspected pipe bomber hide evidence - Sentinel Colorado" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Underbyte"> /u/Underbyte </a> <br/> <span><a href="https://sentinelcolorado.com/news/metro/prosecutors-accuse-retired-aurora-police-sergeant-of-helping-suspected-pipe-bomber-hide-evidence/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DenverProtests/comments/m313tr/prosecutors_accuse_retired_aurora_police_sergeant/">[comments]</a></span> </td></tr></table>]]></content:encoded>
+      <content:encoded><![CDATA[<table> <tr><td> <a href="https://www.reddit.com/r/DenverProtests/comments/m313tr/prosecutors_accuse_retired_aurora_police_sergeant/"> <img src="https://external-preview.redd.it/cs7yBEZ54iFkz4sYKaXjf64Cefb6R1OQSOr9M9ySI-k.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=24f81c186814d64a0b4d96205c480f7a42d39168" alt="Prosecutors accuse retired Aurora police sergeant of helping suspected pipe bomber hide evidence - Sentinel Colorado" title="Prosecutors accuse retired Aurora police sergeant of helping suspected pipe bomber hide evidence - Sentinel Colorado" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Underbyte"> /u/Underbyte </a> <br/> <span><a href="https://sentinelcolorado.com/news/metro/prosecutors-accuse-retired-aurora-police-sergeant-of-helping-suspected-pipe-bomber-hide-evidence/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DenverProtests/comments/m313tr/prosecutors_accuse_retired_aurora_police_sergeant/">[comments]</a></span> </td></tr></table>]]></content:encoded>
       <author>r/DenverProtests</author>
       <guid>https://www.reddit.com/r/DenverProtests/comments/m313tr/prosecutors_accuse_retired_aurora_police_sergeant/</guid>
       <pubDate>Thu, 11 Mar 2021 14:22:04 -0700</pubDate>
@@ -1040,7 +1040,7 @@ Version: `dev.2020-02-26`</p>
       <title>Solidarity with Minneapolis as Derek Chauvin goes to Trial: March 8th 6pm MLK Library in Aurora</title>
       <link>https://www.reddit.com/r/DenverProtests/comments/m049h2/solidarity_with_minneapolis_as_derek_chauvin_goes/</link>
       <description></description>
-      <content:encoded><![CDATA[<table> <tr><td> <a href="https://www.reddit.com/r/DenverProtests/comments/m049h2/solidarity_with_minneapolis_as_derek_chauvin_goes/"> <img src="https://a.thumbs.redditmedia.com/pU4DCDQwG80DuKWgHG2NgSGKxneQ83Cd2vUNwTmqCw4.jpg" alt="Solidarity with Minneapolis as Derek Chauvin goes to Trial: March 8th 6pm MLK Library in Aurora" title="Solidarity with Minneapolis as Derek Chauvin goes to Trial: March 8th 6pm MLK Library in Aurora" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dgongp"> /u/dgongp </a> <br/> <span><a href="https://imgur.com/Ym14jIg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DenverProtests/comments/m049h2/solidarity_with_minneapolis_as_derek_chauvin_goes/">[comments]</a></span> </td></tr></table>]]></content:encoded>
+      <content:encoded><![CDATA[<table> <tr><td> <a href="https://www.reddit.com/r/DenverProtests/comments/m049h2/solidarity_with_minneapolis_as_derek_chauvin_goes/"> <img src="https://external-preview.redd.it/8bKIsafwIj_5HKxHC6ymPlmznGkkJ6i0aM1TzG_wwyk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c98f1a934842f85ba6219bad9c49c1aad5fe47d5" alt="Solidarity with Minneapolis as Derek Chauvin goes to Trial: March 8th 6pm MLK Library in Aurora" title="Solidarity with Minneapolis as Derek Chauvin goes to Trial: March 8th 6pm MLK Library in Aurora" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dgongp"> /u/dgongp </a> <br/> <span><a href="https://imgur.com/Ym14jIg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DenverProtests/comments/m049h2/solidarity_with_minneapolis_as_derek_chauvin_goes/">[comments]</a></span> </td></tr></table>]]></content:encoded>
       <author>r/DenverProtests</author>
       <guid>https://www.reddit.com/r/DenverProtests/comments/m049h2/solidarity_with_minneapolis_as_derek_chauvin_goes/</guid>
       <pubDate>Sun, 07 Mar 2021 18:06:44 -0700</pubDate>
@@ -1049,7 +1049,7 @@ Version: `dev.2020-02-26`</p>
       <title>National Guard General Proves the Capitol Riots Were Allowed to Happen</title>
       <link>https://www.reddit.com/r/DenverProtests/comments/lz59fm/national_guard_general_proves_the_capitol_riots/</link>
       <description></description>
-      <content:encoded><![CDATA[<table> <tr><td> <a href="https://www.reddit.com/r/DenverProtests/comments/lz59fm/national_guard_general_proves_the_capitol_riots/"> <img src="https://b.thumbs.redditmedia.com/BCpPJMuW3Fp9pm4NBnsYlVs-noN2DU2ms0V8UYWB9eo.jpg" alt="National Guard General Proves the Capitol Riots Were Allowed to Happen" title="National Guard General Proves the Capitol Riots Were Allowed to Happen" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Blasto_Music"> /u/Blasto_Music </a> <br/> <span><a href="https://v.redd.it/5ors44r5qfl61">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DenverProtests/comments/lz59fm/national_guard_general_proves_the_capitol_riots/">[comments]</a></span> </td></tr></table>]]></content:encoded>
+      <content:encoded><![CDATA[<table> <tr><td> <a href="https://www.reddit.com/r/DenverProtests/comments/lz59fm/national_guard_general_proves_the_capitol_riots/"> <img src="https://external-preview.redd.it/UX4_k-Gle-V5mgvmJTrV37oRv7gxXPBSRjmP0CzBrII.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a3a28e4c83216da97ea38c19851e07721c3345c1" alt="National Guard General Proves the Capitol Riots Were Allowed to Happen" title="National Guard General Proves the Capitol Riots Were Allowed to Happen" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Blasto_Music"> /u/Blasto_Music </a> <br/> <span><a href="https://v.redd.it/5ors44r5qfl61">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DenverProtests/comments/lz59fm/national_guard_general_proves_the_capitol_riots/">[comments]</a></span> </td></tr></table>]]></content:encoded>
       <author>r/DenverProtests</author>
       <guid>https://www.reddit.com/r/DenverProtests/comments/lz59fm/national_guard_general_proves_the_capitol_riots/</guid>
       <pubDate>Sat, 06 Mar 2021 09:33:56 -0700</pubDate>
@@ -1076,7 +1076,7 @@ Version: `dev.2020-02-26`</p>
       <title>Support alternatives to policing! - Denver Alliance for Street Health Response</title>
       <link>https://www.reddit.com/r/DenverProtests/comments/lx9uig/support_alternatives_to_policing_denver_alliance/</link>
       <description></description>
-      <content:encoded><![CDATA[<table> <tr><td> <a href="https://www.reddit.com/r/DenverProtests/comments/lx9uig/support_alternatives_to_policing_denver_alliance/"> <img src="https://a.thumbs.redditmedia.com/RUJ14mKBL46qON3b45gptTD1V-JkQf1VORnWtbMqfl4.jpg" alt="Support alternatives to policing! - Denver Alliance for Street Health Response" title="Support alternatives to policing! - Denver Alliance for Street Health Response" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MoonBapple"> /u/MoonBapple </a> <br/> <span><a href="http://dashrco.org/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DenverProtests/comments/lx9uig/support_alternatives_to_policing_denver_alliance/">[comments]</a></span> </td></tr></table>]]></content:encoded>
+      <content:encoded><![CDATA[<table> <tr><td> <a href="https://www.reddit.com/r/DenverProtests/comments/lx9uig/support_alternatives_to_policing_denver_alliance/"> <img src="https://external-preview.redd.it/by8B2UY7280QxeZwshXlvT9Vt72YDYTkyV-HZImOWB0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b522825ec5561b4c75561bdfd44148982a9f62ea" alt="Support alternatives to policing! - Denver Alliance for Street Health Response" title="Support alternatives to policing! - Denver Alliance for Street Health Response" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MoonBapple"> /u/MoonBapple </a> <br/> <span><a href="http://dashrco.org/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DenverProtests/comments/lx9uig/support_alternatives_to_policing_denver_alliance/">[comments]</a></span> </td></tr></table>]]></content:encoded>
       <author>r/DenverProtests</author>
       <guid>https://www.reddit.com/r/DenverProtests/comments/lx9uig/support_alternatives_to_policing_denver_alliance/</guid>
       <pubDate>Wed, 03 Mar 2021 18:52:18 -0700</pubDate>
@@ -1085,7 +1085,7 @@ Version: `dev.2020-02-26`</p>
       <title>Leaders of Justice for Elijah McClain Protests Headed to Court</title>
       <link>https://www.reddit.com/r/DenverProtests/comments/lvsgfe/leaders_of_justice_for_elijah_mcclain_protests/</link>
       <description></description>
-      <content:encoded><![CDATA[<table> <tr><td> <a href="https://www.reddit.com/r/DenverProtests/comments/lvsgfe/leaders_of_justice_for_elijah_mcclain_protests/"> <img src="https://b.thumbs.redditmedia.com/VJbxl_CU3boOaBPMnt3ImbU0O845SHJO6nTlAlva7oA.jpg" alt="Leaders of Justice for Elijah McClain Protests Headed to Court" title="Leaders of Justice for Elijah McClain Protests Headed to Court" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bourbon-Decay"> /u/Bourbon-Decay </a> <br/> <span><a href="https://www.westword.com/news/elijah-mcclain-protest-leaders-court-independent-investigation-11910889">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DenverProtests/comments/lvsgfe/leaders_of_justice_for_elijah_mcclain_protests/">[comments]</a></span> </td></tr></table>]]></content:encoded>
+      <content:encoded><![CDATA[<table> <tr><td> <a href="https://www.reddit.com/r/DenverProtests/comments/lvsgfe/leaders_of_justice_for_elijah_mcclain_protests/"> <img src="https://external-preview.redd.it/tl1mYBvpN0gTuwOr0Utm1xHnZ_Z61lqvHhV_UkimXS8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=362f1d7aa043ee54bb1e85cb5ea27d9eed8e0fab" alt="Leaders of Justice for Elijah McClain Protests Headed to Court" title="Leaders of Justice for Elijah McClain Protests Headed to Court" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bourbon-Decay"> /u/Bourbon-Decay </a> <br/> <span><a href="https://www.westword.com/news/elijah-mcclain-protest-leaders-court-independent-investigation-11910889">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DenverProtests/comments/lvsgfe/leaders_of_justice_for_elijah_mcclain_protests/">[comments]</a></span> </td></tr></table>]]></content:encoded>
       <author>r/DenverProtests</author>
       <guid>https://www.reddit.com/r/DenverProtests/comments/lvsgfe/leaders_of_justice_for_elijah_mcclain_protests/</guid>
       <pubDate>Mon, 01 Mar 2021 20:09:32 -0700</pubDate>
@@ -1094,7 +1094,7 @@ Version: `dev.2020-02-26`</p>
       <title>Rap song, documentary blast Denver mayor</title>
       <link>https://www.reddit.com/r/DenverProtests/comments/lvkp6n/rap_song_documentary_blast_denver_mayor/</link>
       <description></description>
-      <content:encoded><![CDATA[<table> <tr><td> <a href="https://www.reddit.com/r/DenverProtests/comments/lvkp6n/rap_song_documentary_blast_denver_mayor/"> <img src="https://b.thumbs.redditmedia.com/2AZZ7ccid0kTsGY9ZFPbwBH4T7nseFPvGHTYQEUJdDA.jpg" alt="Rap song, documentary blast Denver mayor" title="Rap song, documentary blast Denver mayor" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Possibility-5066"> /u/Ok-Possibility-5066 </a> <br/> <span><a href="https://www.newsbreak.com/colorado/denver/news/2173043560419/rap-song-documentary-blast-denver-mayor?s=influencer">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DenverProtests/comments/lvkp6n/rap_song_documentary_blast_denver_mayor/">[comments]</a></span> </td></tr></table>]]></content:encoded>
+      <content:encoded><![CDATA[<table> <tr><td> <a href="https://www.reddit.com/r/DenverProtests/comments/lvkp6n/rap_song_documentary_blast_denver_mayor/"> <img src="https://external-preview.redd.it/OelU4GtsvfJ1DPu-h51ZtuVLQIiHWT8QZ1Gsm1vzN6s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e5b2f394d949f442259287d591efe2a1abc12db3" alt="Rap song, documentary blast Denver mayor" title="Rap song, documentary blast Denver mayor" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Possibility-5066"> /u/Ok-Possibility-5066 </a> <br/> <span><a href="https://www.newsbreak.com/colorado/denver/news/2173043560419/rap-song-documentary-blast-denver-mayor?s=influencer">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DenverProtests/comments/lvkp6n/rap_song_documentary_blast_denver_mayor/">[comments]</a></span> </td></tr></table>]]></content:encoded>
       <author>r/DenverProtests</author>
       <guid>https://www.reddit.com/r/DenverProtests/comments/lvkp6n/rap_song_documentary_blast_denver_mayor/</guid>
       <pubDate>Mon, 01 Mar 2021 14:12:17 -0700</pubDate>
@@ -1103,7 +1103,7 @@ Version: `dev.2020-02-26`</p>
       <title>the local Tigrayan community in CO has been on it with Friday protests demanding the end to this ethnic cleansing. Where are all the protestors from the summer?? What about these black lives????</title>
       <link>https://www.reddit.com/r/DenverProtests/comments/luj0cx/the_local_tigrayan_community_in_co_has_been_on_it/</link>
       <description></description>
-      <content:encoded><![CDATA[<table> <tr><td> <a href="https://www.reddit.com/r/DenverProtests/comments/luj0cx/the_local_tigrayan_community_in_co_has_been_on_it/"> <img src="https://b.thumbs.redditmedia.com/TrC2ZngWHamYlw-Mkb88nHLSuw9uoMAVdK3tXqbqpqI.jpg" alt="the local Tigrayan community in CO has been on it with Friday protests demanding the end to this ethnic cleansing. Where are all the protestors from the summer?? What about these black lives????" title="the local Tigrayan community in CO has been on it with Friday protests demanding the end to this ethnic cleansing. Where are all the protestors from the summer?? What about these black lives????" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lochjessnewm"> /u/lochjessnewm </a> <br/> <span><a href="https://www.our-legend.com/post/ethnic-cleansing-in-ethiopia-s-tigray-region-says-us-report">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DenverProtests/comments/luj0cx/the_local_tigrayan_community_in_co_has_been_on_it/">[comments]</a></span> </td></tr></table>]]></content:encoded>
+      <content:encoded><![CDATA[<table> <tr><td> <a href="https://www.reddit.com/r/DenverProtests/comments/luj0cx/the_local_tigrayan_community_in_co_has_been_on_it/"> <img src="https://external-preview.redd.it/6nT03ctHr-rLauTOITYHeXqYdl_VxeutMK80eBBR6gY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9446c037c0f34d3ef32699a1813bb1bf2d3b5cdb" alt="the local Tigrayan community in CO has been on it with Friday protests demanding the end to this ethnic cleansing. Where are all the protestors from the summer?? What about these black lives????" title="the local Tigrayan community in CO has been on it with Friday protests demanding the end to this ethnic cleansing. Where are all the protestors from the summer?? What about these black lives????" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lochjessnewm"> /u/lochjessnewm </a> <br/> <span><a href="https://www.our-legend.com/post/ethnic-cleansing-in-ethiopia-s-tigray-region-says-us-report">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DenverProtests/comments/luj0cx/the_local_tigrayan_community_in_co_has_been_on_it/">[comments]</a></span> </td></tr></table>]]></content:encoded>
       <author>r/DenverProtests</author>
       <guid>https://www.reddit.com/r/DenverProtests/comments/luj0cx/the_local_tigrayan_community_in_co_has_been_on_it/</guid>
       <pubDate>Sun, 28 Feb 2021 08:47:11 -0700</pubDate>
