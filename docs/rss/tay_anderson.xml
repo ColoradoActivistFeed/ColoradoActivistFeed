@@ -4,7 +4,7 @@
     <link>https://www.tayanderson.org/</link>
     <description>Posts from Tay Anderson</description>
     <managingEditor> (Tay Anderson)</managingEditor>
-    <pubDate>Thu, 08 Apr 2021 15:51:00 -0600</pubDate>
+    <pubDate>Thu, 08 Apr 2021 16:44:12 -0600</pubDate>
     <item>
       <title>Bridge returned error 400! (18725)</title>
       <link></link>
@@ -35,178 +35,36 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Tay Anderson</author>
       <guid>urn:sha1:85c4fff1eaae0bd45e177ceed10cb02fb87c26db</guid>
-      <pubDate>Thu, 08 Apr 2021 15:51:04 -0600</pubDate>
+      <pubDate>Thu, 08 Apr 2021 16:44:13 -0600</pubDate>
     </item>
     <item>
-      <title>Congratulations Coach!</title>
-      <link>https://www.facebook.com/Tay2019/posts/1345744495808387</link>
+      <title>Bridge returned error 500! (18725)</title>
+      <link></link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_n.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=BbQXwDXr3dUAX-ftHdY&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=6f5e5c554569c60109685b49374528c4&oe=609361C5" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1345744495808387"></a><i></i><p>Congratulations Coach!</p><a href="https://www.facebook.com/DenverPublicSchools/photos/pcb.10165091219140201/10165091221255201/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-0/p235x350/169814088_10165091221260201_630394270850175600_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=8024bb&_nc_ohc=fnxRtDamaQEAX_GNTIv&_nc_ht=scontent.fapa1-2.fna&tp=6&oh=7f0237629c5f21dd14fc926486ec828a&oe=60968AB1" alt="May be an image of 1 person and standing" width="500" height="334" caption="May be an image of 1 person and standing" /></a><a href="https://www.facebook.com/DenverPublicSchools/photos/pcb.10165091219140201/10165091221230201/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-0/p526x296/170250891_10165091221235201_1353234116568382892_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=8024bb&_nc_ohc=YfSCG7EYwO4AX8oIpxk&_nc_ht=scontent.fapa1-1.fna&tp=6&oh=5bed61eed617c0d6afa714195a1c31a6&oe=6096379E" alt="May be an image of 1 person and standing" width="500" height="330" caption="May be an image of 1 person and standing" /></a><a href="https://www.facebook.com/DenverPublicSchools/">Denver Public Schools</a><a href="https://www.facebook.com/DenverPublicSchools/posts/10165091219140201"></a><p>Bravo to <a href="https://www.facebook.com/alwaysagrizzly/">Bruce Randolph School</a> Athletic Director Andres Botello, the winner of the March <a href="https://www.facebook.com/coloradoavalanche/">Colorado Avalanche</a> Most Valuable Teacher award!</p><p> Bruce Randolph was awar...ded with a $1K grant for improvements, and Mr. Botello got several goodies - including a $200 gift card to Sam’s #3.</p><p> Read more about Mr. Botello from <a href="https://www.facebook.com/DPSathletics/">DPS Athletics</a>: <a href="https://athletics.dpsk12.org/colorado-avalanche-most-valuable-teacher-administrator/">https://athletics.dpsk12.org/colorado-avalanche-most-valua…/</a></p> <a href="https://www.facebook.com">See More</a>]]></content:encoded>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=Tay2019&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DTay2019%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DTay2019%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
       <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1345744495808387</guid>
-      <pubDate>Wed, 07 Apr 2021 14:40:55 -0600</pubDate>
-    </item>
-    <item>
-      <title>Superintendent search meeting 🙌🏽</title>
-      <link>https://www.facebook.com/Tay2019/posts/1344306465952190</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_n.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=BbQXwDXr3dUAX-ftHdY&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=6f5e5c554569c60109685b49374528c4&oe=609361C5" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1344306465952190"></a><i></i><p>Superintendent search meeting 🙌🏽</p><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-0/p235x350/171051607_10165094780000201_4817648972321392342_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=b386c4&_nc_aid=0&_nc_ohc=XvVvMG6beCwAX-btC0J&_nc_ht=scontent.fapa1-2.fna&tp=6&oh=8c682ffbf84bd2bcd9fd8601ea1f2586&oe=6094A9DF" alt="Denver Public Schools's photo." width="500" height="334" caption="Denver Public Schools's photo." /><a href="https://www.facebook.com/events/471194477401898/"></a><p>MON, APR 5</p><p>Superintendent Search: Central Denver Regional Gathering</p>Online Event<i></i>18 people interested]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1344306465952190</guid>
-      <pubDate>Mon, 05 Apr 2021 11:21:52 -0600</pubDate>
-    </item>
-    <item>
-      <title>#TransDayOfVisibility</title>
-      <link>https://www.facebook.com/Tay2019/posts/1341005139615656</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_n.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=BbQXwDXr3dUAX-ftHdY&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=6f5e5c554569c60109685b49374528c4&oe=609361C5" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1341005139615656"></a><i></i><p><a href="https://www.facebook.com/hashtag/transdayofvisibility">#TransDayOfVisibility</a></p><a href="https://www.facebook.com/LearningforJustice/photos/a.144184018445/10159035967618446/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-0/s640x640/167598032_10159035967628446_2400907252061443320_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=da1649&_nc_ohc=z2Wm7cSKH1kAX_hYymo&_nc_ht=scontent.fapa1-1.fna&tp=7&oh=81b638eeab7f92e5c6c22c44058c2e78&oe=6095B677" alt="May be an image of text" width="501" height="635" caption="May be an image of text" /></a><a href="https://www.facebook.com/LearningforJustice/">Learning for Justice<a href="https://www.facebook.com/LearningforJustice/"></a></a><a href="https://www.facebook.com/LearningforJustice/photos/a.144184018445/10159035967618446/"></a><p>On this <a href="https://www.facebook.com/hashtag/transdayofvisibility">#TransDayOfVisibility</a> and every day, we support all trans and nonbinary students and colleagues—out or not—for who they know themselves to be. We contin...ue to work toward a world where this visibility is not legislated, but celebrated.</p><p> Find and download this poster here: <a href="https://www.learningforjustice.org/sites/default/files/2018-09/TT-One-World-Fall-2018.pdf">https://www.learningforjustice.org/…/TT-One-World-Fall-2018…</a></p> <a href="https://www.facebook.com">See More</a>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1341005139615656</guid>
-      <pubDate>Wed, 31 Mar 2021 10:36:30 -0600</pubDate>
-    </item>
-    <item>
-      <title>We struggle, yet again, to try and make sense of a senseless act...</title>
-      <link>https://www.facebook.com/Tay2019/posts/1335468313502672</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_n.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=BbQXwDXr3dUAX-ftHdY&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=6f5e5c554569c60109685b49374528c4&oe=609361C5" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1335468313502672"></a><i></i><p>We struggle, yet again, to try and make sense of a senseless act of violence in our community. Our hearts break, yet again, for neighbors taken from us by guns and families ripped apart by bullets.</p><p> We send our love, our prayers, and our deepest condolences to our neighbors in Boulder. We stand alongside you for strength, recovery, and healing.</p><p> We also thank the Denver Police officers, and all first responders, who helped prevent further loss of life.</p><p>dpsk12.org</p><p>DPS Board of Education Statement on Boulder Shootings | Denver Public Schools</p>We struggle, yet again, to try and make sense of a senseless act of violence in our community. Our hearts break, yet again, for neighbors taken from us by guns and families ripped apart by bullets.<a href="https://bit.ly/3tPrsmf?utm_source=fb&utm_medium=tw&utm_term=ig&utm_content=li">We struggle, yet again, to try and make sense of a senseless act of violence in our community. Our hearts break, yet again, for neighbors taken from us by guns and families ripped apart by bullets.</a>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1335468313502672</guid>
-      <pubDate>Tue, 23 Mar 2021 00:00:24 -0600</pubDate>
-    </item>
-    <item>
-      <title>Denver School Board Director - Tay AndersonDenver Public SchoolsWeather Update: All DPS schools are open and operating on regular schedules...</title>
-      <link>https://www.facebook.com/Tay2019/posts/1335092286873608</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_n.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=BbQXwDXr3dUAX-ftHdY&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=6f5e5c554569c60109685b49374528c4&oe=609361C5" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1335092286873608"></a><i></i><a href="https://www.facebook.com/DenverPublicSchools/posts/10165023194475201"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p40x40/84095301_10162968523500201_8379620768048218112_n.png?_nc_cat=109&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=ypXtTxx2hj4AX9m0oFY&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=96017504ff0e04f39e33b9617daa861e&oe=60935277" alt="" /></a><a href="https://www.facebook.com/DenverPublicSchools/">Denver Public Schools</a><a href="https://www.facebook.com/DenverPublicSchools/posts/10165023194475201"></a><p>Weather Update: All DPS schools are open and operating on regular schedules 3/22. Please check with your school for updates on specific events and activities related to your school.</p>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1335092286873608</guid>
-      <pubDate>Mon, 22 Mar 2021 07:58:47 -0600</pubDate>
-    </item>
-    <item>
-      <title>DPS Board Director Tay Anderson was among those who voted to...</title>
-      <link>https://www.facebook.com/Tay2019/posts/1333719230344247</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_n.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=BbQXwDXr3dUAX-ftHdY&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=6f5e5c554569c60109685b49374528c4&oe=609361C5" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1333719230344247"></a><i></i><p>DPS Board Director Tay Anderson was among those who voted to approve the Aug. 23 start, but he preferred a later start.</p><p> “My reluctance comes from hearing directly from parents and students in hot schools that are not comfortable coming back before August 30. I am grateful we moved to a date that towards the middle,” said Anderson. “I am now hoping other districts will start moving their calendar back to match DPS, so we can have a more uniform calendar around the state.”</p><a href="https://www.google.com/amp/s/denver.cbslocal.com/2021/03/18/denver-public-schools-start-late-august-next-2-years/amp/">DPS board members voted to start the 2021-2022 and 2022-2023 school year on Aug. 23 and 22, respectively. Board members hope the delayed start will provide some relief to schools without air conditioning.<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQGL7CPYjeE2H7JB&w=540&h=282&url=https%3A%2F%2Fdenver.cbslocal.com%2Fwp-content%2Fuploads%2Fsites%2F15909806%2F2019%2F09%2FBELIEVE-DENVER-student-classroom.jpg%3Fw%3D1440&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&ccb=3-4&_nc_hash=AQHnZbmwCUUK9ObN" alt="" width="500" height="262" caption="" /></a><p>denver.cbslocal.com|By <a href="https://www.facebook.com/CBSDenver/">CBS Denver</a></p><p>Denver Public Schools Return To Classroom Later In August For Next 2 Years</p>DPS board members voted to start the 2021-2022 and 2022-2023 school year on Aug. 23 and 22, respectively. Board members hope the delayed start will provide some relief to schools without air conditioning.<a href="https://www.google.com/amp/s/denver.cbslocal.com/2021/03/18/denver-public-schools-start-late-august-next-2-years/amp/">DPS board members voted to start the 2021-2022 and 2022-2023 school year on Aug. 23 and 22, respectively. Board members hope the delayed start will provide some relief to schools without air conditioning.</a>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1333719230344247</guid>
-      <pubDate>Sat, 20 Mar 2021 08:43:06 -0600</pubDate>
-    </item>
-    <item>
-      <title>Last night five of my colleagues and I voted to renew several...</title>
-      <link>https://www.facebook.com/Tay2019/posts/1333364210379749</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_n.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=BbQXwDXr3dUAX-ftHdY&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=6f5e5c554569c60109685b49374528c4&oe=609361C5" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1333364210379749"></a><i></i><p>Last night five of my colleagues and I voted to renew several charter school contracts. </p><p> Some folks have called us “Democrats for Education Reform” which couldn’t be further from the truth for some of us, especially me. </p><p> DFER-lite organizations spent hundreds of thousands of dollars against my candidacy in 2019 to prevent me from being elected and they failed. </p>...<p> My morals and values have not shifted from when I ran, but I was very clear on being against school closures as they cause trauma and displace families. We were presented with one set of recommendations from our staff and parents on the District Accountability Committee. </p><p> After hard deliberation, hours of calls with school leaders, and multiple school visits I made the best decision with the information before us and publicly called for an accountability system to hold charter schools accountable when they fail to meet the standards we’ve placed before them. </p><p> Finally, I would be completely remiss if I ignored the fact that these same folks have remained silent on the constant attacks from those they are saying we are now aligned with. Some of these folks even attempted to run other candidates against me in 2019 and even said “There is no way he can win citywide, because he’s 21 and Black.” </p><p> I refuse to cause trauma among thousands of students because they picked a school model that I don’t agree with. I must represent ALL 93,000 students in Denver Public School not only those that agree with my ideology. </p><p> Regardless of where you go to school, I am your Director and will represent you.</p> <a href="https://www.facebook.com/Tay2019/posts/1333364210379749">See More</a>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1333364210379749</guid>
-      <pubDate>Fri, 19 Mar 2021 19:42:13 -0600</pubDate>
-    </item>
-    <item>
-      <title>Denver Public Schools issued a statement last night  in regards...</title>
-      <link>https://www.facebook.com/Tay2019/posts/1333203503729153</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_n.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=BbQXwDXr3dUAX-ftHdY&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=6f5e5c554569c60109685b49374528c4&oe=609361C5" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1333203503729153"></a><i></i><p>Denver Public Schools issued a statement last night  in regards to the domestic terrorist attack in Atlanta on Tuesday. </p><p> Late Tuesday, eight people were murdered in Atlanta, Georgia and six of those individuals were Asian American women. These crimes are being investigated but appear to be racially motivated. For many of us, these murders bring to light the trauma, hate, and violence that Asian Americans are experiencing in our country.  And this must stop.</p><p> We have marked the... one year anniversary of a world-wide pandemic that has taken 500,000 lives in America and disrupted the lives of every student and family in the District.  In this same timeframe, hateful rhetoric and violence against Asian Americans has festered and grown.  In this past year, over 3,800 xenophobic and racialized attacks against Asian Americans (mostly women and elderly) have been reported.</p><p> These racialized attacks against Asian Americans reflect our country’s painful and often overlooked historical mistreatment of Asian Americans, including the Chinese exclusion and Japanese incarceration.  In Denver, we are mere steps away from the state’s Ralph Carr Justice Center, named for the former Colorado Governor who courageously refused to send Coloradans of Japanese descent to the federal incarceration camps during World War II. At the time under great political pressure, Governor Carr stated, “If you harm them, you must first harm me.”</p><p> Racism has no place in our district. We are a district grounded in Equity. We are committed to ensuring our schools are Safe and Welcoming for all. And we stand with our Asian American students, staff, and families. We condemn these heinous acts of violence and hateful rhetoric. And we are committed to creating a safe place for our Asian American students and staff to learn and thrive.</p> <a href="https://www.facebook.com/Tay2019/posts/1333203503729153">See More</a>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1333203503729153</guid>
-      <pubDate>Fri, 19 Mar 2021 14:11:50 -0600</pubDate>
-    </item>
-    <item>
-      <title>This page believes and promotes Black Lives Matter.</title>
-      <link>https://www.facebook.com/Tay2019/photos/a.257357004647147/1333139430402227/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_n.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=BbQXwDXr3dUAX-ftHdY&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=6f5e5c554569c60109685b49374528c4&oe=609361C5" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/photos/a.257357004647147/1333139430402227/"></a><i></i><p>This page believes and promotes Black Lives Matter.</p><a href="https://www.facebook.com/Tay2019/photos/a.257357004647147/1333139430402227/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-0/s600x600/162689424_1333139433735560_746417427520757904_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=110474&_nc_ohc=nHigCE7lAc4AX-OgToi&_nc_ht=scontent.fapa1-1.fna&tp=7&oh=bfbbb7e17d638e15fb5d7e76d7a7f3a3&oe=6094C2B9" alt="May be a black-and-white image of one or more people, people standing, outdoors and text that says 'MATE LIVES BLACK'" width="501" height="586" caption="May be a black-and-white image of one or more people, people standing, outdoors and text that says 'MATE LIVES BLACK'" /></a>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/photos/a.257357004647147/1333139430402227/</guid>
-      <pubDate>Fri, 19 Mar 2021 11:40:15 -0600</pubDate>
-    </item>
-    <item>
-      <title>Last night we had someone come to our school board meeting...</title>
-      <link>https://www.facebook.com/Tay2019/posts/1333037067079130</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_n.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=BbQXwDXr3dUAX-ftHdY&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=6f5e5c554569c60109685b49374528c4&oe=609361C5" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a> updated their status.<a href="https://www.facebook.com/Tay2019/posts/1333037067079130"></a><i></i><p>Last night we had someone come to our school board meeting spewing lies about Black Lives Matter and how it doesn’t support “family values” and called it “marxist” organization. </p><p> They also mentioned they didn’t find anywhere on the DPS website our support for Black Lives Matter. </p><p> I think I can speak freely for both DPS and the Board when I say this, we believe that Black Lives Matter and will support our Black educators and students in whatever way they need. </p>...<p> Remember All lives can’t matter until Black Lives Matter.</p> <a href="https://www.facebook.com/Tay2019/posts/1333037067079130">See More</a>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1333037067079130</guid>
-      <pubDate>Fri, 19 Mar 2021 08:34:30 -0600</pubDate>
-    </item>
-    <item>
-      <title>My response to the bigotry that took place in our School Board...</title>
-      <link>https://www.facebook.com/Tay2019/photos/a.257357004647147/1332706963778807/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_n.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=BbQXwDXr3dUAX-ftHdY&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=6f5e5c554569c60109685b49374528c4&oe=609361C5" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/photos/a.257357004647147/1332706963778807/"></a><i></i><p>My response to the bigotry that took place in our School Board meeting today from a parent in our public comment session. </p><p> 1.) Denver Public Schools believes Black Lives Matter! </p><p> 2.) Wear a mask 😷</p><a href="https://www.facebook.com/Tay2019/photos/a.257357004647147/1332706963778807/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-0/p526x296/162431702_1332706967112140_2383643508394977883_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=110474&_nc_ohc=lulEtgX1PkUAX-9CqpU&_nc_ht=scontent.fapa1-2.fna&tp=6&oh=06d01d93f96762a5abf344aa09b4ad11&oe=6096C3E3" alt="May be an image of one or more people and text that says 'BLACK LIVES ACK LIVES MATTER BURIE'" width="500" height="667" caption="May be an image of one or more people and text that says 'BLACK LIVES ACK LIVES MATTER BURIE'" /></a>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/photos/a.257357004647147/1332706963778807/</guid>
-      <pubDate>Thu, 18 Mar 2021 19:38:48 -0600</pubDate>
-    </item>
-    <item>
-      <title>Knock Knock ... PROM IS HERE!</title>
-      <link>https://www.facebook.com/Tay2019/posts/1332631930452977</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_n.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=BbQXwDXr3dUAX-ftHdY&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=6f5e5c554569c60109685b49374528c4&oe=609361C5" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1332631930452977"></a><i></i><p>Knock Knock ... PROM IS HERE!</p><a href="https://www.thedenverchannel.com/news/local-news/the-prom-is-back-colorado-schools-receive-guidance-for-2021">It may not look like the prom pre-pandemic, but Colorado students will likely be able to attend the traditional spring dance this year.<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQGe5xxUY6MrmCWO&w=540&h=282&url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fdims4%2Fdefault%2F316acb9%2F2147483647%2Fstrip%2Ftrue%2Fcrop%2F5304x2785%2B0%2B100%2Fresize%2F1200x630%21%2Fquality%2F90%2F%3Furl%3Dhttp%253A%252F%252Fewscripps-brightspot.s3.amazonaws.com%252F24%252F13%252F5e38796b4ab9916d7b9263e40b90%252Fprom.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&ccb=3-4&_nc_hash=AQHDJQEuQtpTSPYM" alt="" width="500" height="262" caption="" /></a><p>thedenverchannel.com</p><p>The prom is back: Colorado schools receive guidance for 2021</p>It may not look like the prom pre-pandemic, but Colorado students will likely be able to attend the traditional spring dance this year.<a href="https://www.thedenverchannel.com/news/local-news/the-prom-is-back-colorado-schools-receive-guidance-for-2021">It may not look like the prom pre-pandemic, but Colorado students will likely be able to attend the traditional spring dance this year.</a>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1332631930452977</guid>
-      <pubDate>Thu, 18 Mar 2021 16:28:03 -0600</pubDate>
-    </item>
-    <item>
-      <title>After much thought and consideration I will vote for the staff...</title>
-      <link>https://www.facebook.com/Tay2019/posts/1332538533795650</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_n.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=BbQXwDXr3dUAX-ftHdY&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=6f5e5c554569c60109685b49374528c4&oe=609361C5" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1332538533795650"></a><i></i><p>After much thought and consideration I will vote for the staff recommendation to begin the school year on 8/23.</p><p> It does NOT address all of the concerns that I have in regards heat mitigation and lack of ventilation in our schools, however I believe we can take the next two school years to ramp up air conditioning units and begin working with other school districts to join us and pushing their calendars back. </p><p> If we see the same heat crisis arise as we did the year before last, I will be an advocate in re-opening this conversation in the fall. I want to thank our teams in Denver Public Schools that worked with me and heard my concerns to bring this recommendation forward as a middle ground.</p>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1332538533795650</guid>
-      <pubDate>Thu, 18 Mar 2021 12:36:24 -0600</pubDate>
-    </item>
-    <item>
-      <title>White Supremacy has yet again struck our nation. My heart goes...</title>
-      <link>https://www.facebook.com/Tay2019/posts/1331684560547714</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_n.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=BbQXwDXr3dUAX-ftHdY&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=6f5e5c554569c60109685b49374528c4&oe=609361C5" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1331684560547714"></a><i></i><p>White Supremacy has yet again struck our nation.</p><p> My heart goes out to those in the AAPI community as they mourn the loss of eight incredible souls that were unjustly taken from us.</p><p> This was an act of domestic terrorism. </p>...<p> The AAPI community stood with us in defense of Black lives and now we must do the same. </p><p> Instead of mentioning or showing the domestic terrorist by name or picture, let’s uplift those whom we have lost and find ways to support their families when asked.</p><p> Director Tay Anderson</p> <a href="https://www.facebook.com/Tay2019/posts/1331684560547714">See More</a>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1331684560547714</guid>
-      <pubDate>Wed, 17 Mar 2021 08:30:37 -0600</pubDate>
-    </item>
-    <item>
-      <title>Community,  On Thursday we will vote on the new school calendar...</title>
-      <link>https://www.facebook.com/Tay2019/posts/1331282860587884</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_n.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=BbQXwDXr3dUAX-ftHdY&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=6f5e5c554569c60109685b49374528c4&oe=609361C5" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1331282860587884"></a><i></i><p>Community, </p><p> On Thursday we will vote on the new school calendar and I will be honest I am torn. </p><p> Our district staff heard the concerns that I and others put forward and moved to the middle with a start date of 8/23. </p>...<p> An 8/23 start date is one week later than originally proposed and will preserve all breaks, but I heard you very clearly on wanting an 8/30 start date which would start us two weeks later and would reduce thanksgiving and winter break. (BOTH will have an impact on heat ￼ mitigation one more than the other) </p><p> This is a big decision and I need your help as someone that represents ALL of Denver.</p> <a href="https://www.facebook.com/Tay2019/posts/1331282860587884">See More</a>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1331282860587884</guid>
-      <pubDate>Tue, 16 Mar 2021 16:28:25 -0600</pubDate>
-    </item>
-    <item>
-      <title>DENVER PUBLIC SCHOOLS UPDATE:  We will return to in-person...</title>
-      <link>https://www.facebook.com/Tay2019/posts/1331277993921704</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_n.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=BbQXwDXr3dUAX-ftHdY&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=6f5e5c554569c60109685b49374528c4&oe=609361C5" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1331277993921704"></a><i></i><p>DENVER PUBLIC SCHOOLS UPDATE: </p><p> We will return to in-person learning on March 17th, 2021. Please be safe as you return to work/school.</p>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1331277993921704</guid>
-      <pubDate>Tue, 16 Mar 2021 16:14:40 -0600</pubDate>
-    </item>
-    <item>
-      <title>Congratulations Madam Secretary!</title>
-      <link>https://www.facebook.com/Tay2019/posts/1330655457317291</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_n.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=BbQXwDXr3dUAX-ftHdY&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=6f5e5c554569c60109685b49374528c4&oe=609361C5" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1330655457317291"></a><i></i><p>Congratulations Madam Secretary!</p><a href="https://www.washingtonpost.com/climate-environment/2021/03/15/haaland-interior-secretary/">Rep. Deb Haaland (D-N.M.) looks on during a Senate Committee on Energy and Natural Resources hearing on her nomination to be Interior Secretary on Capitol Hill in Washington on Feb. 23. By Darryl FearsDarryl FearsReporter focusing on environmental justice issues, the Interior related to wildlife and...<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQF_ROqVihCrSWp-&w=540&h=282&url=https%3A%2F%2Fwww.washingtonpost.com%2Fwp-apps%2Fimrs.php%3Fsrc%3Dhttps%3A%2F%2Farc-anglerfish-washpost-prod-washpost.s3.amazonaws.com%2Fpublic%2FRJTEKKUBEII6XPRCGLJTDWDVGA.jpg%26w%3D1440&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&ccb=3-4&_nc_hash=AQHYi5bTraoJUnWH" alt="" width="500" height="262" caption="" /></a><p>washingtonpost.com</p><p>Haaland confirmed by Senate as first Native American to lead Interior</p>Rep. Deb Haaland (D-N.M.) looks on during a Senate Committee on Energy and Natural Resources hearing on her nomination to be Interior Secretary on Capitol Hill in Washington on Feb. 23. By Darryl FearsDarryl FearsReporter focusing on environmental justice issues, the Interior related to wildlife and...<a href="https://www.washingtonpost.com/climate-environment/2021/03/15/haaland-interior-secretary/">Rep. Deb Haaland (D-N.M.) looks on during a Senate Committee on Energy and Natural Resources hearing on her nomination to be Interior Secretary on Capitol Hill in Washington on Feb. 23. By Darryl FearsDarryl FearsReporter focusing on environmental justice issues, the Interior related to wildlife and...</a>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1330655457317291</guid>
-      <pubDate>Mon, 15 Mar 2021 16:55:58 -0600</pubDate>
-    </item>
-    <item>
-      <title>DENVER PUBLIC SCHOOLS UPDATE:  Due to the extreme amount of...</title>
-      <link>https://www.facebook.com/Tay2019/posts/1330640037318833</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_n.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=BbQXwDXr3dUAX-ftHdY&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=6f5e5c554569c60109685b49374528c4&oe=609361C5" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1330640037318833"></a><i></i><p>DENVER PUBLIC SCHOOLS UPDATE: </p><p> Due to the extreme amount of snowfall during this weekend’s storm and the difficult travel conditions created the past two days, we will keep all school and office buildings closed on Tuesday, March 16. </p><p> We will follow the guidance previously shared, and have a day of fully remote learning for our students and fully remote work for our staff.</p>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1330640037318833</guid>
-      <pubDate>Mon, 15 Mar 2021 16:13:59 -0600</pubDate>
-    </item>
-    <item>
-      <title>Today I had an amazing time with our students, parents, and...</title>
-      <link>https://www.facebook.com/Tay2019/posts/1330616553987848</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/159873067_1328499260866244_8245740482467022423_n.png?_nc_cat=105&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=BbQXwDXr3dUAX-ftHdY&_nc_ht=scontent.fapa1-2.fna&_nc_tp=30&oh=6f5e5c554569c60109685b49374528c4&oe=609361C5" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1330616553987848"></a><i></i><p>Today I had an amazing time with our students, parents, and educators for a snowball tournament in Central Park. </p><p> Let’s just say the students won, but this was a memory I will treasure for a lifetime.</p><a href="https://www.facebook.com/Tay2019/photos/pcb.1330616553987848/1330613510654819/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-0/p235x350/161170602_1330613513988152_4564871307917164323_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=110474&_nc_ohc=yQMoS2yt3ccAX_5_q58&_nc_ht=scontent.fapa1-2.fna&tp=6&oh=1359dde46fedf9c705d7fa8cd4d6e027&oe=6095943E" alt="May be an image of one or more people, people standing, people skiing, nature and snow" width="501" height="333" caption="May be an image of one or more people, people standing, people skiing, nature and snow" /></a><a href="https://www.facebook.com/Tay2019/photos/pcb.1330616553987848/1330614880654682/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-0/s235x165/161243189_1330614883988015_6980544735246347045_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=110474&_nc_ohc=m8ulDpplMVMAX-t7rbx&_nc_ht=scontent.fapa1-2.fna&tp=7&oh=814d0e9cc1c0cfe688a6ef7a6ed98eb8&oe=6095EDDE" alt="May be an image of one or more people and snow" width="182" height="165" caption="May be an image of one or more people and snow" /></a><a href="https://www.facebook.com/Tay2019/photos/pcb.1330616553987848/1330614743988029/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-0/p235x165/161270689_1330614750654695_7925260410560285521_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=110474&_nc_ohc=XiBkzktpAfgAX90Z1QD&_nc_ht=scontent.fapa1-1.fna&tp=6&oh=c5a3743f20eb9c54e11ae5afe9ba48d7&oe=609663F8" alt="May be an image of one or more people, people standing and nature" width="248" height="165" caption="May be an image of one or more people, people standing and nature" /></a><a href="https://www.facebook.com/Tay2019/photos/pcb.1330616553987848/1330615013988002/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-0/p235x165/161020814_1330615017321335_4478058481171658339_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=110474&_nc_ohc=e7Feb42quGwAX8Msldz&_nc_ht=scontent.fapa1-2.fna&tp=6&oh=0b3270b81b5a6b7cc8bb9ed3103b0b40&oe=6095FB0E" alt="May be an image of one or more people, people standing and snow" width="248" height="165" caption="May be an image of one or more people, people standing and snow" /></a>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1330616553987848</guid>
-      <pubDate>Mon, 15 Mar 2021 15:08:25 -0600</pubDate>
+      <guid>urn:sha1:c12765ed23f8018bd67d0f897fbfb04f661fb415</guid>
+      <pubDate>Thu, 08 Apr 2021 16:44:12 -0600</pubDate>
     </item>
   </channel>
 </rss>
