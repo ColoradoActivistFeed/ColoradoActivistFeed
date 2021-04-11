@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Black Lives Matter 5280</title>
   <id>http://www.blacklivesmatter5280.com/</id>
-  <updated>2021-04-11T11:43:47-06:00</updated>
+  <updated>2021-04-11T12:43:47-06:00</updated>
   <subtitle>Posts from Black Lives Matter 5280</subtitle>
   <link href="http://www.blacklivesmatter5280.com/"></link>
   <author>
     <name>Black Lives Matter 5280</name>
   </author>
   <entry>
+    <title>Bridge returned error 500! (18728)</title>
+    <updated>2021-04-11T12:43:48-06:00</updated>
+    <id>urn:sha1:952a762ba2b9d24cf039ce954b4ad11bd2d12374</id>
+    <content type="html">&lt;section&gt;&#xA;&#x9;&lt;p class=&#34;exception-message&#34;&gt;&lt;strong&gt;blm5280 - Instagram Bridge&lt;/strong&gt; was unable to receive or process the&#xA;remote website&#39;s content!&lt;br&gt;&#xA;Error message: `Unable to find username in search result.`&lt;br /&gt;&#xA;Query string: `action=display&amp;bridge=Instagram&amp;context=Username&amp;u=blm5280&amp;media_type=all&amp;direct_links=on&amp;format=Atom`&lt;br /&gt;&#xA;Version: `dev.2020-02-26`&lt;/p&gt;&#xA;&#x9;&lt;div class=&#34;advice&#34;&gt;&#xA;&#x9;&#x9;&lt;ul class=&#34;advice&#34;&gt;&#xA;&#x9;&#x9;&#x9;&lt;li&gt;Press Return to check your input parameters&lt;/li&gt;&#xA;&#x9;&#x9;&#x9;&lt;li&gt;Press F5 to retry&lt;/li&gt;&#xA;&#x9;&#x9;&#x9;&lt;li&gt;Check if this issue was already reported on &lt;a href=&#34;https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge&#34;&gt;GitHub&lt;/a&gt; (give it a thumbs-up)&lt;/li&gt;&#xA;&#x9;&#x9;&#x9;&lt;li&gt;Open a &lt;a href=&#34;https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&amp;body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&amp;labels=Bridge-Broken&amp;assignee=pauder&#34;&gt;GitHub Issue&lt;/a&gt; if this error persists&lt;/li&gt;&#xA;&#x9;&#x9;&lt;/ul&gt;&#xA;&#x9;&lt;/div&gt;&#xA;&#x9;&lt;a href=&#34;https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge&#34; title=&#34;Opens GitHub to search for similar issues&#34;&gt;&#xA;&#x9;&#x9;&lt;button&gt;Search GitHub Issues&lt;/button&gt;&#xA;&#x9;&lt;/a&gt;&#xA;&#x9;&lt;a href=&#34;https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&amp;body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&amp;labels=Bridge-Broken&amp;assignee=pauder&#34; title=&#34;After clicking this button you can review&#xA;&#x9;the issue before submitting it&#34;&gt;&lt;button&gt;Open GitHub Issue&lt;/button&gt;&lt;/a&gt;&#xA;&#x9;&lt;p class=&#34;maintainer&#34;&gt;pauder&lt;/p&gt;&#xA;&lt;/section&gt;</content>
+    <link href="" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Black Lives Matter 5280</name>
+    </author>
+  </entry>
+  <entry>
     <title>Bridge returned error 400! (18728)</title>
-    <updated>2021-04-11T11:43:49-06:00</updated>
+    <updated>2021-04-11T12:43:48-06:00</updated>
     <id>urn:sha1:13be794cf1eb05c4af653e47c60cce09348a9a37</id>
     <content type="html">&lt;section&gt;&#xA;&#x9;&lt;p class=&#34;exception-message&#34;&gt;&lt;strong&gt;Twitter @BLM5280&lt;/strong&gt; was unable to receive or process the&#xA;remote website&#39;s content!&lt;br&gt;&#xA;Error message: `The requested resource cannot be found!&lt;br /&gt;&#xA;Please make sure your input parameters are correct!&lt;br /&gt;&#xA;cUrl error:  (0)&lt;br /&gt;&#xA;PHP error: `&lt;br /&gt;&#xA;Query string: `action=display&amp;bridge=Twitter&amp;context=By+username&amp;u=BLM5280&amp;norep=on&amp;nopic=on&amp;noimg=on&amp;format=Atom`&lt;br /&gt;&#xA;Version: `dev.2020-02-26`&lt;/p&gt;&#xA;&#x9;&lt;div class=&#34;advice&#34;&gt;&#xA;&#x9;&#x9;&lt;ul class=&#34;advice&#34;&gt;&#xA;&#x9;&#x9;&#x9;&lt;li&gt;Press Return to check your input parameters&lt;/li&gt;&#xA;&#x9;&#x9;&#x9;&lt;li&gt;Press F5 to retry&lt;/li&gt;&#xA;&#x9;&#x9;&#x9;&lt;li&gt;Check if this issue was already reported on &lt;a href=&#34;https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge&#34;&gt;GitHub&lt;/a&gt; (give it a thumbs-up)&lt;/li&gt;&#xA;&#x9;&#x9;&#x9;&lt;li&gt;Open a &lt;a href=&#34;https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40BLM5280+failed+with+error+400&amp;body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DBLM5280%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&amp;labels=Bridge-Broken&amp;assignee=pmaziere&#34;&gt;GitHub Issue&lt;/a&gt; if this error persists&lt;/li&gt;&#xA;&#x9;&#x9;&lt;/ul&gt;&#xA;&#x9;&lt;/div&gt;&#xA;&#x9;&lt;a href=&#34;https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge&#34; title=&#34;Opens GitHub to search for similar issues&#34;&gt;&#xA;&#x9;&#x9;&lt;button&gt;Search GitHub Issues&lt;/button&gt;&#xA;&#x9;&lt;/a&gt;&#xA;&#x9;&lt;a href=&#34;https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40BLM5280+failed+with+error+400&amp;body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DBLM5280%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&amp;labels=Bridge-Broken&amp;assignee=pmaziere&#34; title=&#34;After clicking this button you can review&#xA;&#x9;the issue before submitting it&#34;&gt;&lt;button&gt;Open GitHub Issue&lt;/button&gt;&lt;/a&gt;&#xA;&#x9;&lt;p class=&#34;maintainer&#34;&gt;pmaziere&lt;/p&gt;&#xA;&lt;/section&gt;</content>
     <link href="" rel="alternate"></link>
@@ -20,120 +31,10 @@
   </entry>
   <entry>
     <title>Bridge returned error 500! (18728)</title>
-    <updated>2021-04-11T11:43:47-06:00</updated>
+    <updated>2021-04-11T12:43:47-06:00</updated>
     <id>urn:sha1:c216bcaff39a4959e7c786c1812df09a1e321ff8</id>
     <content type="html">&lt;section&gt;&#xA;&#x9;&lt;p class=&#34;exception-message&#34;&gt;&lt;strong&gt;Facebook Bridge | Main Site&lt;/strong&gt; was unable to receive or process the&#xA;remote website&#39;s content!&lt;br&gt;&#xA;Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`&lt;br /&gt;&#xA;Query string: `action=display&amp;bridge=Facebook&amp;context=User&amp;u=BlackLivesMatter5280&amp;media_type=all&amp;limit=-1&amp;format=Atom`&lt;br /&gt;&#xA;Version: `dev.2020-02-26`&lt;/p&gt;&#xA;&#x9;&lt;div class=&#34;advice&#34;&gt;&#xA;&#x9;&#x9;&lt;ul class=&#34;advice&#34;&gt;&#xA;&#x9;&#x9;&#x9;&lt;li&gt;Press Return to check your input parameters&lt;/li&gt;&#xA;&#x9;&#x9;&#x9;&lt;li&gt;Press F5 to retry&lt;/li&gt;&#xA;&#x9;&#x9;&#x9;&lt;li&gt;Check if this issue was already reported on &lt;a href=&#34;https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site&#34;&gt;GitHub&lt;/a&gt; (give it a thumbs-up)&lt;/li&gt;&#xA;&#x9;&#x9;&#x9;&lt;li&gt;Open a &lt;a href=&#34;https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&amp;body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DBlackLivesMatter5280%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&amp;labels=Bridge-Broken&amp;assignee=teromene%2C+logmanoriginal&#34;&gt;GitHub Issue&lt;/a&gt; if this error persists&lt;/li&gt;&#xA;&#x9;&#x9;&lt;/ul&gt;&#xA;&#x9;&lt;/div&gt;&#xA;&#x9;&lt;a href=&#34;https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site&#34; title=&#34;Opens GitHub to search for similar issues&#34;&gt;&#xA;&#x9;&#x9;&lt;button&gt;Search GitHub Issues&lt;/button&gt;&#xA;&#x9;&lt;/a&gt;&#xA;&#x9;&lt;a href=&#34;https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&amp;body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DBlackLivesMatter5280%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&amp;labels=Bridge-Broken&amp;assignee=teromene%2C+logmanoriginal&#34; title=&#34;After clicking this button you can review&#xA;&#x9;the issue before submitting it&#34;&gt;&lt;button&gt;Open GitHub Issue&lt;/button&gt;&lt;/a&gt;&#xA;&#x9;&lt;p class=&#34;maintainer&#34;&gt;teromene, logmanoriginal&lt;/p&gt;&#xA;&lt;/section&gt;</content>
     <link href="" rel="alternate"></link>
-    <summary type="html"></summary>
-    <author>
-      <name>Black Lives Matter 5280</name>
-    </author>
-  </entry>
-  <entry>
-    <title>▶ CW: mention of sexual assault...</title>
-    <updated>2021-04-06T12:26:49-06:00</updated>
-    <id>https://www.instagram.com/p/CNVaNR_FEKt/</id>
-    <content type="html">&lt;video controls&gt;&lt;source src=&#34;https://instagram.fapa1-2.fna.fbcdn.net/v/t50.2886-16/10000000_302552414542068_427596323140055609_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjcyMC5pZ3R2LmRlZmF1bHQiLCJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSJ9&amp;_nc_ht=instagram.fapa1-2.fna.fbcdn.net&amp;_nc_cat=100&amp;_nc_ohc=cQc8XI2UV6gAX9E0XIR&amp;edm=AP_V10EAAAAA&amp;vs=17869774901384380_3517622462&amp;_nc_vs=HBksFQAYJEdJQ1dtQUQwMkRGNUt4TUJBRG15QmlTWElPOEZicUNCQUFBRhUAAsgBABUAGCRHTmJ1RkFyV3hjc0R3c3dBQUk4cWs4YWhNcmxHYnFDQkFBQUYVAgLIAQAoABgAGwGIB3VzZV9vaWwBMRUAACb4sJ%2BC5p2%2BPxUCKAJDMywXQIBNdsi0OVgYEmRhc2hfYmFzZWxpbmVfMV92MREAdewHAA%3D%3D&amp;ccb=7-4&amp;oe=60755FE3&amp;oh=327fca136a8a6eb1376354f55ce33ab3&amp;_nc_sid=4f375e&#34; poster=&#34;https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/169052154_921633308661138_3621552355448576039_n.jpg?tp=1&amp;_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=106&amp;_nc_ohc=00UXnT9j9cgAX-DRQ3a&amp;edm=APU89FAAAAAA&amp;ccb=7-4&amp;oh=e6d325bcbe4ddeecdb14a9f96fd7b1db&amp;oe=60759C17&amp;_nc_sid=86f79a&#34; type=&#34;video/mp4&#34;&gt;&lt;img src=&#34;https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/169052154_921633308661138_3621552355448576039_n.jpg?tp=1&amp;_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=106&amp;_nc_ohc=00UXnT9j9cgAX-DRQ3a&amp;edm=APU89FAAAAAA&amp;ccb=7-4&amp;oh=e6d325bcbe4ddeecdb14a9f96fd7b1db&amp;oe=60759C17&amp;_nc_sid=86f79a&#34; alt=&#34;&#34;&gt;&lt;/video&gt;&lt;br&gt;&lt;br&gt;CW: mention of sexual assault&lt;br /&gt;&#xA;Ari and Apryl kick off our inaugural #SexualAssaultAwarenessMonth Campaign with a brief overview of programming and services/resources available. Join us Tuesdays and Thursdays throughout the month of April for a deeper look!</content>
-    <link href="https://www.instagram.com/p/CNVaNR_FEKt/" rel="alternate"></link>
-    <summary type="html"></summary>
-    <author>
-      <name>Black Lives Matter 5280</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Img Text: Black Trans Women Made My Rights Possible...</title>
-    <updated>2021-03-31T10:06:13-06:00</updated>
-    <id>https://www.instagram.com/p/CNFtXc4l4BK/</id>
-    <content type="html">&lt;a href=&#34;https://www.instagram.com/p/CNFtXc4l4BK/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/166788363_1103669686799557_3043669422438021914_n.jpg?tp=1&amp;amp;_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;amp;_nc_cat=101&amp;amp;_nc_ohc=SVhQgwuBVUAAX9c-K1k&amp;amp;edm=APU89FAAAAAA&amp;amp;ccb=7-4&amp;amp;oh=b7b1ff27c6cf82eb51208002a360ab4a&amp;amp;oe=60990823&amp;amp;_nc_sid=86f79a&#34; alt=&#34;Img Text: Black Trans Women Made My Rights Possible...&#34; /&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;Img Text: Black Trans Women Made My Rights Possible&lt;br /&gt;&#xA;#TransDayOfVisibility</content>
-    <link href="https://www.instagram.com/p/CNFtXc4l4BK/" rel="alternate"></link>
-    <summary type="html"></summary>
-    <author>
-      <name>Black Lives Matter 5280</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Img text: We will not allow the alleged survivor from yesterday’s statement or any of the other women who came forward...</title>
-    <updated>2021-03-27T19:05:39-06:00</updated>
-    <id>https://www.instagram.com/p/CM8X64pFOyK/</id>
-    <content type="html">&lt;a href=&#34;https://www.instagram.com/p/CM8X64pFOyK/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/165308365_122949963128251_846335859478913045_n.jpg?tp=1&amp;amp;_nc_ht=instagram.fapa1-2.fna.fbcdn.net&amp;amp;_nc_cat=107&amp;amp;_nc_ohc=xNQD1uI8sMwAX_TOlY3&amp;amp;edm=APU89FAAAAAA&amp;amp;ccb=7-4&amp;amp;oh=80e293bf60322d32bfd37353f00c1e85&amp;amp;oe=60995B0A&amp;amp;_nc_sid=86f79a&#34; alt=&#34;Img text: We will not allow the alleged survivor from yesterday’s statement or any of the other women who came forward...&#34; /&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;Img text: We will not allow the alleged survivor from yesterday&amp;rsquo;s statement or any of the other women who came forward afterward to be bullied into showing their faces. Restorative Justice is not a series of boxes that must be checked in order to be a legitimate practice. That is an unrealistic expectation, and much of what people are demanding of us would put the multiple alleged victims&amp;rsquo; safety in jeopardy. BLM5280 will not be facilitating further violence against women today or any other day. As with the initial statement we are doing our diligence and handling this with a tremendous amount of care. We will release a follow-up statement when the alleged survivors are ready.</content>
-    <link href="https://www.instagram.com/p/CM8X64pFOyK/" rel="alternate"></link>
-    <summary type="html"></summary>
-    <author>
-      <name>Black Lives Matter 5280</name>
-    </author>
-  </entry>
-  <entry>
-    <title>CW: Mention of sexual assault ...</title>
-    <updated>2021-03-26T11:33:35-06:00</updated>
-    <id>https://www.instagram.com/p/CM4_ZB2luJN/</id>
-    <content type="html">&lt;a href=&#34;https://www.instagram.com/p/CM4_ZB2luJN/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/164116761_1257839027945117_6261644440306095130_n.jpg?tp=1&amp;amp;_nc_ht=instagram.fapa1-2.fna.fbcdn.net&amp;amp;_nc_cat=105&amp;amp;_nc_ohc=dInMBBUYRv8AX__ksb0&amp;amp;edm=APU89FAAAAAA&amp;amp;ccb=7-4&amp;amp;oh=25b81484abdeb82e22aed03593886c54&amp;amp;oe=60985F53&amp;amp;_nc_sid=86f79a&#34; alt=&#34;CW: Mention of sexual assault ...&#34; /&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;CW: Mention of sexual assault &lt;br /&gt;&#xA;IMG text: In late February, a woman came forward to BLM5280 alleging that Director Tay Anderson is the perpetrator of her sexual assault. At the request of the alleged survivor, we are publicly sharing this information in hopes of ensuring her and all of our safety and well-being. We trust that our supporters and community partners, as well as Dir. Anderson&amp;rsquo;s supporters and community partners, will be mindful of the struggle in outing oneself as a survivor of sexual assault; particularly when bringing allegations forth against a person in a position of power and influence. As such, the alleged survivor has requested to remain anonymous at this time. Please respect her boundaries. &lt;br /&gt;&#xA;At present, the alleged survivor&amp;rsquo;s only requests of Dir. Anderson are that he issue a public apology and seek help from a licensed professional with relevant expertise. The alleged victim&amp;rsquo;s requests are in alignment with restorative justice&amp;mdash;one of our guiding values as a chapter. Bear in mind that although these allegations have not gone through a formal legal process, BLM5280 is fiercely committed to protecting, uplifting, and believing Black women, decidedly as it relates to sexual violence. When we say protect Black women this must entail calling in those who have allegedly caused harm, including elected officials. Until Dir. Anderson has accounted for himself in these ways, he will not be welcome to share space with BLM5280 physically or on any of our platforms.&lt;br /&gt;&#xA;Black Lives Matter 5280&lt;br /&gt;&#xA;www.blacklivesmatter5280.com&lt;br /&gt;&#xA;blacklivesmatter5280@gmail.com</content>
-    <link href="https://www.instagram.com/p/CM4_ZB2luJN/" rel="alternate"></link>
-    <summary type="html"></summary>
-    <author>
-      <name>Black Lives Matter 5280</name>
-    </author>
-  </entry>
-  <entry>
-    <title>CW: mention of sexual assault and sexual abuse ...</title>
-    <updated>2021-03-26T11:13:34-06:00</updated>
-    <id>https://www.instagram.com/p/CM49GYulMYW/</id>
-    <content type="html">&lt;a href=&#34;https://www.instagram.com/p/CM49GYulMYW/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/164937722_3533618243404860_3297354851738437131_n.jpg?tp=1&amp;amp;_nc_ht=instagram.fapa1-2.fna.fbcdn.net&amp;amp;_nc_cat=100&amp;amp;_nc_ohc=suhuecWssRQAX-G5NW6&amp;amp;edm=APU89FAAAAAA&amp;amp;ccb=7-4&amp;amp;oh=1f06d56559181d542701349eb9a6003e&amp;amp;oe=6096DBA5&amp;amp;_nc_sid=86f79a&#34; alt=&#34;CW: mention of sexual assault and sexual abuse ...&#34; /&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;CW: mention of sexual assault and sexual abuse &lt;br /&gt;&#xA;&lt;br /&gt;&#xA;We&amp;rsquo;re launching our first BLM 5280 Sexual Assault Awareness Month Campaign! Details to come on April 1st.&lt;br /&gt;&#xA;&lt;br /&gt;&#xA;Img text: 1 in 4 Black girls will be sexually abused before age 18. 1 in 5 Black women are survivors of rape. 40% of confirmed sex trafficking survivors in the U.S. are Black.&lt;br /&gt;&#xA;&lt;br /&gt;&#xA;Sexual Assault Awareness Month&lt;br /&gt;&#xA;#BelieveBlackWomen #BLM5280SAAM&lt;br /&gt;&#xA;&lt;br /&gt;&#xA;April 2021&lt;br /&gt;&#xA;Details Coming Soon&lt;br /&gt;&#xA;&lt;br /&gt;&#xA;For collaboration and/or event sponsorship, e-mail blacklivesmatter5280@gmail.com</content>
-    <link href="https://www.instagram.com/p/CM49GYulMYW/" rel="alternate"></link>
-    <summary type="html"></summary>
-    <author>
-      <name>Black Lives Matter 5280</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Denver City Council meetings always like to include our name without actually including us......</title>
-    <updated>2021-03-25T09:28:40-06:00</updated>
-    <id>https://www.instagram.com/p/CM2MTNeFnr_/</id>
-    <content type="html">&lt;a href=&#34;https://www.instagram.com/p/CM2MTNeFnr_/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/164462328_3847736058650222_1307227108168988701_n.jpg?tp=1&amp;amp;_nc_ht=instagram.fapa1-2.fna.fbcdn.net&amp;amp;_nc_cat=102&amp;amp;_nc_ohc=Msghs21k-eQAX9yvER5&amp;amp;edm=APU89FAAAAAA&amp;amp;ccb=7-4&amp;amp;oh=c45a8c3b8e14c62ff5f61fa658a013a2&amp;amp;oe=60985FE2&amp;amp;_nc_sid=86f79a&#34; alt=&#34;Denver City Council meetings always like to include our name without actually including us......&#34; /&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;Denver City Council meetings always like to include our name without actually including us...&lt;br /&gt;&#xA;&lt;br /&gt;&#xA;Img text: Press Release: DPD Police Chief Pazen Misleads about BLM5280 Involvement.&lt;br /&gt;&#xA;&lt;br /&gt;&#xA;During the Denver City Council Safety, Housing, Education, and Homelessness Committee meeting on March 24, 2021, DPD Chief Pazen provided a community update on the co-responder program and the Support Team Assistance Response (STAR) program. Chief Pazen inaccurately reported that BLM 5280 had representation on the group that aided in creating the STAR program. BLM 5280 nor any of its individual members sit on this advisory board. Chief Pazen nor his team consulted us on this presentation and did not even notify us of the presentation. &lt;br /&gt;&#xA; &lt;br /&gt;&#xA;We support the need for non-law enforcement community responses to 9-1-1 and crisis calls, such as the STAR pilot program. We would not work with law enforcement-led co-responder models, which send police officers and mostly white social workers to calls. The current co-responder models lack trauma-informed care through sending law enforcement to crisis calls. &lt;br /&gt;&#xA;&lt;br /&gt;&#xA;We encourage community engagement and involvement in conversations around public safety and policy changes regarding public safety. Oftentimes, Black people and communities (particularly Black women and Black LGBTQIA folx) are not invited to these conversations. As a chapter, we are also not invited to the table in these conversations, or our input is disregarded. &lt;br /&gt;&#xA;&lt;br /&gt;&#xA;If you want to know about the work that BLM 5280 is doing in the community, please consult our social media pages or our newly revamped website: www.blacklivesmatter5280.com.</content>
-    <link href="https://www.instagram.com/p/CM2MTNeFnr_/" rel="alternate"></link>
-    <summary type="html"></summary>
-    <author>
-      <name>Black Lives Matter 5280</name>
-    </author>
-  </entry>
-  <entry>
-    <title>▶ Join us this Friday on FB Live for our first ever Compass Awards</title>
-    <updated>2021-02-15T20:21:11-07:00</updated>
-    <id>https://www.instagram.com/p/CLVnS2DlRO6/</id>
-    <content type="html">&lt;video controls&gt;&lt;source src=&#34;https://instagram.fapa1-1.fna.fbcdn.net/v/t50.2886-16/149374264_3743710622362215_7493589677033952827_n.mp4?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=103&amp;_nc_ohc=xb_zPs6E4PoAX-s85U2&amp;edm=AP_V10EAAAAA&amp;ccb=7-4&amp;oe=60756A7B&amp;oh=7c2713e2840de1dcd49dec72ca771c9d&amp;_nc_sid=4f375e&#34; poster=&#34;https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/150976663_754294502185102_7282435576238213385_n.jpg?tp=1&amp;_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=110&amp;_nc_ohc=97MOgOUIW-AAX83ieRF&amp;edm=APU89FAAAAAA&amp;ccb=7-4&amp;oh=0a136d438ff16dfb3a9367a22df6678f&amp;oe=607549DD&amp;_nc_sid=86f79a&#34; type=&#34;video/mp4&#34;&gt;&lt;img src=&#34;https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/150976663_754294502185102_7282435576238213385_n.jpg?tp=1&amp;_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=110&amp;_nc_ohc=97MOgOUIW-AAX83ieRF&amp;edm=APU89FAAAAAA&amp;ccb=7-4&amp;oh=0a136d438ff16dfb3a9367a22df6678f&amp;oe=607549DD&amp;_nc_sid=86f79a&#34; alt=&#34;&#34;&gt;&lt;/video&gt;&lt;br&gt;&lt;br&gt;Join us this Friday on FB Live for our first ever Compass Awards</content>
-    <link href="https://www.instagram.com/p/CLVnS2DlRO6/" rel="alternate"></link>
-    <summary type="html"></summary>
-    <author>
-      <name>Black Lives Matter 5280</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Join us on Facebook Live for our #BlackLivesMatterAtSchoolWeek celebration Today from 5pm - 6pm!...</title>
-    <updated>2021-02-05T16:20:22-07:00</updated>
-    <id>https://www.instagram.com/p/CK7cH--lvDC/</id>
-    <content type="html">&lt;a href=&#34;https://www.instagram.com/p/CK7cH--lvDC/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/147509365_459743915035385_8500792527273291594_n.jpg?tp=1&amp;amp;_nc_ht=instagram.fapa1-2.fna.fbcdn.net&amp;amp;_nc_cat=105&amp;amp;_nc_ohc=mdgHDkPFKngAX9hRKby&amp;amp;edm=APU89FAAAAAA&amp;amp;ccb=7-4&amp;amp;oh=9fa90d9b62b3ef340b6c1c9a53549595&amp;amp;oe=6099491B&amp;amp;_nc_sid=86f79a&#34; alt=&#34;Join us on Facebook Live for our #BlackLivesMatterAtSchoolWeek celebration Today from 5pm - 6pm!...&#34; /&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;Join us on Facebook Live for our #BlackLivesMatterAtSchoolWeek celebration Today from 5pm - 6pm!&lt;br /&gt;&#xA;&lt;br /&gt;&#xA;[Image Description:&lt;br /&gt;&#xA;A banner for a Facebook event page depicts a Black child looking determined on a black background. They are wearing a mask and are superimposed over a brown and white striped banner that says &amp;ldquo;Black Lives Matter.&amp;rdquo; There is a brown fist superimposed over her face.]</content>
-    <link href="https://www.instagram.com/p/CK7cH--lvDC/" rel="alternate"></link>
-    <summary type="html"></summary>
-    <author>
-      <name>Black Lives Matter 5280</name>
-    </author>
-  </entry>
-  <entry>
-    <title>▶ #Reparations Y’all probably remember our sister in need of secure housing not too long ago. With our help and the...</title>
-    <updated>2021-01-30T11:09:45-07:00</updated>
-    <id>https://www.instagram.com/p/CKrbeN4FiUj/</id>
-    <content type="html">&lt;video controls&gt;&lt;source src=&#34;https://instagram.fapa1-1.fna.fbcdn.net/v/t50.2886-16/143849610_161861189069795_4710417797354620876_n.mp4?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=111&amp;_nc_ohc=rJW288GWB0MAX_Wc8cq&amp;edm=AP_V10EAAAAA&amp;ccb=7-4&amp;oe=607569E4&amp;oh=1cae70e7c5cf3a820ee4226c8e3fc88d&amp;_nc_sid=4f375e&#34; poster=&#34;https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/144825018_133363795280987_1522669209862474798_n.jpg?tp=1&amp;_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=111&amp;_nc_ohc=oTE7KudGDeMAX_GUK91&amp;edm=APU89FAAAAAA&amp;ccb=7-4&amp;oh=a9b42ca1f6eff74788eb38e207ace94d&amp;oe=6075D346&amp;_nc_sid=86f79a&#34; type=&#34;video/mp4&#34;&gt;&lt;img src=&#34;https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/144825018_133363795280987_1522669209862474798_n.jpg?tp=1&amp;_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=111&amp;_nc_ohc=oTE7KudGDeMAX_GUK91&amp;edm=APU89FAAAAAA&amp;ccb=7-4&amp;oh=a9b42ca1f6eff74788eb38e207ace94d&amp;oe=6075D346&amp;_nc_sid=86f79a&#34; alt=&#34;&#34;&gt;&lt;/video&gt;&lt;br&gt;&lt;br&gt;#Reparations Y&amp;rsquo;all probably remember our sister in need of secure housing not too long ago. With our help and the help of community she was able to find a place! She started working soon after to cover her monthly expenses despite her active and debilitating condition. Just one month later she was fired after missing too much work for medical treatment AND denied disability income at the same time. She plans to appeal the denial and take legal action against her employer for being in violation of the ADA. &lt;br /&gt;&#xA;&lt;br /&gt;&#xA;None of that will pay her bills right now though. Please, please share and give what you can. Enough people giving even just a few dollars really goes long way. And comment seen to help spread the word!&lt;br /&gt;&#xA;&lt;br /&gt;&#xA;‼️If you have any leads on remote work opportunities or pro bono Disability Lawyers please send them to blacklivesmatter5280@gmail.com ‼️&lt;br /&gt;&#xA;#BlackLivesMatter #BlackAndDisabled #CallToAction #MutualAid #CommunitySupport &lt;br /&gt;&#xA;(Image Description: flyer with pastel pink, blue, and yellow font on a black background reads: [venmo symbol] @Kim-and-Kush-00&lt;br /&gt;&#xA;Kim is fighting a brain tumor but was recently denied disability income&lt;br /&gt;&#xA;She can appeal but she needs our help staying housed and healthy right now &lt;br /&gt;&#xA;Please give what you can and share widely&lt;br /&gt;&#xA;#WeKeepUsSafe &lt;br /&gt;&#xA;There is a picture of Kim looking hopeful in the bottom left corner, and animated white embellishments arranged around the text)</content>
-    <link href="https://www.instagram.com/p/CKrbeN4FiUj/" rel="alternate"></link>
-    <summary type="html"></summary>
-    <author>
-      <name>Black Lives Matter 5280</name>
-    </author>
-  </entry>
-  <entry>
-    <title>▶ https://www.coloradogives.org/blacklivesmatter5280</title>
-    <updated>2020-12-08T11:32:06-07:00</updated>
-    <id>https://www.instagram.com/p/CIjAOGZFUY7/</id>
-    <content type="html">&lt;video controls&gt;&lt;source src=&#34;https://instagram.fapa1-1.fna.fbcdn.net/v/t50.2886-16/10000000_689169031613180_6632563838070330277_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjcyMC5pZ3R2LmRlZmF1bHQiLCJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSJ9&amp;_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=108&amp;_nc_ohc=3KvWNbcPlHcAX_Y897Q&amp;edm=AP_V10EAAAAA&amp;vs=17972769439341552_924851252&amp;_nc_vs=HBksFQAYJEdJQ1dtQUQ4eWxHcnkzSUNBS1dUU0g2cm1RdGNicUNCQUFBRhUAAsgBABUAGCRHQXB4eWdkNlM2WVpGTFVDQU1rUEZkZkhGdlp3YnFDQkFBQUYVAgLIAQAoABgAGwGIB3VzZV9vaWwBMRUAACbgl42K74jtPxUCKAJDMywXQH38SbpeNT8YFWRhc2hfYmFzZWxpbmVfNzIwcF92MREAdewHAA%3D%3D&amp;ccb=7-4&amp;oe=60759E97&amp;oh=6f49247acf92cd8f08b9cc1cf4776962&amp;_nc_sid=4f375e&#34; poster=&#34;https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/130549493_5440007162683411_7797579065946464619_n.jpg?tp=1&amp;_nc_ht=instagram.fapa1-2.fna.fbcdn.net&amp;_nc_cat=107&amp;_nc_ohc=p7176ZPVOpwAX-q0g7K&amp;edm=APU89FAAAAAA&amp;ccb=7-4&amp;oh=477240503797544ec0d76cc6aeb9cdce&amp;oe=6075AE6F&amp;_nc_sid=86f79a&#34; type=&#34;video/mp4&#34;&gt;&lt;img src=&#34;https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/130549493_5440007162683411_7797579065946464619_n.jpg?tp=1&amp;_nc_ht=instagram.fapa1-2.fna.fbcdn.net&amp;_nc_cat=107&amp;_nc_ohc=p7176ZPVOpwAX-q0g7K&amp;edm=APU89FAAAAAA&amp;ccb=7-4&amp;oh=477240503797544ec0d76cc6aeb9cdce&amp;oe=6075AE6F&amp;_nc_sid=86f79a&#34; alt=&#34;&#34;&gt;&lt;/video&gt;&lt;br&gt;&lt;br&gt;https://www.coloradogives.org/blacklivesmatter5280</content>
-    <link href="https://www.instagram.com/p/CIjAOGZFUY7/" rel="alternate"></link>
     <summary type="html"></summary>
     <author>
       <name>Black Lives Matter 5280</name>
