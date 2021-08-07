@@ -3,7 +3,97 @@
     <title>Colorado Activist Feed</title>
     <link>https://coloradoactivistfeed.github.io/ColoradoActivistFeed/</link>
     <description>Aggregation of Colorado activist posts from across social media.</description>
-    <pubDate>Fri, 06 Aug 2021 22:52:03 -0600</pubDate>
+    <pubDate>Fri, 06 Aug 2021 23:52:00 -0600</pubDate>
+    <item>
+      <title>Bridge returned error 400! (18846)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @melanatedmic</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=melanatedmic&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40melanatedmic+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dmelanatedmic%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40melanatedmic+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dmelanatedmic%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>Melanated Mic Night</author>
+      <guid>urn:sha1:a6bcec6a451391f1a46362fa1386219458005cee</guid>
+      <pubDate>Fri, 06 Aug 2021 23:52:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge encountered an unexpected situation! (18846)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Call to a member function children() on null`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=acluofcolorado&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Dacluofcolorado%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Dacluofcolorado%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>ACLU of Colorado</author>
+      <guid>urn:sha1:4a24b0e7be0690c36e18150ac2c42a222e960e03</guid>
+      <pubDate>Fri, 06 Aug 2021 23:52:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18846)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=Denver-Solidarity-March-118949813177149&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Solidarity-March-118949813177149%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Solidarity-March-118949813177149%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Denver Solidarity March</author>
+      <guid>urn:sha1:d118ad62a37c206e74ce884993eca95d2df5ac09</guid>
+      <pubDate>Fri, 06 Aug 2021 23:52:00 -0600</pubDate>
+    </item>
     <item>
       <title>Bridge encountered an unexpected situation! (18846)</title>
       <link></link>
@@ -31,7 +121,36 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>North Denver for Social Justice</author>
       <guid>urn:sha1:afa716d775c07e4b9f6e82918710bf0d5b582f54</guid>
-      <pubDate>Fri, 06 Aug 2021 22:52:03 -0600</pubDate>
+      <pubDate>Fri, 06 Aug 2021 23:51:59 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge encountered an unexpected situation! (18846)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Call to a member function children() on null`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=DenverJusticeProject&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverJusticeProject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverJusticeProject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Denver Justice Project</author>
+      <guid>urn:sha1:a74694bcebbab4b2c4f88a07cef0d06167acbfd2</guid>
+      <pubDate>Fri, 06 Aug 2021 23:51:59 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18846)</title>
@@ -63,7 +182,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Denver Justice Project</author>
       <guid>urn:sha1:e7e0427b7535de17ba56feab55df43ee5ff5ffcd</guid>
-      <pubDate>Fri, 06 Aug 2021 22:52:03 -0600</pubDate>
+      <pubDate>Fri, 06 Aug 2021 23:51:59 -0600</pubDate>
     </item>
     <item>
       <title>Bridge encountered an unexpected situation! (18846)</title>
@@ -73,26 +192,26 @@ Version: `dev.2020-02-26`</p>
 	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
 remote website's content!<br>
 Error message: `Call to a member function children() on null`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=DenverJusticeProject&media_type=all&limit=-1&format=Atom`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=denverautonomous&media_type=all&limit=-1&format=Atom`<br />
 Version: `dev.2020-02-26`</p>
 	<div class="advice">
 		<ul class="advice">
 			<li>Press Return to check your input parameters</li>
 			<li>Press F5 to retry</li>
 			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverJusticeProject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Ddenverautonomous%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
 		</ul>
 	</div>
 	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
 		<button>Search GitHub Issues</button>
 	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverJusticeProject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Ddenverautonomous%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
 	the issue before submitting it"><button>Open GitHub Issue</button></a>
 	<p class="maintainer">teromene, logmanoriginal</p>
 </section>]]></content:encoded>
-      <author>Denver Justice Project</author>
-      <guid>urn:sha1:a74694bcebbab4b2c4f88a07cef0d06167acbfd2</guid>
-      <pubDate>Fri, 06 Aug 2021 22:52:02 -0600</pubDate>
+      <author>Denver Action Network</author>
+      <guid>urn:sha1:170b2fef79ae0615885a6e17574f53888045d1b8</guid>
+      <pubDate>Fri, 06 Aug 2021 23:51:58 -0600</pubDate>
     </item>
     <item>
       <title>Bridge encountered an unexpected situation! (18846)</title>
@@ -121,7 +240,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Colorado - Familia</author>
       <guid>urn:sha1:640ce086ded853787a23932d74d619e4e03c8d18</guid>
-      <pubDate>Fri, 06 Aug 2021 22:52:02 -0600</pubDate>
+      <pubDate>Fri, 06 Aug 2021 23:51:58 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18846)</title>
@@ -153,7 +272,36 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Colorado - Familia</author>
       <guid>urn:sha1:b28548b3e73d58584bf790db49364b9a18fe4e92</guid>
-      <pubDate>Fri, 06 Aug 2021 22:52:02 -0600</pubDate>
+      <pubDate>Fri, 06 Aug 2021 23:51:58 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge encountered an unexpected situation! (18846)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Call to a member function children() on null`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=AuroraWarmstheNight&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAuroraWarmstheNight%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAuroraWarmstheNight%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Aurora Warms the Night</author>
+      <guid>urn:sha1:ceea249887c3f07f1b2a011734bb962483da8bdf</guid>
+      <pubDate>Fri, 06 Aug 2021 23:51:57 -0600</pubDate>
     </item>
     <item>
       <title>Bridge encountered an unexpected situation! (18846)</title>
@@ -182,7 +330,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Leslie Herod</author>
       <guid>urn:sha1:d45f5de483b3f7a48d881da6ff8b5c5908052340</guid>
-      <pubDate>Fri, 06 Aug 2021 22:52:01 -0600</pubDate>
+      <pubDate>Fri, 06 Aug 2021 23:51:57 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18846)</title>
@@ -214,36 +362,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Leslie Herod</author>
       <guid>urn:sha1:c7e57afadc7147a96b2411e7526ffe850bfbfed7</guid>
-      <pubDate>Fri, 06 Aug 2021 22:52:01 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge encountered an unexpected situation! (18846)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `Call to a member function children() on null`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=AuroraWarmstheNight&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAuroraWarmstheNight%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAuroraWarmstheNight%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Aurora Warms the Night</author>
-      <guid>urn:sha1:ceea249887c3f07f1b2a011734bb962483da8bdf</guid>
-      <pubDate>Fri, 06 Aug 2021 22:52:01 -0600</pubDate>
+      <pubDate>Fri, 06 Aug 2021 23:51:57 -0600</pubDate>
     </item>
     <item>
       <title>Bridge encountered an unexpected situation! (18846)</title>
@@ -272,7 +391,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Denver Peace Council</author>
       <guid>urn:sha1:a9146052e76162d86d08046b95f625ff7003284c</guid>
-      <pubDate>Fri, 06 Aug 2021 22:52:00 -0600</pubDate>
+      <pubDate>Fri, 06 Aug 2021 23:51:56 -0600</pubDate>
     </item>
     <item>
       <title>Bridge encountered an unexpected situation! (18846)</title>
@@ -301,94 +420,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Colorado Attorneys Against Police Violence</author>
       <guid>urn:sha1:971538d6495ea9838b36d534b9abbc67ace69dfc</guid>
-      <pubDate>Fri, 06 Aug 2021 22:52:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge encountered an unexpected situation! (18846)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `Call to a member function children() on null`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=DenverXikanoproject&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverXikanoproject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverXikanoproject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Denver&#39;s Chicano Movement Legacy Project</author>
-      <guid>urn:sha1:18ab309b7a618cf05e2355659d20793fe8c057e6</guid>
-      <pubDate>Fri, 06 Aug 2021 22:51:59 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge encountered an unexpected situation! (18846)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `Call to a member function children() on null`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=denverPSL&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DdenverPSL%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DdenverPSL%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Party for Socialism and Liberation</author>
-      <guid>urn:sha1:aace2ba5d2fc2079d985eb159b58147db6829e4c</guid>
-      <pubDate>Fri, 06 Aug 2021 22:51:59 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge encountered an unexpected situation! (18846)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `Call to a member function children() on null`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=denverautonomous&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Ddenverautonomous%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Ddenverautonomous%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Denver Action Network</author>
-      <guid>urn:sha1:170b2fef79ae0615885a6e17574f53888045d1b8</guid>
-      <pubDate>Fri, 06 Aug 2021 22:51:59 -0600</pubDate>
+      <pubDate>Fri, 06 Aug 2021 23:51:56 -0600</pubDate>
     </item>
     <item>
       <title>Bridge encountered an unexpected situation! (18846)</title>
@@ -417,7 +449,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Denver Metro BLM</author>
       <guid>urn:sha1:31c4b720193ed5b20a54c5c8b8c3a7b8021843ff</guid>
-      <pubDate>Fri, 06 Aug 2021 22:51:59 -0600</pubDate>
+      <pubDate>Fri, 06 Aug 2021 23:51:55 -0600</pubDate>
     </item>
     <item>
       <title>Bridge encountered an unexpected situation! (18846)</title>
@@ -427,299 +459,26 @@ Version: `dev.2020-02-26`</p>
 	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
 remote website's content!<br>
 Error message: `Call to a member function children() on null`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=Tay2019&media_type=all&limit=-1&format=Atom`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=denverPSL&media_type=all&limit=-1&format=Atom`<br />
 Version: `dev.2020-02-26`</p>
 	<div class="advice">
 		<ul class="advice">
 			<li>Press Return to check your input parameters</li>
 			<li>Press F5 to retry</li>
 			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DTay2019%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DdenverPSL%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
 		</ul>
 	</div>
 	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
 		<button>Search GitHub Issues</button>
 	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DTay2019%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DdenverPSL%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
 	the issue before submitting it"><button>Open GitHub Issue</button></a>
 	<p class="maintainer">teromene, logmanoriginal</p>
 </section>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>urn:sha1:c7e214a19102408b8cf0b8fedb44b26a6ccc7b0f</guid>
-      <pubDate>Fri, 06 Aug 2021 22:51:58 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 400! (18846)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @TayAndersonCO</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=TayAndersonCO&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40TayAndersonCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DTayAndersonCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40TayAndersonCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DTayAndersonCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>urn:sha1:e6fb1bc6d95a08c24e27f5b063535e9bc37b6221</guid>
-      <pubDate>Fri, 06 Aug 2021 22:51:58 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 400! (18846)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @BLM5280</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=BLM5280&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40BLM5280+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DBLM5280%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40BLM5280+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DBLM5280%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>urn:sha1:c24236dc99a677e0d21d4a1a29be2402ee5d4b57</guid>
-      <pubDate>Fri, 06 Aug 2021 22:51:57 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge encountered an unexpected situation! (18846)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `Call to a member function children() on null`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=BlackLivesMatter5280&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DBlackLivesMatter5280%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DBlackLivesMatter5280%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>urn:sha1:9e1358c3c9d36dfa5856787ddda5cd76010d0b49</guid>
-      <pubDate>Fri, 06 Aug 2021 22:51:54 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge encountered an unexpected situation! (18846)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `Call to a member function children() on null`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=AbolishICEDenver&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAbolishICEDenver%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAbolishICEDenver%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>urn:sha1:d22e74afa3001b2c753bd259d7c2887950267d27</guid>
-      <pubDate>Fri, 06 Aug 2021 22:51:52 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge encountered an unexpected situation! (18846)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `Call to a member function children() on null`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=Sanctuary4AllCO&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DSanctuary4AllCO%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DSanctuary4AllCO%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Sanctuary4All Colorado</author>
-      <guid>urn:sha1:6e362b41260a899ff28223bb532d13df6adb37f3</guid>
-      <pubDate>Fri, 06 Aug 2021 22:51:52 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 400! (18846)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @Sanctuary4AllCO</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=Sanctuary4AllCO&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40Sanctuary4AllCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DSanctuary4AllCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40Sanctuary4AllCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DSanctuary4AllCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>Sanctuary4All Colorado</author>
-      <guid>urn:sha1:3dc6c34a6058c01cbf7316bbe4955d3b4d6a812c</guid>
-      <pubDate>Fri, 06 Aug 2021 22:51:52 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge encountered an unexpected situation! (18846)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `Call to a member function children() on null`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=DenverHomelessOutLoud&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverHomelessOutLoud%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverHomelessOutLoud%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Denver Homeless Out Loud</author>
-      <guid>urn:sha1:cf76abf1e6ab2f5fa55990c9228e9ca07ae31157</guid>
-      <pubDate>Fri, 06 Aug 2021 22:51:51 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 400! (18846)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @homelessoutloud</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=homelessoutloud&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40homelessoutloud+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dhomelessoutloud%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40homelessoutloud+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dhomelessoutloud%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>Denver Homeless Out Loud</author>
-      <guid>urn:sha1:263f86f8b3b5c437171067f8a0214475ace527b4</guid>
-      <pubDate>Fri, 06 Aug 2021 22:51:51 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge encountered an unexpected situation! (18846)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `Call to a member function children() on null`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=SURJDenver&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DSURJDenver%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DSURJDenver%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>SURJ Denver</author>
-      <guid>urn:sha1:6b3a916f8c646b8081ba976585d6dfd72d122c33</guid>
-      <pubDate>Fri, 06 Aug 2021 22:51:51 -0600</pubDate>
+      <author>Party for Socialism and Liberation</author>
+      <guid>urn:sha1:aace2ba5d2fc2079d985eb159b58147db6829e4c</guid>
+      <pubDate>Fri, 06 Aug 2021 23:51:55 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18846)</title>
@@ -751,68 +510,39 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>SURJ Denver</author>
       <guid>urn:sha1:cd34a19ce421d33a49a8d197e3d914eae19106de</guid>
-      <pubDate>Fri, 06 Aug 2021 22:51:51 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 500! (18846)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=Denver-Solidarity-March-118949813177149&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Solidarity-March-118949813177149%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Solidarity-March-118949813177149%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Denver Solidarity March</author>
-      <guid>urn:sha1:d118ad62a37c206e74ce884993eca95d2df5ac09</guid>
-      <pubDate>Fri, 06 Aug 2021 22:51:50 -0600</pubDate>
+      <pubDate>Fri, 06 Aug 2021 23:51:55 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18846)</title>
       <link></link>
       <description></description>
       <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @melanatedmic</strong> was unable to receive or process the
+	<p class="exception-message"><strong>Twitter @TayAndersonCO</strong> was unable to receive or process the
 remote website's content!<br>
 Error message: `The requested resource cannot be found!<br />
 Please make sure your input parameters are correct!<br />
 cUrl error:  (0)<br />
 PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=melanatedmic&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=TayAndersonCO&norep=on&nopic=on&noimg=on&format=Atom`<br />
 Version: `dev.2020-02-26`</p>
 	<div class="advice">
 		<ul class="advice">
 			<li>Press Return to check your input parameters</li>
 			<li>Press F5 to retry</li>
 			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40melanatedmic+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dmelanatedmic%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40TayAndersonCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DTayAndersonCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
 		</ul>
 	</div>
 	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
 		<button>Search GitHub Issues</button>
 	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40melanatedmic+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dmelanatedmic%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40TayAndersonCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DTayAndersonCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
 	the issue before submitting it"><button>Open GitHub Issue</button></a>
 	<p class="maintainer">pmaziere</p>
 </section>]]></content:encoded>
-      <author>Melanated Mic Night</author>
-      <guid>urn:sha1:a6bcec6a451391f1a46362fa1386219458005cee</guid>
-      <pubDate>Fri, 06 Aug 2021 22:51:50 -0600</pubDate>
+      <author>Tay Anderson</author>
+      <guid>urn:sha1:e6fb1bc6d95a08c24e27f5b063535e9bc37b6221</guid>
+      <pubDate>Fri, 06 Aug 2021 23:51:54 -0600</pubDate>
     </item>
     <item>
       <title>Bridge encountered an unexpected situation! (18846)</title>
@@ -822,26 +552,354 @@ Version: `dev.2020-02-26`</p>
 	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
 remote website's content!<br>
 Error message: `Call to a member function children() on null`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=acluofcolorado&media_type=all&limit=-1&format=Atom`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=DenverXikanoproject&media_type=all&limit=-1&format=Atom`<br />
 Version: `dev.2020-02-26`</p>
 	<div class="advice">
 		<ul class="advice">
 			<li>Press Return to check your input parameters</li>
 			<li>Press F5 to retry</li>
 			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Dacluofcolorado%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverXikanoproject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
 		</ul>
 	</div>
 	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
 		<button>Search GitHub Issues</button>
 	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Dacluofcolorado%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverXikanoproject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
 	the issue before submitting it"><button>Open GitHub Issue</button></a>
 	<p class="maintainer">teromene, logmanoriginal</p>
 </section>]]></content:encoded>
-      <author>ACLU of Colorado</author>
-      <guid>urn:sha1:4a24b0e7be0690c36e18150ac2c42a222e960e03</guid>
-      <pubDate>Fri, 06 Aug 2021 22:51:50 -0600</pubDate>
+      <author>Denver&#39;s Chicano Movement Legacy Project</author>
+      <guid>urn:sha1:18ab309b7a618cf05e2355659d20793fe8c057e6</guid>
+      <pubDate>Fri, 06 Aug 2021 23:51:54 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge encountered an unexpected situation! (18846)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Call to a member function children() on null`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=SURJDenver&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DSURJDenver%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DSURJDenver%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>SURJ Denver</author>
+      <guid>urn:sha1:6b3a916f8c646b8081ba976585d6dfd72d122c33</guid>
+      <pubDate>Fri, 06 Aug 2021 23:51:54 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge encountered an unexpected situation! (18846)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Call to a member function children() on null`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=Tay2019&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DTay2019%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DTay2019%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Tay Anderson</author>
+      <guid>urn:sha1:c7e214a19102408b8cf0b8fedb44b26a6ccc7b0f</guid>
+      <pubDate>Fri, 06 Aug 2021 23:51:53 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 400! (18846)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @BLM5280</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=BLM5280&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40BLM5280+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DBLM5280%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40BLM5280+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DBLM5280%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>Black Lives Matter 5280</author>
+      <guid>urn:sha1:c24236dc99a677e0d21d4a1a29be2402ee5d4b57</guid>
+      <pubDate>Fri, 06 Aug 2021 23:51:53 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18846)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>abolishicedenver - Instagram Bridge</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Unable to find username in search result.`<br />
+Query string: `action=display&bridge=Instagram&context=Username&u=abolishicedenver&media_type=all&direct_links=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=abolishicedenver+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dabolishicedenver%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=abolishicedenver+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dabolishicedenver%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pauder</p>
+</section>]]></content:encoded>
+      <author>Abolish ICE Denver</author>
+      <guid>urn:sha1:2886ebbbd573387988d4f665586a893af2da7f0a</guid>
+      <pubDate>Fri, 06 Aug 2021 23:51:52 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge encountered an unexpected situation! (18846)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Call to a member function children() on null`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=BlackLivesMatter5280&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DBlackLivesMatter5280%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DBlackLivesMatter5280%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Black Lives Matter 5280</author>
+      <guid>urn:sha1:9e1358c3c9d36dfa5856787ddda5cd76010d0b49</guid>
+      <pubDate>Fri, 06 Aug 2021 23:51:52 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18846)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>blm5280 - Instagram Bridge</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Unable to find username in search result.`<br />
+Query string: `action=display&bridge=Instagram&context=Username&u=blm5280&media_type=all&direct_links=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pauder</p>
+</section>]]></content:encoded>
+      <author>Black Lives Matter 5280</author>
+      <guid>urn:sha1:f1b961dd5243adb88374088fd172d67caa095d68</guid>
+      <pubDate>Fri, 06 Aug 2021 23:51:52 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge encountered an unexpected situation! (18846)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Call to a member function children() on null`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=Sanctuary4AllCO&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DSanctuary4AllCO%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DSanctuary4AllCO%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Sanctuary4All Colorado</author>
+      <guid>urn:sha1:6e362b41260a899ff28223bb532d13df6adb37f3</guid>
+      <pubDate>Fri, 06 Aug 2021 23:51:51 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 400! (18846)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @Sanctuary4AllCO</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=Sanctuary4AllCO&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40Sanctuary4AllCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DSanctuary4AllCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40Sanctuary4AllCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DSanctuary4AllCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>Sanctuary4All Colorado</author>
+      <guid>urn:sha1:3dc6c34a6058c01cbf7316bbe4955d3b4d6a812c</guid>
+      <pubDate>Fri, 06 Aug 2021 23:51:51 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge encountered an unexpected situation! (18846)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Call to a member function children() on null`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=AbolishICEDenver&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAbolishICEDenver%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAbolishICEDenver%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Abolish ICE Denver</author>
+      <guid>urn:sha1:d22e74afa3001b2c753bd259d7c2887950267d27</guid>
+      <pubDate>Fri, 06 Aug 2021 23:51:51 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge encountered an unexpected situation! (18846)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Call to a member function children() on null`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=DenverHomelessOutLoud&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverHomelessOutLoud%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverHomelessOutLoud%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Denver Homeless Out Loud</author>
+      <guid>urn:sha1:cf76abf1e6ab2f5fa55990c9228e9ca07ae31157</guid>
+      <pubDate>Fri, 06 Aug 2021 23:51:50 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 400! (18846)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @homelessoutloud</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=homelessoutloud&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40homelessoutloud+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dhomelessoutloud%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40homelessoutloud+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dhomelessoutloud%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>Denver Homeless Out Loud</author>
+      <guid>urn:sha1:263f86f8b3b5c437171067f8a0214475ace527b4</guid>
+      <pubDate>Fri, 06 Aug 2021 23:51:50 -0600</pubDate>
     </item>
     <item>
       <title>The tide turns for Tay Anderson, but will the left learn not to be too quick to judgment? Denver school board member has been cyber-bullied, even after his anonymous accuser recanted her claims of sexual assault</title>
@@ -1069,187 +1127,6 @@ Version: `dev.2020-02-26`</p>
       <pubDate>Sun, 04 Jul 2021 12:53:29 -0600</pubDate>
     </item>
     <item>
-      <title>▶ Y’all are showing out! We blew our first goal out of the water. Many many thanks to those who donated and shared...</title>
-      <link>https://www.instagram.com/p/CQjCWZMliJa/</link>
-      <description></description>
-      <content:encoded><![CDATA[<video controls><source src="" poster="https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/208930066_2843566105893388_2729961460904150152_n.jpg?_nc_ht=instagram.fapa1-2.fna.fbcdn.net&_nc_cat=104&_nc_ohc=N_J0D4fENwAAX9YcaMd&edm=APU89FABAAAA&ccb=7-4&oh=3386c7663dcc243b4073b597a5693b55&oe=6110B6FD&_nc_sid=86f79a" type="video/mp4"><img src="https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/208930066_2843566105893388_2729961460904150152_n.jpg?_nc_ht=instagram.fapa1-2.fna.fbcdn.net&_nc_cat=104&_nc_ohc=N_J0D4fENwAAX9YcaMd&edm=APU89FABAAAA&ccb=7-4&oh=3386c7663dcc243b4073b597a5693b55&oe=6110B6FD&_nc_sid=86f79a" alt=""></video><br><br>(no text)]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>https://www.instagram.com/p/CQjCWZMliJa/</guid>
-      <pubDate>Fri, 25 Jun 2021 09:01:52 -0600</pubDate>
-    </item>
-    <item>
-      <title>It&#39;s almost #Juneteenth weekend! We invite you to celebrate with reparative actions by donating to our year-round...</title>
-      <link>https://www.instagram.com/p/CQPAAZSFs0O/</link>
-      <description></description>
-      <content:encoded><![CDATA[<br>(no text)]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>https://www.instagram.com/p/CQPAAZSFs0O/</guid>
-      <pubDate>Thu, 17 Jun 2021 14:16:26 -0600</pubDate>
-    </item>
-    <item>
-      <title>▶ Did you know that it costs $1000 per student to run the BLM 5280 Freedom School? Did you know that #BLM5280 has...</title>
-      <link>https://www.instagram.com/p/CQOzDQJFIvl/</link>
-      <description></description>
-      <content:encoded><![CDATA[<video controls><source src="" poster="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/203344247_1472969636396074_4973458392283283809_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=tsFVkE9gn_AAX-sTaAt&edm=APU89FABAAAA&ccb=7-4&oh=382883d1225a2b528596988db7f2e81f&oe=61102B91&_nc_sid=86f79a" type="video/mp4"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/203344247_1472969636396074_4973458392283283809_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=tsFVkE9gn_AAX-sTaAt&edm=APU89FABAAAA&ccb=7-4&oh=382883d1225a2b528596988db7f2e81f&oe=61102B91&_nc_sid=86f79a" alt=""></video><br><br>(no text)]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>https://www.instagram.com/p/CQOzDQJFIvl/</guid>
-      <pubDate>Thu, 17 Jun 2021 12:31:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>▶ reaching out to teachers to expand our educator base.</title>
-      <link>https://www.instagram.com/p/CQMrTG2lM0D/</link>
-      <description></description>
-      <content:encoded><![CDATA[<video controls><source src="" poster="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/202249749_1231194764004922_4652248642420511130_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=pZKhPcfuxXcAX9_hSpy&edm=APU89FABAAAA&ccb=7-4&oh=0791fbad6314875490c9a0c64638a0c7&oe=61103862&_nc_sid=86f79a" type="video/mp4"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/202249749_1231194764004922_4652248642420511130_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=pZKhPcfuxXcAX9_hSpy&edm=APU89FABAAAA&ccb=7-4&oh=0791fbad6314875490c9a0c64638a0c7&oe=61103862&_nc_sid=86f79a" alt=""></video><br><br>(no text)]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>https://www.instagram.com/p/CQMrTG2lM0D/</guid>
-      <pubDate>Wed, 16 Jun 2021 16:37:07 -0600</pubDate>
-    </item>
-    <item>
-      <title>Ten Dreams. Nine Incredible Ventures. One Mission.  @5280freedomschool is proud to participate in the @moonshotev Shoot...</title>
-      <link>https://www.instagram.com/p/CP1BDvNlTA1/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.instagram.com/p/CP1BDvNlTA1/" target="_blank"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/197492910_106758588200792_5026785256409298962_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=108&amp;_nc_ohc=0mWCyBN-JJAAX_tPy6Z&amp;edm=APU89FABAAAA&amp;ccb=7-4&amp;oh=2bfbdc107e9f771a187887822af21028&amp;oe=6115E2C4&amp;_nc_sid=86f79a" alt="Ten Dreams. Nine Incredible Ventures. One Mission.  @5280freedomschool is proud to participate in the @moonshotev Shoot..." /></a><br><br>Ten Dreams. Nine Incredible Ventures. One Mission.  @5280freedomschool is proud to participate in the @moonshotev Shoot for the Moon Challenge.  RSVP to the live launch event this Thursday, June 10th to hear  stories and impact this work by making a contribution. Register at link in bio.]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>https://www.instagram.com/p/CP1BDvNlTA1/</guid>
-      <pubDate>Mon, 07 Jun 2021 12:05:23 -0600</pubDate>
-    </item>
-    <item>
-      <title>BLM5280 is hosting a #Covid19 Vaccine Drive in partnership with Denver Department of Public Health and Environment and...</title>
-      <link>https://www.instagram.com/p/CPBpKY0lCcq/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.instagram.com/p/CPBpKY0lCcq/" target="_blank"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/189038861_915966562574437_1787483489811146888_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=101&amp;_nc_ohc=52wXdF5dx_cAX_UX-d8&amp;edm=APU89FABAAAA&amp;ccb=7-4&amp;oh=7ba76de6061e19aaedccf9c41ad0eef3&amp;oe=611414F4&amp;_nc_sid=86f79a" alt="BLM5280 is hosting a #Covid19 Vaccine Drive in partnership with Denver Department of Public Health and Environment and..." /></a><br><br>BLM5280 is hosting a #Covid19 Vaccine Drive in partnership with Denver Department of Public Health and Environment and Dr. Martin Luther King, Jr. Early College!!<br />
-👉🏿 Insurance is NOT required!<br />
-👉🏿 Immigration status is NOT a factor!<br />
-Please make your informed decision to get vaccinated and register online at tinyurl.com/BLM5280Vaccine <br />
-<br />
-Help us raise awareness! Like, comment, share, and check our page regularly for more information about the vaccine, and other educational materials as the day approaches. <br />
-We can't wait to serve you! <br />
-<br />
-[ID: A white flyer with a purple border, yellow and purple font, and an image of a Black woman receiving the vaccine reads:<br />
-Black Lives Matter 5280<br />
-Covid-19 Vaccine Drive<br />
-in partnership with MLK Jr. Early College and DPHE!<br />
-Date: May 25th, 2pm - 7pm<br />
-Location: Dr. MLK Jr. Early College, 19535 E 46th Ave<br />
-Denver, CO 80249<br />
-Vaccine Type: Moderna<br />
-Registration Link: tinyurl/BLM5280vaccine<br />
- the logos for Dr. MLK Jr. Early College, BLM5280, and DPHE are at the bottom of the flyer]<br />
-#BlackHealthMatters #BlackWellnessMatters #Moderna #VaccineDrive #VaccinationEducation #Coronavirus]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>https://www.instagram.com/p/CPBpKY0lCcq/</guid>
-      <pubDate>Tue, 18 May 2021 13:15:18 -0600</pubDate>
-    </item>
-    <item>
-      <title>If you are planning to #SpeakOutForGregory by emailing the Chief, here is sample language you are free to use/edit....</title>
-      <link>https://www.instagram.com/p/COweQ59lTPQ/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.instagram.com/p/COweQ59lTPQ/" target="_blank"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/184002196_533517031162134_3740966369317261256_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=106&amp;_nc_ohc=JdQzvOSxXkIAX9vXoRs&amp;edm=APU89FABAAAA&amp;ccb=7-4&amp;oh=d975163efc4cb97835d5cc517d85b594&amp;oe=6114BE33&amp;_nc_sid=86f79a" alt="If you are planning to #SpeakOutForGregory by emailing the Chief, here is sample language you are free to use/edit...." /></a><br><br>If you are planning to #SpeakOutForGregory by emailing the Chief, here is sample language you are free to use/edit. Thank you!!<br />
-Email: Vernf@chathamil.net <br />
-<br />
-Dear Chief Foli,<br />
-<br />
-I am writing regarding the shooting of Gregory Small Jr. onMarch 5th. His mother called asking for help for Gregory during a mental health episode and instead of helping Gregory, he was met with life threatening violence at the hands of your police department. <br />
-<br />
-Your department is supposed to provide public safety, including to those with mental illness. Charging Gregory is unacceptable and would only do more harm. He needs medical help not criminal charges. <br />
-<br />
-Please drop ALL charges immediately. <br />
-<br />
-Thank you, <br />
-<br />
-Name<br />
-<br />
-#SpeakOutForGregory<br />
-#BlackLivesMatter #MentalHealthAwareness<br />
-#MentalHealthAwarenessMonth <br />
-#BlackMentalHealthMatters]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>https://www.instagram.com/p/COweQ59lTPQ/</guid>
-      <pubDate>Tue, 11 May 2021 21:12:59 -0600</pubDate>
-    </item>
-    <item>
-      <title>From our comrades at @ccfcdenver : “May 5th is the National Day of Awareness for Missing and Murdered Indigenous...</title>
-      <link>https://www.instagram.com/p/COgohRVFZX9/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.instagram.com/p/COgohRVFZX9/" target="_blank"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/181559016_284964426651886_1332756153621975766_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=110&amp;_nc_ohc=iNgTU0VLLNcAX-zHEWO&amp;edm=APU89FABAAAA&amp;ccb=7-4&amp;oh=1c1909fc20b756fb64f9b8de4afd7ff8&amp;oe=61141522&amp;_nc_sid=86f79a" alt="From our comrades at @ccfcdenver : “May 5th is the National Day of Awareness for Missing and Murdered Indigenous..." /></a><br><br>From our comrades at @ccfcdenver : &ldquo;May 5th is the National Day of Awareness for Missing and Murdered Indigenous Women, Girls and 2 Spirit folks. <br />
-<br />
-As an organization we unapologetically name that gender violence and femicide are a direct consequence of colonialism throughout Turtle Island (what we now know as Canada, the United States, Latin and South America and the Caribbean). <br />
-<br />
-We also know our sisters in Indian Country are disproportionately impacted by gender violence and murder. We are committed to raising awareness and fighting for more resources to go to Indian Country to find our stolen sisters, solve cases of murdered Indigenous women, and to protect Indigenous women so they can thrive. <br />
-<br />
-Women are the first teachers, women are the carriers of wisdom, and strong medicine and deserve to LIVE in a good way and THRIVE! <br />
-<br />
-#MMIWG #MMIWAWARENESS #NoMoreStolenSisters #LandBack #NiUnaMas 🤎🪶💜🙌🏽&hearts;️ &ldquo;]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>https://www.instagram.com/p/COgohRVFZX9/</guid>
-      <pubDate>Wed, 05 May 2021 17:34:45 -0600</pubDate>
-    </item>
-    <item>
-      <title>BLM5280 is hosting a #Covid19 Vaccine Drive in partnership with Denver Department of Public Health and Environment and...</title>
-      <link>https://www.instagram.com/p/CN_DJw8lsBf/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.instagram.com/p/CN_DJw8lsBf/" target="_blank"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/175995911_1530318177175019_4447817271879049669_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=111&amp;_nc_ohc=kS2gIEU0UxUAX8TAUQw&amp;edm=APU89FABAAAA&amp;ccb=7-4&amp;oh=86a52f15fc8815024c045b4612cbc0e7&amp;oe=6115AB45&amp;_nc_sid=86f79a" alt="BLM5280 is hosting a #Covid19 Vaccine Drive in partnership with Denver Department of Public Health and Environment and..." /></a><br><br>BLM5280 is hosting a #Covid19 Vaccine Drive in partnership with Denver Department of Public Health and Environment and Dr. Martin Luther King, Jr. Early College!!<br />
-👉🏿 Insurance is NOT required!<br />
-👉🏿 Immigration status is NOT a factor!<br />
-Please make your informed decision to get vaccinated and register online at tinyurl.com/BLM5280Vaccine <br />
-<br />
-Help us raise awareness! Like, comment, share, and check our page regularly for more information about the vaccine, and other educational materials as the day approaches. <br />
-We can't wait to serve you! <br />
-<br />
-[ID: A white flyer with a purple border, yellow and purple font, and an image of a Black woman receiving the vaccine reads:<br />
-Black Lives Matter 5280<br />
-Covid-19 Vaccine Drive<br />
-in partnership with MLK Jr. Early College and DPHE!<br />
-Date: Apryl 27th 9am - 3pm<br />
-Location: Dr. MLK Jr. Early College, 19535 E 46th Ave<br />
-Denver, CO 80249<br />
-Vaccine Type: Moderna<br />
-Registration Link: tinyurl/BLM5280vaccine<br />
- the logos for Dr. MLK Jr. Early College, BLM5280, and DPHE are at the bottom of the flyer]<br />
-#BlackHealthMatters #BlackWellnessMatters #Moderna #VaccineDrive #VaccinationEducation #Coronavirus]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>https://www.instagram.com/p/CN_DJw8lsBf/</guid>
-      <pubDate>Thu, 22 Apr 2021 16:33:18 -0600</pubDate>
-    </item>
-    <item>
-      <title>▶ CW: Mention of sexual assault, sexual violence, abuse ...</title>
-      <link>https://www.instagram.com/p/CNtDn21lfR2/</link>
-      <description></description>
-      <content:encoded><![CDATA[<video controls><source src="" poster="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/174399474_262730775529402_1742910375162277435_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=TMNCE52s9p8AX_vuJk5&edm=APU89FABAAAA&ccb=7-4&oh=fda02c9da7b4d8d9d4d918e126dce5d5&oe=611069F2&_nc_sid=86f79a" type="video/mp4"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/174399474_262730775529402_1742910375162277435_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=TMNCE52s9p8AX_vuJk5&edm=APU89FABAAAA&ccb=7-4&oh=fda02c9da7b4d8d9d4d918e126dce5d5&oe=611069F2&_nc_sid=86f79a" alt=""></video><br><br>(no text)]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>https://www.instagram.com/p/CNtDn21lfR2/</guid>
-      <pubDate>Thu, 15 Apr 2021 16:51:16 -0600</pubDate>
-    </item>
-    <item>
-      <title>@doctorsforcampclosure and @cuanschutz_sihr will host a screening and panel discussion of The Facility on Thursday March...</title>
-      <link>https://www.instagram.com/p/CLxH0OiFtKi/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.instagram.com/p/CLxH0OiFtKi/" target="_blank"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/154147248_173110167734123_234917945956226407_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=111&amp;_nc_ohc=NUUBVke3Z6EAX-SZhyW&amp;edm=APU89FABAAAA&amp;ccb=7-4&amp;oh=62e9d4d419f79e3c0179a9a352e59bbc&amp;oe=61156E41&amp;_nc_sid=86f79a" alt="@doctorsforcampclosure and @cuanschutz_sihr will host a screening and panel discussion of The Facility on Thursday March..." /></a><br><br>@doctorsforcampclosure and @cuanschutz_sihr will host a screening and panel discussion of The Facility on Thursday March 4 at 7 pm MST. <br />
-<br />
-Aurora&rsquo;s GEO ICE facility is a private immigrant detention center whose shadowy practices are obscured from advocates and lawmakers alike. But through the stories of those fighting to free their loved ones, and those who have done time on the inside, this film will shine a light on a facility too often shrouded in darkness.<br />
-This panel will focus specifically on the healthcare consequences of privatized ICE detention facilities. <br />
-<br />
-Today, over 400,000 people are booked into ICE custody, a policy of mandatory detention started in 1996 by President Clinton.&nbsp;<br />
-​<br />
-Running and operating these facilities is GEO Group, a multi-billion dollar&nbsp;Florida-based private prison company with a track record of wage theft, forced labor, false record-keeping, poor oversight and detainee mistreatment.&nbsp;<br />
-&nbsp;<br />
-This film addresses seriously the federal government's ability to detain people, highlighting some of the most common areas of neglect, including&nbsp;medical neglect/abuse, nutrition issues and prolonged detention.&nbsp;<br />
-​<br />
-&nbsp; &nbsp;&nbsp;According to federal government data, GEO Group receives more taxpayer&nbsp;dollars for immigration detention than any other ICE contractor<br />
-&nbsp;<br />
-So we start at the source to tell this story, with interviews from current and former detainees, families fighting to be reunited, and the experts and advocates&nbsp;trying to save lives while a pandemic rages inside.<br />
-<br />
-Watch the trailer here:<br />
-<br />
-https://www.thefacilitymovie.com/<br />
-<br />
-Register here:<br />
- https://us02web.zoom.us/webinar/register/WN_vy-sxiNKQaO7HsWjRXRThA]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.instagram.com/p/CLxH0OiFtKi/</guid>
-      <pubDate>Fri, 26 Feb 2021 12:41:53 -0700</pubDate>
-    </item>
-    <item>
       <title>A List of Mutual Aid Groups in Denver - A Place to Start if You Don&#39;t Know Where To Start</title>
       <link>https://www.reddit.com/r/DenverProtests/comments/l56eo0/a_list_of_mutual_aid_groups_in_denver_a_place_to/</link>
       <description></description>
@@ -1257,118 +1134,6 @@ Register here:<br />
       <author>r/DenverProtests</author>
       <guid>https://www.reddit.com/r/DenverProtests/comments/l56eo0/a_list_of_mutual_aid_groups_in_denver_a_place_to/</guid>
       <pubDate>Mon, 25 Jan 2021 21:43:06 -0700</pubDate>
-    </item>
-    <item>
-      <title>Community alert: Protestors in Denver continue to be contacted and interrogated by the FBI....</title>
-      <link>https://www.instagram.com/p/CJtjJ-UlaqV/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.instagram.com/p/CJtjJ-UlaqV/" target="_blank"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/136084234_435948457581742_7523158914098454227_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=110&amp;_nc_ohc=2qGwmg_JK0QAX8MvSS8&amp;edm=APU89FABAAAA&amp;ccb=7-4&amp;oh=41ed0640282d1b14065343e596a7b8b0&amp;oe=611491F5&amp;_nc_sid=86f79a" alt="Community alert: Protestors in Denver continue to be contacted and interrogated by the FBI...." /></a><br><br>Community alert: Protestors in Denver continue to be contacted and interrogated by the FBI.<br />
-<br />
-Please give these resources a read and message us for links!<br />
-<br />
-https://www.nlg.org/wp-content/uploads/2016/04/kyrpamphlet-Eng-May-2015-FINAL.pdf<br />
-<br />
-https://ccrjustice.org/files/CCR_If_An_Agent_Knocks.pdf<br />
-<br />
-https://m4bl.org/wp-content/uploads/2020/06/2020-6-10_M4BLCLEAR_FBIEncounters_FINAL.pdf<br />
-<br />
-Thanks to @coloradonlg for their ongoing support against state repression! Call the legal line at 720-822-5893 if you are contacted by the FBI]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.instagram.com/p/CJtjJ-UlaqV/</guid>
-      <pubDate>Wed, 06 Jan 2021 10:21:02 -0700</pubDate>
-    </item>
-    <item>
-      <title>Join us Friday, December 18 at 7 p.m. for a premiere virtual screening of “The Facility.” ...</title>
-      <link>https://www.instagram.com/p/CIrnMlOld4c/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.instagram.com/p/CIrnMlOld4c/" target="_blank"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/130696797_1074520669638419_1374804028691367908_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=111&amp;_nc_ohc=Tpt63S5_wy0AX8Mp30d&amp;edm=APU89FABAAAA&amp;ccb=7-4&amp;oh=f8f5f8072f3de97ba7121a63e3b83fde&amp;oe=6115D230&amp;_nc_sid=86f79a" alt="Join us Friday, December 18 at 7 p.m. for a premiere virtual screening of “The Facility.” ..." /></a><br><br>Join us Friday, December 18 at 7 p.m. for a premiere virtual screening of &ldquo;The Facility.&rdquo; <br />
-<br />
-&ldquo;The Facility&rdquo; is a short documentary film chronicling the lived experiences of immigrants being held at the GEO detention facility in Aurora, Colorado. This film addresses the personal loss and consequences caused by for-profit detention and the federal government's broken immigration policies. Legal and medical experts highlight horrific abuses including death, medical neglect, nutrition issues, and prolonged detention during the coronavirus pandemic. To tell their stories, current and former detainees, families fighting to be reunited, and advocates come together to share their experiences behind the walls of the GEO immigration detention facility in Aurora.<br />
-<br />
-@acluofcolorado @coloradopeoplesalliance @co_immigrant @keshagrijalva @_floodlight_<br />
-<br />
-Following the screening will be a Q&amp;A session with the director, legal experts, and individuals featured in the film with first-hand experience of the systemic abuse occurring inside the facility.<br />
-<br />
-Panelists include:<br />
-<br />
-Jeremy Flood, &ldquo;The Facility&rdquo; Director<br />
-Raul Medina Perez, COPA, Community Organizer who was formerly detained at GEO<br />
-Kesha Davalos Grijalva, Immigrant rights advocate whose husband is detained at GEO<br />
-Keinada Andereas, Colorado Student who was formerly detained at GEO<br />
-Hans Meyer, The Meyer Law Office, Lead Attorney <br />
-Denise Maes, ACLU of Colorado, Public Policy Director <br />
-<br />
-Please RSVP for the screening in advance for this free event: https://aclu.zoom.us/webinar/register/WN_nUbTy8-VQpif8nMzqtUzQw<br />
-<br />
-Trailer: https://youtu.be/cGOCejy48Jo<br />
-<br />
-&ldquo;The Facility&rdquo; is presented by ACLU of Colorado, Colorado Immigrant Rights Coalition, and Colorado Hispanic Bar Association.]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.instagram.com/p/CIrnMlOld4c/</guid>
-      <pubDate>Fri, 11 Dec 2020 19:46:28 -0700</pubDate>
-    </item>
-    <item>
-      <title>Solidarity with refugees and victims of imperial agendas across the globe 🎨✊🏽 50 million people, half whom are...</title>
-      <link>https://www.instagram.com/p/CIB0fs1F7wW/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.instagram.com/p/CIB0fs1F7wW/" target="_blank"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/127364525_710045103259928_6579335815252962249_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=108&amp;_nc_ohc=aXV0zo6kwzQAX8J_Tn2&amp;edm=APU89FABAAAA&amp;ccb=7-4&amp;oh=1e8a41594fc3fe31d530d4b8a1164aa1&amp;oe=611574BC&amp;_nc_sid=86f79a" alt="Solidarity with refugees and victims of imperial agendas across the globe 🎨✊🏽 50 million people, half whom are..." /></a><br><br>Solidarity with refugees and victims of imperial agendas across the globe 🎨✊🏽 50 million people, half whom are children, are currently displaced by the military industrial complex, austerity and changing climate conditions.]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.instagram.com/p/CIB0fs1F7wW/</guid>
-      <pubDate>Wed, 25 Nov 2020 14:14:34 -0700</pubDate>
-    </item>
-    <item>
-      <title>Since we began fighting with Elijah McClain&#39;s family 15 months ago, power has done everything possible to serve power...</title>
-      <link>https://www.instagram.com/p/CH6eOCjlp6F/</link>
-      <description></description>
-      <content:encoded><![CDATA[<br>(no text)]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.instagram.com/p/CH6eOCjlp6F/</guid>
-      <pubDate>Sun, 22 Nov 2020 17:45:14 -0700</pubDate>
-    </item>
-    <item>
-      <title>(no text)</title>
-      <link>https://www.instagram.com/p/CHWe57ZFAxf/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.instagram.com/p/CHWe57ZFAxf/" target="_blank"><img src="https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/123927012_1356680448024506_6865427036231145423_n.jpg?_nc_ht=instagram.fapa1-2.fna.fbcdn.net&amp;_nc_cat=102&amp;_nc_ohc=JaZCll7CEUQAX9Bh0JE&amp;edm=APU89FABAAAA&amp;ccb=7-4&amp;oh=665f28fde7151297c1f3dc5a16a5a2c5&amp;oe=61146193&amp;_nc_sid=86f79a" alt="(no text)" /></a><br><br>(no text)]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.instagram.com/p/CHWe57ZFAxf/</guid>
-      <pubDate>Sun, 08 Nov 2020 18:18:34 -0700</pubDate>
-    </item>
-    <item>
-      <title>▶ Wednesday night in Denver...</title>
-      <link>https://www.instagram.com/p/CHQoawmF6Vn/</link>
-      <description></description>
-      <content:encoded><![CDATA[<video controls><source src="" poster="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/124111152_672926296751914_3922864132172773100_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=6T4RljUCzBQAX-4JOfG&edm=APU89FABAAAA&ccb=7-4&oh=3817345cbe4de337c980acc093479a28&oe=6110994A&_nc_sid=86f79a" type="video/mp4"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/124111152_672926296751914_3922864132172773100_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=6T4RljUCzBQAX-4JOfG&edm=APU89FABAAAA&ccb=7-4&oh=3817345cbe4de337c980acc093479a28&oe=6110994A&_nc_sid=86f79a" alt=""></video><br><br>(no text)]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.instagram.com/p/CHQoawmF6Vn/</guid>
-      <pubDate>Fri, 06 Nov 2020 11:46:35 -0700</pubDate>
-    </item>
-    <item>
-      <title>Via AFSC Colorado...</title>
-      <link>https://www.instagram.com/p/CHQaJr4ltOb/</link>
-      <description></description>
-      <content:encoded><![CDATA[<br>(no text)]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.instagram.com/p/CHQaJr4ltOb/</guid>
-      <pubDate>Fri, 06 Nov 2020 09:41:35 -0700</pubDate>
-    </item>
-    <item>
-      <title>❤🖤</title>
-      <link>https://www.instagram.com/p/CHLXk3wFvsj/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.instagram.com/p/CHLXk3wFvsj/" target="_blank"><img src="https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/123338869_130458058830122_3100010662503565925_n.jpg?_nc_ht=instagram.fapa1-2.fna.fbcdn.net&amp;_nc_cat=102&amp;_nc_ohc=phlrm5S7ZhoAX9htCNC&amp;edm=APU89FABAAAA&amp;ccb=7-4&amp;oh=64ea485bde64ec5fe35de3ed8776b37a&amp;oe=6115F3AC&amp;_nc_sid=86f79a" alt="❤🖤" /></a><br><br>❤🖤]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.instagram.com/p/CHLXk3wFvsj/</guid>
-      <pubDate>Wed, 04 Nov 2020 10:42:53 -0700</pubDate>
-    </item>
-    <item>
-      <title>(no text)</title>
-      <link>https://www.instagram.com/p/CGnR56pFEMM/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.instagram.com/p/CGnR56pFEMM/" target="_blank"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/122258246_353515745760464_5034881599713406189_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=108&amp;_nc_ohc=Hgiu8oGDf2gAX9bO0iU&amp;edm=APU89FABAAAA&amp;ccb=7-4&amp;oh=2a72719a02efb9050688f44f90dabafa&amp;oe=6115AD9B&amp;_nc_sid=86f79a" alt="(no text)" /></a><br><br>(no text)]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.instagram.com/p/CGnR56pFEMM/</guid>
-      <pubDate>Wed, 21 Oct 2020 11:20:40 -0600</pubDate>
     </item>
   </channel>
 </rss>
