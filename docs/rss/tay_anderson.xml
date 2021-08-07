@@ -4,9 +4,9 @@
     <link>https://www.tayanderson.org/</link>
     <description>Posts from Tay Anderson</description>
     <managingEditor> (Tay Anderson)</managingEditor>
-    <pubDate>Fri, 06 Aug 2021 17:52:01 -0600</pubDate>
+    <pubDate>Fri, 06 Aug 2021 18:52:04 -0600</pubDate>
     <item>
-      <title>Bridge returned error 400! (18845)</title>
+      <title>Bridge returned error 400! (18846)</title>
       <link></link>
       <description></description>
       <content:encoded><![CDATA[<section>
@@ -34,179 +34,37 @@ Version: `dev.2020-02-26`</p>
 	<p class="maintainer">pmaziere</p>
 </section>]]></content:encoded>
       <author>Tay Anderson</author>
-      <guid>urn:sha1:930a19fed0c04c589dcf1373736659ef732d4be6</guid>
-      <pubDate>Fri, 06 Aug 2021 17:52:04 -0600</pubDate>
+      <guid>urn:sha1:e6fb1bc6d95a08c24e27f5b063535e9bc37b6221</guid>
+      <pubDate>Fri, 06 Aug 2021 18:52:05 -0600</pubDate>
     </item>
     <item>
-      <title>Important ⬇️⬇️⬇️</title>
-      <link>https://www.facebook.com/Tay2019/posts/1425504697832366</link>
+      <title>Bridge returned error 500! (18846)</title>
+      <link></link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t39.30808-1/cp0/c13.0.50.50a/p50x50/223280308_1415398482176321_4140690425229673889_n.jpg?_nc_cat=111&ccb=1-4&_nc_sid=dbb9e7&_nc_ohc=_1wL7V4HthYAX9oVBrO&_nc_ht=scontent.fapa1-1.fna&oh=f0a156811f80845f6b6f59d79fae0703&oe=61125A71" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1425504697832366"></a><i></i><p>Important ⬇️⬇️⬇️</p><a href="https://www.facebook.com/ServiciosdeLaRaza/photos/a.385727574361/10159595390714362/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t39.30808-6/p417x417/233754656_10159595390729362_6333719348102750582_n.jpg?_nc_cat=100&ccb=1-4&_nc_sid=8024bb&_nc_ohc=bmURK_AiyDgAX9XnC2u&_nc_ht=scontent.fapa1-2.fna&oh=92dd5219d1ff474aa12ee3b6c9ff0082&oe=6112AF2C" alt="May be an image of 1 person, standing and outdoors" width="500" height="417" caption="May be an image of 1 person, standing and outdoors" /></a><a href="https://www.facebook.com/ServiciosdeLaRaza/">Servicios de La Raza</a><a href="https://www.facebook.com/ServiciosdeLaRaza/photos/a.385727574361/10159595390714362/"></a><p>Servicios needs your help! We are very short on new backpacks and school supplies for our back-to-school event this coming Tuesday. If you have the ability to p...rovide these items for families and students in need, please contact Juanita Montoya juanitam&#064;serviciosdelaraza.org. </p><p> We would also like to thank A Precious Child and the La Raza Youth Leadership Program for what we have so far!<br /> 🎒 📓 ✂️ ✏️ 📚<br /> ¡Servicios necesita tu ayuda! Tenemos muy pocas mochilas y útiles escolares nuevos para nuestro evento de regreso a clases el próximo martes. Si tiene la capacidad de proporcionar estos artículos para familias y estudiantes que los necesiten, comuníquese con Juanita Montoya juanitam&#064;serviciosdelaraza.org.</p><p> ¡También nos gustaría agradecer a Precious Child y al Programa de Liderazgo Juvenil de La Raza por lo que tenemos hasta ahora!</p> <a href="https://www.facebook.com">See More</a>]]></content:encoded>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=Tay2019&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DTay2019%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DTay2019%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
       <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1425504697832366</guid>
-      <pubDate>Fri, 06 Aug 2021 09:00:49 -0600</pubDate>
-    </item>
-    <item>
-      <title>School districts should just add masks to the “dress code”...</title>
-      <link>https://www.facebook.com/Tay2019/posts/1424872447895591</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t39.30808-1/cp0/c13.0.50.50a/p50x50/223280308_1415398482176321_4140690425229673889_n.jpg?_nc_cat=111&ccb=1-4&_nc_sid=dbb9e7&_nc_ohc=_1wL7V4HthYAX9oVBrO&_nc_ht=scontent.fapa1-1.fna&oh=f0a156811f80845f6b6f59d79fae0703&oe=61125A71" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1424872447895591"></a><i></i><p>School districts should just add masks to the “dress code” so conservatives would have to take their fight out on district dress codes. </p><p> Then we can agree there are some items that don’t belong in the dress code.</p>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1424872447895591</guid>
-      <pubDate>Thu, 05 Aug 2021 10:38:08 -0600</pubDate>
-    </item>
-    <item>
-      <title>Denver has now moved to RED … and y’all want to fight about...</title>
-      <link>https://www.facebook.com/Tay2019/photos/a.257357004647147/1424863297896506/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t39.30808-1/cp0/c13.0.50.50a/p50x50/223280308_1415398482176321_4140690425229673889_n.jpg?_nc_cat=111&ccb=1-4&_nc_sid=dbb9e7&_nc_ohc=_1wL7V4HthYAX9oVBrO&_nc_ht=scontent.fapa1-1.fna&oh=f0a156811f80845f6b6f59d79fae0703&oe=61125A71" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/photos/a.257357004647147/1424863297896506/"></a><i></i><p>Denver has now moved to RED … and y’all want to fight about masks in schools?</p><a href="https://www.facebook.com/Tay2019/photos/a.257357004647147/1424863297896506/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t39.30808-6/p526x296/234355214_1424863304563172_7243080941461379043_n.jpg?_nc_cat=108&ccb=1-4&_nc_sid=110474&_nc_ohc=TiXCdZkxohsAX9RHMSX&_nc_ht=scontent.fapa1-1.fna&oh=4450cd37c96fb409d59c2754eba416d5&oe=61123EA1" alt="May be an image of map" width="500" height="437" caption="May be an image of map" /></a>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/photos/a.257357004647147/1424863297896506/</guid>
-      <pubDate>Thu, 05 Aug 2021 10:18:44 -0600</pubDate>
-    </item>
-    <item>
-      <title>Here is the simple fix to not wanting your child to wear a mask...</title>
-      <link>https://www.facebook.com/Tay2019/posts/1424180977964738</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t39.30808-1/cp0/c13.0.50.50a/p50x50/223280308_1415398482176321_4140690425229673889_n.jpg?_nc_cat=111&ccb=1-4&_nc_sid=dbb9e7&_nc_ohc=_1wL7V4HthYAX9oVBrO&_nc_ht=scontent.fapa1-1.fna&oh=f0a156811f80845f6b6f59d79fae0703&oe=61125A71" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1424180977964738"></a><i></i><p>Here is the simple fix to not wanting your child to wear a mask in schools, keep them at home.</p>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1424180977964738</guid>
-      <pubDate>Wed, 04 Aug 2021 10:24:11 -0600</pubDate>
-    </item>
-    <item>
-      <title>Denver Public Schools will implement a universal mask mandate....</title>
-      <link>https://www.facebook.com/Tay2019/posts/1423597131356456</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t39.30808-1/cp0/c13.0.50.50a/p50x50/223280308_1415398482176321_4140690425229673889_n.jpg?_nc_cat=111&ccb=1-4&_nc_sid=dbb9e7&_nc_ohc=_1wL7V4HthYAX9oVBrO&_nc_ht=scontent.fapa1-1.fna&oh=f0a156811f80845f6b6f59d79fae0703&oe=61125A71" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1423597131356456"></a><i></i><p>Denver Public Schools will implement a universal mask mandate. This will be enforced in all INDOOR settings. I am grateful our teams in DPS have decided to follow the science and recommendations from the CDC.</p><p> This is our opportunity to be a leader in the fight against COVID!</p>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1423597131356456</guid>
-      <pubDate>Tue, 03 Aug 2021 13:32:07 -0600</pubDate>
-    </item>
-    <item>
-      <title>Yes it’s great 70% of eligible Americans have received the...</title>
-      <link>https://www.facebook.com/Tay2019/posts/1423098581406311</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t39.30808-1/cp0/c13.0.50.50a/p50x50/223280308_1415398482176321_4140690425229673889_n.jpg?_nc_cat=111&ccb=1-4&_nc_sid=dbb9e7&_nc_ohc=_1wL7V4HthYAX9oVBrO&_nc_ht=scontent.fapa1-1.fna&oh=f0a156811f80845f6b6f59d79fae0703&oe=61125A71" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1423098581406311"></a><i></i><p>Yes it’s great 70% of eligible Americans have received the vaccine, but that 30% is what is holding us back. We can not have the privileges we once had if they do not get vaccinated.</p><p> Until then I support masking up indoors and various entities requiring vaccinations.</p>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1423098581406311</guid>
-      <pubDate>Mon, 02 Aug 2021 20:12:34 -0600</pubDate>
-    </item>
-    <item>
-      <title>UPDATE — REGARDING MASKING IN DENVER PUBLIC SCHOOLS: Mayor...</title>
-      <link>https://www.facebook.com/Tay2019/posts/1422918454757657</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t39.30808-1/cp0/c13.0.50.50a/p50x50/223280308_1415398482176321_4140690425229673889_n.jpg?_nc_cat=111&ccb=1-4&_nc_sid=dbb9e7&_nc_ohc=_1wL7V4HthYAX9oVBrO&_nc_ht=scontent.fapa1-1.fna&oh=f0a156811f80845f6b6f59d79fae0703&oe=61125A71" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1422918454757657"></a><i></i><p>UPDATE — REGARDING MASKING IN DENVER PUBLIC SCHOOLS:</p><p> Mayor Hancock’s new order requiring all city employees and those working in high-risk areas to be vaccinated, has delayed DPS’ announcement regarding COVID guidance for the fall semester.</p><p> Look for an update again tomorrow.</p>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1422918454757657</guid>
-      <pubDate>Mon, 02 Aug 2021 12:59:52 -0600</pubDate>
-    </item>
-    <item>
-      <title>Yes, this means EVERY EMPLOYEE IN DENVER PUBLIC SCHOOLS.</title>
-      <link>https://www.facebook.com/Tay2019/photos/a.257357004647147/1422875668095269/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t39.30808-1/cp0/c13.0.50.50a/p50x50/223280308_1415398482176321_4140690425229673889_n.jpg?_nc_cat=111&ccb=1-4&_nc_sid=dbb9e7&_nc_ohc=_1wL7V4HthYAX9oVBrO&_nc_ht=scontent.fapa1-1.fna&oh=f0a156811f80845f6b6f59d79fae0703&oe=61125A71" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/photos/a.257357004647147/1422875668095269/"></a><i></i><p>Yes, this means EVERY EMPLOYEE IN DENVER PUBLIC SCHOOLS.</p><a href="https://www.facebook.com/Tay2019/photos/a.257357004647147/1422875668095269/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t39.30808-6/p526x296/232100436_1422875678095268_3097483721832301080_n.jpg?_nc_cat=103&ccb=1-4&_nc_sid=110474&_nc_ohc=uqeCpiztYE0AX_KuqpS&_nc_ht=scontent.fapa1-1.fna&oh=f4df92d4541ab10101ce984a4a0a5dfa&oe=61134373" alt="May be an image of text that says 'Fully Vaccinated Deadline September 2021 City Employees High Risk Occupations All City and County of Denver employees Including: DEN, DPL, boards and commissions, elected officials High Risk Settings First responders Hospitals clinical settings Long-term care Home health care providers Shelters Correctional facilities Child care providers Personnel in schools DENVER THE HIGH TTY CONNECT WITH 311 POCKETGOV DENVERGOV.ORG DENVER TV'" width="500" height="282" caption="May be an image of text that says 'Fully Vaccinated Deadline September 2021 City Employees High Risk Occupations All City and County of Denver employees Including: DEN, DPL, boards and commissions, elected officials High Risk Settings First responders Hospitals clinical settings Long-term care Home health care providers Shelters Correctional facilities Child care providers Personnel in schools DENVER THE HIGH TTY CONNECT WITH 311 POCKETGOV DENVERGOV.ORG DENVER TV'" /></a>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/photos/a.257357004647147/1422875668095269/</guid>
-      <pubDate>Mon, 02 Aug 2021 11:22:39 -0600</pubDate>
-    </item>
-    <item>
-      <title>Happy Birthday Colorado!  145 Years Strong! — In order to...</title>
-      <link>https://www.facebook.com/Tay2019/photos/a.257357004647147/1422124168170419/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t39.30808-1/cp0/c13.0.50.50a/p50x50/223280308_1415398482176321_4140690425229673889_n.jpg?_nc_cat=111&ccb=1-4&_nc_sid=dbb9e7&_nc_ohc=_1wL7V4HthYAX9oVBrO&_nc_ht=scontent.fapa1-1.fna&oh=f0a156811f80845f6b6f59d79fae0703&oe=61125A71" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/photos/a.257357004647147/1422124168170419/"></a><i></i><p>Happy Birthday Colorado! </p><p> 145 Years Strong! — In order to celebrate without wearing masks next year, get vaccinated!</p><a href="https://www.facebook.com/Tay2019/photos/a.257357004647147/1422124168170419/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t39.30808-6/p526x296/230960316_1422124174837085_6844586798715781266_n.jpg?_nc_cat=104&ccb=1-4&_nc_sid=110474&_nc_ohc=HkqTUuNxieMAX-HJ8Ac&_nc_ht=scontent.fapa1-2.fna&oh=3c77d84122dd92140b85a0c19879744f&oe=61130412" alt="May be an image of 1 person, wrist watch, footwear and suit" width="500" height="750" caption="May be an image of 1 person, wrist watch, footwear and suit" /></a>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/photos/a.257357004647147/1422124168170419/</guid>
-      <pubDate>Sun, 01 Aug 2021 08:24:26 -0600</pubDate>
-    </item>
-    <item>
-      <title>My request for restorative justice at the upcoming School Board...</title>
-      <link>https://www.facebook.com/Tay2019/posts/1421485468234289</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t39.30808-1/cp0/c13.0.50.50a/p50x50/223280308_1415398482176321_4140690425229673889_n.jpg?_nc_cat=111&ccb=1-4&_nc_sid=dbb9e7&_nc_ohc=_1wL7V4HthYAX9oVBrO&_nc_ht=scontent.fapa1-1.fna&oh=f0a156811f80845f6b6f59d79fae0703&oe=61125A71" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1421485468234289"></a><i></i><p>My request for restorative justice at the upcoming School Board retreat on August 10th has been denied at this time. </p><p> This is disappointing, however it is imperative to hold space for healing. I will continue to request that the Board of Education hold space for this to happen prior to the beginning of the school year. </p><p> Now I need community to email the Board of Education showing your support for restorative justice. </p>...<p> Our email is — Board&#064;dpsk12.org</p> <a href="https://www.facebook.com/Tay2019/posts/1421485468234289">See More</a>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1421485468234289</guid>
-      <pubDate>Sat, 31 Jul 2021 09:07:27 -0600</pubDate>
-    </item>
-    <item>
-      <title>FYI: School Board elections are this November. — Denver...</title>
-      <link>https://www.facebook.com/Tay2019/posts/1420964251619744</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t39.30808-1/cp0/c13.0.50.50a/p50x50/223280308_1415398482176321_4140690425229673889_n.jpg?_nc_cat=111&ccb=1-4&_nc_sid=dbb9e7&_nc_ohc=_1wL7V4HthYAX9oVBrO&_nc_ht=scontent.fapa1-1.fna&oh=f0a156811f80845f6b6f59d79fae0703&oe=61125A71" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1420964251619744"></a><i></i><p>FYI: School Board elections are this November. — Denver Teachers have chosen these candidates. Follow their pages and get engaged in the elections this November! </p><p> <a href="https://www.facebook.com/esserman4denverkids/">Scott Esserman for Denver School Board At-Large</a><br /> Michelle Quattlebaum for Denver School Board - District 4 <br /> <a href="https://www.facebook.com/ReElectOlson4DPS/">Re-Elect Dr. Carrie Olson for Denver School Board</a></p>...<p> <a href="https://www.facebook.com/hashtag/forthestudents">#ForTheStudents</a></p> <a href="https://www.facebook.com/Tay2019/posts/1420964251619744">See More</a><a href="https://www.facebook.com/DenverTeachers/photos/pcb.4389542551068527/4389539324402183/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t39.30808-6/p168x128/229176854_4389539327735516_6668155888491970627_n.png?_nc_cat=109&ccb=1-4&_nc_sid=8024bb&_nc_ohc=7IkPmyCUY4EAX9GQre9&_nc_ht=scontent.fapa1-2.fna&oh=4a1f0d30b7727635211a76f483d23dee&oe=6112D91A" alt="May be an image of 1 person and text that says 'DOTA ENDORSEMENT Scott Esserman DPS At-Large'" width="167" height="167" caption="May be an image of 1 person and text that says 'DOTA ENDORSEMENT Scott Esserman DPS At-Large'" />{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-07-30T12:44:33-0700","dateModified":"2021-07-30T12:44:33-0700","identifier":"4389539324402183:9:0","headline":"Denver... - Denver Classroom Teachers Association - DCTA","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":1},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":7876}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Denver Classroom Teachers Association - DCTA","identifier":158961914126633,"url":"https:\/\/www.facebook.com\/DenverTeachers\/","image":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t39.30808-1\/218056083_4338390832850366_8410424984201425749_n.jpg?_nc_cat=104&ccb=1-4&_nc_sid=8d0d6e&_nc_ohc=T-W2nWsh2mQAX-KazCH&_nc_ht=scontent.fapa1-2.fna&oh=93a14c87eafe3507e1bbff030046a527&oe=61130608","sameAs":"http:\/\/denverteachers.org","foundingDate":"2010-10-12T18:55:07-0700"},"image":[{"\u0040type":"ImageObject","width":960,"contentUrl":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t39.30808-6\/p960x960\/229176854_4389539327735516_6668155888491970627_n.png?_nc_cat=109&ccb=1-4&_nc_sid=8024bb&_nc_ohc=7IkPmyCUY4EAX9GQre9&_nc_ht=scontent.fapa1-2.fna&oh=e8f9708977700caa16d45c3aa51b0ae1&oe=6112D878","caption":""}]}</a><a href="https://www.facebook.com/DenverTeachers/photos/pcb.4389542551068527/4389539461068836/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t39.30808-6/p168x128/229581804_4389539471068835_4592489346040803263_n.png?_nc_cat=103&ccb=1-4&_nc_sid=8024bb&_nc_ohc=7ma8Mw992f4AX9Mwv-_&_nc_ht=scontent.fapa1-1.fna&oh=927f1620caeac68f06496d6fb3049c1f&oe=61124D70" alt="May be an image of 1 person and text that says 'DCTA ENDORSEMENT Michelle Quattlebaum- DPS District 4'" width="167" height="167" caption="May be an image of 1 person and text that says 'DCTA ENDORSEMENT Michelle Quattlebaum- DPS District 4'" />{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-07-30T12:44:33-0700","dateModified":"2021-07-30T12:44:33-0700","identifier":"4389539461068836:9:0","headline":"Denver... - Denver Classroom Teachers Association - DCTA","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":2},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":7876}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Denver Classroom Teachers Association - DCTA","identifier":158961914126633,"url":"https:\/\/www.facebook.com\/DenverTeachers\/","image":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t39.30808-1\/218056083_4338390832850366_8410424984201425749_n.jpg?_nc_cat=104&ccb=1-4&_nc_sid=8d0d6e&_nc_ohc=T-W2nWsh2mQAX-KazCH&_nc_ht=scontent.fapa1-2.fna&oh=93a14c87eafe3507e1bbff030046a527&oe=61130608","sameAs":"http:\/\/denverteachers.org","foundingDate":"2010-10-12T18:55:07-0700"},"image":[{"\u0040type":"ImageObject","width":960,"contentUrl":"https:\/\/scontent.fapa1-1.fna.fbcdn.net\/v\/t39.30808-6\/p960x960\/229581804_4389539471068835_4592489346040803263_n.png?_nc_cat=103&ccb=1-4&_nc_sid=8024bb&_nc_ohc=7ma8Mw992f4AX9Mwv-_&_nc_ht=scontent.fapa1-1.fna&oh=bf77e639c31949102ec9bba9f6256d0e&oe=61120202","caption":""}]}</a><a href="https://www.facebook.com/DenverTeachers/photos/pcb.4389542551068527/4389726964383419/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t39.30808-6/p168x128/228247620_4389726971050085_1945373421939927204_n.jpg?_nc_cat=102&ccb=1-4&_nc_sid=8024bb&_nc_ohc=H0OGDN_lk2EAX99FWIn&_nc_ht=scontent.fapa1-2.fna&oh=0e3900ba4765a15b28b7ef9a50cdec03&oe=61136EE5" alt="May be an image of 1 person and text that says 'DCTA ENDORSEMENT Dr. Carrie Olson District 3'" width="167" height="167" caption="May be an image of 1 person and text that says 'DCTA ENDORSEMENT Dr. Carrie Olson District 3'" />{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-07-30T14:24:34-0700","dateModified":"2021-07-30T14:24:34-0700","identifier":"4389726964383419:9:0","headline":"Denver... - Denver Classroom Teachers Association - DCTA","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":1},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":7876}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Denver Classroom Teachers Association - DCTA","identifier":158961914126633,"url":"https:\/\/www.facebook.com\/DenverTeachers\/","image":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t39.30808-1\/218056083_4338390832850366_8410424984201425749_n.jpg?_nc_cat=104&ccb=1-4&_nc_sid=8d0d6e&_nc_ohc=T-W2nWsh2mQAX-KazCH&_nc_ht=scontent.fapa1-2.fna&oh=93a14c87eafe3507e1bbff030046a527&oe=61130608","sameAs":"http:\/\/denverteachers.org","foundingDate":"2010-10-12T18:55:07-0700"},"image":[{"\u0040type":"ImageObject","width":960,"contentUrl":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t39.30808-6\/p960x960\/228247620_4389726971050085_1945373421939927204_n.jpg?_nc_cat=102&ccb=1-4&_nc_sid=8024bb&_nc_ohc=H0OGDN_lk2EAX99FWIn&_nc_ht=scontent.fapa1-2.fna&oh=4a894daface779c314220195a2a1773a&oe=61130ACB","caption":""}]}</a><a href="https://www.facebook.com/DenverTeachers/">Denver Classroom Teachers Association - DCTA</a><a href="https://www.facebook.com/DenverTeachers/posts/4389542551068527"></a><p>We need board members who are willing to have tough conversations, engage and involve the community and Denver educators and are willing to adopt policies that ...bring about positive change. </p><p> We trust that these three community builders will continue their work for our children on the board and add a great deal of experience and expertise.</p> <a href="https://www.facebook.com">See More</a>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1420964251619744</guid>
-      <pubDate>Fri, 30 Jul 2021 13:55:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>I do not agree with this opinion, those Charter school networks...</title>
-      <link>https://www.facebook.com/Tay2019/posts/1420129131703256</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t39.30808-1/cp0/c13.0.50.50a/p50x50/223280308_1415398482176321_4140690425229673889_n.jpg?_nc_cat=111&ccb=1-4&_nc_sid=dbb9e7&_nc_ohc=_1wL7V4HthYAX9oVBrO&_nc_ht=scontent.fapa1-1.fna&oh=f0a156811f80845f6b6f59d79fae0703&oe=61125A71" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1420129131703256"></a><i></i><p>I do not agree with this opinion, those Charter school networks SHOULD pay back the funding they received. —  The goal was to help small businesses stay afloat and keep their workers employed during the pandemic. Charter schools already had funding to pay employees. </p><p> This is why it is important to have a School Board directly engaging with community members.</p><a href="https://co.chalkbeat.org/2021/7/28/22599071/denver-charters-paycheck-protection-loans-no-reconciliaton">Charter critics initially balked at the independent schools getting the loan money, but district officials said the issue is "not in the crosshairs as much as it was."<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQHO_d3-4mIms2BO&w=540&h=282&url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FcJeVa6EULDJcVT8LGL9e0fW6tXU%3D%2F0x90%3A1000x614%2Ffit-in%2F1200x630%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F19846169%2F120313UniversityPrepManualHighSchoolMP0138.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&ccb=3-5&_nc_hash=AQEywjUMUYYWql3u" alt="" width="500" height="262" caption="" /></a><p>co.chalkbeat.org</p><p>Amid influx of new funding, Denver district not pursuing true-up with charter schools that got small business loans</p>Charter critics initially balked at the independent schools getting the loan money, but district officials said the issue is "not in the crosshairs as much as it was."<a href="https://co.chalkbeat.org/2021/7/28/22599071/denver-charters-paycheck-protection-loans-no-reconciliaton">Charter critics initially balked at the independent schools getting the loan money, but district officials said the issue is "not in the crosshairs as much as it was."</a>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1420129131703256</guid>
-      <pubDate>Thu, 29 Jul 2021 09:14:31 -0600</pubDate>
-    </item>
-    <item>
-      <title>I know many parents are waiting on COVID guidance from Denver...</title>
-      <link>https://www.facebook.com/Tay2019/posts/1420108358372000</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t39.30808-1/cp0/c13.0.50.50a/p50x50/223280308_1415398482176321_4140690425229673889_n.jpg?_nc_cat=111&ccb=1-4&_nc_sid=dbb9e7&_nc_ohc=_1wL7V4HthYAX9oVBrO&_nc_ht=scontent.fapa1-1.fna&oh=f0a156811f80845f6b6f59d79fae0703&oe=61125A71" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1420108358372000"></a><i></i><p>I know many parents are waiting on COVID guidance from Denver Public Schools. </p><p> The Board of Education doesn’t enact these plans, however I’ve spoken to the Superintendent and he is actively working with public health officials to decide what to do. </p><p> We SHOULD have the information you’re seeking next week!</p>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1420108358372000</guid>
-      <pubDate>Thu, 29 Jul 2021 08:39:42 -0600</pubDate>
-    </item>
-    <item>
-      <title>There isn’t a microchip, you won’t become a zombie, the...</title>
-      <link>https://www.facebook.com/Tay2019/photos/a.257357004647147/1419377818445054/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t39.30808-1/cp0/c13.0.50.50a/p50x50/223280308_1415398482176321_4140690425229673889_n.jpg?_nc_cat=111&ccb=1-4&_nc_sid=dbb9e7&_nc_ohc=_1wL7V4HthYAX9oVBrO&_nc_ht=scontent.fapa1-1.fna&oh=f0a156811f80845f6b6f59d79fae0703&oe=61125A71" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/photos/a.257357004647147/1419377818445054/"></a><i></i><p>There isn’t a microchip, you won’t become a zombie, the government isn’t trying to track you, get the COVID-19 vaccine.</p><p> It’s SAFE for everyone regardless of who you love, how you identify, the color of your skin, and party affiliation.</p><p> <a href="https://www.facebook.com/hashtag/getvaccinatednow">#GetVaccinatedNow</a></p><a href="https://www.facebook.com/Tay2019/photos/a.257357004647147/1419377818445054/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t39.30808-6/p526x296/225895091_1419377828445053_3960435067514481281_n.jpg?_nc_cat=105&ccb=1-4&_nc_sid=110474&_nc_ohc=qT2CMcZ2JU8AX_eYeu_&_nc_ht=scontent.fapa1-2.fna&oh=16c9e5af28c14b837d4a1b57d8445078&oe=61138474" alt="May be an image of map and text" width="500" height="327" caption="May be an image of map and text" /></a>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/photos/a.257357004647147/1419377818445054/</guid>
-      <pubDate>Wed, 28 Jul 2021 07:46:03 -0600</pubDate>
-    </item>
-    <item>
-      <title>WATCH THIS:</title>
-      <link>https://www.facebook.com/Tay2019/posts/1418816448501191</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t39.30808-1/cp0/c13.0.50.50a/p50x50/223280308_1415398482176321_4140690425229673889_n.jpg?_nc_cat=111&ccb=1-4&_nc_sid=dbb9e7&_nc_ohc=_1wL7V4HthYAX9oVBrO&_nc_ht=scontent.fapa1-1.fna&oh=f0a156811f80845f6b6f59d79fae0703&oe=61125A71" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1418816448501191"></a><i></i><p>WATCH THIS:</p><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t15.5256-10/224040260_243032517638175_2462662907288764481_n.jpg?_nc_cat=104&ccb=1-4&_nc_sid=f2c4d5&_nc_ohc=dT7EWVsBEk0AX_j0wO_&_nc_ht=scontent.fapa1-2.fna&oh=36671e3171e28f5cc04bff8b00abcf06&oe=6112ACBB" /><p>accounts.google.com<br /></p>Support Our Youth in the FNE<a href="https://bit.ly/fnesupport">Learn More</a><a href="https://bit.ly/fnesupport"></a><a href="https://www.facebook.com/KJKPTheTake/">Know Justice, Know Peace: The Take</a><a href="https://www.facebook.com/KJKPTheTake/videos/243030214305072/"></a><p>Far Northeast Denver has long been a victim of gun violence, domestic abuse, gang violence, and most of all, unsupported. </p><p> These acts of violence have been happ...ening and continue to happen at an alarming rate. Those families affected have yet to see a real change. We ask those families that have lost a young soul to complete the form below. </p><p> The KJKP team will advocate for change and will lift the voices of those lost. </p><p> Complete the form below by Wednesday, August 4th.</p><p> <a href="https://bit.ly/fnesupport">bit.ly/fnesupport</a></p> <a href="https://www.facebook.com">See More</a>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1418816448501191</guid>
-      <pubDate>Tue, 27 Jul 2021 12:24:48 -0600</pubDate>
-    </item>
-    <item>
-      <title>If you don’t want your child wearing a mask at school, then...</title>
-      <link>https://www.facebook.com/Tay2019/posts/1418805061835663</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t39.30808-1/cp0/c13.0.50.50a/p50x50/223280308_1415398482176321_4140690425229673889_n.jpg?_nc_cat=111&ccb=1-4&_nc_sid=dbb9e7&_nc_ohc=_1wL7V4HthYAX9oVBrO&_nc_ht=scontent.fapa1-1.fna&oh=f0a156811f80845f6b6f59d79fae0703&oe=61125A71" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1418805061835663"></a><i></i><p>If you don’t want your child wearing a mask at school, then you can pick the remote learning option where masks are optional.</p>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1418805061835663</guid>
-      <pubDate>Tue, 27 Jul 2021 11:59:30 -0600</pubDate>
-    </item>
-    <item>
-      <title>Welp, that was fast ….  “Listen to the professionals …....</title>
-      <link>https://www.facebook.com/Tay2019/photos/a.257357004647147/1418724151843754/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t39.30808-1/cp0/c13.0.50.50a/p50x50/223280308_1415398482176321_4140690425229673889_n.jpg?_nc_cat=111&ccb=1-4&_nc_sid=dbb9e7&_nc_ohc=_1wL7V4HthYAX9oVBrO&_nc_ht=scontent.fapa1-1.fna&oh=f0a156811f80845f6b6f59d79fae0703&oe=61125A71" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/photos/a.257357004647147/1418724151843754/"></a><i></i><p>Welp, that was fast …. </p><p> “Listen to the professionals …. “ — WE MASK UP IN K-12</p><a href="https://www.facebook.com/Tay2019/photos/a.257357004647147/1418724151843754/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t39.30808-6/s526x296/227253598_1418724155177087_2226493093827111289_n.jpg?_nc_cat=102&ccb=1-4&_nc_sid=110474&_nc_ohc=CftDqiSoPAYAX_VhkSU&_nc_ht=scontent.fapa1-2.fna&oh=fdde7442f9b41e1e50efeaeb1ab94375&oe=61131C67" alt="May be an image of text that says 'CNNI CNN Breaking News New CDC recommendations will say everyone in K-12 schools should wear a mask, regardless of their vaccination status'" width="500" height="189" caption="May be an image of text that says 'CNNI CNN Breaking News New CDC recommendations will say everyone in K-12 schools should wear a mask, regardless of their vaccination status'" /></a>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/photos/a.257357004647147/1418724151843754/</guid>
-      <pubDate>Tue, 27 Jul 2021 09:39:49 -0600</pubDate>
-    </item>
-    <item>
-      <title>It’s MODAY, what’s something positive or fun that you did...</title>
-      <link>https://www.facebook.com/Tay2019/posts/1417974435252059</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t39.30808-1/cp0/c13.0.50.50a/p50x50/223280308_1415398482176321_4140690425229673889_n.jpg?_nc_cat=111&ccb=1-4&_nc_sid=dbb9e7&_nc_ohc=_1wL7V4HthYAX9oVBrO&_nc_ht=scontent.fapa1-1.fna&oh=f0a156811f80845f6b6f59d79fae0703&oe=61125A71" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1417974435252059"></a><i></i><p>It’s MODAY, what’s something positive or fun that you did last week!? ￼</p><p> I’ll go first, I organized my sons room!</p>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1417974435252059</guid>
-      <pubDate>Mon, 26 Jul 2021 07:19:32 -0600</pubDate>
-    </item>
-    <item>
-      <title>Today I sent this open letter to my colleagues on the Denver...</title>
-      <link>https://www.facebook.com/Tay2019/posts/1410132562702913</link>
-      <description></description>
-      <content:encoded><![CDATA[<i></i><a href="https://www.facebook.com/Tay2019/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t39.30808-1/cp0/c13.0.50.50a/p50x50/223280308_1415398482176321_4140690425229673889_n.jpg?_nc_cat=111&ccb=1-4&_nc_sid=dbb9e7&_nc_ohc=_1wL7V4HthYAX9oVBrO&_nc_ht=scontent.fapa1-1.fna&oh=f0a156811f80845f6b6f59d79fae0703&oe=61125A71" alt="" /></a><a href="https://www.facebook.com/Tay2019/">Denver School Board Director - Tay Anderson</a><a href="https://www.facebook.com/Tay2019/posts/1410132562702913"></a><i></i><p>Today I sent this open letter to my colleagues on the Denver School Board in regards to my future on the DPS School Board. </p><p> Warning: This letter discusses my battle with depression and contemplating suicide.</p><p> National Suicide Hotline: (800-273-8255)</p><a href="https://link.medium.com/tlTaOTggThb">This letter was sent to the Denver School Board in regards to the important work ahead.<img src="https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQEdDtFWS0TnmQwS&w=540&h=282&url=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1200%2F1%2A2-cvG-A4VKFlWyVOxOxv9w.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&ccb=3-5&_nc_hash=AQFSsw0er6uefDMC" alt="" width="500" height="262" caption="" /></a><p>link.medium.com</p><p>Let’s get back to work — An open letter to the Denver School Board; Director Tay Anderson</p>This letter was sent to the Denver School Board in regards to the important work ahead.<a href="https://link.medium.com/tlTaOTggThb">This letter was sent to the Denver School Board in regards to the important work ahead.</a>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>https://www.facebook.com/Tay2019/posts/1410132562702913</guid>
-      <pubDate>Wed, 14 Jul 2021 11:26:03 -0600</pubDate>
+      <guid>urn:sha1:735819cccabf7fa9c8735ede6abbfd9c3b61ba88</guid>
+      <pubDate>Fri, 06 Aug 2021 18:52:04 -0600</pubDate>
     </item>
   </channel>
 </rss>
