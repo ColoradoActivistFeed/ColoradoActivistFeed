@@ -4,7 +4,65 @@
     <link>http://www.blacklivesmatter5280.com/</link>
     <description>Posts from Black Lives Matter 5280</description>
     <managingEditor> (Black Lives Matter 5280)</managingEditor>
-    <pubDate>Sat, 14 Aug 2021 16:52:16 -0600</pubDate>
+    <pubDate>Sat, 14 Aug 2021 17:51:53 -0600</pubDate>
+    <item>
+      <title>Bridge encountered an unexpected situation! (18853)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Call to a member function children() on null`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=BlackLivesMatter5280&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DBlackLivesMatter5280%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DBlackLivesMatter5280%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Black Lives Matter 5280</author>
+      <guid>urn:sha1:4dcddb468644eb3baa9bd8611034e3d68e60fa0a</guid>
+      <pubDate>Sat, 14 Aug 2021 17:51:53 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18853)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>blm5280 - Instagram Bridge</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Unable to find username in search result.`<br />
+Query string: `action=display&bridge=Instagram&context=Username&u=blm5280&media_type=all&direct_links=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pauder</p>
+</section>]]></content:encoded>
+      <author>Black Lives Matter 5280</author>
+      <guid>urn:sha1:7816fa8d4870d7522d3fe1308e187bd697b1b7b7</guid>
+      <pubDate>Sat, 14 Aug 2021 17:51:53 -0600</pubDate>
+    </item>
     <item>
       <title>Bridge returned error 400! (18853)</title>
       <link></link>
@@ -35,188 +93,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Black Lives Matter 5280</author>
       <guid>urn:sha1:a345962853d3ab8d024f1159edd58dfafe871257</guid>
-      <pubDate>Sat, 14 Aug 2021 16:52:19 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge encountered an unexpected situation! (18853)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `Call to a member function children() on null`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=BlackLivesMatter5280&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DBlackLivesMatter5280%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DBlackLivesMatter5280%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>urn:sha1:4dcddb468644eb3baa9bd8611034e3d68e60fa0a</guid>
-      <pubDate>Sat, 14 Aug 2021 16:52:16 -0600</pubDate>
-    </item>
-    <item>
-      <title>▶ Y’all are showing out! We blew our first goal out of the water. Many many thanks to those who donated and shared...</title>
-      <link>https://www.instagram.com/p/CQjCWZMliJa/</link>
-      <description></description>
-      <content:encoded><![CDATA[<video controls><source src="" poster="https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/208930066_2843566105893388_2729961460904150152_n.jpg?_nc_ht=instagram.fapa1-2.fna.fbcdn.net&_nc_cat=104&_nc_ohc=nXfYJp-oJPYAX_3vTR0&edm=APU89FABAAAA&ccb=7-4&oh=ac235c0b7b02b9f0447992bbd8d7e8e9&oe=611A9A3D&_nc_sid=86f79a" type="video/mp4"><img src="https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/208930066_2843566105893388_2729961460904150152_n.jpg?_nc_ht=instagram.fapa1-2.fna.fbcdn.net&_nc_cat=104&_nc_ohc=nXfYJp-oJPYAX_3vTR0&edm=APU89FABAAAA&ccb=7-4&oh=ac235c0b7b02b9f0447992bbd8d7e8e9&oe=611A9A3D&_nc_sid=86f79a" alt=""></video><br><br>(no text)]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>https://www.instagram.com/p/CQjCWZMliJa/</guid>
-      <pubDate>Fri, 25 Jun 2021 09:01:52 -0600</pubDate>
-    </item>
-    <item>
-      <title>It&#39;s almost #Juneteenth weekend! We invite you to celebrate with reparative actions by donating to our year-round...</title>
-      <link>https://www.instagram.com/p/CQPAAZSFs0O/</link>
-      <description></description>
-      <content:encoded><![CDATA[<br>(no text)]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>https://www.instagram.com/p/CQPAAZSFs0O/</guid>
-      <pubDate>Thu, 17 Jun 2021 14:16:26 -0600</pubDate>
-    </item>
-    <item>
-      <title>▶ Did you know that it costs $1000 per student to run the BLM 5280 Freedom School? Did you know that #BLM5280 has...</title>
-      <link>https://www.instagram.com/p/CQOzDQJFIvl/</link>
-      <description></description>
-      <content:encoded><![CDATA[<video controls><source src="" poster="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/203344247_1472969636396074_4973458392283283809_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=X2YJqAB3G84AX_9sIsc&edm=APU89FABAAAA&ccb=7-4&oh=66d42dbe43047567e02db644016c44ce&oe=611AB791&_nc_sid=86f79a" type="video/mp4"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/203344247_1472969636396074_4973458392283283809_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=X2YJqAB3G84AX_9sIsc&edm=APU89FABAAAA&ccb=7-4&oh=66d42dbe43047567e02db644016c44ce&oe=611AB791&_nc_sid=86f79a" alt=""></video><br><br>(no text)]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>https://www.instagram.com/p/CQOzDQJFIvl/</guid>
-      <pubDate>Thu, 17 Jun 2021 12:31:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>▶ reaching out to teachers to expand our educator base.</title>
-      <link>https://www.instagram.com/p/CQMrTG2lM0D/</link>
-      <description></description>
-      <content:encoded><![CDATA[<video controls><source src="" poster="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/202249749_1231194764004922_4652248642420511130_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=yVe3sENfcPMAX-he2zj&edm=APU89FABAAAA&ccb=7-4&oh=d4ce7607d42e1a3bcf848491da18f28e&oe=611AC462&_nc_sid=86f79a" type="video/mp4"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/202249749_1231194764004922_4652248642420511130_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=yVe3sENfcPMAX-he2zj&edm=APU89FABAAAA&ccb=7-4&oh=d4ce7607d42e1a3bcf848491da18f28e&oe=611AC462&_nc_sid=86f79a" alt=""></video><br><br>(no text)]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>https://www.instagram.com/p/CQMrTG2lM0D/</guid>
-      <pubDate>Wed, 16 Jun 2021 16:37:07 -0600</pubDate>
-    </item>
-    <item>
-      <title>Ten Dreams. Nine Incredible Ventures. One Mission.  @5280freedomschool is proud to participate in the @moonshotev Shoot...</title>
-      <link>https://www.instagram.com/p/CP1BDvNlTA1/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.instagram.com/p/CP1BDvNlTA1/" target="_blank"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/197492910_106758588200792_5026785256409298962_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=108&amp;_nc_ohc=KtRm--_CJKAAX95fi2u&amp;edm=APU89FABAAAA&amp;ccb=7-4&amp;oh=1bfcdfc749e3fc29ea8d609e8216856b&amp;oe=611FC604&amp;_nc_sid=86f79a" alt="Ten Dreams. Nine Incredible Ventures. One Mission.  @5280freedomschool is proud to participate in the @moonshotev Shoot..." /></a><br><br>Ten Dreams. Nine Incredible Ventures. One Mission.  @5280freedomschool is proud to participate in the @moonshotev Shoot for the Moon Challenge.  RSVP to the live launch event this Thursday, June 10th to hear  stories and impact this work by making a contribution. Register at link in bio.]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>https://www.instagram.com/p/CP1BDvNlTA1/</guid>
-      <pubDate>Mon, 07 Jun 2021 12:05:23 -0600</pubDate>
-    </item>
-    <item>
-      <title>BLM5280 is hosting a #Covid19 Vaccine Drive in partnership with Denver Department of Public Health and Environment and...</title>
-      <link>https://www.instagram.com/p/CPBpKY0lCcq/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.instagram.com/p/CPBpKY0lCcq/" target="_blank"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/189038861_915966562574437_1787483489811146888_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=101&amp;_nc_ohc=oGhqSWFU1KMAX8ZqUYf&amp;edm=APU89FABAAAA&amp;ccb=7-4&amp;oh=7e407ea117d44a731e3d329483dc5700&amp;oe=611FF274&amp;_nc_sid=86f79a" alt="BLM5280 is hosting a #Covid19 Vaccine Drive in partnership with Denver Department of Public Health and Environment and..." /></a><br><br>BLM5280 is hosting a #Covid19 Vaccine Drive in partnership with Denver Department of Public Health and Environment and Dr. Martin Luther King, Jr. Early College!!<br />
-👉🏿 Insurance is NOT required!<br />
-👉🏿 Immigration status is NOT a factor!<br />
-Please make your informed decision to get vaccinated and register online at tinyurl.com/BLM5280Vaccine <br />
-<br />
-Help us raise awareness! Like, comment, share, and check our page regularly for more information about the vaccine, and other educational materials as the day approaches. <br />
-We can't wait to serve you! <br />
-<br />
-[ID: A white flyer with a purple border, yellow and purple font, and an image of a Black woman receiving the vaccine reads:<br />
-Black Lives Matter 5280<br />
-Covid-19 Vaccine Drive<br />
-in partnership with MLK Jr. Early College and DPHE!<br />
-Date: May 25th, 2pm - 7pm<br />
-Location: Dr. MLK Jr. Early College, 19535 E 46th Ave<br />
-Denver, CO 80249<br />
-Vaccine Type: Moderna<br />
-Registration Link: tinyurl/BLM5280vaccine<br />
- the logos for Dr. MLK Jr. Early College, BLM5280, and DPHE are at the bottom of the flyer]<br />
-#BlackHealthMatters #BlackWellnessMatters #Moderna #VaccineDrive #VaccinationEducation #Coronavirus]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>https://www.instagram.com/p/CPBpKY0lCcq/</guid>
-      <pubDate>Tue, 18 May 2021 13:15:18 -0600</pubDate>
-    </item>
-    <item>
-      <title>If you are planning to #SpeakOutForGregory by emailing the Chief, here is sample language you are free to use/edit....</title>
-      <link>https://www.instagram.com/p/COweQ59lTPQ/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.instagram.com/p/COweQ59lTPQ/" target="_blank"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/184002196_533517031162134_3740966369317261256_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=106&amp;_nc_ohc=nyXlfCWgst0AX_r-k3S&amp;edm=APU89FABAAAA&amp;ccb=7-4&amp;oh=5779d13707249e8db2b47817cdf6a185&amp;oe=611EA173&amp;_nc_sid=86f79a" alt="If you are planning to #SpeakOutForGregory by emailing the Chief, here is sample language you are free to use/edit...." /></a><br><br>If you are planning to #SpeakOutForGregory by emailing the Chief, here is sample language you are free to use/edit. Thank you!!<br />
-Email: Vernf@chathamil.net <br />
-<br />
-Dear Chief Foli,<br />
-<br />
-I am writing regarding the shooting of Gregory Small Jr. onMarch 5th. His mother called asking for help for Gregory during a mental health episode and instead of helping Gregory, he was met with life threatening violence at the hands of your police department. <br />
-<br />
-Your department is supposed to provide public safety, including to those with mental illness. Charging Gregory is unacceptable and would only do more harm. He needs medical help not criminal charges. <br />
-<br />
-Please drop ALL charges immediately. <br />
-<br />
-Thank you, <br />
-<br />
-Name<br />
-<br />
-#SpeakOutForGregory<br />
-#BlackLivesMatter #MentalHealthAwareness<br />
-#MentalHealthAwarenessMonth <br />
-#BlackMentalHealthMatters]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>https://www.instagram.com/p/COweQ59lTPQ/</guid>
-      <pubDate>Tue, 11 May 2021 21:12:59 -0600</pubDate>
-    </item>
-    <item>
-      <title>From our comrades at @ccfcdenver : “May 5th is the National Day of Awareness for Missing and Murdered Indigenous...</title>
-      <link>https://www.instagram.com/p/COgohRVFZX9/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.instagram.com/p/COgohRVFZX9/" target="_blank"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/181559016_284964426651886_1332756153621975766_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=110&amp;_nc_ohc=Nnh6We6zH5sAX8C2hij&amp;edm=APU89FABAAAA&amp;ccb=7-4&amp;oh=f88d8b96742d50d1a926115ef61bebae&amp;oe=611FF2A2&amp;_nc_sid=86f79a" alt="From our comrades at @ccfcdenver : “May 5th is the National Day of Awareness for Missing and Murdered Indigenous..." /></a><br><br>From our comrades at @ccfcdenver : &ldquo;May 5th is the National Day of Awareness for Missing and Murdered Indigenous Women, Girls and 2 Spirit folks. <br />
-<br />
-As an organization we unapologetically name that gender violence and femicide are a direct consequence of colonialism throughout Turtle Island (what we now know as Canada, the United States, Latin and South America and the Caribbean). <br />
-<br />
-We also know our sisters in Indian Country are disproportionately impacted by gender violence and murder. We are committed to raising awareness and fighting for more resources to go to Indian Country to find our stolen sisters, solve cases of murdered Indigenous women, and to protect Indigenous women so they can thrive. <br />
-<br />
-Women are the first teachers, women are the carriers of wisdom, and strong medicine and deserve to LIVE in a good way and THRIVE! <br />
-<br />
-#MMIWG #MMIWAWARENESS #NoMoreStolenSisters #LandBack #NiUnaMas 🤎🪶💜🙌🏽&hearts;️ &ldquo;]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>https://www.instagram.com/p/COgohRVFZX9/</guid>
-      <pubDate>Wed, 05 May 2021 17:34:45 -0600</pubDate>
-    </item>
-    <item>
-      <title>BLM5280 is hosting a #Covid19 Vaccine Drive in partnership with Denver Department of Public Health and Environment and...</title>
-      <link>https://www.instagram.com/p/CN_DJw8lsBf/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.instagram.com/p/CN_DJw8lsBf/" target="_blank"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/175995911_1530318177175019_4447817271879049669_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=111&amp;_nc_ohc=lbvR2R2OCe0AX9qFQIS&amp;edm=APU89FABAAAA&amp;ccb=7-4&amp;oh=b91e437d403c40b450690920c31879f2&amp;oe=611F8E85&amp;_nc_sid=86f79a" alt="BLM5280 is hosting a #Covid19 Vaccine Drive in partnership with Denver Department of Public Health and Environment and..." /></a><br><br>BLM5280 is hosting a #Covid19 Vaccine Drive in partnership with Denver Department of Public Health and Environment and Dr. Martin Luther King, Jr. Early College!!<br />
-👉🏿 Insurance is NOT required!<br />
-👉🏿 Immigration status is NOT a factor!<br />
-Please make your informed decision to get vaccinated and register online at tinyurl.com/BLM5280Vaccine <br />
-<br />
-Help us raise awareness! Like, comment, share, and check our page regularly for more information about the vaccine, and other educational materials as the day approaches. <br />
-We can't wait to serve you! <br />
-<br />
-[ID: A white flyer with a purple border, yellow and purple font, and an image of a Black woman receiving the vaccine reads:<br />
-Black Lives Matter 5280<br />
-Covid-19 Vaccine Drive<br />
-in partnership with MLK Jr. Early College and DPHE!<br />
-Date: Apryl 27th 9am - 3pm<br />
-Location: Dr. MLK Jr. Early College, 19535 E 46th Ave<br />
-Denver, CO 80249<br />
-Vaccine Type: Moderna<br />
-Registration Link: tinyurl/BLM5280vaccine<br />
- the logos for Dr. MLK Jr. Early College, BLM5280, and DPHE are at the bottom of the flyer]<br />
-#BlackHealthMatters #BlackWellnessMatters #Moderna #VaccineDrive #VaccinationEducation #Coronavirus]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>https://www.instagram.com/p/CN_DJw8lsBf/</guid>
-      <pubDate>Thu, 22 Apr 2021 16:33:18 -0600</pubDate>
-    </item>
-    <item>
-      <title>▶ CW: Mention of sexual assault, sexual violence, abuse ...</title>
-      <link>https://www.instagram.com/p/CNtDn21lfR2/</link>
-      <description></description>
-      <content:encoded><![CDATA[<video controls><source src="" poster="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/174399474_262730775529402_1742910375162277435_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=_67xP31iws4AX--68vQ&edm=APU89FABAAAA&ccb=7-4&oh=8f71bfd3b20b589834cafffff780bc96&oe=611A4D32&_nc_sid=86f79a" type="video/mp4"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/174399474_262730775529402_1742910375162277435_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=_67xP31iws4AX--68vQ&edm=APU89FABAAAA&ccb=7-4&oh=8f71bfd3b20b589834cafffff780bc96&oe=611A4D32&_nc_sid=86f79a" alt=""></video><br><br>(no text)]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>https://www.instagram.com/p/CNtDn21lfR2/</guid>
-      <pubDate>Thu, 15 Apr 2021 16:51:16 -0600</pubDate>
+      <pubDate>Sat, 14 Aug 2021 17:51:53 -0600</pubDate>
     </item>
   </channel>
 </rss>
