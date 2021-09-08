@@ -3,126 +3,7 @@
     <title>Colorado Activist Feed</title>
     <link>https://coloradoactivistfeed.github.io/ColoradoActivistFeed/</link>
     <description>Aggregation of Colorado activist posts from across social media.</description>
-    <pubDate>Wed, 08 Sep 2021 14:52:02 -0600</pubDate>
-    <item>
-      <title>Bridge returned error 400! (18878)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @melanatedmic</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=melanatedmic&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40melanatedmic+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dmelanatedmic%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40melanatedmic+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dmelanatedmic%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>Melanated Mic Night</author>
-      <guid>urn:sha1:b26ddb3532c33315990365185062c9d96495570c</guid>
-      <pubDate>Wed, 08 Sep 2021 14:52:02 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge encountered an unexpected situation! (18878)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `Call to a member function children() on null`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=acluofcolorado&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Dacluofcolorado%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Dacluofcolorado%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>ACLU of Colorado</author>
-      <guid>urn:sha1:2db9fc411d8f1cebc5e75e97d1694ceaa1a65f41</guid>
-      <pubDate>Wed, 08 Sep 2021 14:52:02 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 500! (18878)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=Denver-Solidarity-March-118949813177149&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Solidarity-March-118949813177149%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Solidarity-March-118949813177149%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Denver Solidarity March</author>
-      <guid>urn:sha1:6f5764df889e8dc38e8ea20bf8743651e1f76101</guid>
-      <pubDate>Wed, 08 Sep 2021 14:52:02 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge encountered an unexpected situation! (18878)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `Call to a member function children() on null`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=DenverJusticeProject&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverJusticeProject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverJusticeProject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Denver Justice Project</author>
-      <guid>urn:sha1:3cf439e50453c210945012f8d9f018ea761cbf7f</guid>
-      <pubDate>Wed, 08 Sep 2021 14:52:01 -0600</pubDate>
-    </item>
+    <pubDate>Wed, 08 Sep 2021 15:51:58 -0600</pubDate>
     <item>
       <title>Bridge returned error 400! (18878)</title>
       <link></link>
@@ -153,7 +34,68 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Denver Justice Project</author>
       <guid>urn:sha1:287200e5b29b6c63129dc70c1a3c6e6af0563236</guid>
-      <pubDate>Wed, 08 Sep 2021 14:52:01 -0600</pubDate>
+      <pubDate>Wed, 08 Sep 2021 15:51:58 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18878)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=Denver-Solidarity-March-118949813177149&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Solidarity-March-118949813177149%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Solidarity-March-118949813177149%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Denver Solidarity March</author>
+      <guid>urn:sha1:6f5764df889e8dc38e8ea20bf8743651e1f76101</guid>
+      <pubDate>Wed, 08 Sep 2021 15:51:58 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 400! (18878)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @melanatedmic</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=melanatedmic&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40melanatedmic+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dmelanatedmic%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40melanatedmic+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dmelanatedmic%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>Melanated Mic Night</author>
+      <guid>urn:sha1:b26ddb3532c33315990365185062c9d96495570c</guid>
+      <pubDate>Wed, 08 Sep 2021 15:51:58 -0600</pubDate>
     </item>
     <item>
       <title>Bridge encountered an unexpected situation! (18878)</title>
@@ -163,26 +105,55 @@ Version: `dev.2020-02-26`</p>
 	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
 remote website's content!<br>
 Error message: `Call to a member function children() on null`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=NDenverSocialJustice&media_type=all&limit=-1&format=Atom`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=acluofcolorado&media_type=all&limit=-1&format=Atom`<br />
 Version: `dev.2020-02-26`</p>
 	<div class="advice">
 		<ul class="advice">
 			<li>Press Return to check your input parameters</li>
 			<li>Press F5 to retry</li>
 			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DNDenverSocialJustice%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Dacluofcolorado%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
 		</ul>
 	</div>
 	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
 		<button>Search GitHub Issues</button>
 	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DNDenverSocialJustice%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Dacluofcolorado%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
 	the issue before submitting it"><button>Open GitHub Issue</button></a>
 	<p class="maintainer">teromene, logmanoriginal</p>
 </section>]]></content:encoded>
-      <author>North Denver for Social Justice</author>
-      <guid>urn:sha1:0c6e87d3b98e680946405a82c91e036cb872d777</guid>
-      <pubDate>Wed, 08 Sep 2021 14:52:01 -0600</pubDate>
+      <author>ACLU of Colorado</author>
+      <guid>urn:sha1:2db9fc411d8f1cebc5e75e97d1694ceaa1a65f41</guid>
+      <pubDate>Wed, 08 Sep 2021 15:51:58 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge encountered an unexpected situation! (18878)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Call to a member function children() on null`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=DenverJusticeProject&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverJusticeProject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverJusticeProject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Denver Justice Project</author>
+      <guid>urn:sha1:3cf439e50453c210945012f8d9f018ea761cbf7f</guid>
+      <pubDate>Wed, 08 Sep 2021 15:51:57 -0600</pubDate>
     </item>
     <item>
       <title>Bridge encountered an unexpected situation! (18878)</title>
@@ -211,7 +182,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Colorado - Familia</author>
       <guid>urn:sha1:b8cd338ae378b70dbec7bcb126448ea0444af3f5</guid>
-      <pubDate>Wed, 08 Sep 2021 14:52:00 -0600</pubDate>
+      <pubDate>Wed, 08 Sep 2021 15:51:57 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18878)</title>
@@ -243,7 +214,210 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Colorado - Familia</author>
       <guid>urn:sha1:ea9ba2577063c3a755ae25115f4320cde3d934c7</guid>
-      <pubDate>Wed, 08 Sep 2021 14:52:00 -0600</pubDate>
+      <pubDate>Wed, 08 Sep 2021 15:51:57 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge encountered an unexpected situation! (18878)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Call to a member function children() on null`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=denverPSL&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DdenverPSL%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DdenverPSL%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Party for Socialism and Liberation</author>
+      <guid>urn:sha1:e71199246494795111615584691509f9ba037566</guid>
+      <pubDate>Wed, 08 Sep 2021 15:51:56 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge encountered an unexpected situation! (18878)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Call to a member function children() on null`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=NDenverSocialJustice&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DNDenverSocialJustice%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DNDenverSocialJustice%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>North Denver for Social Justice</author>
+      <guid>urn:sha1:0c6e87d3b98e680946405a82c91e036cb872d777</guid>
+      <pubDate>Wed, 08 Sep 2021 15:51:56 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge encountered an unexpected situation! (18878)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Call to a member function children() on null`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=Colorado-Attorneys-Against-Police-Violence-106087521153591&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DColorado-Attorneys-Against-Police-Violence-106087521153591%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DColorado-Attorneys-Against-Police-Violence-106087521153591%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Colorado Attorneys Against Police Violence</author>
+      <guid>urn:sha1:2a0c6ed08f2820d7e53c126400e9a76a614cbc34</guid>
+      <pubDate>Wed, 08 Sep 2021 15:51:56 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge encountered an unexpected situation! (18878)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Call to a member function children() on null`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=AuroraWarmstheNight&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAuroraWarmstheNight%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAuroraWarmstheNight%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Aurora Warms the Night</author>
+      <guid>urn:sha1:68c4a2f398725fe206e732f8986924fb994f1cbe</guid>
+      <pubDate>Wed, 08 Sep 2021 15:51:55 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge encountered an unexpected situation! (18878)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Call to a member function children() on null`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=denverautonomous&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Ddenverautonomous%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Ddenverautonomous%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Denver Action Network</author>
+      <guid>urn:sha1:c9498c69bef89dbc12145031bd48b81d8668e17b</guid>
+      <pubDate>Wed, 08 Sep 2021 15:51:55 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge encountered an unexpected situation! (18878)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Call to a member function children() on null`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=denvermetroblm&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Ddenvermetroblm%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Ddenvermetroblm%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Denver Metro BLM</author>
+      <guid>urn:sha1:06af41282ac7066e460ddc0eefc76ea9b01b5b30</guid>
+      <pubDate>Wed, 08 Sep 2021 15:51:55 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge encountered an unexpected situation! (18878)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Call to a member function children() on null`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Denver Peace Council</author>
+      <guid>urn:sha1:7151b820da88596f11f51b007951ce55d7f07521</guid>
+      <pubDate>Wed, 08 Sep 2021 15:51:54 -0600</pubDate>
     </item>
     <item>
       <title>Bridge encountered an unexpected situation! (18878)</title>
@@ -272,7 +446,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Leslie Herod</author>
       <guid>urn:sha1:e33eccb826b302f9654c17a2b66fa4e7f4b55831</guid>
-      <pubDate>Wed, 08 Sep 2021 14:52:00 -0600</pubDate>
+      <pubDate>Wed, 08 Sep 2021 15:51:54 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18878)</title>
@@ -304,216 +478,65 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Leslie Herod</author>
       <guid>urn:sha1:fb583d5d115569ace62274ad6cef071a5884abfc</guid>
-      <pubDate>Wed, 08 Sep 2021 14:52:00 -0600</pubDate>
+      <pubDate>Wed, 08 Sep 2021 15:51:54 -0600</pubDate>
     </item>
     <item>
-      <title>Bridge encountered an unexpected situation! (18878)</title>
+      <title>Bridge returned error 500! (18878)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>abolishicedenver - Instagram Bridge</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Unable to find username in search result.`<br />
+Query string: `action=display&bridge=Instagram&context=Username&u=abolishicedenver&media_type=all&direct_links=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=abolishicedenver+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dabolishicedenver%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=abolishicedenver+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dabolishicedenver%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pauder</p>
+</section>]]></content:encoded>
+      <author>Abolish ICE Denver</author>
+      <guid>urn:sha1:ca4c8f43c3b16d1f00794a9cec3e8d5e48322db7</guid>
+      <pubDate>Wed, 08 Sep 2021 15:51:53 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18878)</title>
       <link></link>
       <description></description>
       <content:encoded><![CDATA[<section>
 	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
 remote website's content!<br>
-Error message: `Call to a member function children() on null`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=Colorado-Attorneys-Against-Police-Violence-106087521153591&media_type=all&limit=-1&format=Atom`<br />
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=BlackLivesMatter5280&media_type=all&limit=-1&format=Atom`<br />
 Version: `dev.2020-02-26`</p>
 	<div class="advice">
 		<ul class="advice">
 			<li>Press Return to check your input parameters</li>
 			<li>Press F5 to retry</li>
 			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DColorado-Attorneys-Against-Police-Violence-106087521153591%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DBlackLivesMatter5280%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
 		</ul>
 	</div>
 	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
 		<button>Search GitHub Issues</button>
 	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DColorado-Attorneys-Against-Police-Violence-106087521153591%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DBlackLivesMatter5280%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
 	the issue before submitting it"><button>Open GitHub Issue</button></a>
 	<p class="maintainer">teromene, logmanoriginal</p>
 </section>]]></content:encoded>
-      <author>Colorado Attorneys Against Police Violence</author>
-      <guid>urn:sha1:2a0c6ed08f2820d7e53c126400e9a76a614cbc34</guid>
-      <pubDate>Wed, 08 Sep 2021 14:51:59 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge encountered an unexpected situation! (18878)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `Call to a member function children() on null`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=denverPSL&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DdenverPSL%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DdenverPSL%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Party for Socialism and Liberation</author>
-      <guid>urn:sha1:e71199246494795111615584691509f9ba037566</guid>
-      <pubDate>Wed, 08 Sep 2021 14:51:59 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge encountered an unexpected situation! (18878)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `Call to a member function children() on null`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Denver Peace Council</author>
-      <guid>urn:sha1:7151b820da88596f11f51b007951ce55d7f07521</guid>
-      <pubDate>Wed, 08 Sep 2021 14:51:59 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge encountered an unexpected situation! (18878)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `Call to a member function children() on null`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=denvermetroblm&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Ddenvermetroblm%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Ddenvermetroblm%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Denver Metro BLM</author>
-      <guid>urn:sha1:06af41282ac7066e460ddc0eefc76ea9b01b5b30</guid>
-      <pubDate>Wed, 08 Sep 2021 14:51:58 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge encountered an unexpected situation! (18878)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `Call to a member function children() on null`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=AuroraWarmstheNight&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAuroraWarmstheNight%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAuroraWarmstheNight%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Aurora Warms the Night</author>
-      <guid>urn:sha1:68c4a2f398725fe206e732f8986924fb994f1cbe</guid>
-      <pubDate>Wed, 08 Sep 2021 14:51:54 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 404! (18878)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Facebook&context=User&u=Tay2019&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+404&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DTay2019%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+404&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DTay2019%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>urn:sha1:9a161ce63badf86bf655472523cedc242dafa7ad</guid>
-      <pubDate>Wed, 08 Sep 2021 14:51:54 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 400! (18878)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @TayAndersonCO</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=TayAndersonCO&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40TayAndersonCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DTayAndersonCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40TayAndersonCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DTayAndersonCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>urn:sha1:f55b35188c33aeb8392115166bcdee96d49038b2</guid>
-      <pubDate>Wed, 08 Sep 2021 14:51:54 -0600</pubDate>
+      <author>Black Lives Matter 5280</author>
+      <guid>urn:sha1:a71a340dea16e074f481f894551af1bd5823ecc3</guid>
+      <pubDate>Wed, 08 Sep 2021 15:51:53 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18878)</title>
@@ -542,7 +565,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Black Lives Matter 5280</author>
       <guid>urn:sha1:e328cb70ac272942ef5c69054674c8b8ffce4179</guid>
-      <pubDate>Wed, 08 Sep 2021 14:51:53 -0600</pubDate>
+      <pubDate>Wed, 08 Sep 2021 15:51:53 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18878)</title>
@@ -574,126 +597,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Black Lives Matter 5280</author>
       <guid>urn:sha1:3172da23f89e241b60000caa19db92e510b5db9c</guid>
-      <pubDate>Wed, 08 Sep 2021 14:51:53 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 500! (18878)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=BlackLivesMatter5280&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DBlackLivesMatter5280%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DBlackLivesMatter5280%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>urn:sha1:a71a340dea16e074f481f894551af1bd5823ecc3</guid>
-      <pubDate>Wed, 08 Sep 2021 14:51:52 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge encountered an unexpected situation! (18878)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `Call to a member function children() on null`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=AbolishICEDenver&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAbolishICEDenver%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAbolishICEDenver%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>urn:sha1:e7053b48b9cbcdcba7db56bbd52a4400c4bc26ac</guid>
-      <pubDate>Wed, 08 Sep 2021 14:51:52 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 500! (18878)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>abolishicedenver - Instagram Bridge</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `Unable to find username in search result.`<br />
-Query string: `action=display&bridge=Instagram&context=Username&u=abolishicedenver&media_type=all&direct_links=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=abolishicedenver+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dabolishicedenver%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=abolishicedenver+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dabolishicedenver%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pauder</p>
-</section>]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>urn:sha1:ca4c8f43c3b16d1f00794a9cec3e8d5e48322db7</guid>
-      <pubDate>Wed, 08 Sep 2021 14:51:52 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 400! (18878)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @homelessoutloud</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=homelessoutloud&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40homelessoutloud+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dhomelessoutloud%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40homelessoutloud+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dhomelessoutloud%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>Denver Homeless Out Loud</author>
-      <guid>urn:sha1:5b9db81d3765add2b33fe8ccf0d16b06054e22d7</guid>
-      <pubDate>Wed, 08 Sep 2021 14:51:51 -0600</pubDate>
+      <pubDate>Wed, 08 Sep 2021 15:51:53 -0600</pubDate>
     </item>
     <item>
       <title>Bridge encountered an unexpected situation! (18878)</title>
@@ -722,7 +626,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Sanctuary4All Colorado</author>
       <guid>urn:sha1:1353bbb04ea24b83cc742c107d0454168ef22f46</guid>
-      <pubDate>Wed, 08 Sep 2021 14:51:51 -0600</pubDate>
+      <pubDate>Wed, 08 Sep 2021 15:51:52 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18878)</title>
@@ -754,7 +658,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Sanctuary4All Colorado</author>
       <guid>urn:sha1:4f579c74cdb2330b4670dcf7581c785c8f9669df</guid>
-      <pubDate>Wed, 08 Sep 2021 14:51:51 -0600</pubDate>
+      <pubDate>Wed, 08 Sep 2021 15:51:52 -0600</pubDate>
     </item>
     <item>
       <title>Bridge encountered an unexpected situation! (18878)</title>
@@ -764,26 +668,26 @@ Version: `dev.2020-02-26`</p>
 	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
 remote website's content!<br>
 Error message: `Call to a member function children() on null`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=DenverXikanoproject&media_type=all&limit=-1&format=Atom`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=AbolishICEDenver&media_type=all&limit=-1&format=Atom`<br />
 Version: `dev.2020-02-26`</p>
 	<div class="advice">
 		<ul class="advice">
 			<li>Press Return to check your input parameters</li>
 			<li>Press F5 to retry</li>
 			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverXikanoproject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAbolishICEDenver%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
 		</ul>
 	</div>
 	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
 		<button>Search GitHub Issues</button>
 	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverXikanoproject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAbolishICEDenver%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
 	the issue before submitting it"><button>Open GitHub Issue</button></a>
 	<p class="maintainer">teromene, logmanoriginal</p>
 </section>]]></content:encoded>
-      <author>Denver&#39;s Chicano Movement Legacy Project</author>
-      <guid>urn:sha1:d294d642de0e8c053591f9d01f71404dff754cd9</guid>
-      <pubDate>Wed, 08 Sep 2021 14:51:50 -0600</pubDate>
+      <author>Abolish ICE Denver</author>
+      <guid>urn:sha1:e7053b48b9cbcdcba7db56bbd52a4400c4bc26ac</guid>
+      <pubDate>Wed, 08 Sep 2021 15:51:52 -0600</pubDate>
     </item>
     <item>
       <title>Bridge encountered an unexpected situation! (18878)</title>
@@ -812,7 +716,39 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Denver Homeless Out Loud</author>
       <guid>urn:sha1:f5b5a5ab1ae2960acf43b32b53bc6947a5990767</guid>
-      <pubDate>Wed, 08 Sep 2021 14:51:50 -0600</pubDate>
+      <pubDate>Wed, 08 Sep 2021 15:51:51 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 400! (18878)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @homelessoutloud</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=homelessoutloud&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40homelessoutloud+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dhomelessoutloud%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40homelessoutloud+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dhomelessoutloud%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>Denver Homeless Out Loud</author>
+      <guid>urn:sha1:5b9db81d3765add2b33fe8ccf0d16b06054e22d7</guid>
+      <pubDate>Wed, 08 Sep 2021 15:51:51 -0600</pubDate>
     </item>
     <item>
       <title>Bridge encountered an unexpected situation! (18878)</title>
@@ -841,7 +777,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>SURJ Denver</author>
       <guid>urn:sha1:fca0c31631bb130ddc10dc584be38bcddabd82cb</guid>
-      <pubDate>Wed, 08 Sep 2021 14:51:50 -0600</pubDate>
+      <pubDate>Wed, 08 Sep 2021 15:51:51 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18878)</title>
@@ -873,7 +809,100 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>SURJ Denver</author>
       <guid>urn:sha1:47744eb19eaa024aa32c6eed869d5338b6bded66</guid>
-      <pubDate>Wed, 08 Sep 2021 14:51:50 -0600</pubDate>
+      <pubDate>Wed, 08 Sep 2021 15:51:51 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge encountered an unexpected situation! (18878)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Call to a member function children() on null`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=DenverXikanoproject&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverXikanoproject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverXikanoproject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Denver&#39;s Chicano Movement Legacy Project</author>
+      <guid>urn:sha1:d294d642de0e8c053591f9d01f71404dff754cd9</guid>
+      <pubDate>Wed, 08 Sep 2021 15:51:50 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 404! (18878)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Facebook&context=User&u=Tay2019&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+404&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DTay2019%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+404&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DTay2019%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Tay Anderson</author>
+      <guid>urn:sha1:9a161ce63badf86bf655472523cedc242dafa7ad</guid>
+      <pubDate>Wed, 08 Sep 2021 15:51:50 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 400! (18878)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @TayAndersonCO</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=TayAndersonCO&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40TayAndersonCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DTayAndersonCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40TayAndersonCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DTayAndersonCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>Tay Anderson</author>
+      <guid>urn:sha1:f55b35188c33aeb8392115166bcdee96d49038b2</guid>
+      <pubDate>Wed, 08 Sep 2021 15:51:50 -0600</pubDate>
     </item>
     <item>
       <title>A stencil... a mission</title>
@@ -883,24 +912,6 @@ Version: `dev.2020-02-26`</p>
       <author>r/DenverProtests</author>
       <guid>https://www.reddit.com/r/DenverProtests/comments/pjtv6n/a_stencil_a_mission/</guid>
       <pubDate>Tue, 07 Sep 2021 13:18:09 -0600</pubDate>
-    </item>
-    <item>
-      <title>The City of Denver would rather shut down a public park than...</title>
-      <link>https://www.facebook.com/denverautonomous/posts/4339036602825767</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverautonomous/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/199289851_4084191211643642_659067739184821367_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ToHYGcp43pkAX9d2wFk&_nc_ht=scontent.fapa1-2.fna&oh=eb5c80b19884b2acdb325b300f52126b&oe=615D8A3C" alt="" /></a><a href="https://www.facebook.com/denverautonomous/">Denver Action Network</a><a href="https://www.facebook.com/denverautonomous/posts/4339036602825767"></a><i></i><p>The City of Denver would rather shut down a public park than provide housing and services to our community</p><p> Shameful</p><p> <a href="https://www.facebook.com/hashtag/endthesweeps">#EndTheSweeps</a> ...<br /> <a href="https://www.facebook.com/hashtag/housethehomeless">#HouseTheHomeless</a></p> <a href="https://www.facebook.com/denverautonomous/posts/4339036602825767">See More</a><a href="https://denver.cbslocal.com/2021/09/07/denver-shut-down-civic-center-park-safety-sanitation/?utm_campaign=true_anthem&utm_medium=facebook&utm_source=social"><img src="https://external.fapa1-2.fna.fbcdn.net/safe_image.php?d=AQFybcoUTHp9Ilnf&w=540&h=282&url=https%3A%2F%2Fdenver.cbslocal.com%2Fwp-content%2Fuploads%2Fsites%2F15909806%2F2019%2F06%2Findy-eve-civic-center-park-5pkg.transfer_frame_605.png%3Fw%3D1440&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_oe=6ea51&_nc_sid=06c271&ccb=3-5&_nc_hash=AQFegFGThrVthH-X" alt="" width="500" height="262" caption="" /></a><p>denver.cbslocal.com</p><p>City Of Denver To Shut Down Civic Center Park Due To Safety, Sanitation</p><a href="https://denver.cbslocal.com/2021/09/07/denver-shut-down-civic-center-park-safety-sanitation/?utm_campaign=true_anthem&utm_medium=facebook&utm_source=social"></a>]]></content:encoded>
-      <author>Denver Action Network</author>
-      <guid>https://www.facebook.com/denverautonomous/posts/4339036602825767</guid>
-      <pubDate>Tue, 07 Sep 2021 12:44:14 -0600</pubDate>
-    </item>
-    <item>
-      <title>Emergency Protest Tomorrow, 9/4 Abortion is Health Care is a...</title>
-      <link>https://www.facebook.com/denverautonomous/posts/4327309990665095</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverautonomous/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/199289851_4084191211643642_659067739184821367_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ToHYGcp43pkAX9d2wFk&_nc_ht=scontent.fapa1-2.fna&oh=eb5c80b19884b2acdb325b300f52126b&oe=615D8A3C" alt="" /></a><a href="https://www.facebook.com/denverautonomous/">Denver Action Network</a><a href="https://www.facebook.com/denverautonomous/posts/4327309990665095"></a><i></i><p>Emergency Protest Tomorrow, 9/4</p><p> Abortion is Health Care is a Human Right </p><p> <a href="https://www.facebook.com/hashtag/denver">#denver</a> ...<br /> <a href="https://www.facebook.com/hashtag/prochoice">#prochoice</a></p> <a href="https://www.facebook.com/denverautonomous/posts/4327309990665095">See More</a><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p526x296/241117904_10219755504423527_5923595298081983226_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=b386c4&_nc_ohc=MHFftqHn1hIAX-zNhM7&_nc_ht=scontent.fapa1-2.fna&oh=a982623557fb6d16075d3dab80454cbe&oe=61603007" alt="Rochelle Brigitte's photo." width="500" height="282" caption="Rochelle Brigitte's photo." /><a href="https://www.facebook.com/events/144633584513874/"></a><p>SAT, SEP 4</p><p>Reproductive Rights Protest in Denver</p><p>Colorado State Capitol</p> · Denver281 people interested]]></content:encoded>
-      <author>Denver Action Network</author>
-      <guid>https://www.facebook.com/denverautonomous/posts/4327309990665095</guid>
-      <pubDate>Fri, 03 Sep 2021 16:56:20 -0600</pubDate>
     </item>
     <item>
       <title>Reproductive Rights Rally at Capitol Tomorrow (9/4/2021)</title>
@@ -939,15 +950,6 @@ Version: `dev.2020-02-26`</p>
       <pubDate>Wed, 01 Sep 2021 13:54:05 -0600</pubDate>
     </item>
     <item>
-      <title>Now convict these murderers  #ElijahMcClain</title>
-      <link>https://www.facebook.com/denverautonomous/posts/4320316544697773</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverautonomous/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/199289851_4084191211643642_659067739184821367_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ToHYGcp43pkAX9d2wFk&_nc_ht=scontent.fapa1-2.fna&oh=eb5c80b19884b2acdb325b300f52126b&oe=615D8A3C" alt="" /></a><a href="https://www.facebook.com/denverautonomous/">Denver Action Network</a><a href="https://www.facebook.com/denverautonomous/posts/4320316544697773"></a><i></i><p>Now convict these murderers </p><p> <a href="https://www.facebook.com/hashtag/elijahmcclain">#ElijahMcClain</a></p><a href="https://www.facebook.com/denvercommunists/photos/a.643427975747819/4347736991983547/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p526x296/240877284_4347736998650213_4996166965828610521_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=110474&_nc_ohc=jCjtNg48i1sAX-gz5ZT&_nc_oc=AQkJgAWAhMUNRZHnBrKlVmmn_r3ZenOBYNjFo-QG3qet4LSuv-O9y1Iuo5TrnvLB0bc&_nc_ht=scontent.fapa1-2.fna&oh=4b4bc88c77620edad9973fc28189810b&oe=615D7FFD" alt="May be a cartoon of 1 person" width="500" height="500" caption="May be a cartoon of 1 person" /></a><a href="https://www.facebook.com/denvercommunists/">Denver Communists</a><a href="https://www.facebook.com/denvercommunists/photos/a.643427975747819/4347736991983547/"></a><p>HOMICIDE CHARGES for Elijah McClain’s murderers were just announced! 🌈🎻🐈✊🚩 If you rioted last summer, thank you for your service!<br /> 🎨 by Leah Abucayan</p>]]></content:encoded>
-      <author>Denver Action Network</author>
-      <guid>https://www.facebook.com/denverautonomous/posts/4320316544697773</guid>
-      <pubDate>Wed, 01 Sep 2021 11:54:20 -0600</pubDate>
-    </item>
-    <item>
       <title>Grand jury issues a 32 count indictment in death of Elijah McClain</title>
       <link>https://www.reddit.com/r/DenverProtests/comments/pfxkdv/grand_jury_issues_a_32_count_indictment_in_death/</link>
       <description></description>
@@ -975,15 +977,6 @@ Version: `dev.2020-02-26`</p>
       <pubDate>Tue, 31 Aug 2021 14:15:53 -0600</pubDate>
     </item>
     <item>
-      <title>Do better, Denver</title>
-      <link>https://www.facebook.com/denverautonomous/posts/4317486548314106</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverautonomous/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/199289851_4084191211643642_659067739184821367_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ToHYGcp43pkAX9d2wFk&_nc_ht=scontent.fapa1-2.fna&oh=eb5c80b19884b2acdb325b300f52126b&oe=615D8A3C" alt="" /></a><a href="https://www.facebook.com/denverautonomous/">Denver Action Network</a><a href="https://www.facebook.com/denverautonomous/posts/4317486548314106"></a><i></i><p>Do better, Denver</p><a href="https://www.facebook.com/photo.php"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t39.30808-6/p261x260/241040055_10158702861731997_5096229252209398862_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=0be424&_nc_ohc=rdxjk4BOYCUAX95fZcA&_nc_ht=scontent.fapa1-2.fna&oh=ff8c338ff7684a413e3b89c5f5c85c31&oe=613D5CCF" alt="May be an image of one or more people, people standing and outdoors" width="261" height="392" caption="May be an image of one or more people, people standing and outdoors" /></a><a href="https://www.facebook.com/photo.php"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t39.30808-6/p261x260/240954627_10158702861906997_3158745940168414287_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=0be424&_nc_ohc=vIcQG8JulmAAX-YOCMG&_nc_ht=scontent.fapa1-1.fna&oh=3f8c605ed5c9225a16e9b2f22c944568&oe=613EC138" alt="May be an image of one or more people" width="390" height="260" caption="May be an image of one or more people" /></a><a href="https://www.facebook.com/photo.php"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t39.30808-6/p173x172/241127694_10158702861941997_6034103453851331590_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=0be424&_nc_ohc=aMhIIN_NZSIAX84m04a&_nc_ht=scontent.fapa1-2.fna&oh=5490d49f031a001826f44d55f04dba54&oe=613EDD76" alt="May be an image of 1 person, standing and outdoors" width="258" height="172" caption="May be an image of 1 person, standing and outdoors" /></a><a href="https://www.facebook.com/photo.php"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t39.30808-6/p173x172/241083726_10158702861421997_6324767411462188557_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=0be424&_nc_ohc=s1UxUxgxLSEAX9b4sbN&_nc_ht=scontent.fapa1-2.fna&oh=c78c02f2b80aaf9eb4479b1171f2fede&oe=613D2E6D" alt="May be an image of 4 people, people standing and outdoors" width="258" height="172" caption="May be an image of 4 people, people standing and outdoors" /></a><a href="https://www.facebook.com/photo.php"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t39.30808-6/p173x172/241028292_10158702861676997_7705584275774312542_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=0be424&_nc_ohc=KvfNUgYSfW4AX9_2DaN&_nc_ht=scontent.fapa1-2.fna&oh=a6881b9e4eccf02ed74a8f17bb29d32d&oe=613E743E" alt="May be an image of 1 person, standing and outdoors" width="258" height="172" caption="May be an image of 1 person, standing and outdoors" />+8</a>Daniel Sauvé added <a href="https://www.facebook.com/daniel.sauve/posts/10158702862201997">12 new photos</a> to the album: <a href="https://www.facebook.com/media/set/">Indigenous Refugee Camp sweeps</a>.<a href="https://www.facebook.com/daniel.sauve/posts/10158702862201997"></a><p>“We call our home here the Denver Indigenous Refugee Camp, because we have been rendered refugees in our own homeland,'' said WalterLee Hawkins, one of the repr...esentatives of the camp. <br /> "All we want is to be treated like human beings, and to be respected as the indigenous peoples of this land. We want a safe place to live, in peace, to get our lives together."</p><p> <a href="https://indiancountrytoday.com/the-press-pool/american-indians-in-denver-respond-to-mayor-hancocks-planned-homeless-sweep?fbclid=IwAR0nESWbUASyeJZtYeMCN-BYVFiCmHRbPVR_OCMT3zqpxB6bQzRdHYLfnSI">https://indiancountrytoday.com/…/american-indians-in-denver…</a></p> <a href="https://www.facebook.com">See More</a>]]></content:encoded>
-      <author>Denver Action Network</author>
-      <guid>https://www.facebook.com/denverautonomous/posts/4317486548314106</guid>
-      <pubDate>Tue, 31 Aug 2021 14:11:03 -0600</pubDate>
-    </item>
-    <item>
       <title>Food Not Bombs!</title>
       <link>https://www.reddit.com/r/DenverProtests/comments/pe1w5x/food_not_bombs/</link>
       <description></description>
@@ -991,15 +984,6 @@ Version: `dev.2020-02-26`</p>
       <author>r/DenverProtests</author>
       <guid>https://www.reddit.com/r/DenverProtests/comments/pe1w5x/food_not_bombs/</guid>
       <pubDate>Sun, 29 Aug 2021 13:27:43 -0600</pubDate>
-    </item>
-    <item>
-      <title>All power to the workers!! #NabiscoStrike  #colorado</title>
-      <link>https://www.facebook.com/denverautonomous/posts/4307864705942957</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverautonomous/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/199289851_4084191211643642_659067739184821367_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ToHYGcp43pkAX9d2wFk&_nc_ht=scontent.fapa1-2.fna&oh=eb5c80b19884b2acdb325b300f52126b&oe=615D8A3C" alt="" /></a><a href="https://www.facebook.com/denverautonomous/">Denver Action Network</a><a href="https://www.facebook.com/denverautonomous/posts/4307864705942957"></a><i></i><p>All power to the workers!!</p><p> <a href="https://www.facebook.com/hashtag/nabiscostrike">#NabiscoStrike</a> <br /> <a href="https://www.facebook.com/hashtag/colorado">#colorado</a></p><a href="https://www.facebook.com/denvercommunists/photos/pcb.4335357236554856/4335357036554876/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p261x260/239918237_4335357039888209_6431018126310274903_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=110474&_nc_ohc=cepcYn4fOUcAX_A7cLB&_nc_ht=scontent.fapa1-2.fna&oh=5a39bdb7ecc32171beae28a9a7591231&oe=615FE4DB" alt="May be an image of one or more people, people standing and outdoors" width="249" height="249" caption="May be an image of one or more people, people standing and outdoors" />{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-08-28T07:10:04-0700","dateModified":"2021-08-28T07:10:04-0700","identifier":"4335357036554876:9:0","headline":"Denver Communists added a new photo. - Denver Communists","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":6},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":1},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":11361}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Denver Communists","identifier":233199663437321,"url":"https:\/\/www.facebook.com\/denvercommunists\/","image":"https:\/\/scontent.fapa1-1.fna.fbcdn.net\/v\/t1.6435-1\/58676729_2203377703086164_4674657957042978816_n.png?_nc_cat=110&ccb=1-5&_nc_sid=a12de3&_nc_ohc=lPywwvvXLNIAX8paFK_&_nc_ht=scontent.fapa1-1.fna&oh=659a25dca17c32aa918eec0abb44984e&oe=615F2919","sameAs":"denvercommunists.org","foundingDate":"2012-02-18T09:16:01-0800"},"image":[{"\u0040type":"ImageObject","width":960,"contentUrl":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-9\/p960x960\/239918237_4335357039888209_6431018126310274903_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=110474&_nc_ohc=cepcYn4fOUcAX_A7cLB&_nc_ht=scontent.fapa1-2.fna&oh=6f1549c0a6bb8929de4f10101413f498&oe=616058E6","caption":""}]}</a><a href="https://www.facebook.com/denvercommunists/photos/pcb.4335357236554856/4335357059888207/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-9/p261x260/239726161_4335357076554872_6002793045186656784_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=110474&_nc_ohc=Dlt0n19vdPoAX_z5c71&_nc_ht=scontent.fapa1-1.fna&oh=84b67f5fef2b2011c64a27cfe600c933&oe=616071A3" alt="May be an image of 1 person, standing, outdoors and text that says 'Donve nists Labor is emtitled to all Creafes no contracts no snacks! DENVER COMMUNISTS SUPPORT NABISCOWORKERS! NABISCO WORKERS!'" width="249" height="249" caption="May be an image of 1 person, standing, outdoors and text that says 'Donve nists Labor is emtitled to all Creafes no contracts no snacks! DENVER COMMUNISTS SUPPORT NABISCOWORKERS! NABISCO WORKERS!'" />{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-08-28T07:10:04-0700","dateModified":"2021-08-28T07:10:04-0700","identifier":"4335357059888207:9:0","url":"https:\/\/www.facebook.com\/denvercommunists\/photos\/a.643427975747819\/4335357059888207\/?type=3","isPartOf":"https:\/\/www.facebook.com\/denvercommunists\/","headline":"Denver Communists added a new photo. - Denver Communists","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":5},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":1},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":11361}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Denver Communists","identifier":233199663437321,"url":"https:\/\/www.facebook.com\/denvercommunists\/","image":"https:\/\/scontent.fapa1-1.fna.fbcdn.net\/v\/t1.6435-1\/58676729_2203377703086164_4674657957042978816_n.png?_nc_cat=110&ccb=1-5&_nc_sid=a12de3&_nc_ohc=lPywwvvXLNIAX8paFK_&_nc_ht=scontent.fapa1-1.fna&oh=659a25dca17c32aa918eec0abb44984e&oe=615F2919","sameAs":"denvercommunists.org","foundingDate":"2012-02-18T09:16:01-0800"},"image":[{"\u0040type":"ImageObject","width":960,"contentUrl":"https:\/\/scontent.fapa1-1.fna.fbcdn.net\/v\/t1.6435-9\/p960x960\/239726161_4335357076554872_6002793045186656784_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=110474&_nc_ohc=Dlt0n19vdPoAX_z5c71&_nc_ht=scontent.fapa1-1.fna&oh=59cef38f8c81ab040fcf4135c221d7b5&oe=61608B9E","caption":""}]}</a><a href="https://www.facebook.com/denvercommunists/photos/pcb.4335357236554856/4335357093221537/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p261x260/240785314_4335357099888203_401193077021511422_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=110474&_nc_ohc=lexZbi9cFxIAX9Yn3hN&_nc_ht=scontent.fapa1-2.fna&oh=f8ec9cb59240b582739b761e6b936120&oe=615E39BE" alt="May be an image of one or more people, people standing and outdoors" width="249" height="249" caption="May be an image of one or more people, people standing and outdoors" />{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-08-28T07:10:04-0700","dateModified":"2021-08-28T07:10:04-0700","identifier":"4335357093221537:9:0","headline":"Denver Communists added a new photo. - Denver Communists","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":11361}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Denver Communists","identifier":233199663437321,"url":"https:\/\/www.facebook.com\/denvercommunists\/","image":"https:\/\/scontent.fapa1-1.fna.fbcdn.net\/v\/t1.6435-1\/58676729_2203377703086164_4674657957042978816_n.png?_nc_cat=110&ccb=1-5&_nc_sid=a12de3&_nc_ohc=lPywwvvXLNIAX8paFK_&_nc_ht=scontent.fapa1-1.fna&oh=659a25dca17c32aa918eec0abb44984e&oe=615F2919","sameAs":"denvercommunists.org","foundingDate":"2012-02-18T09:16:01-0800"},"image":[{"\u0040type":"ImageObject","width":960,"contentUrl":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-9\/p960x960\/240785314_4335357099888203_401193077021511422_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=110474&_nc_ohc=lexZbi9cFxIAX9Yn3hN&_nc_ht=scontent.fapa1-2.fna&oh=c235a8036ad55c2c9fae4c830c4b99c2&oe=615D7832","caption":""}]}</a><a href="https://www.facebook.com/denvercommunists/photos/pcb.4335357236554856/4335357066554873/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p261x260/240803021_4335357083221538_2178885904347595789_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=110474&_nc_ohc=qM0_iLdRvmEAX-AWapA&_nc_oc=AQm90i7mJUKWcFlTWVs85Li0J0mkk3L9az5bwzD-RX5JcJumHIBRz0ReZNDpWsS3SUs&_nc_ht=scontent.fapa1-2.fna&oh=9f942a5cbbaa8fce25d8676e247f2ba7&oe=6160A771" alt="May be an image of 2 people, people standing and outdoors" width="249" height="249" caption="May be an image of 2 people, people standing and outdoors" />{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-08-28T07:10:04-0700","dateModified":"2021-08-28T07:10:04-0700","identifier":"4335357066554873:9:0","headline":"Denver Communists added a new photo. - Denver Communists","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":4},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":11361}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Denver Communists","identifier":233199663437321,"url":"https:\/\/www.facebook.com\/denvercommunists\/","image":"https:\/\/scontent.fapa1-1.fna.fbcdn.net\/v\/t1.6435-1\/58676729_2203377703086164_4674657957042978816_n.png?_nc_cat=110&ccb=1-5&_nc_sid=a12de3&_nc_ohc=lPywwvvXLNIAX8paFK_&_nc_ht=scontent.fapa1-1.fna&oh=659a25dca17c32aa918eec0abb44984e&oe=615F2919","sameAs":"denvercommunists.org","foundingDate":"2012-02-18T09:16:01-0800"},"image":[{"\u0040type":"ImageObject","width":960,"contentUrl":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-9\/p960x960\/240803021_4335357083221538_2178885904347595789_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=110474&_nc_ohc=qM0_iLdRvmEAX-AWapA&_nc_oc=AQm90i7mJUKWcFlTWVs85Li0J0mkk3L9az5bwzD-RX5JcJumHIBRz0ReZNDpWsS3SUs&_nc_ht=scontent.fapa1-2.fna&oh=e8d11cca3f0393b7a3e38ae1d9716068&oe=61600B50","caption":""}]}</a><a href="https://www.facebook.com/denvercommunists/">Denver Communists</a><a href="https://www.facebook.com/denvercommunists/posts/4335357236554856"></a><p>The strike on Nabisco continues in five states! Fifty formed two picket lines at the distribution center in Aurora yesterday in solidarity with <a href="https://www.facebook.com/BCTGM/">BCTGM Internatio...nal Union</a> Local 26. We prevented scab delivery trucks from getting in or out—without confrontation (they didn’t even try). Ten workers from this shop have now crossed the line, one of whom subsequently quit, apparently out of shame. Eighteen remain on strike and committed to winning! 🚫🍪💪</p><p> More here: <a href="https://www.washingtonpost.com/business/2021/08/25/nabisco-strike/">https://www.washingtonpost.com/business/…/25/nabisco-strike/</a></p> <a href="https://www.facebook.com">See More</a>]]></content:encoded>
-      <author>Denver Action Network</author>
-      <guid>https://www.facebook.com/denverautonomous/posts/4307864705942957</guid>
-      <pubDate>Sat, 28 Aug 2021 09:00:01 -0600</pubDate>
     </item>
     <item>
       <title>**Emergency Action** Congress-Act Now to Stop Evictions! Tonight (8/27) at 5:30</title>
@@ -1011,15 +995,6 @@ Version: `dev.2020-02-26`</p>
       <pubDate>Fri, 27 Aug 2021 13:08:46 -0600</pubDate>
     </item>
     <item>
-      <title>Today, 8/27 Support this student-led action against the...</title>
-      <link>https://www.facebook.com/denverautonomous/photos/a.907813385948123/4304488629613898/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverautonomous/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/199289851_4084191211643642_659067739184821367_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ToHYGcp43pkAX9d2wFk&_nc_ht=scontent.fapa1-2.fna&oh=eb5c80b19884b2acdb325b300f52126b&oe=615D8A3C" alt="" /></a><a href="https://www.facebook.com/denverautonomous/">Denver Action Network</a><a href="https://www.facebook.com/denverautonomous/photos/a.907813385948123/4304488629613898/"></a><i></i><p>Today, 8/27</p><p> Support this student-led action against the discriminatory, homophobic staff at Valor High Scool! 🏳️‍🌈</p><p> *please share for visibility*</p>...<p> <a href="https://www.facebook.com/hashtag/highlandsranchcolorado">#highlandsranchcolorado</a> <br /> <a href="https://www.facebook.com/hashtag/valorhighschool">#valorhighschool</a> <br /> <a href="https://www.facebook.com/hashtag/colorado">#colorado</a></p> <a href="https://www.facebook.com/denverautonomous/posts/4304488722947222">See More</a><a href="https://www.facebook.com/denverautonomous/photos/a.907813385948123/4304488629613898/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t39.30808-6/p526x296/240855119_4304488639613897_8283787154695865674_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=110474&_nc_ohc=3-hVI4yAPocAX_QKTKJ&_nc_ht=scontent.fapa1-1.fna&oh=2cb1cb57fcf056cddfa2d84a12c97af1&oe=613E5639" alt="May be an image of text that says 'Direct Action Alert Supporting the students' peaceful protest of Valor high school's homophobic policies and mistreatment of LGBTQ students & staff 3:15pm Friday, Aug 27th Sidewalk of Grace blvd. Highlands Ranch In front of Valor Campus View facebook event for details on how to help and donate. &#064;ValorStudentsForChange'" width="500" height="282" caption="May be an image of text that says 'Direct Action Alert Supporting the students' peaceful protest of Valor high school's homophobic policies and mistreatment of LGBTQ students & staff 3:15pm Friday, Aug 27th Sidewalk of Grace blvd. Highlands Ranch In front of Valor Campus View facebook event for details on how to help and donate. &#064;ValorStudentsForChange'" /></a>]]></content:encoded>
-      <author>Denver Action Network</author>
-      <guid>https://www.facebook.com/denverautonomous/photos/a.907813385948123/4304488629613898/</guid>
-      <pubDate>Fri, 27 Aug 2021 07:02:50 -0600</pubDate>
-    </item>
-    <item>
       <title>Loveland PD can go to hell.</title>
       <link>https://www.reddit.com/r/DenverProtests/comments/pbr6jy/loveland_pd_can_go_to_hell/</link>
       <description></description>
@@ -1027,24 +1002,6 @@ Version: `dev.2020-02-26`</p>
       <author>r/DenverProtests</author>
       <guid>https://www.reddit.com/r/DenverProtests/comments/pbr6jy/loveland_pd_can_go_to_hell/</guid>
       <pubDate>Wed, 25 Aug 2021 21:22:36 -0600</pubDate>
-    </item>
-    <item>
-      <title>Demand that Mayor Michael B. Hancock end the sweeps! #denver ...</title>
-      <link>https://www.facebook.com/denverautonomous/posts/4296239527105475</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverautonomous/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/199289851_4084191211643642_659067739184821367_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ToHYGcp43pkAX9d2wFk&_nc_ht=scontent.fapa1-2.fna&oh=eb5c80b19884b2acdb325b300f52126b&oe=615D8A3C" alt="" /></a><a href="https://www.facebook.com/denverautonomous/">Denver Action Network</a><a href="https://www.facebook.com/denverautonomous/posts/4296239527105475"></a><i></i><p>Demand that Mayor <a href="https://www.facebook.com/5280mayor/">Michael B. Hancock</a> end the sweeps!</p><p> <a href="https://www.facebook.com/hashtag/denver">#denver</a> <br /> <a href="https://www.facebook.com/hashtag/housingisahumanright">#HousingIsAHumanRight</a></p><a href="https://www.facebook.com/fourwindsamericanindiancouncil/photos/a.1566549090229462/3172815186269503/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t39.30808-6/p526x296/240589669_3172815196269502_7565939944505865380_n.png?_nc_cat=109&ccb=1-5&_nc_sid=8024bb&_nc_ohc=95CHKQQwxo8AX_RzKQ9&_nc_ht=scontent.fapa1-2.fna&oh=6c9a44a4d46b7598979015a7e9a0cf47&oe=613E73F5" alt="May be an image of text that says 'Urgent: Community Support Needed! Mayor Hancock is threatening to remove houseless Native Americans from a camp in their homelands in Denver. Tell the Mayor and the City to provide safe and stable housing and outdoor camping space for our relatives!! Go to bit.ly/SafeOutdoorSpaceor or call 720-865-9000'" width="500" height="420" caption="May be an image of text that says 'Urgent: Community Support Needed! Mayor Hancock is threatening to remove houseless Native Americans from a camp in their homelands in Denver. Tell the Mayor and the City to provide safe and stable housing and outdoor camping space for our relatives!! Go to bit.ly/SafeOutdoorSpaceor or call 720-865-9000'" /></a><a href="https://www.facebook.com/fourwindsamericanindiancouncil/">Four Winds American Indian Council</a><a href="https://www.facebook.com/fourwindsamericanindiancouncil/photos/a.1566549090229462/3172815186269503/"></a><p>📢URGENT REQUEST FOR COMMUNITY SUPPORT📢 - Mayor Hancock is threatening to remove unhoused Native Americans from camping in their homelands in Denver. Tell the Ma...yor to stop the violence and provide safe and stable housing and outdoor camping space for our relatives!! Click here to TAKE ACTION today: <a href="https://bit.ly/SafeOutdoorSpace">bit.ly/SafeOutdoorSpace</a> </p><p> Here's some background: </p><p> A community of unhoused Native people have set up camp outside of the Four Winds building at 5th & Bannock. The City reached out and Four Winds organized a meeting between the City and our relatives last Tuesday. </p><p> Despite the City's promises that the camp would be protected in the near future from a sweep and that they would share the camp's demands for a Native Safe Outdoor Space and better housing solutions with city leaders, we have now learned that the camp is due to be posted this week and swept next week. The City has not taken action on the proposed solutions the camp provided, and has offered no solutions of their own for our relatives camped here, they just want them gone. </p><p> Just this past Friday, DPD went to the camp and only gave citations to Native people who were camping, and arrested one of our brothers during morning ceremony. In the process of arresting him, they damaged, disrespected, and confiscated his eagle feathers and destroyed his camp and others' camps. </p><p> For those of you who have been tracking the ongoing violence against unhoused people in Denver, this is nothing new. The City doesn't have a solution, and clearly the only thing they have the will to do is criminalize and abuse people who have nowhere else to go. </p><p> We need our community and our partners to take action now, and make it clear to the Mayor and the City that this can't continue--they need to put time and resources into actually addressing this issue, especially for the Native community since our people are the most overrepresented group in Denver's homeless population.</p> <a href="https://www.facebook.com">See More</a>]]></content:encoded>
-      <author>Denver Action Network</author>
-      <guid>https://www.facebook.com/denverautonomous/posts/4296239527105475</guid>
-      <pubDate>Tue, 24 Aug 2021 14:39:11 -0600</pubDate>
-    </item>
-    <item>
-      <title>Community Support Needed! Please read the statement below,...</title>
-      <link>https://www.facebook.com/denverautonomous/photos/a.907813385948123/4292886934107401/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverautonomous/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/199289851_4084191211643642_659067739184821367_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ToHYGcp43pkAX9d2wFk&_nc_ht=scontent.fapa1-2.fna&oh=eb5c80b19884b2acdb325b300f52126b&oe=615D8A3C" alt="" /></a><a href="https://www.facebook.com/denverautonomous/">Denver Action Network</a><a href="https://www.facebook.com/denverautonomous/photos/a.907813385948123/4292886934107401/"></a><i></i><p>Community Support Needed! Please read the statement below, donate, and share widely for visibility ✊</p><p> "Well, it's official: The City of Denver stole our car 😑</p><p> Our poor Mazda3 (aka The Grey Lady) has been repossessed and sent to an auction house, with the city attorney telling the bank that we are PROHIBITED from buying it back or having it released to us.</p>...<p> Our car was taken after our arrest at Denver Pride on June 26th and the expenses are piling up. Please share our fundraiser around your networks & feel free to copy/paste this message.</p><p> Your support and solidarity mean a lot" ❤🏳️‍🌈 </p><p> Venmo: &#064;ArrestedAtDenverPride</p> <a href="https://www.facebook.com/denverautonomous/posts/4292886970774064">See More</a><a href="https://www.facebook.com/denverautonomous/photos/a.907813385948123/4292886934107401/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t39.30808-6/p526x296/240628966_4292886940774067_7435089585044999048_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=110474&_nc_ohc=loRyra8Pyv4AX91HJ98&_nc_ht=scontent.fapa1-1.fna&oh=2fce84bfc7504cfb8e743e7d36db9d76&oe=613D9AD1" alt="May be an image of text that says 'The City of Denver Stole Our Car! AB f Venmo: &#064;ArrestedAtDenverPride Please Donate & Share'" width="500" height="492" caption="May be an image of text that says 'The City of Denver Stole Our Car! AB f Venmo: &#064;ArrestedAtDenverPride Please Donate & Share'" /></a>]]></content:encoded>
-      <author>Denver Action Network</author>
-      <guid>https://www.facebook.com/denverautonomous/photos/a.907813385948123/4292886934107401/</guid>
-      <pubDate>Mon, 23 Aug 2021 12:48:53 -0600</pubDate>
     </item>
     <item>
       <title>President of the COFOP Stole License Plates</title>
@@ -1101,33 +1058,6 @@ Version: `dev.2020-02-26`</p>
       <pubDate>Thu, 19 Aug 2021 23:25:36 -0600</pubDate>
     </item>
     <item>
-      <title>Today, 8/19/21 #Afghanistan  #denver  #solidarity</title>
-      <link>https://www.facebook.com/denverautonomous/photos/a.907813385948123/4280122742050487/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverautonomous/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/199289851_4084191211643642_659067739184821367_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ToHYGcp43pkAX9d2wFk&_nc_ht=scontent.fapa1-2.fna&oh=eb5c80b19884b2acdb325b300f52126b&oe=615D8A3C" alt="" /></a><a href="https://www.facebook.com/denverautonomous/">Denver Action Network</a><a href="https://www.facebook.com/denverautonomous/photos/a.907813385948123/4280122742050487/"></a><i></i><p>Today, 8/19/21</p><p> <a href="https://www.facebook.com/hashtag/afghanistan">#Afghanistan</a> <br /> <a href="https://www.facebook.com/hashtag/denver">#denver</a> <br /> <a href="https://www.facebook.com/hashtag/solidarity">#solidarity</a></p><a href="https://www.facebook.com/denverautonomous/photos/a.907813385948123/4280122742050487/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t39.30808-6/p526x296/239067119_4280122748717153_4683145694746586204_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=110474&_nc_ohc=-s1shaHt16oAX-tdaP2&_nc_ht=scontent.fapa1-1.fna&oh=e14bbab38fc64858c1600e64205c188c&oe=613DDE8F" alt="May be an image of text that says 'Emergency Protest Gather at August 19, 2021 PM for rally followed by a march. Colorado State Capitol 200 E Colfax Ave. Denver, CO 80203 WE MARCH ON AFGHANISTAN'S NATIONAL DAY OF INDEPENDENCE BY DEMANDING AN END TO PROXY WARS FORCED DISPLACEMENTS AND THE RECENT TERRORS UNLEASHED UPON AFGHANISTAN. Masks and carpooling encouraged. Parking available along Lincoln Ave & Sherman St. Contact: ct:Zmhashemo209&#064;gmail.com'" width="500" height="500" caption="May be an image of text that says 'Emergency Protest Gather at August 19, 2021 PM for rally followed by a march. Colorado State Capitol 200 E Colfax Ave. Denver, CO 80203 WE MARCH ON AFGHANISTAN'S NATIONAL DAY OF INDEPENDENCE BY DEMANDING AN END TO PROXY WARS FORCED DISPLACEMENTS AND THE RECENT TERRORS UNLEASHED UPON AFGHANISTAN. Masks and carpooling encouraged. Parking available along Lincoln Ave & Sherman St. Contact: ct:Zmhashemo209&#064;gmail.com'" /></a>]]></content:encoded>
-      <author>Denver Action Network</author>
-      <guid>https://www.facebook.com/denverautonomous/photos/a.907813385948123/4280122742050487/</guid>
-      <pubDate>Thu, 19 Aug 2021 06:57:18 -0600</pubDate>
-    </item>
-    <item>
-      <title>Get vaccine shots &amp; tacos today at Redline! ¡Obtenga...</title>
-      <link>https://www.facebook.com/denverautonomous/posts/4273998469329581</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverautonomous/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/199289851_4084191211643642_659067739184821367_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ToHYGcp43pkAX9d2wFk&_nc_ht=scontent.fapa1-2.fna&oh=eb5c80b19884b2acdb325b300f52126b&oe=615D8A3C" alt="" /></a><a href="https://www.facebook.com/denverautonomous/">Denver Action Network</a><a href="https://www.facebook.com/denverautonomous/posts/4273998469329581"></a><i></i><p>Get vaccine shots & tacos today at Redline!</p><p> ¡Obtenga vacunas & tacos hoy en Redline!</p><p> <a href="https://www.facebook.com/hashtag/getvaxxed">#getvaxxed</a> ...<br /> <a href="https://www.facebook.com/hashtag/denver">#denver</a></p> <a href="https://www.facebook.com/denverautonomous/posts/4273998469329581">See More</a><img src="https://external.fapa1-2.fna.fbcdn.net/safe_image.php?d=AQGH891xj7-m3HiM&w=500&h=500&url=https%3A%2F%2Fscontent.cdninstagram.com%2Fv%2Ft51.29350-15%2F237391358_4426784457384618_6108942529251216306_n.jpg%3F_nc_cat%3D110%26ccb%3D1-5%26_nc_sid%3D8ae9d6%26_nc_ohc%3Dwg3qiwV988wAX8ON3DR%26_nc_ht%3Dscontent.cdninstagram.com%26oh%3Dbb591516cd3c30636b97fad3db15a13f%26oe%3D613EF5BE&_nc_oe=6ea50&_nc_sid=62b3ef&ccb=3-5&_nc_hash=AQETj_4i26FqQEmE" alt="" width="500" height="500" /><a href="https://www.instagram.com/p/CSpeHBdl8IB/?utm_source=ig_web_copy_link"></a>Free tacos and vaccines tomorrow 1-5pm &#064;redlinedenver. Thank you &#064;denverhealthmedical &#064;reachstudiodenver &#064;cherish.marquez and #coloradocrossdisabilitycoaliti &#064;atlantiscommunityinc and #donniebetts and #nocreditproductions for your collaboration !!!❤️💙💜<img src="https://static.xx.fbcdn.net/rsrc.php/v3/yY/r/PfjFTePTXwO.png" alt="" width="16" height="16" />via Instagram]]></content:encoded>
-      <author>Denver Action Network</author>
-      <guid>https://www.facebook.com/denverautonomous/posts/4273998469329581</guid>
-      <pubDate>Tue, 17 Aug 2021 07:28:22 -0600</pubDate>
-    </item>
-    <item>
-      <title>Another person arrested at Denver Pride in June needs our...</title>
-      <link>https://www.facebook.com/denverautonomous/posts/4270923766303718</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverautonomous/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/199289851_4084191211643642_659067739184821367_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ToHYGcp43pkAX9d2wFk&_nc_ht=scontent.fapa1-2.fna&oh=eb5c80b19884b2acdb325b300f52126b&oe=615D8A3C" alt="" /></a><a href="https://www.facebook.com/denverautonomous/">Denver Action Network</a><a href="https://www.facebook.com/denverautonomous/posts/4270923766303718"></a><i></i><p>Another person arrested at Denver Pride in June needs our support</p><p> Please share & donate, if possible</p><p> Venmo: &#064;nopoliceatpride</p><a href="https://www.facebook.com/denvercommunists/photos/a.643427975747819/4299268813497032/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p526x296/237037308_4299268823497031_5737415879887928442_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=110474&_nc_ohc=mPV-g55dBU4AX8a4nBs&_nc_ht=scontent.fapa1-2.fna&oh=c50ad43972c3c645d80247dafb6346f1&oe=615DF1E7" alt="May be an image of one or more people and text that says 'DENVER 18011 POLICE v venmo Kuwasi Balagoon &#064;nopoliceatpride'" width="500" height="500" caption="May be an image of one or more people and text that says 'DENVER 18011 POLICE v venmo Kuwasi Balagoon &#064;nopoliceatpride'" /></a><a href="https://www.facebook.com/denvercommunists/">Denver Communists</a><a href="https://www.facebook.com/denvercommunists/photos/a.643427975747819/4299268813497032/"></a><p>🌈😼🏳️‍⚧️ Help our queer and trans comrade arrested At Denver Pride!</p><p> Please help us raise funds for legal defense of our friend and comrade who was violently arre...sted by Denver Police while leaving a Pride event on June 26, 2021.</p><p> While getting a ride home with friends, the car they where in was forced off the road by police cruisers and surrounded by cops with guns drawn. The cops broke into the car, dragged them out, and aggressively arrested them. Cops slammed put comrade against a police cruiser repeatedly, causing injuries to their knees, chest, and wrist. While this was happening other officers smashed out the windows of the car and pulled those remaining in the car out through the broken glass, causing them injury too.</p><p> This comrade has been an activist in Denver for a long time. They've worked as a street medic, built various community gardens around the city, and participated in several different mutual aid projects over the past decade. We’ve worked together closely for years, organizing anti-racist and anti-police protests. They are also still recovering from being brutally stabbed two years ago while removing fascist graffiti.</p><p> They are now facing felony criminal charges from this arrest and need money for an attorney and court costs. Please Venmo them directly &#064;nopoliceatpride</p><p> Please share widely to maximize fundraising efforts. All money not used will be redistributed to other legal funds in the community. Much Love and Solidarity!</p> <a href="https://www.facebook.com">See More</a>]]></content:encoded>
-      <author>Denver Action Network</author>
-      <guid>https://www.facebook.com/denverautonomous/posts/4270923766303718</guid>
-      <pubDate>Mon, 16 Aug 2021 07:46:02 -0600</pubDate>
-    </item>
-    <item>
       <title>Bakers on STRIKE!</title>
       <link>https://www.reddit.com/r/DenverProtests/comments/p35fiz/bakers_on_strike/</link>
       <description></description>
@@ -1155,15 +1085,6 @@ Version: `dev.2020-02-26`</p>
       <pubDate>Mon, 09 Aug 2021 14:44:02 -0600</pubDate>
     </item>
     <item>
-      <title>Sue the kops out of existence</title>
-      <link>https://www.facebook.com/denverautonomous/posts/4232745080121587</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverautonomous/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/199289851_4084191211643642_659067739184821367_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ToHYGcp43pkAX9d2wFk&_nc_ht=scontent.fapa1-2.fna&oh=eb5c80b19884b2acdb325b300f52126b&oe=615D8A3C" alt="" /></a><a href="https://www.facebook.com/denverautonomous/">Denver Action Network</a><a href="https://www.facebook.com/denverautonomous/posts/4232745080121587"></a><i></i><p>Sue the kops out of existence</p><a href="https://www.facebook.com/antirepressioncolorado/photos/a.106719844494581/335068354993061/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p526x296/224734684_335068368326393_8003610283105226079_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=110474&_nc_ohc=qrQfd_LrRggAX-J_3-_&_nc_ht=scontent.fapa1-2.fna&oh=5976840cf6cfa926f7d79196a447af4b&oe=615EE714" alt="No photo description available." width="500" height="667" caption="No photo description available." /></a><a href="https://www.facebook.com/antirepressioncolorado/">Anti-Repression Colorado</a><a href="https://www.facebook.com/antirepressioncolorado/photos/a.106719844494581/335068354993061/"></a><p>If you were arrested for violation of the emergency curfew in Denver from May 30th through June 5th, 2020- your legal rights are affected:</p><p> More info on the lawsuit: <a href="https://loevy.com/police-misconduct/denver-protest-class-action-lawsuit/">https://loevy.com/poli…/denver-protest-class-action-lawsuit/</a></p><p> Let's get that bread! 🍞⚖️👩‍⚖️</p>]]></content:encoded>
-      <author>Denver Action Network</author>
-      <guid>https://www.facebook.com/denverautonomous/posts/4232745080121587</guid>
-      <pubDate>Tue, 03 Aug 2021 13:11:33 -0600</pubDate>
-    </item>
-    <item>
       <title>The tide turns for Tay Anderson, but will the left learn not to be too quick to judgment? Denver school board member has been cyber-bullied, even after his anonymous accuser recanted her claims of sexual assault</title>
       <link>https://www.reddit.com/r/DenverProtests/comments/owlmzy/the_tide_turns_for_tay_anderson_but_will_the_left/</link>
       <description></description>
@@ -1171,15 +1092,6 @@ Version: `dev.2020-02-26`</p>
       <author>r/DenverProtests</author>
       <guid>https://www.reddit.com/r/DenverProtests/comments/owlmzy/the_tide_turns_for_tay_anderson_but_will_the_left/</guid>
       <pubDate>Mon, 02 Aug 2021 13:16:50 -0600</pubDate>
-    </item>
-    <item>
-      <title>Racketeering &amp; blackmail are just some of DPD&#39;s gang...</title>
-      <link>https://www.facebook.com/denverautonomous/posts/4226752600720835</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverautonomous/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/199289851_4084191211643642_659067739184821367_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ToHYGcp43pkAX9d2wFk&_nc_ht=scontent.fapa1-2.fna&oh=eb5c80b19884b2acdb325b300f52126b&oe=615D8A3C" alt="" /></a><a href="https://www.facebook.com/denverautonomous/">Denver Action Network</a><a href="https://www.facebook.com/denverautonomous/posts/4226752600720835"></a><i></i><p>Racketeering & blackmail are just some of DPD's gang activities</p><p> Venmo: &#064;ArrestedAtDenverPride</p><a href="https://www.facebook.com/denvercommunists/photos/a.301562056601081/4255448867879027/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p526x296/228404273_4255448871212360_5977745007753650351_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8024bb&_nc_ohc=1KDHh97bX2oAX9s7MqF&_nc_ht=scontent.fapa1-2.fna&oh=51d853b80278dd17d87822fbf5d24eeb&oe=61606A36" alt="May be an image of car and text that says 'Venmo: &#064;ArrestedAtDenverPride DPD damaged & impounded this car on 6/26 & still have not released it CUH-017'" width="500" height="500" caption="May be an image of car and text that says 'Venmo: &#064;ArrestedAtDenverPride DPD damaged & impounded this car on 6/26 & still have not released it CUH-017'" /></a><a href="https://www.facebook.com/denvercommunists/">Denver Communists</a><a href="https://www.facebook.com/denvercommunists/photos/a.301562056601081/4255448867879027/"></a><p>Over a month after they smashed its windows and impounded it, Denver Police are *still* holding our comrades’ car captive “on investigative hold.” The costs of ...getting around without a car and the pricetag on eventually getting it out of impound continue to mount. If you can afford to send a couple bucks their way, they would be most grateful! 🌈 Venmo &#064;ArrestedAtDenverPride</p> <a href="https://www.facebook.com">See More</a>]]></content:encoded>
-      <author>Denver Action Network</author>
-      <guid>https://www.facebook.com/denverautonomous/posts/4226752600720835</guid>
-      <pubDate>Sun, 01 Aug 2021 11:15:21 -0600</pubDate>
     </item>
     <item>
       <title>A week after his administration caved to big business and killed a proposal to reduce commuting traffic, @GovofCO takes to Facebook with a clear message: Air pollution is your problem to fix.</title>
@@ -1200,15 +1112,6 @@ Version: `dev.2020-02-26`</p>
       <pubDate>Fri, 30 Jul 2021 13:37:55 -0600</pubDate>
     </item>
     <item>
-      <title>Hey Denver: The best Action you can take for our Network is to...</title>
-      <link>https://www.facebook.com/denverautonomous/posts/4218188678243894</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverautonomous/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/199289851_4084191211643642_659067739184821367_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ToHYGcp43pkAX9d2wFk&_nc_ht=scontent.fapa1-2.fna&oh=eb5c80b19884b2acdb325b300f52126b&oe=615D8A3C" alt="" /></a><a href="https://www.facebook.com/denverautonomous/">Denver Action Network</a><a href="https://www.facebook.com/denverautonomous/posts/4218188678243894"></a><i></i><p>Hey Denver:</p><p> The best Action you can take for our Network is to get the damn vaccine and wear your damn mask. Have a lovely weekend! - Admin</p><a href="https://media1.tenor.co/images/4f13d3143421f95b44628298564b853e/tenor.gif?itemid=17292192"><img src="https://external.fapa1-2.fna.fbcdn.net/safe_image.php?d=AQH-S86a0USm0koB&w=540&h=282&url=https%3A%2F%2Fmedia1.tenor.co%2Fimages%2F4f13d3143421f95b44628298564b853e%2Ftenor.gif%3Fitemid%3D17292192&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_oe=6ea50&_nc_sid=632586&ccb=3-5&_nc_hash=AQGxlZxRS7vN54jX" alt="" width="500" height="262" caption="" /></a><p>media1.tenor.co</p><p>media1.tenor.co</p><a href="https://media1.tenor.co/images/4f13d3143421f95b44628298564b853e/tenor.gif?itemid=17292192"></a>]]></content:encoded>
-      <author>Denver Action Network</author>
-      <guid>https://www.facebook.com/denverautonomous/posts/4218188678243894</guid>
-      <pubDate>Thu, 29 Jul 2021 12:22:18 -0600</pubDate>
-    </item>
-    <item>
       <title>Police Are Using A Gunshot Detection Program to Fabricate Gunshots — Promethean</title>
       <link>https://www.reddit.com/r/DenverProtests/comments/osx4ll/police_are_using_a_gunshot_detection_program_to/</link>
       <description></description>
@@ -1225,51 +1128,6 @@ Version: `dev.2020-02-26`</p>
       <author>r/DenverProtests</author>
       <guid>https://www.reddit.com/r/DenverProtests/comments/osuvnd/aurora_police_officer_beat_man_with_pistol/</guid>
       <pubDate>Tue, 27 Jul 2021 14:47:54 -0600</pubDate>
-    </item>
-    <item>
-      <title>Sunday 7/25 #FreeAllPrisoners</title>
-      <link>https://www.facebook.com/denverautonomous/posts/4197133777016051</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverautonomous/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/199289851_4084191211643642_659067739184821367_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ToHYGcp43pkAX9d2wFk&_nc_ht=scontent.fapa1-2.fna&oh=eb5c80b19884b2acdb325b300f52126b&oe=615D8A3C" alt="" /></a><a href="https://www.facebook.com/denverautonomous/">Denver Action Network</a><a href="https://www.facebook.com/denverautonomous/posts/4197133777016051"></a><i></i><p>Sunday 7/25</p><p> <a href="https://www.facebook.com/hashtag/freeallprisoners">#FreeAllPrisoners</a></p><a href="https://www.facebook.com/frontrangecommunitydefense/photos/a.121509822982803/367716808362102/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-9/p526x296/218488090_367716811695435_1568287139197117235_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=110474&_nc_ohc=IAO83JiVWAQAX-tQAFW&_nc_ht=scontent.fapa1-1.fna&oh=94bf32113db08dd4cd8d658ec3d6bfb9&oe=615E98B1" alt="May be an image of text that says 'SOLIDARITY WITH ANTIFA PRISONERS july 25th is the the annual international day of solidarity with antifascist prisoners. join torch in letting them know that they are not alone by wr&#xed;ting them letters and engaging in direct action. info about antifa prisoners can be found at torchantifa.org. they're in there for us we're out here for them'" width="500" height="500" caption="May be an image of text that says 'SOLIDARITY WITH ANTIFA PRISONERS july 25th is the the annual international day of solidarity with antifascist prisoners. join torch in letting them know that they are not alone by wr&#xed;ting them letters and engaging in direct action. info about antifa prisoners can be found at torchantifa.org. they're in there for us we're out here for them'" /></a><a href="https://www.facebook.com/frontrangecommunitydefense/">Front Range Community Defense Collective</a><a href="https://www.facebook.com/frontrangecommunitydefense/photos/a.121509822982803/367716808362102/"></a><p>Join us with <a href="https://www.facebook.com/pages/Torch-Antifa/399130867168838">Torch Antifa</a> on <a href="https://www.facebook.com/hashtag/july25">#July25</a> in letting antifascist prisoners know they're not alone!</p><p> Learn more and get involved here:  <a href="http://SupportAntifaPrisoners.wordpress.com/">SupportAntifaPrisoners.wordpress.com</a><br /> ↙️↙️↙️ <a href="https://TorchAntifa.org/">TorchAntifa.org</a></p>]]></content:encoded>
-      <author>Denver Action Network</author>
-      <guid>https://www.facebook.com/denverautonomous/posts/4197133777016051</guid>
-      <pubDate>Thu, 22 Jul 2021 09:56:03 -0600</pubDate>
-    </item>
-    <item>
-      <title>#FreePalestine</title>
-      <link>https://www.facebook.com/denverautonomous/posts/4195282230534539</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverautonomous/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/199289851_4084191211643642_659067739184821367_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ToHYGcp43pkAX9d2wFk&_nc_ht=scontent.fapa1-2.fna&oh=eb5c80b19884b2acdb325b300f52126b&oe=615D8A3C" alt="" /></a><a href="https://www.facebook.com/denverautonomous/">Denver Action Network</a><a href="https://www.facebook.com/denverautonomous/posts/4195282230534539"></a><i></i><p><a href="https://www.facebook.com/hashtag/freepalestine">#FreePalestine</a></p><a href="https://www.facebook.com/ColoradoPalestineClub/photos/a.235274386973740/1178266166007886/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/s526x296/218055480_1178266172674552_5726682586914062154_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8024bb&_nc_ohc=uvFhGqtkTkgAX_BTe0O&_nc_ht=scontent.fapa1-2.fna&oh=333871256828a30e45a5f9b58b66ddc2&oe=615DA2BB" alt="May be an image of one or more people, people standing, outdoors and text that says 'March4Palestine Saturday July 24th 6pm Colorado State Capitol'" width="500" height="281" caption="May be an image of one or more people, people standing, outdoors and text that says 'March4Palestine Saturday July 24th 6pm Colorado State Capitol'" /></a><a href="https://www.facebook.com/ColoradoPalestineClub/">Colorado Palestine Club -ABS Denver Chapter</a><a href="https://www.facebook.com/ColoradoPalestineClub/photos/a.235274386973740/1178266166007886/"></a><p>Colorado. This will be our 3 month anniversary for standing up for <a href="https://www.facebook.com/hashtag/humanrights">#HumanRights</a> and <a href="https://www.facebook.com/hashtag/palestine">#Palestine</a>. Please join us as we want to make a big bang on this day. This w...ill be the last protest/march. We will transition to more action items and events (stay tuned). Please join fellow Coloradans <a href="https://www.facebook.com/hashtag/stand4palestine">#Stand4Palestine</a> to:<br /> <a href="https://www.facebook.com/hashtag/savejerusalem">#SaveJerusalem</a><br /> <a href="https://www.facebook.com/hashtag/savesheikjarrah">#SaveSheikJarrah</a><br /> <a href="https://www.facebook.com/hashtag/savebeita">#SaveBeita</a><br /> <a href="https://www.facebook.com/hashtag/savepalestinianchildren">#SavePalestinianChildren</a><br /> <a href="https://www.facebook.com/hashtag/stand4humanity">#Stand4Humanity</a><br /> <a href="https://www.facebook.com/hashtag/stand4peace">#Stand4Peace</a><br /> <a href="https://www.facebook.com/hashtag/march4palestine">#March4Palestine</a></p> <a href="https://www.facebook.com">See More</a>]]></content:encoded>
-      <author>Denver Action Network</author>
-      <guid>https://www.facebook.com/denverautonomous/posts/4195282230534539</guid>
-      <pubDate>Wed, 21 Jul 2021 19:25:40 -0600</pubDate>
-    </item>
-    <item>
-      <title>CW: sexual assault, gaslighting Sharing the first episode of a...</title>
-      <link>https://www.facebook.com/denverautonomous/posts/4194784283917667</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverautonomous/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/199289851_4084191211643642_659067739184821367_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ToHYGcp43pkAX9d2wFk&_nc_ht=scontent.fapa1-2.fna&oh=eb5c80b19884b2acdb325b300f52126b&oe=615D8A3C" alt="" /></a><a href="https://www.facebook.com/denverautonomous/">Denver Action Network</a><a href="https://www.facebook.com/denverautonomous/posts/4194784283917667"></a><i></i><p>CW: sexual assault, gaslighting</p><p> Sharing the first episode of a new podcast that discusses abusers in the music scene because the first guest lives in Colorado and this is an important conversation</p><p> We believe survivors.</p>...<p> <a href="https://www.facebook.com/hashtag/podcast">#podcast</a> <br /> <a href="https://www.facebook.com/hashtag/denver">#Denver</a> <br /> <a href="https://www.facebook.com/hashtag/colorado">#colorado</a></p> <a href="https://www.facebook.com/denverautonomous/posts/4194784283917667">See More</a><a href="https://www.facebook.com/thebadcopy/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.18169-1/cp0/p32x32/16729399_2246237432268486_8930191459726269001_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=mGhaDg0fXkcAX-lByPC&_nc_ht=scontent.fapa1-2.fna&oh=92f6d80ecaba4aa677a3efb75353e02c&oe=615EEA1C" alt="" /></a><a href="https://www.facebook.com/thebadcopy/">Bad Copy</a><a href="https://www.facebook.com/thebadcopy/posts/3674055662819982"></a><p>We are so very proud to be sharing the first official episode of a new podcast.</p><p> enough. is hosted by Rich Gill and Kendra Sheetz with the goal of having open, h...onest conversations about how we can make positive changes in both our music scene and ourselves regarding how we react to stories of abuse and assault. </p><p> Episode #1 is an introductionary episode. </p><p> Episode #2 features the first guest, Savvi, who shares her story about how a band member's actions left a permanent mark on her mentally and physically, and her thoughts on whether it’s possible to separate the art from the artist.</p> <a href="https://www.facebook.com">See More</a><a href="https://thebadcopy.com/features/enough-podcast-episode-1-this-is-enough-episode-2-so-it-finally-happened-huh/">We are exceedingly proud (and also somewhat anxiety ridden) to share with you enough., a podcast that is long overdue.<img src="https://external.fapa1-2.fna.fbcdn.net/safe_image.php?d=AQGUjHQw6U6civLX&w=476&h=249&url=https%3A%2F%2Fbadcopy.s3.amazonaws.com%2F20210717220005%2Fenough-big.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_oe=6ea50&_nc_sid=06c271&ccb=3-5&_nc_hash=AQG84YXfAsf09Clt" alt="" width="474" height="248" caption="" /></a><p>thebadcopy.com</p><p>enough. Podcast: Episode 1 - "This is enough" & Episode 2 - "So, it finally happened, huh?" • Bad Copy</p>We are exceedingly proud (and also somewhat anxiety ridden) to share with you enough., a podcast that is long overdue.<a href="https://thebadcopy.com/features/enough-podcast-episode-1-this-is-enough-episode-2-so-it-finally-happened-huh/">We are exceedingly proud (and also somewhat anxiety ridden) to share with you enough., a podcast that is long overdue.</a>]]></content:encoded>
-      <author>Denver Action Network</author>
-      <guid>https://www.facebook.com/denverautonomous/posts/4194784283917667</guid>
-      <pubDate>Wed, 21 Jul 2021 14:54:36 -0600</pubDate>
-    </item>
-    <item>
-      <title>Denver Action...</title>
-      <link>https://www.facebook.com/denverautonomous/posts/4192022267527202</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverautonomous/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/199289851_4084191211643642_659067739184821367_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ToHYGcp43pkAX9d2wFk&_nc_ht=scontent.fapa1-2.fna&oh=eb5c80b19884b2acdb325b300f52126b&oe=615D8A3C" alt="" /></a><a href="https://www.facebook.com/denverautonomous/">Denver Action Network</a><a href="https://www.facebook.com/denverautonomous/posts/4192022267527202"></a><i></i><a href="https://www.facebook.com/denvercommunists/photos/pcb.4221088151315099/4221042314653016/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-9/p526x296/220781019_4221042321319682_8667717679220412978_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8024bb&_nc_ohc=oJFXQlib3JgAX9LGoXg&_nc_ht=scontent.fapa1-1.fna&oh=ef89be2469fde4b038f3f10a32e497d9&oe=615EF9AB" alt="May be an image of 4 people and outdoors" width="500" height="500" caption="May be an image of 4 people and outdoors" />{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-07-20T15:12:42-0700","dateModified":"2021-07-20T15:12:42-0700","identifier":"4221042314653016:9:0","headline":"Denver Communists added a new photo. - Denver Communists","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":4},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":11361}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Denver Communists","identifier":233199663437321,"url":"https:\/\/www.facebook.com\/denvercommunists\/","image":"https:\/\/scontent.fapa1-1.fna.fbcdn.net\/v\/t1.6435-1\/58676729_2203377703086164_4674657957042978816_n.png?_nc_cat=110&ccb=1-5&_nc_sid=a12de3&_nc_ohc=lPywwvvXLNIAX8paFK_&_nc_ht=scontent.fapa1-1.fna&oh=659a25dca17c32aa918eec0abb44984e&oe=615F2919","sameAs":"denvercommunists.org","foundingDate":"2012-02-18T09:16:01-0800"},"image":[{"\u0040type":"ImageObject","width":960,"contentUrl":"https:\/\/scontent.fapa1-1.fna.fbcdn.net\/v\/t1.6435-9\/p960x960\/220781019_4221042321319682_8667717679220412978_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8024bb&_nc_ohc=oJFXQlib3JgAX9LGoXg&_nc_ht=scontent.fapa1-1.fna&oh=976181fef9506bd29ed08ca46bff0b66&oe=615D4EC4","caption":""}]}</a><a href="https://www.facebook.com/denvercommunists/photos/pcb.4221088151315099/4221041741319740/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/s235x165/219625620_4221041751319739_8210393204229533088_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=8024bb&_nc_ohc=94xD5PdWQo0AX8uIaTu&_nc_ht=scontent.fapa1-2.fna&oh=e99a40236c5fd31fb047323b69aca3ec&oe=615F1BB8" alt="May be an image of one or more people and people standing" width="166" height="166" caption="May be an image of one or more people and people standing" />{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-07-20T15:12:42-0700","dateModified":"2021-07-20T15:12:42-0700","identifier":"4221041741319740:9:0","headline":"Denver Communists added a new photo. - Denver Communists","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":8},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":2},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":11361}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Denver Communists","identifier":233199663437321,"url":"https:\/\/www.facebook.com\/denvercommunists\/","image":"https:\/\/scontent.fapa1-1.fna.fbcdn.net\/v\/t1.6435-1\/58676729_2203377703086164_4674657957042978816_n.png?_nc_cat=110&ccb=1-5&_nc_sid=a12de3&_nc_ohc=lPywwvvXLNIAX8paFK_&_nc_ht=scontent.fapa1-1.fna&oh=659a25dca17c32aa918eec0abb44984e&oe=615F2919","sameAs":"denvercommunists.org","foundingDate":"2012-02-18T09:16:01-0800"},"image":[{"\u0040type":"ImageObject","width":960,"contentUrl":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-9\/p960x960\/219625620_4221041751319739_8210393204229533088_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=8024bb&_nc_ohc=94xD5PdWQo0AX8uIaTu&_nc_ht=scontent.fapa1-2.fna&oh=e3caec88826c55d8aedb623ef23cbd6a&oe=615E7E28","caption":""}]}</a><a href="https://www.facebook.com/denvercommunists/photos/pcb.4221088151315099/4221041691319745/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/s235x165/220432525_4221041694653078_2751466833036746818_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=8024bb&_nc_ohc=BCyLFsJ_ha8AX-Bs3CO&_nc_ht=scontent.fapa1-2.fna&oh=c0e8209d0dfe9732dbce715f686465c5&oe=615F9AE5" alt="May be an image of 1 person, standing, outdoors and text that says 'BLACK LIVES MATTER BLUE LIVES MURDER Denver'" width="165" height="165" caption="May be an image of 1 person, standing, outdoors and text that says 'BLACK LIVES MATTER BLUE LIVES MURDER Denver'" />{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-07-20T15:12:42-0700","dateModified":"2021-07-20T17:05:11-0700","identifier":"4221041691319745:9:0","headline":"Denver Communists added a new photo. - Denver Communists","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":3},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":17},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":3},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":11361}],"commentCount":3,"comment":[{"\u0040type":"Comment","identifier":"4221041691319745_4221162401307674","dateCreated":"2021-07-20T15:57:31-0700","text":"Comrade!","mentions":null,"author":{"\u0040type":"Person","name":"Vera Romero","url":"https:\/\/www.facebook.com\/vera.romero.372","identifier":"100000012446957"}}],"author":{"\u0040type":"Organization","name":"Denver Communists","identifier":233199663437321,"url":"https:\/\/www.facebook.com\/denvercommunists\/","image":"https:\/\/scontent.fapa1-1.fna.fbcdn.net\/v\/t1.6435-1\/58676729_2203377703086164_4674657957042978816_n.png?_nc_cat=110&ccb=1-5&_nc_sid=a12de3&_nc_ohc=lPywwvvXLNIAX8paFK_&_nc_ht=scontent.fapa1-1.fna&oh=659a25dca17c32aa918eec0abb44984e&oe=615F2919","sameAs":"denvercommunists.org","foundingDate":"2012-02-18T09:16:01-0800"},"image":[{"\u0040type":"ImageObject","width":960,"contentUrl":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-9\/p960x960\/220432525_4221041694653078_2751466833036746818_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=8024bb&_nc_ohc=BCyLFsJ_ha8AX-Bs3CO&_nc_ht=scontent.fapa1-2.fna&oh=58f397a468afdb67f416ac75b57496b4&oe=615FF2F5","caption":""}]}</a><a href="https://www.facebook.com/denvercommunists/photos/pcb.4221088151315099/4221042084653039/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/s235x165/221567505_4221042087986372_9030154034191639150_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8024bb&_nc_ohc=Unj9DdGeN48AX9QFlKb&_nc_ht=scontent.fapa1-2.fna&oh=bd4fa3be07a7d1e4d6f63cf099a31574&oe=615CE4C0" alt="May be an image of 2 people, people standing and outdoors" width="165" height="165" caption="May be an image of 2 people, people standing and outdoors" />+13{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-07-20T15:12:42-0700","dateModified":"2021-07-21T15:28:49-0700","identifier":"4221042084653039:9:0","headline":"Denver Communists added a new photo. - Denver Communists","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":1},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":20},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":2},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":11361}],"commentCount":1,"comment":[{"\u0040type":"Comment","identifier":"4221042084653039_4224006434356604","dateCreated":"2021-07-21T15:28:49-0700","text":"HAHAHAHAHHAHAHA ","mentions":null,"author":{"\u0040type":"Person","name":"Rahma Ahmed","url":"https:\/\/www.facebook.com\/profile.php?id=100057441631768","identifier":"100057441631768"}}],"author":{"\u0040type":"Organization","name":"Denver Communists","identifier":233199663437321,"url":"https:\/\/www.facebook.com\/denvercommunists\/","image":"https:\/\/scontent.fapa1-1.fna.fbcdn.net\/v\/t1.6435-1\/58676729_2203377703086164_4674657957042978816_n.png?_nc_cat=110&ccb=1-5&_nc_sid=a12de3&_nc_ohc=lPywwvvXLNIAX8paFK_&_nc_ht=scontent.fapa1-1.fna&oh=659a25dca17c32aa918eec0abb44984e&oe=615F2919","sameAs":"denvercommunists.org","foundingDate":"2012-02-18T09:16:01-0800"},"image":[{"\u0040type":"ImageObject","width":960,"contentUrl":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-9\/p960x960\/221567505_4221042087986372_9030154034191639150_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8024bb&_nc_ohc=Unj9DdGeN48AX9QFlKb&_nc_ht=scontent.fapa1-2.fna&oh=338dddbf43027dae55df6e7ac12ce54f&oe=615F91B0","caption":""}]}</a><a href="https://www.facebook.com/denvercommunists/">Denver Communists</a><a href="https://www.facebook.com/denvercommunists/posts/4221088151315099"></a><p>Another W on the books! On Sunday, July 18, 2021, for the sixth year running, the Denver left has successfully shut down the pro-cop rally held in Civic Center ...Park on Colorado’s official “Law Enforcement Appreciation Day.”</p><p> Team Fuck 12 came in 60-strong. Organized by three recent high school grads, Ashira, Aariyah, and Rahma, plus the Denver Communists, the <a href="https://www.facebook.com/events/914776319379548/">Anti-Police Rally</a> focused on outnumbering, confronting, and disrupting the disgusting merriment of the neo-fascist klan rally. Energy was high all day with laughter, anger, and chants about the brutality of policing in Denver. We even broke out the Cupid Shuffle for a stint of reenergizing.</p><p> Down from about 200 in attendance last year, Team White Supremacy made a pathetic showing of about 35. Having neither conviction nor passion, the comically tiny gathering was heckled for the entirety of their event by those hard-won to human liberation.</p><p> After the total destruction of last year’s pro-cop rally, the riot cops and SWAT were out in full force, outnumbering the reactionaries and our side combined. They surrounded the pro-cop rally with several hundreds of yards of temporary fencing. They arrested two from our side. The best they could come up with were charges of second-degree trespassing… in a public park!</p><p> The sharp drop in attendance by the rightwingers points to the success of years of dedicated resistance to racists and fascists organizing in Denver. As liberation struggles die down, the reaction by the politically-backward often does too.</p><p> Despite the perceived dangers, we must continue to confront reaction with uncompromising, mass opposition. Unopposed fascism is always more dangerous than the singular instances of confrontation.</p><p> We’ll be back next year and every year after that until the fascist creep crawls back into its hole!</p> <a href="https://www.facebook.com">See More</a>]]></content:encoded>
-      <author>Denver Action Network</author>
-      <guid>https://www.facebook.com/denverautonomous/posts/4192022267527202</guid>
-      <pubDate>Tue, 20 Jul 2021 16:14:58 -0600</pubDate>
-    </item>
-    <item>
-      <title>Anyone recognize these white supremacist chuds caught putting up...</title>
-      <link>https://www.facebook.com/denverautonomous/posts/4188796294516466</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverautonomous/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/199289851_4084191211643642_659067739184821367_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ToHYGcp43pkAX9d2wFk&_nc_ht=scontent.fapa1-2.fna&oh=eb5c80b19884b2acdb325b300f52126b&oe=615D8A3C" alt="" /></a><a href="https://www.facebook.com/denverautonomous/">Denver Action Network</a><a href="https://www.facebook.com/denverautonomous/posts/4188796294516466"></a><i></i><p>Anyone recognize these white supremacist chuds caught putting up racist propaganda in <a href="https://www.facebook.com/hashtag/coloradosprings">#coloradosprings</a>?</p><a href="https://www.facebook.com/frontrangecommunitydefense/photos/pcb.365838515216598/365838388549944/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-9/p168x128/219773212_365838395216610_8981787350124263087_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=110474&_nc_ohc=ykKyAeZGozsAX9rjaJF&_nc_ht=scontent.fapa1-1.fna&oh=099d2885ec6eb492194be4b8973245af&oe=61609AEF" alt="No photo description available." width="167" height="167" caption="No photo description available." /></a><a href="https://www.facebook.com/frontrangecommunitydefense/photos/pcb.365838515216598/365838435216606/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p168x128/219773212_365838438549939_473701605495916034_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=110474&_nc_ohc=INGOKz_ceTUAX9gY5J-&_nc_ht=scontent.fapa1-2.fna&oh=39c0acdc196909757090f45d47484111&oe=616099FE" alt="May be an image of 1 person, standing and outdoors" width="165" height="220" caption="May be an image of 1 person, standing and outdoors" /></a><a href="https://www.facebook.com/frontrangecommunitydefense/photos/pcb.365838515216598/365838481883268/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p173x172/221213455_365838485216601_4261426441458005027_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=110474&_nc_ohc=sFnVN5sKOBYAX-HgHOL&_nc_ht=scontent.fapa1-2.fna&oh=7d0e52b9c8c6e408dafc70690b909edf&oe=6160A5EE" alt="May be an image of 2 people, people standing and outdoors" width="201" height="167" caption="May be an image of 2 people, people standing and outdoors" /></a><a href="https://www.facebook.com/frontrangecommunitydefense/">Front Range Community Defense Collective</a><a href="https://www.facebook.com/frontrangecommunitydefense/posts/365838515216598"></a><p>Who recognizes these unsneaky losers?</p><p> Cameras captured these chuds putting <a href="https://www.facebook.com/hashtag/patriotfront">#PatriotFront</a> stickers found all over downtown <a href="https://www.facebook.com/hashtag/cosprings">#cosprings</a> </p><p> <a href="http://t.co/SWef90xke7">t.co/SWef90xke7</a></p>...<p> We gladly receive anonymous tips via frcdc&#064;riseup.net (use a non-identifying email)</p> <a href="https://www.facebook.com">See More</a>]]></content:encoded>
-      <author>Denver Action Network</author>
-      <guid>https://www.facebook.com/denverautonomous/posts/4188796294516466</guid>
-      <pubDate>Mon, 19 Jul 2021 13:26:16 -0600</pubDate>
     </item>
     <item>
       <title>A List of Mutual Aid Groups in Denver - A Place to Start if You Don&#39;t Know Where To Start</title>
