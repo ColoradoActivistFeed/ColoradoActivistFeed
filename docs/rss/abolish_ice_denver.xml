@@ -4,15 +4,44 @@
     <link>https://www.facebook.com/AbolishICEDenver/</link>
     <description>Posts from Abolish ICE Denver</description>
     <managingEditor> (Abolish ICE Denver)</managingEditor>
-    <pubDate>Fri, 17 Sep 2021 12:52:24 -0600</pubDate>
+    <pubDate>Fri, 17 Sep 2021 13:51:52 -0600</pubDate>
     <item>
       <title>Bridge returned error 500! (18887)</title>
       <link></link>
       <description></description>
       <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>abolishicedenver - Instagram Bridge</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Unable to find username in search result.`<br />
+Query string: `action=display&bridge=Instagram&context=Username&u=abolishicedenver&media_type=all&direct_links=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=abolishicedenver+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dabolishicedenver%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=abolishicedenver+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dabolishicedenver%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pauder</p>
+</section>]]></content:encoded>
+      <author>Abolish ICE Denver</author>
+      <guid>urn:sha1:daae9863218d25272e0ccfafef365189b03b525a</guid>
+      <pubDate>Fri, 17 Sep 2021 13:51:58 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge encountered an unexpected situation! (18887)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
 	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
 remote website's content!<br>
-Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Error message: `Call to a member function children() on null`<br />
 Query string: `action=display&bridge=Facebook&context=User&u=AbolishICEDenver&media_type=all&limit=-1&format=Atom`<br />
 Version: `dev.2020-02-26`</p>
 	<div class="advice">
@@ -20,185 +49,19 @@ Version: `dev.2020-02-26`</p>
 			<li>Press Return to check your input parameters</li>
 			<li>Press F5 to retry</li>
 			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAbolishICEDenver%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAbolishICEDenver%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
 		</ul>
 	</div>
 	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
 		<button>Search GitHub Issues</button>
 	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAbolishICEDenver%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAbolishICEDenver%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
 	the issue before submitting it"><button>Open GitHub Issue</button></a>
 	<p class="maintainer">teromene, logmanoriginal</p>
 </section>]]></content:encoded>
       <author>Abolish ICE Denver</author>
-      <guid>urn:sha1:328c8fea87b88fd62764266614f9e50ea2e9f3dd</guid>
-      <pubDate>Fri, 17 Sep 2021 12:52:25 -0600</pubDate>
-    </item>
-    <item>
-      <title>@doctorsforcampclosure and @cuanschutz_sihr will host a screening and panel discussion of The Facility on Thursday March...</title>
-      <link>https://www.instagram.com/p/CLxH0OiFtKi/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.instagram.com/p/CLxH0OiFtKi/" target="_blank"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/154147248_173110167734123_234917945956226407_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=111&amp;_nc_ohc=ogW0KFIQXBgAX_yo56O&amp;edm=APU89FABAAAA&amp;ccb=7-4&amp;oh=19eefabe6e08d2021419b90a6d7a9756&amp;oe=614CCD41&amp;_nc_sid=86f79a" alt="@doctorsforcampclosure and @cuanschutz_sihr will host a screening and panel discussion of The Facility on Thursday March..." /></a><br><br>@doctorsforcampclosure and @cuanschutz_sihr will host a screening and panel discussion of The Facility on Thursday March 4 at 7 pm MST. <br />
-<br />
-Aurora&rsquo;s GEO ICE facility is a private immigrant detention center whose shadowy practices are obscured from advocates and lawmakers alike. But through the stories of those fighting to free their loved ones, and those who have done time on the inside, this film will shine a light on a facility too often shrouded in darkness.<br />
-This panel will focus specifically on the healthcare consequences of privatized ICE detention facilities. <br />
-<br />
-Today, over 400,000 people are booked into ICE custody, a policy of mandatory detention started in 1996 by President Clinton.&nbsp;<br />
-​<br />
-Running and operating these facilities is GEO Group, a multi-billion dollar&nbsp;Florida-based private prison company with a track record of wage theft, forced labor, false record-keeping, poor oversight and detainee mistreatment.&nbsp;<br />
-&nbsp;<br />
-This film addresses seriously the federal government's ability to detain people, highlighting some of the most common areas of neglect, including&nbsp;medical neglect/abuse, nutrition issues and prolonged detention.&nbsp;<br />
-​<br />
-&nbsp; &nbsp;&nbsp;According to federal government data, GEO Group receives more taxpayer&nbsp;dollars for immigration detention than any other ICE contractor<br />
-&nbsp;<br />
-So we start at the source to tell this story, with interviews from current and former detainees, families fighting to be reunited, and the experts and advocates&nbsp;trying to save lives while a pandemic rages inside.<br />
-<br />
-Watch the trailer here:<br />
-<br />
-https://www.thefacilitymovie.com/<br />
-<br />
-Register here:<br />
- https://us02web.zoom.us/webinar/register/WN_vy-sxiNKQaO7HsWjRXRThA]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.instagram.com/p/CLxH0OiFtKi/</guid>
-      <pubDate>Fri, 26 Feb 2021 12:41:53 -0700</pubDate>
-    </item>
-    <item>
-      <title>Community alert: Protestors in Denver continue to be contacted and interrogated by the FBI....</title>
-      <link>https://www.instagram.com/p/CJtjJ-UlaqV/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.instagram.com/p/CJtjJ-UlaqV/" target="_blank"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/136084234_435948457581742_7523158914098454227_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=110&amp;_nc_ohc=B7Kb734lJyoAX-gYqk5&amp;edm=APU89FABAAAA&amp;ccb=7-4&amp;oh=59b992e376013f55cde317454009980f&amp;oe=614BF0F5&amp;_nc_sid=86f79a" alt="Community alert: Protestors in Denver continue to be contacted and interrogated by the FBI...." /></a><br><br>Community alert: Protestors in Denver continue to be contacted and interrogated by the FBI.<br />
-<br />
-Please give these resources a read and message us for links!<br />
-<br />
-https://www.nlg.org/wp-content/uploads/2016/04/kyrpamphlet-Eng-May-2015-FINAL.pdf<br />
-<br />
-https://ccrjustice.org/files/CCR_If_An_Agent_Knocks.pdf<br />
-<br />
-https://m4bl.org/wp-content/uploads/2020/06/2020-6-10_M4BLCLEAR_FBIEncounters_FINAL.pdf<br />
-<br />
-Thanks to @coloradonlg for their ongoing support against state repression! Call the legal line at 720-822-5893 if you are contacted by the FBI]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.instagram.com/p/CJtjJ-UlaqV/</guid>
-      <pubDate>Wed, 06 Jan 2021 10:21:02 -0700</pubDate>
-    </item>
-    <item>
-      <title>Join us Friday, December 18 at 7 p.m. for a premiere virtual screening of “The Facility.” ...</title>
-      <link>https://www.instagram.com/p/CIrnMlOld4c/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.instagram.com/p/CIrnMlOld4c/" target="_blank"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/130696797_1074520669638419_1374804028691367908_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=111&amp;_nc_ohc=MD2L665bdMMAX_wNBLq&amp;edm=APU89FABAAAA&amp;ccb=7-4&amp;oh=4def1901dbad9b6e2b2574c10eb5574e&amp;oe=614B36F0&amp;_nc_sid=86f79a" alt="Join us Friday, December 18 at 7 p.m. for a premiere virtual screening of “The Facility.” ..." /></a><br><br>Join us Friday, December 18 at 7 p.m. for a premiere virtual screening of &ldquo;The Facility.&rdquo; <br />
-<br />
-&ldquo;The Facility&rdquo; is a short documentary film chronicling the lived experiences of immigrants being held at the GEO detention facility in Aurora, Colorado. This film addresses the personal loss and consequences caused by for-profit detention and the federal government's broken immigration policies. Legal and medical experts highlight horrific abuses including death, medical neglect, nutrition issues, and prolonged detention during the coronavirus pandemic. To tell their stories, current and former detainees, families fighting to be reunited, and advocates come together to share their experiences behind the walls of the GEO immigration detention facility in Aurora.<br />
-<br />
-@acluofcolorado @coloradopeoplesalliance @co_immigrant @keshagrijalva @_floodlight_<br />
-<br />
-Following the screening will be a Q&amp;A session with the director, legal experts, and individuals featured in the film with first-hand experience of the systemic abuse occurring inside the facility.<br />
-<br />
-Panelists include:<br />
-<br />
-Jeremy Flood, &ldquo;The Facility&rdquo; Director<br />
-Raul Medina Perez, COPA, Community Organizer who was formerly detained at GEO<br />
-Kesha Davalos Grijalva, Immigrant rights advocate whose husband is detained at GEO<br />
-Keinada Andereas, Colorado Student who was formerly detained at GEO<br />
-Hans Meyer, The Meyer Law Office, Lead Attorney <br />
-Denise Maes, ACLU of Colorado, Public Policy Director <br />
-<br />
-Please RSVP for the screening in advance for this free event: https://aclu.zoom.us/webinar/register/WN_nUbTy8-VQpif8nMzqtUzQw<br />
-<br />
-Trailer: https://youtu.be/cGOCejy48Jo<br />
-<br />
-&ldquo;The Facility&rdquo; is presented by ACLU of Colorado, Colorado Immigrant Rights Coalition, and Colorado Hispanic Bar Association.]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.instagram.com/p/CIrnMlOld4c/</guid>
-      <pubDate>Fri, 11 Dec 2020 19:46:28 -0700</pubDate>
-    </item>
-    <item>
-      <title>Solidarity with refugees and victims of imperial agendas across the globe 🎨✊🏽 50 million people, half whom are...</title>
-      <link>https://www.instagram.com/p/CIB0fs1F7wW/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.instagram.com/p/CIB0fs1F7wW/" target="_blank"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/127364525_710045103259928_6579335815252962249_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=108&amp;_nc_ohc=zdH6XovROkkAX8hl7g8&amp;edm=APU89FABAAAA&amp;ccb=7-4&amp;oh=c498dd47e5d19dacb1ce20c7fab99296&amp;oe=614AD97C&amp;_nc_sid=86f79a" alt="Solidarity with refugees and victims of imperial agendas across the globe 🎨✊🏽 50 million people, half whom are..." /></a><br><br>Solidarity with refugees and victims of imperial agendas across the globe 🎨✊🏽 50 million people, half whom are children, are currently displaced by the military industrial complex, austerity and changing climate conditions.]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.instagram.com/p/CIB0fs1F7wW/</guid>
-      <pubDate>Wed, 25 Nov 2020 14:14:34 -0700</pubDate>
-    </item>
-    <item>
-      <title>Since we began fighting with Elijah McClain&#39;s family 15 months ago, power has done everything possible to serve power...</title>
-      <link>https://www.instagram.com/p/CH6eOCjlp6F/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/126580466_206751004356168_4635813712950757023_n.jpg?_nc_ht=instagram.fapa1-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=auvlnMgU3kQAX_gY3i7&edm=AP_V10EBAAAA&ccb=7-4&oh=6754d92f255ce7873d9b702838395c23&oe=614C6CA7&_nc_sid=4f375e" target="_blank"><img src="https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/126580466_206751004356168_4635813712950757023_n.jpg?_nc_ht=instagram.fapa1-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=auvlnMgU3kQAX_gY3i7&edm=AP_V10EBAAAA&ccb=7-4&oh=6754d92f255ce7873d9b702838395c23&oe=614C6CA7&_nc_sid=4f375e" alt="Since we began fighting with Elijah McClain's family 15 months ago, power has done everything possible to serve power..." /></a><br><a href="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/126427378_837859120358734_6583112362055898151_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=ilLfTf3IJ2cAX8nuHUP&edm=AP_V10EBAAAA&ccb=7-4&oh=e1574150cd2159764be3a1de63f112ed&oe=614CCB9E&_nc_sid=4f375e" target="_blank"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/126427378_837859120358734_6583112362055898151_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=ilLfTf3IJ2cAX8nuHUP&edm=AP_V10EBAAAA&ccb=7-4&oh=e1574150cd2159764be3a1de63f112ed&oe=614CCB9E&_nc_sid=4f375e" alt="Since we began fighting with Elijah McClain's family 15 months ago, power has done everything possible to serve power..." /></a><br><a href="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/126020296_513669259590575_410554335161793584_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=koTdnRHjzHgAX9xYnyY&edm=AP_V10EBAAAA&ccb=7-4&oh=3b429fcd4362ca01c67da6ab371ba5f8&oe=614CCCDD&_nc_sid=4f375e" target="_blank"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/126020296_513669259590575_410554335161793584_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=koTdnRHjzHgAX9xYnyY&edm=AP_V10EBAAAA&ccb=7-4&oh=3b429fcd4362ca01c67da6ab371ba5f8&oe=614CCCDD&_nc_sid=4f375e" alt="Since we began fighting with Elijah McClain's family 15 months ago, power has done everything possible to serve power..." /></a><br><a href="https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/126889714_695561271134066_5962580341803727680_n.jpg?_nc_ht=instagram.fapa1-2.fna.fbcdn.net&_nc_cat=102&_nc_ohc=rDEeIXaCVzoAX-bEe7A&edm=AP_V10EBAAAA&ccb=7-4&oh=8a31934689abfc320e9165fc6b038cd0&oe=614C02C9&_nc_sid=4f375e" target="_blank"><img src="https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/126889714_695561271134066_5962580341803727680_n.jpg?_nc_ht=instagram.fapa1-2.fna.fbcdn.net&_nc_cat=102&_nc_ohc=rDEeIXaCVzoAX-bEe7A&edm=AP_V10EBAAAA&ccb=7-4&oh=8a31934689abfc320e9165fc6b038cd0&oe=614C02C9&_nc_sid=4f375e" alt="Since we began fighting with Elijah McClain's family 15 months ago, power has done everything possible to serve power..." /></a><br><a href="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/126810150_2959430690999043_4748018482349772212_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=-LKwAVkLr7cAX-amRad&edm=AP_V10EBAAAA&ccb=7-4&oh=51dbb46fedfcc5d7d99a3744c62f3b40&oe=614CC6D9&_nc_sid=4f375e" target="_blank"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/126810150_2959430690999043_4748018482349772212_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=-LKwAVkLr7cAX-amRad&edm=AP_V10EBAAAA&ccb=7-4&oh=51dbb46fedfcc5d7d99a3744c62f3b40&oe=614CC6D9&_nc_sid=4f375e" alt="Since we began fighting with Elijah McClain's family 15 months ago, power has done everything possible to serve power..." /></a><br><a href="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/126481848_834531210641929_4752359761091727472_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=8oU_ef5efFsAX-pAnaR&edm=AP_V10EBAAAA&ccb=7-4&oh=8e0d30d0bda9d6e0751a88dd531a5311&oe=614B5339&_nc_sid=4f375e" target="_blank"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/126481848_834531210641929_4752359761091727472_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=8oU_ef5efFsAX-pAnaR&edm=AP_V10EBAAAA&ccb=7-4&oh=8e0d30d0bda9d6e0751a88dd531a5311&oe=614B5339&_nc_sid=4f375e" alt="Since we began fighting with Elijah McClain's family 15 months ago, power has done everything possible to serve power..." /></a><br><br>Since we began fighting with Elijah McClain's family 15 months ago, power has done everything possible to serve power and silence us. <br />
-<br />
-However, this obvious state repression only fans the People's flames! <br />
-<br />
-Those in power tried to take away public comment at city council, the DA's still have Elijah classified as a suspect, fascists have burned down his memorial multiple times, the kops took disgusting reenactment photos of Elijah's murder (the only kop fired so far has been fired for taking these depraved photos), a city councilman sicked the far right on us on with the assistance of a local Nazi radio station, the kops helped a bro attempt to run us over on the highway (breaking a woman's leg), the kops tear-gassed us, beat us, and then two DA's put our comrades in jail for 8 days without a bond hearing and are STILL trying to keep them in cages for for up to 40 YEARS. And now Democratic governor @govofco and @philforcolorado -after the Adams and Arapahoe DA's and APD tried to cage the movement-thinks we aren't going to notice the weak ass shit he is pulling with the state investigation during Thanksgiving holiday?!? APD also tried to release body cam footage to the family and media last Thanksgiving thinking people wouldn't notice!<br />
-<br />
-Democrat politicians always call for &quot;investigations&quot; and &quot;studies&quot; to silence and tire activists and Polis is doing more of the same. Polis knew about Elijah before this summer. Polis knew all along. Let's be real: calling for an investigation into police murder is the Dem Party equivalent of &quot;thoughts and prayers.&quot; <br />
-<br />
-We will not take down these watered-down concessions from Dems! Elijah's mother wants these cops and paramedics PROSECUTED<br />
-<br />
-We are watching, we won't stop fighting and we will march and dance and holler until Elijah's mother gets what she asked for--and APD is fucking ABOLISHED<br />
-<br />
-@justiceforelijahmcclain @denverpsl]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.instagram.com/p/CH6eOCjlp6F/</guid>
-      <pubDate>Sun, 22 Nov 2020 17:45:14 -0700</pubDate>
-    </item>
-    <item>
-      <title>(no text)</title>
-      <link>https://www.instagram.com/p/CHWe57ZFAxf/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.instagram.com/p/CHWe57ZFAxf/" target="_blank"><img src="https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/123927012_1356680448024506_6865427036231145423_n.jpg?_nc_ht=instagram.fapa1-2.fna.fbcdn.net&amp;_nc_cat=102&amp;_nc_ohc=8OND8E93qxEAX_dsImC&amp;edm=APU89FABAAAA&amp;ccb=7-4&amp;oh=1936f8c20dc617c6280e954a194c282b&amp;oe=614BC093&amp;_nc_sid=86f79a" alt="(no text)" /></a><br><br>(no text)]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.instagram.com/p/CHWe57ZFAxf/</guid>
-      <pubDate>Sun, 08 Nov 2020 18:18:34 -0700</pubDate>
-    </item>
-    <item>
-      <title>▶ Wednesday night in Denver...</title>
-      <link>https://www.instagram.com/p/CHQoawmF6Vn/</link>
-      <description></description>
-      <content:encoded><![CDATA[<video controls><source src="https://instagram.fapa1-1.fna.fbcdn.net/v/t50.2886-16/123767426_656452961620136_5408236070577229774_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjcyMC5mZWVkLmRlZmF1bHQiLCJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSJ9&_nc_ht=instagram.fapa1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=awZc7-H45pgAX8qXRCc&edm=AP_V10EBAAAA&vs=17872991138016731_1134749054&_nc_vs=HBksFQAYJEdJS0tZQWVvMEpaZENsVUNBTTdQTlZnTjZnMUxia1lMQUFBRhUAAsgBABUAGCRHSWxIWHdleTNCNXBxUHNDQUEzNGdkb1luYXRnYmtZTEFBQUYVAgLIAQAoABgAGwAVAAAmtqCG5v%2FYvz8VAigCQzMsF0AhRBiTdLxqGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXqBwA%3D&ccb=7-4&oe=6146EA45&oh=dd1b87330e17785debee52477781aeb1&_nc_sid=4f375e&_nc_vts_prog=1" poster="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/124111152_672926296751914_3922864132172773100_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=Y04fQajTQIQAX8rimlJ&edm=APU89FABAAAA&ccb=7-4&oh=c4539624cb0d1f652666a9286172108f&oe=61474F8A&_nc_sid=86f79a" type="video/mp4"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/124111152_672926296751914_3922864132172773100_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=Y04fQajTQIQAX8rimlJ&edm=APU89FABAAAA&ccb=7-4&oh=c4539624cb0d1f652666a9286172108f&oe=61474F8A&_nc_sid=86f79a" alt=""></video><br><br>Wednesday night in Denver<br />
-💥💥💥 &ldquo;No borders, no walls! No USA at all!&rdquo;<br />
-<br />
-If money can move freely across borders, why can't people and workers?<br />
-<br />
-Down with settler colonialism and border imperialism!]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.instagram.com/p/CHQoawmF6Vn/</guid>
-      <pubDate>Fri, 06 Nov 2020 11:46:35 -0700</pubDate>
-    </item>
-    <item>
-      <title>Via AFSC Colorado...</title>
-      <link>https://www.instagram.com/p/CHQaJr4ltOb/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/123651724_3572704579483778_4925599387971898763_n.jpg?_nc_ht=instagram.fapa1-2.fna.fbcdn.net&_nc_cat=102&_nc_ohc=Yp9XKhhKNLYAX_dbsT6&edm=AP_V10EBAAAA&ccb=7-4&oh=2c54a32506fe1db206efc9bdabb2f91d&oe=614B4268&_nc_sid=4f375e" target="_blank"><img src="https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/123651724_3572704579483778_4925599387971898763_n.jpg?_nc_ht=instagram.fapa1-2.fna.fbcdn.net&_nc_cat=102&_nc_ohc=Yp9XKhhKNLYAX_dbsT6&edm=AP_V10EBAAAA&ccb=7-4&oh=2c54a32506fe1db206efc9bdabb2f91d&oe=614B4268&_nc_sid=4f375e" alt="Via AFSC Colorado..." /></a><br><a href="https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/123703915_641390449833823_5477608603750735651_n.jpg?_nc_ht=instagram.fapa1-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=KQE86JnYBQIAX9nXBFz&edm=AP_V10EBAAAA&ccb=7-4&oh=06ab3535f74a13181dacf0d026e72b58&oe=614BBB77&_nc_sid=4f375e" target="_blank"><img src="https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/123703915_641390449833823_5477608603750735651_n.jpg?_nc_ht=instagram.fapa1-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=KQE86JnYBQIAX9nXBFz&edm=AP_V10EBAAAA&ccb=7-4&oh=06ab3535f74a13181dacf0d026e72b58&oe=614BBB77&_nc_sid=4f375e" alt="Via AFSC Colorado..." /></a><br><br>Via AFSC Colorado<br />
-<br />
-***sigue en espanol ***<br />
-<br />
-With the recent outbreak, COVID 19 threatens the lives of everyone imprisoned. #DetentionIsDeadly. <br />
-<br />
-Immigration and Customs Enforcement&rsquo;s decision to return to business as usual and its GEO detention center in Aurora are not keeping our community safe, and experts agree, the only answer is to #FreeThemAll. Just last month, Dr. Carlos Franco Paredes called for compassionate humanitarian release of all imprisoned people.  Join us Monday, November 9th at 6:00 pm at 3130 Oakland in Aurora for a Caravan around the detention center and virtually on FB Live. We will hear from family and impacted individuals and from the Colorado Immigrant Freedom Fund about how your donations can free our people! This event is brought to you by the American Friends Service Committee, the Colorado People&rsquo;s Alliance, the Colorado Freedom Fund AND the Immigrant Freedom Fund of Colorado. <br />
- <br />
-Con el reciente brote, COVID 19 amenaza la vida de todos los encarcelados. #DetentionIsDeadly. La decisi&oacute;n del Servicio de Inmigraci&oacute;n y Control de Aduanas de volver a la normalidad y su centro de detenci&oacute;n GEO en Aurora no mantiene a nuestra comunidad segura, y los expertos coinciden en que la &uacute;nica respuesta es #FreeThemAll. El mes pasado, el Dr. Carlos Franco Paredes pidi&oacute; la liberaci&oacute;n humanitaria compasiva de todas las personas encarceladas. &Uacute;nase a nosotros el lunes 9 de noviembre a las 6:00 pm en 3130 Oakland en Aurora para una caravana alrededor del centro de detenci&oacute;n y virtualmente en FB Live. &iexcl;Escucharemos a familiares e individuos afectados y al Fondo de Libertad de Inmigrantes de Colorado sobre c&oacute;mo sus donaciones pueden liberar a nuestra gente! Este evento es presentado por el American Friends Service Committee, la Colorado People's Alliance, el Colorado Freedom Fund Y el Colorado Immigrant Freedom Fund.]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.instagram.com/p/CHQaJr4ltOb/</guid>
-      <pubDate>Fri, 06 Nov 2020 09:41:35 -0700</pubDate>
-    </item>
-    <item>
-      <title>❤🖤</title>
-      <link>https://www.instagram.com/p/CHLXk3wFvsj/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.instagram.com/p/CHLXk3wFvsj/" target="_blank"><img src="https://instagram.fapa1-2.fna.fbcdn.net/v/t51.2885-15/e35/123338869_130458058830122_3100010662503565925_n.jpg?_nc_ht=instagram.fapa1-2.fna.fbcdn.net&amp;_nc_cat=102&amp;_nc_ohc=WApvJi2eraUAX8FlKsH&amp;edm=APU89FABAAAA&amp;ccb=7-4&amp;oh=4a08d6cde1cb5a7fbbd1817aab924362&amp;oe=614B586C&amp;_nc_sid=86f79a" alt="❤🖤" /></a><br><br>❤🖤]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.instagram.com/p/CHLXk3wFvsj/</guid>
-      <pubDate>Wed, 04 Nov 2020 10:42:53 -0700</pubDate>
-    </item>
-    <item>
-      <title>(no text)</title>
-      <link>https://www.instagram.com/p/CGnR56pFEMM/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.instagram.com/p/CGnR56pFEMM/" target="_blank"><img src="https://instagram.fapa1-1.fna.fbcdn.net/v/t51.2885-15/e35/122258246_353515745760464_5034881599713406189_n.jpg?_nc_ht=instagram.fapa1-1.fna.fbcdn.net&amp;_nc_cat=108&amp;_nc_ohc=tqLEfr5ffygAX-KVm7r&amp;edm=APU89FABAAAA&amp;ccb=7-4&amp;oh=55f5e4f54e6e1b7ea8d9c2404c02aea5&amp;oe=614B125B&amp;_nc_sid=86f79a" alt="(no text)" /></a><br><br>(no text)]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.instagram.com/p/CGnR56pFEMM/</guid>
-      <pubDate>Wed, 21 Oct 2020 11:20:40 -0600</pubDate>
+      <guid>urn:sha1:1404b81ea88a0a3c0e68c3a2154b76e1ac48870e</guid>
+      <pubDate>Fri, 17 Sep 2021 13:51:53 -0600</pubDate>
     </item>
   </channel>
 </rss>
