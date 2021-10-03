@@ -3,7 +3,7 @@
     <title>Colorado Activist Feed</title>
     <link>https://coloradoactivistfeed.github.io/ColoradoActivistFeed/</link>
     <description>Aggregation of Colorado activist posts from across social media.</description>
-    <pubDate>Sun, 03 Oct 2021 16:52:16 -0600</pubDate>
+    <pubDate>Sun, 03 Oct 2021 17:51:59 -0600</pubDate>
     <item>
       <title>Bridge returned error 500! (18903)</title>
       <link></link>
@@ -31,97 +31,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>North Denver for Social Justice</author>
       <guid>urn:sha1:d5a618aaad8e461a50c8dd93149d0573d19b74b6</guid>
-      <pubDate>Sun, 03 Oct 2021 16:52:16 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge encountered an unexpected situation! (18903)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `Call to a member function children() on null`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=cofamiliatqlm&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Dcofamiliatqlm%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Dcofamiliatqlm%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Colorado - Familia</author>
-      <guid>urn:sha1:ed5b3d1ccbcd143ddee64d6971d6d23f03ca64aa</guid>
-      <pubDate>Sun, 03 Oct 2021 16:52:15 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 400! (18903)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @familiatqlm</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=familiatqlm&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40familiatqlm+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dfamiliatqlm%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40familiatqlm+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dfamiliatqlm%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>Colorado - Familia</author>
-      <guid>urn:sha1:8bdae8bfa11988326ebd4bb605708704f743c38f</guid>
-      <pubDate>Sun, 03 Oct 2021 16:52:15 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 500! (18903)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=DenverJusticeProject&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverJusticeProject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverJusticeProject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Denver Justice Project</author>
-      <guid>urn:sha1:796bdf29cb52036d1d8a579afbafff32cd562fa2</guid>
-      <pubDate>Sun, 03 Oct 2021 16:52:15 -0600</pubDate>
+      <pubDate>Sun, 03 Oct 2021 17:51:59 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18903)</title>
@@ -153,7 +63,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Denver Justice Project</author>
       <guid>urn:sha1:79f4c46fd31c335b27c9e223bc8e742816cc1835</guid>
-      <pubDate>Sun, 03 Oct 2021 16:52:15 -0600</pubDate>
+      <pubDate>Sun, 03 Oct 2021 17:51:59 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18903)</title>
@@ -163,58 +73,58 @@ Version: `dev.2020-02-26`</p>
 	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
 remote website's content!<br>
 Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=denvermetroblm&media_type=all&limit=-1&format=Atom`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=cofamiliatqlm&media_type=all&limit=-1&format=Atom`<br />
 Version: `dev.2020-02-26`</p>
 	<div class="advice">
 		<ul class="advice">
 			<li>Press Return to check your input parameters</li>
 			<li>Press F5 to retry</li>
 			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Ddenvermetroblm%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Dcofamiliatqlm%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
 		</ul>
 	</div>
 	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
 		<button>Search GitHub Issues</button>
 	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Ddenvermetroblm%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Dcofamiliatqlm%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
 	the issue before submitting it"><button>Open GitHub Issue</button></a>
 	<p class="maintainer">teromene, logmanoriginal</p>
 </section>]]></content:encoded>
-      <author>Denver Metro BLM</author>
-      <guid>urn:sha1:3b69fc2ae8552e65ae0cccd7e0dfbd47973e7b12</guid>
-      <pubDate>Sun, 03 Oct 2021 16:52:14 -0600</pubDate>
+      <author>Colorado - Familia</author>
+      <guid>urn:sha1:d2817942d8a9c16512251a0194cc34d393729cd1</guid>
+      <pubDate>Sun, 03 Oct 2021 17:51:58 -0600</pubDate>
     </item>
     <item>
-      <title>Bridge returned error 404! (18903)</title>
+      <title>Bridge returned error 400! (18903)</title>
       <link></link>
       <description></description>
       <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+	<p class="exception-message"><strong>Twitter @familiatqlm</strong> was unable to receive or process the
 remote website's content!<br>
 Error message: `The requested resource cannot be found!<br />
 Please make sure your input parameters are correct!<br />
 cUrl error:  (0)<br />
 PHP error: `<br />
-Query string: `action=display&bridge=Facebook&context=User&u=denverautonomous&media_type=all&limit=-1&format=Atom`<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=familiatqlm&norep=on&nopic=on&noimg=on&format=Atom`<br />
 Version: `dev.2020-02-26`</p>
 	<div class="advice">
 		<ul class="advice">
 			<li>Press Return to check your input parameters</li>
 			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+404&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Ddenverautonomous%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40familiatqlm+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dfamiliatqlm%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
 		</ul>
 	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
 		<button>Search GitHub Issues</button>
 	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+404&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Ddenverautonomous%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40familiatqlm+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dfamiliatqlm%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
 	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
+	<p class="maintainer">pmaziere</p>
 </section>]]></content:encoded>
-      <author>Denver Action Network</author>
-      <guid>urn:sha1:ae5a8eaa8c747a38cc9ec34a0cb2bddfc26ec708</guid>
-      <pubDate>Sun, 03 Oct 2021 16:52:14 -0600</pubDate>
+      <author>Colorado - Familia</author>
+      <guid>urn:sha1:8bdae8bfa11988326ebd4bb605708704f743c38f</guid>
+      <pubDate>Sun, 03 Oct 2021 17:51:58 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18903)</title>
@@ -224,84 +134,26 @@ Version: `dev.2020-02-26`</p>
 	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
 remote website's content!<br>
 Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=AuroraWarmstheNight&media_type=all&limit=-1&format=Atom`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=DenverJusticeProject&media_type=all&limit=-1&format=Atom`<br />
 Version: `dev.2020-02-26`</p>
 	<div class="advice">
 		<ul class="advice">
 			<li>Press Return to check your input parameters</li>
 			<li>Press F5 to retry</li>
 			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAuroraWarmstheNight%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverJusticeProject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
 		</ul>
 	</div>
 	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
 		<button>Search GitHub Issues</button>
 	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAuroraWarmstheNight%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverJusticeProject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
 	the issue before submitting it"><button>Open GitHub Issue</button></a>
 	<p class="maintainer">teromene, logmanoriginal</p>
 </section>]]></content:encoded>
-      <author>Aurora Warms the Night</author>
-      <guid>urn:sha1:1fda279e3e9268dfa6e1848040c0ef1cd9467093</guid>
-      <pubDate>Sun, 03 Oct 2021 16:52:14 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 500! (18903)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Denver Peace Council</author>
-      <guid>urn:sha1:35c20f26252b3ca66cfd6f52f2dca940ddf7d285</guid>
-      <pubDate>Sun, 03 Oct 2021 16:52:13 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge encountered an unexpected situation! (18903)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `Call to a member function children() on null`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=LeslieforColorado&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DLeslieforColorado%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&body=Error+message%3A+%60Call+to+a+member+function+children%28%29+on+null%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DLeslieforColorado%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Leslie Herod</author>
-      <guid>urn:sha1:b4f4cd9eaf548c2671a0b6369f825b295fccad99</guid>
-      <pubDate>Sun, 03 Oct 2021 16:52:13 -0600</pubDate>
+      <author>Denver Justice Project</author>
+      <guid>urn:sha1:796bdf29cb52036d1d8a579afbafff32cd562fa2</guid>
+      <pubDate>Sun, 03 Oct 2021 17:51:58 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18903)</title>
@@ -333,7 +185,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Leslie Herod</author>
       <guid>urn:sha1:f1bf16c6b99811657a729bd2d83d32339507cd6f</guid>
-      <pubDate>Sun, 03 Oct 2021 16:52:13 -0600</pubDate>
+      <pubDate>Sun, 03 Oct 2021 17:51:57 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18903)</title>
@@ -343,58 +195,58 @@ Version: `dev.2020-02-26`</p>
 	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
 remote website's content!<br>
 Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=Sanctuary4AllCO&media_type=all&limit=-1&format=Atom`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=AuroraWarmstheNight&media_type=all&limit=-1&format=Atom`<br />
 Version: `dev.2020-02-26`</p>
 	<div class="advice">
 		<ul class="advice">
 			<li>Press Return to check your input parameters</li>
 			<li>Press F5 to retry</li>
 			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DSanctuary4AllCO%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAuroraWarmstheNight%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
 		</ul>
 	</div>
 	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
 		<button>Search GitHub Issues</button>
 	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DSanctuary4AllCO%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAuroraWarmstheNight%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
 	the issue before submitting it"><button>Open GitHub Issue</button></a>
 	<p class="maintainer">teromene, logmanoriginal</p>
 </section>]]></content:encoded>
-      <author>Sanctuary4All Colorado</author>
-      <guid>urn:sha1:4b5f8cf4d8bcdfc9ad802ce51665380f6696cf58</guid>
-      <pubDate>Sun, 03 Oct 2021 16:52:12 -0600</pubDate>
+      <author>Aurora Warms the Night</author>
+      <guid>urn:sha1:1fda279e3e9268dfa6e1848040c0ef1cd9467093</guid>
+      <pubDate>Sun, 03 Oct 2021 17:51:57 -0600</pubDate>
     </item>
     <item>
-      <title>Bridge returned error 400! (18903)</title>
+      <title>Bridge returned error 404! (18903)</title>
       <link></link>
       <description></description>
       <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @Sanctuary4AllCO</strong> was unable to receive or process the
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
 remote website's content!<br>
 Error message: `The requested resource cannot be found!<br />
 Please make sure your input parameters are correct!<br />
 cUrl error:  (0)<br />
 PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=Sanctuary4AllCO&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=denverautonomous&media_type=all&limit=-1&format=Atom`<br />
 Version: `dev.2020-02-26`</p>
 	<div class="advice">
 		<ul class="advice">
 			<li>Press Return to check your input parameters</li>
 			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40Sanctuary4AllCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DSanctuary4AllCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+404&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Ddenverautonomous%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
 		</ul>
 	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
 		<button>Search GitHub Issues</button>
 	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40Sanctuary4AllCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DSanctuary4AllCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+404&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Ddenverautonomous%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
 	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
+	<p class="maintainer">teromene, logmanoriginal</p>
 </section>]]></content:encoded>
-      <author>Sanctuary4All Colorado</author>
-      <guid>urn:sha1:d184bbbb206a2b411472848c6c828f6e98a4e06a</guid>
-      <pubDate>Sun, 03 Oct 2021 16:52:12 -0600</pubDate>
+      <author>Denver Action Network</author>
+      <guid>urn:sha1:ae5a8eaa8c747a38cc9ec34a0cb2bddfc26ec708</guid>
+      <pubDate>Sun, 03 Oct 2021 17:51:57 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18903)</title>
@@ -404,26 +256,84 @@ Version: `dev.2020-02-26`</p>
 	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
 remote website's content!<br>
 Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=denverPSL&media_type=all&limit=-1&format=Atom`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=denvermetroblm&media_type=all&limit=-1&format=Atom`<br />
 Version: `dev.2020-02-26`</p>
 	<div class="advice">
 		<ul class="advice">
 			<li>Press Return to check your input parameters</li>
 			<li>Press F5 to retry</li>
 			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DdenverPSL%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Ddenvermetroblm%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
 		</ul>
 	</div>
 	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
 		<button>Search GitHub Issues</button>
 	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DdenverPSL%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Ddenvermetroblm%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
 	the issue before submitting it"><button>Open GitHub Issue</button></a>
 	<p class="maintainer">teromene, logmanoriginal</p>
 </section>]]></content:encoded>
-      <author>Party for Socialism and Liberation</author>
-      <guid>urn:sha1:3e346a8180e98fd52c025fd547efcdeaaf38aeb3</guid>
-      <pubDate>Sun, 03 Oct 2021 16:52:12 -0600</pubDate>
+      <author>Denver Metro BLM</author>
+      <guid>urn:sha1:3b69fc2ae8552e65ae0cccd7e0dfbd47973e7b12</guid>
+      <pubDate>Sun, 03 Oct 2021 17:51:57 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18903)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=LeslieforColorado&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DLeslieforColorado%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DLeslieforColorado%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Leslie Herod</author>
+      <guid>urn:sha1:983bc7c9df49ddb1de40a7bb8052ef1af04f6ccf</guid>
+      <pubDate>Sun, 03 Oct 2021 17:51:56 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18903)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Denver Peace Council</author>
+      <guid>urn:sha1:35c20f26252b3ca66cfd6f52f2dca940ddf7d285</guid>
+      <pubDate>Sun, 03 Oct 2021 17:51:56 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18903)</title>
@@ -452,68 +362,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Colorado Attorneys Against Police Violence</author>
       <guid>urn:sha1:e4f9376dbbad81f8c6585da0810f74043839d9c1</guid>
-      <pubDate>Sun, 03 Oct 2021 16:52:12 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 400! (18903)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @surjdenver</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=surjdenver&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40surjdenver+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dsurjdenver%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40surjdenver+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dsurjdenver%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>SURJ Denver</author>
-      <guid>urn:sha1:45c55e6c7ad2cf5d5ded4ccc730454e843106df0</guid>
-      <pubDate>Sun, 03 Oct 2021 16:52:11 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 500! (18903)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=DenverHomelessOutLoud&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverHomelessOutLoud%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverHomelessOutLoud%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Denver Homeless Out Loud</author>
-      <guid>urn:sha1:7abc3168d2494ac5403e6ea443d0072acfdeedaa</guid>
-      <pubDate>Sun, 03 Oct 2021 16:52:11 -0600</pubDate>
+      <pubDate>Sun, 03 Oct 2021 17:51:56 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18903)</title>
@@ -545,7 +394,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Denver Homeless Out Loud</author>
       <guid>urn:sha1:eeedb72431d19d956cb2620105e00dc34aad00f4</guid>
-      <pubDate>Sun, 03 Oct 2021 16:52:11 -0600</pubDate>
+      <pubDate>Sun, 03 Oct 2021 17:51:55 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18903)</title>
@@ -555,26 +404,116 @@ Version: `dev.2020-02-26`</p>
 	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
 remote website's content!<br>
 Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=DenverXikanoproject&media_type=all&limit=-1&format=Atom`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=Sanctuary4AllCO&media_type=all&limit=-1&format=Atom`<br />
 Version: `dev.2020-02-26`</p>
 	<div class="advice">
 		<ul class="advice">
 			<li>Press Return to check your input parameters</li>
 			<li>Press F5 to retry</li>
 			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverXikanoproject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DSanctuary4AllCO%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
 		</ul>
 	</div>
 	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
 		<button>Search GitHub Issues</button>
 	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverXikanoproject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DSanctuary4AllCO%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
 	the issue before submitting it"><button>Open GitHub Issue</button></a>
 	<p class="maintainer">teromene, logmanoriginal</p>
 </section>]]></content:encoded>
-      <author>Denver&#39;s Chicano Movement Legacy Project</author>
-      <guid>urn:sha1:0e5a24640401f67ced42c17723434f98c8ffe8c0</guid>
-      <pubDate>Sun, 03 Oct 2021 16:52:10 -0600</pubDate>
+      <author>Sanctuary4All Colorado</author>
+      <guid>urn:sha1:4b5f8cf4d8bcdfc9ad802ce51665380f6696cf58</guid>
+      <pubDate>Sun, 03 Oct 2021 17:51:55 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 400! (18903)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @Sanctuary4AllCO</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=Sanctuary4AllCO&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40Sanctuary4AllCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DSanctuary4AllCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40Sanctuary4AllCO+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DSanctuary4AllCO%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>Sanctuary4All Colorado</author>
+      <guid>urn:sha1:d184bbbb206a2b411472848c6c828f6e98a4e06a</guid>
+      <pubDate>Sun, 03 Oct 2021 17:51:55 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18903)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=denverPSL&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DdenverPSL%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DdenverPSL%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Party for Socialism and Liberation</author>
+      <guid>urn:sha1:3e346a8180e98fd52c025fd547efcdeaaf38aeb3</guid>
+      <pubDate>Sun, 03 Oct 2021 17:51:55 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18903)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=DenverHomelessOutLoud&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverHomelessOutLoud%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverHomelessOutLoud%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Denver Homeless Out Loud</author>
+      <guid>urn:sha1:7abc3168d2494ac5403e6ea443d0072acfdeedaa</guid>
+      <pubDate>Sun, 03 Oct 2021 17:51:54 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18903)</title>
@@ -603,39 +542,68 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>SURJ Denver</author>
       <guid>urn:sha1:2f49ded06a3a6315a85c1c465e13bcc05922898b</guid>
-      <pubDate>Sun, 03 Oct 2021 16:52:10 -0600</pubDate>
+      <pubDate>Sun, 03 Oct 2021 17:51:54 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18903)</title>
       <link></link>
       <description></description>
       <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @BLM5280</strong> was unable to receive or process the
+	<p class="exception-message"><strong>Twitter @surjdenver</strong> was unable to receive or process the
 remote website's content!<br>
 Error message: `The requested resource cannot be found!<br />
 Please make sure your input parameters are correct!<br />
 cUrl error:  (0)<br />
 PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=BLM5280&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=surjdenver&norep=on&nopic=on&noimg=on&format=Atom`<br />
 Version: `dev.2020-02-26`</p>
 	<div class="advice">
 		<ul class="advice">
 			<li>Press Return to check your input parameters</li>
 			<li>Press F5 to retry</li>
 			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40BLM5280+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DBLM5280%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40surjdenver+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dsurjdenver%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
 		</ul>
 	</div>
 	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
 		<button>Search GitHub Issues</button>
 	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40BLM5280+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DBLM5280%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40surjdenver+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dsurjdenver%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
 	the issue before submitting it"><button>Open GitHub Issue</button></a>
 	<p class="maintainer">pmaziere</p>
 </section>]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>urn:sha1:7065448cf21691deeabd10c654b30c917346511b</guid>
-      <pubDate>Sun, 03 Oct 2021 16:52:09 -0600</pubDate>
+      <author>SURJ Denver</author>
+      <guid>urn:sha1:45c55e6c7ad2cf5d5ded4ccc730454e843106df0</guid>
+      <pubDate>Sun, 03 Oct 2021 17:51:54 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18903)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=DenverXikanoproject&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverXikanoproject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverXikanoproject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Denver&#39;s Chicano Movement Legacy Project</author>
+      <guid>urn:sha1:0e5a24640401f67ced42c17723434f98c8ffe8c0</guid>
+      <pubDate>Sun, 03 Oct 2021 17:51:53 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 404! (18903)</title>
@@ -667,7 +635,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Tay Anderson</author>
       <guid>urn:sha1:9dd3339e233f0a5bc7251b498bedb818c3d95db9</guid>
-      <pubDate>Sun, 03 Oct 2021 16:52:09 -0600</pubDate>
+      <pubDate>Sun, 03 Oct 2021 17:51:53 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18903)</title>
@@ -699,7 +667,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Tay Anderson</author>
       <guid>urn:sha1:cd53e1003d4486dd94c93cea806567735e582766</guid>
-      <pubDate>Sun, 03 Oct 2021 16:52:09 -0600</pubDate>
+      <pubDate>Sun, 03 Oct 2021 17:51:53 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18903)</title>
@@ -728,7 +696,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Black Lives Matter 5280</author>
       <guid>urn:sha1:4076be4869217ae035899eaeb4e34f543b0ac74a</guid>
-      <pubDate>Sun, 03 Oct 2021 16:52:08 -0600</pubDate>
+      <pubDate>Sun, 03 Oct 2021 17:51:52 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18903)</title>
@@ -757,7 +725,68 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Black Lives Matter 5280</author>
       <guid>urn:sha1:fe03262582617a4a0cec7a0120723de34b99e2a8</guid>
-      <pubDate>Sun, 03 Oct 2021 16:52:08 -0600</pubDate>
+      <pubDate>Sun, 03 Oct 2021 17:51:52 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 400! (18903)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @BLM5280</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=BLM5280&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40BLM5280+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DBLM5280%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40BLM5280+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3DBLM5280%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>Black Lives Matter 5280</author>
+      <guid>urn:sha1:7065448cf21691deeabd10c654b30c917346511b</guid>
+      <pubDate>Sun, 03 Oct 2021 17:51:52 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18903)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=AbolishICEDenver&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAbolishICEDenver%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAbolishICEDenver%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Abolish ICE Denver</author>
+      <guid>urn:sha1:4bfa5a8d5e2976d3a534cc71ee598d6599f836ce</guid>
+      <pubDate>Sun, 03 Oct 2021 17:51:51 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18903)</title>
@@ -786,7 +815,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Abolish ICE Denver</author>
       <guid>urn:sha1:09e7bb57ca6489d614e3a5522b6df86a3e99d871</guid>
-      <pubDate>Sun, 03 Oct 2021 16:52:08 -0600</pubDate>
+      <pubDate>Sun, 03 Oct 2021 17:51:51 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18903)</title>
@@ -796,26 +825,26 @@ Version: `dev.2020-02-26`</p>
 	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
 remote website's content!<br>
 Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=Denver-Solidarity-March-118949813177149&media_type=all&limit=-1&format=Atom`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=acluofcolorado&media_type=all&limit=-1&format=Atom`<br />
 Version: `dev.2020-02-26`</p>
 	<div class="advice">
 		<ul class="advice">
 			<li>Press Return to check your input parameters</li>
 			<li>Press F5 to retry</li>
 			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Solidarity-March-118949813177149%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Dacluofcolorado%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
 		</ul>
 	</div>
 	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
 		<button>Search GitHub Issues</button>
 	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Solidarity-March-118949813177149%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Dacluofcolorado%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
 	the issue before submitting it"><button>Open GitHub Issue</button></a>
 	<p class="maintainer">teromene, logmanoriginal</p>
 </section>]]></content:encoded>
-      <author>Denver Solidarity March</author>
-      <guid>urn:sha1:396ac708fc157dc6780032caa7397aa68fa091ea</guid>
-      <pubDate>Sun, 03 Oct 2021 16:51:50 -0600</pubDate>
+      <author>ACLU of Colorado</author>
+      <guid>urn:sha1:b2c7d8e77dc2d5afcdb3b7776c2263a45b53eddf</guid>
+      <pubDate>Sun, 03 Oct 2021 17:51:50 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18903)</title>
@@ -847,70 +876,36 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Melanated Mic Night</author>
       <guid>urn:sha1:a3950ec5920bcfdf8b2307d63e4296c1ce776ae9</guid>
-      <pubDate>Sun, 03 Oct 2021 16:51:49 -0600</pubDate>
+      <pubDate>Sun, 03 Oct 2021 17:51:50 -0600</pubDate>
     </item>
     <item>
-      <title>10 years back stop same place justice for Alonzo Ashley</title>
-      <link>https://www.facebook.com/AbolishICEDenver/posts/910232189586359</link>
+      <title>Bridge returned error 500! (18903)</title>
+      <link></link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/AbolishICEDenver/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/100648129_609341559675425_5852377949981900800_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=oWiDu_XF7icAX9KnNoS&_nc_ht=scontent.fapa1-2.fna&oh=2ec222066455a52740823aa93f7c09c7&oe=617E8E10" alt="" /></a><a href="https://www.facebook.com/AbolishICEDenver/">Abolish ICE Denver</a><a href="https://www.facebook.com/AbolishICEDenver/posts/910232189586359"></a><i></i><p>10 years back stop same place justice for Alonzo Ashley</p><a href="https://www.denverpost.com/2021/10/02/denver-zoo-alonzo-ashley-death-apology-memorial/">Ten years after Alonzo Ashley was killed by Denver police at the Denver Zoo, the zoo dedicated a water fountain and cooling station in his name as part of a restorative justice agreement with his f…<img src="https://external.fapa1-2.fna.fbcdn.net/safe_image.php?d=AQF9Dr59mdbBbFwI&w=540&h=282&url=https%3A%2F%2Fwww.denverpost.com%2Fwp-content%2Fuploads%2F2021%2F10%2F505.0.148043460-Imadali_AlonzoAshleyMemorial11.jpg%3Fw%3D1024%26h%3D683&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_oe=6ecaa&_nc_sid=06c271&ccb=3-5&gt=1&_nc_hash=AQHiqx7JbvTQaMm3" alt="" width="500" height="262" caption="" /></a><p>denverpost.com</p><p>“We are really sorry”: 10 years after a man lost his life at the hands of police at the Denver Zoo, an apology comes</p>Ten years after Alonzo Ashley was killed by Denver police at the Denver Zoo, the zoo dedicated a water fountain and cooling station in his name as part of a restorative justice agreement with his f…<a href="https://www.denverpost.com/2021/10/02/denver-zoo-alonzo-ashley-death-apology-memorial/">Ten years after Alonzo Ashley was killed by Denver police at the Denver Zoo, the zoo dedicated a water fountain and cooling station in his name as part of a restorative justice agreement with his f…</a>]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.facebook.com/AbolishICEDenver/posts/910232189586359</guid>
-      <pubDate>Sat, 02 Oct 2021 23:54:14 -0600</pubDate>
-    </item>
-    <item>
-      <title>10 years ago, we were honoring the life of Alonzo Ashely. Today...</title>
-      <link>https://www.facebook.com/AbolishICEDenver/posts/909512319658346</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/AbolishICEDenver/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/100648129_609341559675425_5852377949981900800_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=oWiDu_XF7icAX9KnNoS&_nc_ht=scontent.fapa1-2.fna&oh=2ec222066455a52740823aa93f7c09c7&oe=617E8E10" alt="" /></a><a href="https://www.facebook.com/AbolishICEDenver/">Abolish ICE Denver</a><a href="https://www.facebook.com/AbolishICEDenver/posts/909512319658346"></a><i></i><p>10 years ago, we were honoring the life of Alonzo Ashely. Today we come back to the same place to keep honoring his life and supporting his family. It doesn’t matter how much time passes by, we will keep remembering the life of every person of color, black and brown, that has been killed in the hands of police. One day we will end with this practice of abuse, creating legislations to take away the protection of all those corrupt police officers that think that just because they have a badge, it gives them permission to kill our people. Marking the life of families, we will keep marching in the streets to end police brutality.</p><a href="https://www.facebook.com/AbolishICEDenver/photos/pcb.909512319658346/909511629658415/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p403x403/244281098_909511632991748_5339597709526103213_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=110474&_nc_ohc=6HWHka9i4j8AX-4pktQ&_nc_ht=scontent.fapa1-2.fna&oh=6cb77d8a3d104b3432a1a6da735a272d&oe=61805D9A" alt="May be an image of 3 people, people standing, outdoors and tree" width="376" height="500" caption="May be an image of 3 people, people standing, outdoors and tree" />{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-10-01T17:51:23-0700","dateModified":"2021-10-01T17:51:23-0700","identifier":"909511629658415:9:0","url":"https:\/\/www.facebook.com\/AbolishICEDenver\/photos\/a.244432902832961\/909511629658415\/?type=3","isPartOf":"https:\/\/www.facebook.com\/AbolishICEDenver\/","headline":"Abolish ICE Denver added a new photo. - Abolish ICE Denver","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":10230}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Abolish ICE Denver","identifier":244429502833301,"url":"https:\/\/www.facebook.com\/AbolishICEDenver\/","image":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-1\/100648129_609341559675425_5852377949981900800_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=a12de3&_nc_ohc=oWiDu_XF7icAX9KnNoS&_nc_ht=scontent.fapa1-2.fna&oh=c6d0eb1405e9f1df617ad9e440e6bb9f&oe=617E31B9","sameAs":"\u003C\u003Cnot-applicable>>","foundingDate":"2018-07-23T23:19:48-0700"},"image":{"\u0040type":"ImageObject","width":720,"contentUrl":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-9\/244281098_909511632991748_5339597709526103213_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=110474&_nc_ohc=6HWHka9i4j8AX-4pktQ&_nc_ht=scontent.fapa1-2.fna&oh=9d769ef4989ab48c1fdf54a618ad49a5&oe=61806B01","caption":""}}</a><a href="https://www.facebook.com/AbolishICEDenver/photos/pcb.909512319658346/909512079658370/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p168x128/244200645_909512082991703_4237591749541266065_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=110474&_nc_ohc=Aj_Iuv6EbOUAX_yt3dG&_nc_ht=scontent.fapa1-2.fna&oh=cb6aeb6da63c499e0d2dfd0a3f030f4c&oe=6180EC09" alt="May be an image of 3 people, people standing, outdoors and tree" width="165" height="220" caption="May be an image of 3 people, people standing, outdoors and tree" />{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-10-01T17:51:23-0700","dateModified":"2021-10-01T17:51:23-0700","identifier":"909512079658370:9:0","url":"https:\/\/www.facebook.com\/AbolishICEDenver\/photos\/a.244432902832961\/909512079658370\/?type=3","isPartOf":"https:\/\/www.facebook.com\/AbolishICEDenver\/","headline":"Abolish ICE Denver added a new photo. - Abolish ICE Denver","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":10230}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Abolish ICE Denver","identifier":244429502833301,"url":"https:\/\/www.facebook.com\/AbolishICEDenver\/","image":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-1\/100648129_609341559675425_5852377949981900800_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=a12de3&_nc_ohc=oWiDu_XF7icAX9KnNoS&_nc_ht=scontent.fapa1-2.fna&oh=c6d0eb1405e9f1df617ad9e440e6bb9f&oe=617E31B9","sameAs":"\u003C\u003Cnot-applicable>>","foundingDate":"2018-07-23T23:19:48-0700"},"image":{"\u0040type":"ImageObject","width":720,"contentUrl":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-9\/244200645_909512082991703_4237591749541266065_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=110474&_nc_ohc=Aj_Iuv6EbOUAX_yt3dG&_nc_ht=scontent.fapa1-2.fna&oh=fc2c3e28ecf57dc1bbc0913710da0d88&oe=617F2B38","caption":""}}</a><a href="https://www.facebook.com/AbolishICEDenver/photos/pcb.909512319658346/909512012991710/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p168x128/244373118_909512016325043_724814304986392048_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=110474&_nc_ohc=oISFJtWXuMkAX_Y90Ve&_nc_oc=AQl2sxMgplI-XvKgnoi7fI7Paaro7y1oND3YVZ-o2IH3GCUqRxly3TfOvWlpob0s8i4&_nc_ht=scontent.fapa1-2.fna&oh=62c4eea1a85487478234290af2acc2c5&oe=617E8FD3" alt="May be an image of flower" width="165" height="220" caption="May be an image of flower" />{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-10-01T17:51:23-0700","dateModified":"2021-10-01T17:51:23-0700","identifier":"909512012991710:9:0","url":"https:\/\/www.facebook.com\/AbolishICEDenver\/photos\/a.244432902832961\/909512012991710\/?type=3","isPartOf":"https:\/\/www.facebook.com\/AbolishICEDenver\/","headline":"Abolish ICE Denver added a new photo. - Abolish ICE Denver","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":10230}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Abolish ICE Denver","identifier":244429502833301,"url":"https:\/\/www.facebook.com\/AbolishICEDenver\/","image":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-1\/100648129_609341559675425_5852377949981900800_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=a12de3&_nc_ohc=oWiDu_XF7icAX9KnNoS&_nc_ht=scontent.fapa1-2.fna&oh=c6d0eb1405e9f1df617ad9e440e6bb9f&oe=617E31B9","sameAs":"\u003C\u003Cnot-applicable>>","foundingDate":"2018-07-23T23:19:48-0700"},"image":{"\u0040type":"ImageObject","width":720,"contentUrl":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-9\/244373118_909512016325043_724814304986392048_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=110474&_nc_ohc=oISFJtWXuMkAX_Y90Ve&_nc_oc=AQl2sxMgplI-XvKgnoi7fI7Paaro7y1oND3YVZ-o2IH3GCUqRxly3TfOvWlpob0s8i4&_nc_ht=scontent.fapa1-2.fna&oh=5a8d17364e2955ac008c97c5af1a393b&oe=6180C89F","caption":""}}</a><a href="https://www.facebook.com/AbolishICEDenver/photos/pcb.909512319658346/909512109658367/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-9/p168x128/244314452_909512112991700_1201409583955447869_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=110474&_nc_ohc=dGFYiupVHKgAX9QkYI6&_nc_ht=scontent.fapa1-1.fna&oh=e4383e3fed39e7a5fd64fc737e1f6b4e&oe=617E87C6" alt="May be an image of flower" width="165" height="220" caption="May be an image of flower" />+15{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-10-01T17:51:23-0700","dateModified":"2021-10-01T17:51:23-0700","identifier":"909512109658367:9:0","url":"https:\/\/www.facebook.com\/AbolishICEDenver\/photos\/a.244432902832961\/909512109658367\/?type=3","isPartOf":"https:\/\/www.facebook.com\/AbolishICEDenver\/","headline":"Abolish ICE Denver added a new photo. - Abolish ICE Denver","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":10230}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Abolish ICE Denver","identifier":244429502833301,"url":"https:\/\/www.facebook.com\/AbolishICEDenver\/","image":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-1\/100648129_609341559675425_5852377949981900800_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=a12de3&_nc_ohc=oWiDu_XF7icAX9KnNoS&_nc_ht=scontent.fapa1-2.fna&oh=c6d0eb1405e9f1df617ad9e440e6bb9f&oe=617E31B9","sameAs":"\u003C\u003Cnot-applicable>>","foundingDate":"2018-07-23T23:19:48-0700"},"image":{"\u0040type":"ImageObject","width":720,"contentUrl":"https:\/\/scontent.fapa1-1.fna.fbcdn.net\/v\/t1.6435-9\/244314452_909512112991700_1201409583955447869_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=110474&_nc_ohc=dGFYiupVHKgAX9QkYI6&_nc_ht=scontent.fapa1-1.fna&oh=fb8e9d1992b875a448ca3543cf719883&oe=617DFF7B","caption":""}}</a>]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.facebook.com/AbolishICEDenver/posts/909512319658346</guid>
-      <pubDate>Fri, 01 Oct 2021 18:51:23 -0600</pubDate>
-    </item>
-    <item>
-      <title>‪A Florida library once only allowed teens with parental...</title>
-      <link>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4666912583342194/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/acluofcolorado/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.18172-1/cp0/p50x50/21950661_1662566980443451_7358479861831904430_o.jpg?_nc_cat=103&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=TtpI5FMCc58AX8u_kbc&_nc_ht=scontent.fapa1-2.fna&oh=e6c2c64bd431d4d1599bcf457d116edb&oe=61804221" alt="" /></a><a href="https://www.facebook.com/acluofcolorado/">ACLU of Colorado</a><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4666912583342194/"></a><i></i><p>‪A Florida library once only allowed teens with parental permission to check out The Autobiography of Malcolm X, because of its “anti-white racism.” We believe in free expression and speaking truth to power. We read banned books, do you?</p><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4666912583342194/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-9/p526x296/243988008_4666912586675527_8417409244677370385_n.png?_nc_cat=111&ccb=1-5&_nc_sid=8024bb&_nc_ohc=Cc-5m0SFibcAX8YyDtR&_nc_ht=scontent.fapa1-1.fna&oh=86301d1b865207a8f9e656aae6dfac4e&oe=61811CFB" alt="May be an image of 1 person and text that says '#BannedBooksWeek ACLU Malcolm X 479 Many whites are even actually unaware of their own racism, until they face some test, and then their racism emerges in one form or another. pe- MALCOLM TOLD TO THE AUTOBIOGRAPHY OF X the'" width="500" height="500" caption="May be an image of 1 person and text that says '#BannedBooksWeek ACLU Malcolm X 479 Many whites are even actually unaware of their own racism, until they face some test, and then their racism emerges in one form or another. pe- MALCOLM TOLD TO THE AUTOBIOGRAPHY OF X the'" /></a>]]></content:encoded>
-      <author>ACLU of Colorado</author>
-      <guid>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4666912583342194/</guid>
-      <pubDate>Fri, 01 Oct 2021 12:10:30 -0600</pubDate>
-    </item>
-    <item>
-      <title>It&#39;s Banned Books Week, when we remember that books that...</title>
-      <link>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4666905926676193/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/acluofcolorado/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.18172-1/cp0/p50x50/21950661_1662566980443451_7358479861831904430_o.jpg?_nc_cat=103&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=TtpI5FMCc58AX8u_kbc&_nc_ht=scontent.fapa1-2.fna&oh=e6c2c64bd431d4d1599bcf457d116edb&oe=61804221" alt="" /></a><a href="https://www.facebook.com/acluofcolorado/">ACLU of Colorado</a><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4666905926676193/"></a><i></i><p>It's Banned Books Week, when we remember that books that have been banned or challenged like The Hunger Games. Do you have a favorite banned book? Check out our list of some of our favs here <a href="https://www.aclu.org/feature/banned-books">https://www.aclu.org/feature/banned-books</a></p><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4666905926676193/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p526x296/243052119_4666905936676192_4934036251199264558_n.png?_nc_cat=107&ccb=1-5&_nc_sid=8024bb&_nc_ohc=JjQput2AtLgAX9fL8i4&_nc_ht=scontent.fapa1-2.fna&oh=8685f29fe6df13ecf5ed2355406fcf0e&oe=617E4573" alt="May be an image of book and text that says '#BannedBooksWeek ACLU THE UNGER Hunger Games GAMES 19 ames. And may the odds be ever in your favor!" SUZANNE COLLINS'" width="500" height="500" caption="May be an image of book and text that says '#BannedBooksWeek ACLU THE UNGER Hunger Games GAMES 19 ames. And may the odds be ever in your favor!" SUZANNE COLLINS'" /></a>]]></content:encoded>
-      <author>ACLU of Colorado</author>
-      <guid>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4666905926676193/</guid>
-      <pubDate>Fri, 01 Oct 2021 10:16:29 -0600</pubDate>
-    </item>
-    <item>
-      <title>Shere and support</title>
-      <link>https://www.facebook.com/AbolishICEDenver/posts/909250389684539</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/AbolishICEDenver/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/100648129_609341559675425_5852377949981900800_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=oWiDu_XF7icAX9KnNoS&_nc_ht=scontent.fapa1-2.fna&oh=2ec222066455a52740823aa93f7c09c7&oe=617E8E10" alt="" /></a><a href="https://www.facebook.com/AbolishICEDenver/">Abolish ICE Denver</a><a href="https://www.facebook.com/AbolishICEDenver/posts/909250389684539"></a><i></i><p>Shere and support</p><a href="https://www.change.org/p/alexandria-ocasio-cortez-save-the-immigrants?recruiter=951866741&recruited_by_id=d3bc6300-5da0-11e9-ab11-7ff55f2fc29c&utm_source=share_petition&utm_campaign=share_petition&utm_term=tap_basic_share&utm_medium=copylink&utm_content=cl_sharecopy_30774347_en-US%3A4">Save The Immigrants and Refugees<img src="https://external.fapa1-2.fna.fbcdn.net/safe_image.php?d=AQHNmNdT9wCJzRfe&w=540&h=282&url=https%3A%2F%2Fassets.change.org%2Fphotos%2F4%2Ftu%2For%2FMaTUoRtptcvHWSJ-1600x900-noPad.jpg%3F1632371500&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_oe=6ecab&_nc_sid=06c271&ccb=3-5&gt=1&_nc_hash=AQEcpzY8CP5P40f_" alt="" width="500" height="262" caption="" /></a><p>change.org</p><p>Sign the Petition</p>Save The Immigrants and Refugees<a href="https://www.change.org/p/alexandria-ocasio-cortez-save-the-immigrants?recruiter=951866741&recruited_by_id=d3bc6300-5da0-11e9-ab11-7ff55f2fc29c&utm_source=share_petition&utm_campaign=share_petition&utm_term=tap_basic_share&utm_medium=copylink&utm_content=cl_sharecopy_30774347_en-US%3A4">Save The Immigrants and Refugees</a>]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.facebook.com/AbolishICEDenver/posts/909250389684539</guid>
-      <pubDate>Fri, 01 Oct 2021 09:18:21 -0600</pubDate>
-    </item>
-    <item>
-      <title>My eyes are wide open!!!</title>
-      <link>https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/909248439684734/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/AbolishICEDenver/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/100648129_609341559675425_5852377949981900800_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=oWiDu_XF7icAX9KnNoS&_nc_ht=scontent.fapa1-2.fna&oh=2ec222066455a52740823aa93f7c09c7&oe=617E8E10" alt="" /></a><a href="https://www.facebook.com/AbolishICEDenver/">Abolish ICE Denver</a><a href="https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/909248439684734/"></a><i></i><p>My eyes are wide open!!!</p><a href="https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/909248439684734/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p526x296/244114315_909248446351400_3856242445095901765_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=110474&_nc_ohc=LGmKGtbModgAX-hPGz8&_nc_ht=scontent.fapa1-2.fna&oh=6c78dc14f79d184ba4c58fb516b058d8&oe=6180E7F5" alt="May be an image of one or more people and text that says 'USA Haiti'" width="501" height="501" caption="May be an image of one or more people and text that says 'USA Haiti'" /></a>]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/909248439684734/</guid>
-      <pubDate>Fri, 01 Oct 2021 09:13:55 -0600</pubDate>
-    </item>
-    <item>
-      <title>Starting in 2013, various US public schools sought to ban...</title>
-      <link>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4664275766939209/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/acluofcolorado/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.18172-1/cp0/p50x50/21950661_1662566980443451_7358479861831904430_o.jpg?_nc_cat=103&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=TtpI5FMCc58AX8u_kbc&_nc_ht=scontent.fapa1-2.fna&oh=e6c2c64bd431d4d1599bcf457d116edb&oe=61804221" alt="" /></a><a href="https://www.facebook.com/acluofcolorado/">ACLU of Colorado</a><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4664275766939209/"></a><i></i><p>Starting in 2013, various US public schools sought to ban Persepolis, a visual novel written by a woman of color about growing up during the Islamic Revolution. Our voices and stories will never be silenced. We read banned books. <a href="https://www.aclu.org/feature/banned-books">https://www.aclu.org/feature/banned-books</a></p><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4664275766939209/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-9/p526x296/243922408_4664275773605875_5463785475090649492_n.png?_nc_cat=106&ccb=1-5&_nc_sid=8024bb&_nc_ohc=XQlyXNA9XIUAX9trj7H&_nc_ht=scontent.fapa1-1.fna&oh=c60f92a15426b820a87a7e17d187dac2&oe=6180D971" alt="May be an image of 1 person, book and text that says '#BannedBooksWeek ACLU Persepolis 12 Pers&#xe9;polis Marjane Satrapi wanted to be justice, love and the wrath of God all in one. vere NORMA Editorial'" width="500" height="500" caption="May be an image of 1 person, book and text that says '#BannedBooksWeek ACLU Persepolis 12 Pers&#xe9;polis Marjane Satrapi wanted to be justice, love and the wrath of God all in one. vere NORMA Editorial'" /></a>]]></content:encoded>
-      <author>ACLU of Colorado</author>
-      <guid>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4664275766939209/</guid>
-      <pubDate>Thu, 30 Sep 2021 14:49:43 -0600</pubDate>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=Denver-Solidarity-March-118949813177149&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Solidarity-March-118949813177149%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Solidarity-March-118949813177149%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Denver Solidarity March</author>
+      <guid>urn:sha1:396ac708fc157dc6780032caa7397aa68fa091ea</guid>
+      <pubDate>Sun, 03 Oct 2021 17:51:50 -0600</pubDate>
     </item>
     <item>
       <title>Where can i make anti-fascist stickers in town?</title>
@@ -922,132 +917,6 @@ Version: `dev.2020-02-26`</p>
       <pubDate>Thu, 30 Sep 2021 13:23:35 -0600</pubDate>
     </item>
     <item>
-      <title>Please support and shere Guadalupe need help</title>
-      <link>https://www.facebook.com/AbolishICEDenver/posts/908744809735097</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/AbolishICEDenver/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/100648129_609341559675425_5852377949981900800_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=oWiDu_XF7icAX9KnNoS&_nc_ht=scontent.fapa1-2.fna&oh=2ec222066455a52740823aa93f7c09c7&oe=617E8E10" alt="" /></a><a href="https://www.facebook.com/AbolishICEDenver/">Abolish ICE Denver</a><a href="https://www.facebook.com/AbolishICEDenver/posts/908744809735097"></a><i></i><p>Please support and shere Guadalupe need help</p><a href="https://www.gofundme.com/f/help-lupe-pay-for-cancer-hernia-treatment">For the last year, Lupe has been suffering from an abdominal hernia. It’s be… Sofia Halpin needs your support for Help Lupe Pay for Cancer & Hernia Treatment<img src="https://external.fapa1-2.fna.fbcdn.net/safe_image.php?d=AQFiytjW-R-tHSvG&w=540&h=282&url=https%3A%2F%2Fd2g8igdw686xgo.cloudfront.net%2F59793365_1631130140332881_r.jpeg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_oe=6ecab&_nc_sid=06c271&ccb=3-5&gt=1&_nc_hash=AQG3UtUFa55CYk5t" alt="" width="500" height="262" caption="" /></a><p>gofundme.com</p><p>Help Lupe Pay for Cancer & Hernia Treatment, organized by Sofia Halpin</p>For the last year, Lupe has been suffering from an abdominal hernia. It’s be… Sofia Halpin needs your support for Help Lupe Pay for Cancer & Hernia Treatment<a href="https://www.gofundme.com/f/help-lupe-pay-for-cancer-hernia-treatment">For the last year, Lupe has been suffering from an abdominal hernia. It’s be… Sofia Halpin needs your support for Help Lupe Pay for Cancer & Hernia Treatment</a>]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.facebook.com/AbolishICEDenver/posts/908744809735097</guid>
-      <pubDate>Thu, 30 Sep 2021 12:46:08 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bury My Heart at Wounded Knee was banned by a school district...</title>
-      <link>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4664095933623859/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/acluofcolorado/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.18172-1/cp0/p50x50/21950661_1662566980443451_7358479861831904430_o.jpg?_nc_cat=103&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=TtpI5FMCc58AX8u_kbc&_nc_ht=scontent.fapa1-2.fna&oh=e6c2c64bd431d4d1599bcf457d116edb&oe=61804221" alt="" /></a><a href="https://www.facebook.com/acluofcolorado/">ACLU of Colorado</a><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4664095933623859/"></a><i></i><p>Bury My Heart at Wounded Knee was banned by a school district official in Wisconsin in 1974 because “If there’s a possibility that something might be controversial, then why not eliminate it,” the official stated. We couldn't disagree more. What's your favorite banned book? <a href="https://www.aclu.org/feature/banned-books">https://www.aclu.org/feature/banned-books</a></p><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4664095933623859/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-9/p526x296/244100630_4664095936957192_3610434502729594733_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=8024bb&_nc_ohc=bfZv-s2fAo4AX_c-FAE&_nc_ht=scontent.fapa1-1.fna&oh=bb9184f42e12b6aaab1506f75ad7d0d3&oe=618068A1" alt="May be an image of 1 person, book and text that says '#BannedBooksWeek ACLU Vounded Knee 130 "Original, remarkable, finally heartbreaking. Impossible to down." New York Times to They made us many promises, more than can remember, but they never kept but one; they promised to take our land, and they took it. 2nd, BURY MY HEART AT WOUNDED KNEE AN INDIAN HISTORY OF AMERICAN WEST THE DEE BROWN WITH NEW FOREWORD BY HAMPTON SIDES AUTHOR GHOST SOLDIERS AND BLOOD AND THUNDER'" width="500" height="500" caption="May be an image of 1 person, book and text that says '#BannedBooksWeek ACLU Vounded Knee 130 "Original, remarkable, finally heartbreaking. Impossible to down." New York Times to They made us many promises, more than can remember, but they never kept but one; they promised to take our land, and they took it. 2nd, BURY MY HEART AT WOUNDED KNEE AN INDIAN HISTORY OF AMERICAN WEST THE DEE BROWN WITH NEW FOREWORD BY HAMPTON SIDES AUTHOR GHOST SOLDIERS AND BLOOD AND THUNDER'" /></a>]]></content:encoded>
-      <author>ACLU of Colorado</author>
-      <guid>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4664095933623859/</guid>
-      <pubDate>Thu, 30 Sep 2021 12:42:26 -0600</pubDate>
-    </item>
-    <item>
-      <title>Six thousand five hundred and nine children.  Six thousand five...</title>
-      <link>https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/908689143073997/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/AbolishICEDenver/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/100648129_609341559675425_5852377949981900800_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=oWiDu_XF7icAX9KnNoS&_nc_ht=scontent.fapa1-2.fna&oh=2ec222066455a52740823aa93f7c09c7&oe=617E8E10" alt="" /></a><a href="https://www.facebook.com/AbolishICEDenver/">Abolish ICE Denver</a><a href="https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/908689143073997/"></a><i></i><p>Six thousand five hundred and nine children. <br /> Six thousand five hundred and nine children. <br /> Six thousand five hundred and nine children. <br /> Six thousand five hundred and nine children. <br /> Six thousand five hundred and nine children. ...<br /> Six thousand five hundred and nine children.</p> <a href="https://www.facebook.com/AbolishICEDenver/posts/908689209740657">See More</a><a href="https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/908689143073997/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/s600x600/243975529_908689146407330_3992331127067508512_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=110474&_nc_ohc=bFkXuXydSf0AX891DLV&_nc_ht=scontent.fapa1-2.fna&oh=940b947e2f279b1742814e1045e823e2&oe=61813A10" alt="May be an image of text that says 'CURRENTLY, 5,509 INDIGENOUS CHILDREN HAVE BEEN UNEARTHED FROM MASS BURIAL GRAVES IT'S TIME TO BRING OUR CHILDREN HOME, HONOR THOSE WHO SURVIVED AND REMEMBER THOSE WHO NEVER RETURNED HOME.'" width="500" height="596" caption="May be an image of text that says 'CURRENTLY, 5,509 INDIGENOUS CHILDREN HAVE BEEN UNEARTHED FROM MASS BURIAL GRAVES IT'S TIME TO BRING OUR CHILDREN HOME, HONOR THOSE WHO SURVIVED AND REMEMBER THOSE WHO NEVER RETURNED HOME.'" /></a>]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/908689143073997/</guid>
-      <pubDate>Thu, 30 Sep 2021 10:39:45 -0600</pubDate>
-    </item>
-    <item>
-      <title>I’m a third generation survivor 🧡 - Every child matters...</title>
-      <link>https://www.facebook.com/AbolishICEDenver/posts/908611163081795</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/AbolishICEDenver/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/100648129_609341559675425_5852377949981900800_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=oWiDu_XF7icAX9KnNoS&_nc_ht=scontent.fapa1-2.fna&oh=2ec222066455a52740823aa93f7c09c7&oe=617E8E10" alt="" /></a><a href="https://www.facebook.com/AbolishICEDenver/">Abolish ICE Denver</a><a href="https://www.facebook.com/AbolishICEDenver/posts/908611163081795"></a><i></i><p>I’m a third generation survivor 🧡</p><p> -</p><p> Every child matters 🧡</p>...<p> Today is the Day for Truth and Reconciliation, also known as Orange Shirt Day. If you’re an Indigenous ally, take this day [and every day] to learn more about the historical and current realities of Indigenous Peoples 🪶</p><p> -</p><p> For content on Residential Schools, visit the following sites: </p><p> <a href="https://legacyofhope.ca/">https://legacyofhope.ca</a></p><p> <a href="https://nctr.ca/education/teaching-resources/residential-school-history/">https://nctr.ca/…/teaching-reso…/residential-school-history/</a></p><p> <a href="https://education.afn.ca/afntoolkit/learning-module/residential-schools/">https://education.afn.ca/…/learning-mo…/residential-schools/</a></p><p> -</p><p> <a href="https://www.facebook.com/hashtag/everychildmatters">#EveryChildMatters</a> <a href="https://www.facebook.com/hashtag/residentialschools">#ResidentialSchools</a> <a href="https://www.facebook.com/hashtag/truthbeforereconciliation">#TruthBeforeReconciliation</a> <a href="https://www.facebook.com/hashtag/orangeshirtday">#OrangeShirtDay</a> <a href="https://www.facebook.com/hashtag/morethanoneday">#MoreThanOneDay</a></p> <a href="https://www.facebook.com/AbolishICEDenver/posts/908611163081795">See More</a><a href="https://www.facebook.com/AbolishICEDenver/photos/pcb.908611163081795/908611089748469/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p403x403/243969929_908611099748468_5227297664861807296_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=110474&_nc_ohc=GYaxk7Upy7QAX9_abS3&_nc_ht=scontent.fapa1-2.fna&oh=2b793d1d64cc08508bb6650bf58438f6&oe=617FB508" alt="May be an image of one or more people and text" width="389" height="500" caption="May be an image of one or more people and text" />{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-09-30T06:56:36-0700","dateModified":"2021-09-30T06:56:36-0700","identifier":"908611089748469:9:0","url":"https:\/\/www.facebook.com\/AbolishICEDenver\/photos\/a.244432902832961\/908611089748469\/?type=3","isPartOf":"https:\/\/www.facebook.com\/AbolishICEDenver\/","headline":"Abolish ICE Denver added a new photo. - Abolish ICE Denver","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":13},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":5},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":10230}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Abolish ICE Denver","identifier":244429502833301,"url":"https:\/\/www.facebook.com\/AbolishICEDenver\/","image":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-1\/100648129_609341559675425_5852377949981900800_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=a12de3&_nc_ohc=oWiDu_XF7icAX9KnNoS&_nc_ht=scontent.fapa1-2.fna&oh=c6d0eb1405e9f1df617ad9e440e6bb9f&oe=617E31B9","sameAs":"\u003C\u003Cnot-applicable>>","foundingDate":"2018-07-23T23:19:48-0700"},"image":{"\u0040type":"ImageObject","width":746,"contentUrl":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-9\/243969929_908611099748468_5227297664861807296_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=110474&_nc_ohc=GYaxk7Upy7QAX9_abS3&_nc_ht=scontent.fapa1-2.fna&oh=55a81ce02096f5687b055aca95265e6c&oe=617FCC9F","caption":""}}</a><a href="https://www.facebook.com/AbolishICEDenver/photos/pcb.908611163081795/908611109748467/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p526x296/243895093_908611116415133_640635406582899212_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=110474&_nc_ohc=St133haPnWQAX_pr-Yz&_nc_ht=scontent.fapa1-2.fna&oh=42b7f24a6ff5b032c4160b29e4a06a30&oe=61814EA5" alt="May be an image of one or more people and text that says 'EVERY FIRST NATIONS PERSON YOU KNOW IS EITHER A SO OF RESIDENTIAL SCHOOL, A CHILD OF A SURVIVOR, A GRANDCHILD OF A SURVIVOR- OR ALL THREE. PLEASE READ THAT AGAIN, AND LET IT SINK N.'" width="508" height="500" caption="May be an image of one or more people and text that says 'EVERY FIRST NATIONS PERSON YOU KNOW IS EITHER A SO OF RESIDENTIAL SCHOOL, A CHILD OF A SURVIVOR, A GRANDCHILD OF A SURVIVOR- OR ALL THREE. PLEASE READ THAT AGAIN, AND LET IT SINK N.'" />{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-09-30T06:56:36-0700","dateModified":"2021-09-30T06:56:36-0700","identifier":"908611109748467:9:0","url":"https:\/\/www.facebook.com\/AbolishICEDenver\/photos\/a.244432902832961\/908611109748467\/?type=3","isPartOf":"https:\/\/www.facebook.com\/AbolishICEDenver\/","headline":"Abolish ICE Denver added a new photo. - Abolish ICE Denver","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":1},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":10230}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Abolish ICE Denver","identifier":244429502833301,"url":"https:\/\/www.facebook.com\/AbolishICEDenver\/","image":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-1\/100648129_609341559675425_5852377949981900800_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=a12de3&_nc_ohc=oWiDu_XF7icAX9KnNoS&_nc_ht=scontent.fapa1-2.fna&oh=c6d0eb1405e9f1df617ad9e440e6bb9f&oe=617E31B9","sameAs":"\u003C\u003Cnot-applicable>>","foundingDate":"2018-07-23T23:19:48-0700"},"image":{"\u0040type":"ImageObject","width":828,"contentUrl":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-9\/243895093_908611116415133_640635406582899212_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=110474&_nc_ohc=St133haPnWQAX_pr-Yz&_nc_ht=scontent.fapa1-2.fna&oh=9f12f8032838e5d72832a8d62a5ac028&oe=617E03AA","caption":""}}</a>]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.facebook.com/AbolishICEDenver/posts/908611163081795</guid>
-      <pubDate>Thu, 30 Sep 2021 07:56:36 -0600</pubDate>
-    </item>
-    <item>
-      <title>I’m a third generation survivor 🧡 - Every child matters...</title>
-      <link>https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/908585256417719/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/AbolishICEDenver/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/100648129_609341559675425_5852377949981900800_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=oWiDu_XF7icAX9KnNoS&_nc_ht=scontent.fapa1-2.fna&oh=2ec222066455a52740823aa93f7c09c7&oe=617E8E10" alt="" /></a><a href="https://www.facebook.com/AbolishICEDenver/">Abolish ICE Denver</a><a href="https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/908585256417719/"></a><i></i><p>I’m a third generation survivor 🧡</p><p> -</p><p> Every child matters 🧡</p>...<p> Today is the Day for Truth and Reconciliation, also known as Orange Shirt Day. If you’re an Indigenous ally, take this day [and every day] to learn more about the historical and current realities of Indigenous Peoples 🪶</p><p> -</p><p> For content on Residential Schools, visit the following sites: </p><p> <a href="https://legacyofhope.ca/">https://legacyofhope.ca</a></p><p> <a href="https://nctr.ca/education/teaching-resources/residential-school-history/">https://nctr.ca/…/teaching-reso…/residential-school-history/</a></p><p> <a href="https://education.afn.ca/afntoolkit/learning-module/residential-schools/">https://education.afn.ca/…/learning-mo…/residential-schools/</a></p><p> -</p><p> <a href="https://www.facebook.com/hashtag/everychildmatters">#EveryChildMatters</a> <a href="https://www.facebook.com/hashtag/residentialschools">#ResidentialSchools</a> <a href="https://www.facebook.com/hashtag/truthbeforereconciliation">#TruthBeforeReconciliation</a> <a href="https://www.facebook.com/hashtag/orangeshirtday">#OrangeShirtDay</a> <a href="https://www.facebook.com/hashtag/morethanoneday">#MoreThanOneDay</a></p> <a href="https://www.facebook.com/AbolishICEDenver/posts/908585313084380">See More</a><a href="https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/908585256417719/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p526x296/243835338_908585259751052_4304830870202119237_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=110474&_nc_ohc=t0gGlPw7LLMAX-odTBq&_nc_ht=scontent.fapa1-2.fna&oh=1041cfb2c12fad1ca62ac94b1e4d8956&oe=61819B57" alt="May be an image of one or more people and text that says 'EVERY FIRST NATIONS PERSON YOU KNOW IS EITHER A SO OF RESIDENTIAL SCHOOL, A CHILD OF A SURVIVOR, A GRANDCHILD OF A SURVIVOR- OR ALL THREE. PLEASE READ THAT AGAIN, AND LET IT SINK N.'" width="500" height="493" caption="May be an image of one or more people and text that says 'EVERY FIRST NATIONS PERSON YOU KNOW IS EITHER A SO OF RESIDENTIAL SCHOOL, A CHILD OF A SURVIVOR, A GRANDCHILD OF A SURVIVOR- OR ALL THREE. PLEASE READ THAT AGAIN, AND LET IT SINK N.'" /></a>]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/908585256417719/</guid>
-      <pubDate>Thu, 30 Sep 2021 07:06:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>My Mushum/Grandpa &amp; my Kukum/Grandma Linklater  -  Every...</title>
-      <link>https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/908358866440358/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/AbolishICEDenver/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/100648129_609341559675425_5852377949981900800_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=oWiDu_XF7icAX9KnNoS&_nc_ht=scontent.fapa1-2.fna&oh=2ec222066455a52740823aa93f7c09c7&oe=617E8E10" alt="" /></a><a href="https://www.facebook.com/AbolishICEDenver/">Abolish ICE Denver</a><a href="https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/908358866440358/"></a><i></i><p>My Mushum/Grandpa & my Kukum/Grandma Linklater </p><p> - </p><p> Every child matters 🧡</p>...<p> September 30th is the Day for Truth and Reconciliation, also known as Orange Shirt Day. If you’re an Indigenous ally, take this day [and every day] to learn more about the historical and current realities of Indigenous Peoples 🪶</p><p> -</p><p> For content on Residential Schools, visit the following sites: </p><p> <a href="https://legacyofhope.ca/">https://legacyofhope.ca</a></p><p> <a href="https://nctr.ca/education/teaching-resources/residential-school-history/">https://nctr.ca/…/teaching-reso…/residential-school-history/</a></p><p> <a href="https://education.afn.ca/afntoolkit/learning-module/residential-schools/">https://education.afn.ca/…/learning-mo…/residential-schools/</a></p><p> -</p><p> <a href="https://www.facebook.com/hashtag/everychildmatters">#EveryChildMatters</a> <a href="https://www.facebook.com/hashtag/residentialschools">#ResidentialSchools</a> <a href="https://www.facebook.com/hashtag/truthbeforereconciliation">#TruthBeforeReconciliation</a> <a href="https://www.facebook.com/hashtag/orangeshirtday">#OrangeShirtDay</a> <a href="https://www.facebook.com/hashtag/morethanoneday">#MoreThanOneDay</a> <a href="https://www.facebook.com/hashtag/residentialschoolsurvivor">#ResidentialSchoolSurvivor</a></p> <a href="https://www.facebook.com/AbolishICEDenver/posts/908358933107018">See More</a><a href="https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/908358866440358/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p526x296/243716805_908358869773691_6592082846340596249_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=110474&_nc_ohc=b_yfO_lu7vIAX9juUbC&_nc_ht=scontent.fapa1-2.fna&oh=4e554489000bc02649592229e57738fe&oe=61801629" alt="May be an image of one or more people and text that says 'AM ALIVE BECAUSE MY GRANDFATHER SURVIVED. #residentialschoolsurvivor'" width="500" height="500" caption="May be an image of one or more people and text that says 'AM ALIVE BECAUSE MY GRANDFATHER SURVIVED. #residentialschoolsurvivor'" /></a>]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/908358866440358/</guid>
-      <pubDate>Wed, 29 Sep 2021 21:42:51 -0600</pubDate>
-    </item>
-    <item>
-      <title>In 2006 Alison Bechdel&#39;s graphic novel Fun Home was removed...</title>
-      <link>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4660261450673974/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/acluofcolorado/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.18172-1/cp0/p50x50/21950661_1662566980443451_7358479861831904430_o.jpg?_nc_cat=103&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=TtpI5FMCc58AX8u_kbc&_nc_ht=scontent.fapa1-2.fna&oh=e6c2c64bd431d4d1599bcf457d116edb&oe=61804221" alt="" /></a><a href="https://www.facebook.com/acluofcolorado/">ACLU of Colorado</a><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4660261450673974/"></a><i></i><p>In 2006 Alison Bechdel's graphic novel Fun Home was removed from the Marshall Public Library in Missouri for content that was deemed "pornographic." During Banned Books Week and beyond, Americans should have the right to say, think, read, and write whatever they want without fear of government reprisal.</p><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4660261450673974/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p526x296/243469238_4660261457340640_6288307841063461030_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=8024bb&_nc_ohc=o95k-2sojI8AX_yc-JC&_nc_ht=scontent.fapa1-2.fna&oh=9ee56f9d36b597410bf8c2788ab32c45&oe=6180C1F2" alt="May be an image of book and text" width="500" height="500" caption="May be an image of book and text" /></a>]]></content:encoded>
-      <author>ACLU of Colorado</author>
-      <guid>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4660261450673974/</guid>
-      <pubDate>Wed, 29 Sep 2021 09:19:11 -0600</pubDate>
-    </item>
-    <item>
-      <title>Abolish ICE DenverAs he extends Trump-era policies, President Biden discovers that many voters are no longer willing to give him the benefit...</title>
-      <link>https://www.facebook.com/AbolishICEDenver/posts/907777296498515</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/AbolishICEDenver/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/100648129_609341559675425_5852377949981900800_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=oWiDu_XF7icAX9KnNoS&_nc_ht=scontent.fapa1-2.fna&oh=2ec222066455a52740823aa93f7c09c7&oe=617E8E10" alt="" /></a><a href="https://www.facebook.com/AbolishICEDenver/">Abolish ICE Denver</a><a href="https://www.facebook.com/AbolishICEDenver/posts/907777296498515"></a><i></i><a href="https://www.theatlantic.com/ideas/archive/2021/09/democrats-free-pass-on-immigration-is-over/620208/">As he extends Trump-era policies, President Biden discovers that many voters are no longer willing to give him the benefit of the doubt.<img src="https://external.fapa1-2.fna.fbcdn.net/safe_image.php?d=AQHSGgs7dRsVO_bw&w=540&h=282&url=https%3A%2F%2Fcdn.theatlantic.com%2Fthumbor%2Fk9HMUzVqyVS3H3DHICGeMwIRY1Y%3D%2F0x21%3A1023x554%2F960x500%2Fmedia%2Fimg%2Fmt%2F2021%2F09%2FFC90F511_1E55_4F2C_AA67_E7326EC87280%2Foriginal.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_oe=6ecaa&_nc_sid=06c271&ccb=3-5&gt=1&_nc_hash=AQEeoimoOH5EUiPG" alt="" width="500" height="262" caption="" /></a><p>theatlantic.com</p><p>Democrats’ Free Pass on Immigration Is Over</p>As he extends Trump-era policies, President Biden discovers that many voters are no longer willing to give him the benefit of the doubt.<a href="https://www.theatlantic.com/ideas/archive/2021/09/democrats-free-pass-on-immigration-is-over/620208/">As he extends Trump-era policies, President Biden discovers that many voters are no longer willing to give him the benefit of the doubt.</a>]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.facebook.com/AbolishICEDenver/posts/907777296498515</guid>
-      <pubDate>Tue, 28 Sep 2021 22:38:34 -0600</pubDate>
-    </item>
-    <item>
-      <title>Slaughterhouse-Five was challenged at the Owensboro, Kentucky...</title>
-      <link>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4657854547581331/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/acluofcolorado/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.18172-1/cp0/p50x50/21950661_1662566980443451_7358479861831904430_o.jpg?_nc_cat=103&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=TtpI5FMCc58AX8u_kbc&_nc_ht=scontent.fapa1-2.fna&oh=e6c2c64bd431d4d1599bcf457d116edb&oe=61804221" alt="" /></a><a href="https://www.facebook.com/acluofcolorado/">ACLU of Colorado</a><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4657854547581331/"></a><i></i><p>Slaughterhouse-Five was challenged at the Owensboro, Kentucky High School library in 1985 because of "foul language" and other depictions it found objectionable. We believe libraries should always be places of inspiration and information. Everyone should have the right to make up their own mind.</p><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4657854547581331/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p526x296/243586694_4657854554247997_6521460052841982018_n.png?_nc_cat=102&ccb=1-5&_nc_sid=8024bb&_nc_ohc=FYrXKRfTZoAAX_YjVM_&_nc_ht=scontent.fapa1-2.fna&oh=51ee19a6f44fff431b9b86ef5a8eb307&oe=6180BE2C" alt="May be a cartoon of book and text" width="500" height="500" caption="May be a cartoon of book and text" /></a>]]></content:encoded>
-      <author>ACLU of Colorado</author>
-      <guid>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4657854547581331/</guid>
-      <pubDate>Tue, 28 Sep 2021 15:18:27 -0600</pubDate>
-    </item>
-    <item>
-      <title>Voters gave Congress a mandate to create a path to citizenship...</title>
-      <link>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4657612307605555/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/acluofcolorado/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.18172-1/cp0/p50x50/21950661_1662566980443451_7358479861831904430_o.jpg?_nc_cat=103&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=TtpI5FMCc58AX8u_kbc&_nc_ht=scontent.fapa1-2.fna&oh=e6c2c64bd431d4d1599bcf457d116edb&oe=61804221" alt="" /></a><a href="https://www.facebook.com/acluofcolorado/">ACLU of Colorado</a><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4657612307605555/"></a><i></i><p>Voters gave Congress a mandate to create a path to citizenship for Dreamers, TPS holders, and essential workers. Last week’s ruling by the Senate Parliamentarian doesn’t change that - join us in holding Congress accountable. </p><p> <a href="https://go.peoplepower.org/signup/tell-senators-act-now-protect-immigrants/">https://go.peoplepower.org/…/tell-senators-act-now-protect…/</a></p><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4657612307605555/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p261x260/243129221_4657612314272221_4419853444051865190_n.png?_nc_cat=107&ccb=1-5&_nc_sid=8024bb&_nc_ohc=ODS31HeS-mMAX_subil&_nc_ht=scontent.fapa1-2.fna&oh=91f0bcf71b20229e87816da28c14c8a8&oe=618060FC" alt="May be an image of one or more people and text that says 'CALL ON CONGRESS TO SUPPORT CITIZENSHIP FOR IMMIGRANT FAMILIES IGHTS WATCH ACLU'" width="500" height="251" caption="May be an image of one or more people and text that says 'CALL ON CONGRESS TO SUPPORT CITIZENSHIP FOR IMMIGRANT FAMILIES IGHTS WATCH ACLU'" /></a>]]></content:encoded>
-      <author>ACLU of Colorado</author>
-      <guid>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4657612307605555/</guid>
-      <pubDate>Tue, 28 Sep 2021 13:24:10 -0600</pubDate>
-    </item>
-    <item>
-      <title>Abolish ICE DenverSubmit a public comment today to demand President Biden and Democrats in Congress deliver a pathway to...</title>
-      <link>https://www.facebook.com/AbolishICEDenver/posts/907502533192658</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/AbolishICEDenver/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/100648129_609341559675425_5852377949981900800_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=oWiDu_XF7icAX9KnNoS&_nc_ht=scontent.fapa1-2.fna&oh=2ec222066455a52740823aa93f7c09c7&oe=617E8E10" alt="" /></a><a href="https://www.facebook.com/AbolishICEDenver/">Abolish ICE Denver</a><a href="https://www.facebook.com/AbolishICEDenver/posts/907502533192658"></a><i></i><a href="https://comment.homeishere.us/">Submit a public comment today to demand President Biden and Democrats in Congress deliver a pathway to citizenship.<img src="https://external.fapa1-2.fna.fbcdn.net/safe_image.php?d=AQFBiv6Ss0PQThbj&w=540&h=282&url=https%3A%2F%2Fcomment.homeishere.us%2F_next%2Fimage%3Furl%3Dhttps%253A%252F%252Fcomment-wp.homeishere.us%252Fwp-content%252Fuploads%252Fsites%252F2%252F2021%252F09%252FHIH_OG_2.png%26w%3D1200%26h%3D628%26q%3D75&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_oe=6ecaa&_nc_sid=06c271&ccb=3-5&gt=1&_nc_hash=AQEPNuiWNrv0Zxoc" alt="" width="500" height="262" caption="" /></a><p>comment.homeishere.us</p><p>Home Is Here - Submit a DACA Public Comment Today</p>Submit a public comment today to demand President Biden and Democrats in Congress deliver a pathway to citizenship.<a href="https://comment.homeishere.us/">Submit a public comment today to demand President Biden and Democrats in Congress deliver a pathway to citizenship.</a>]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.facebook.com/AbolishICEDenver/posts/907502533192658</guid>
-      <pubDate>Tue, 28 Sep 2021 10:52:35 -0600</pubDate>
-    </item>
-    <item>
-      <title>Abolish ICE DenverAn Aurora Police officer has been placed on paid administrative leave following the release of body camera footage showing...</title>
-      <link>https://www.facebook.com/AbolishICEDenver/posts/907483136527931</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/AbolishICEDenver/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/100648129_609341559675425_5852377949981900800_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=oWiDu_XF7icAX9KnNoS&_nc_ht=scontent.fapa1-2.fna&oh=2ec222066455a52740823aa93f7c09c7&oe=617E8E10" alt="" /></a><a href="https://www.facebook.com/AbolishICEDenver/">Abolish ICE Denver</a><a href="https://www.facebook.com/AbolishICEDenver/posts/907483136527931"></a><i></i><a href="https://www.thedenverchannel.com/news/local-news/body-camera-footage-shows-aurora-officers-tackling-using-taser-on-man">An Aurora Police officer has been placed on paid administrative leave following the release of body camera footage showing a traffic stop that turned violent.<img src="https://external.fapa1-2.fna.fbcdn.net/safe_image.php?d=AQGturddwIJAaXmf&w=540&h=282&url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fdims4%2Fdefault%2Fe8db456%2F2147483647%2Fstrip%2Ftrue%2Fcrop%2F636x334%2B0%2B13%2Fresize%2F1200x630%21%2Fquality%2F90%2F%3Furl%3Dhttp%253A%252F%252Fewscripps-brightspot.s3.amazonaws.com%252Fad%252Ff6%252Ff6569f48465f977b9489dd2b5fec%252Fbody-camera-footage-shows-man-tackled-tased-by-aurora-officers.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_oe=6ecaa&_nc_sid=06c271&ccb=3-5&gt=1&_nc_hash=AQGrdOrOuSqaVGym" alt="" width="500" height="262" caption="" /></a><p>thedenverchannel.com</p><p>Body camera footage shows Aurora officers tackling, using Taser on man</p>An Aurora Police officer has been placed on paid administrative leave following the release of body camera footage showing a traffic stop that turned violent.<a href="https://www.thedenverchannel.com/news/local-news/body-camera-footage-shows-aurora-officers-tackling-using-taser-on-man">An Aurora Police officer has been placed on paid administrative leave following the release of body camera footage showing a traffic stop that turned violent.</a>]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.facebook.com/AbolishICEDenver/posts/907483136527931</guid>
-      <pubDate>Tue, 28 Sep 2021 10:10:12 -0600</pubDate>
-    </item>
-    <item>
-      <title>Hello Denver and beyond, please make sure you mark your...</title>
-      <link>https://www.facebook.com/AbolishICEDenver/posts/907472463195665</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/AbolishICEDenver/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/100648129_609341559675425_5852377949981900800_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=oWiDu_XF7icAX9KnNoS&_nc_ht=scontent.fapa1-2.fna&oh=2ec222066455a52740823aa93f7c09c7&oe=617E8E10" alt="" /></a><a href="https://www.facebook.com/AbolishICEDenver/">Abolish ICE Denver</a><a href="https://www.facebook.com/AbolishICEDenver/posts/907472463195665"></a><i></i><p>Hello Denver and beyond, please make sure you mark your calendar‘s for this Friday, October 1 from 4 to 6 PM.</p><p> Here is what happened: <br /> Alanzo Ashley was at the zoo with his family in 2011. This man began to visibly display symptoms of heat stroke￼￼￼. Alonzo should have been treated with medical care by Zoo staff and any other responding personnel, instead Denver police were called and when they arrived they tackled him and used a taser when they did not need to and as a result... his heart stopped. </p><p> Who took responsibility:<br /> After a 10 year up hill battle with no one from the city or the zoo even offering as little as an apology to the family in the mourning or a community in outrage￼. After a law suit and many years of protesting outside of the zoo, after distributing water bottles and information regarding what happened.￼￼</p><p> October 1st from 4:00 - 6:00:<br /> The zoo staff coordinated by Dr. Mosby Tyler have been working with ￼the family, around the development of a water fountain and cooling station in memory of Alonzo Ashley. This memorial will be unveiled this Friday, October 1 between 4 PM and 6 PM. Friends Family and Community are welcome￼￼, Zoo admission will be free to those who attend.</p><p> Link to event here:</p><p> <a href="https://www.facebook.com/events/541435653623950/">https://facebook.com/events/s/in-memory-of-alonzo-ashley/541435653623950/</a></p> <a href="https://www.facebook.com/AbolishICEDenver/posts/907472463195665">See More</a><a href="https://www.facebook.com/AbolishICEDenver/photos/pcb.907472463195665/907472296529015/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-9/p403x403/243260638_907472306529014_941932484324041692_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=110474&_nc_ohc=xWki1lc1Zn8AX8WkiwL&_nc_ht=scontent.fapa1-1.fna&oh=826455fa6e6d7b55ee7a8d3ab5b1f6c8&oe=617F5647" alt="May be an image of 1 person, child, standing and indoor" width="376" height="500" caption="May be an image of 1 person, child, standing and indoor" />{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-09-28T08:49:48-0700","dateModified":"2021-09-28T08:49:48-0700","identifier":"907472296529015:9:0","url":"https:\/\/www.facebook.com\/AbolishICEDenver\/photos\/a.244432902832961\/907472296529015\/?type=3","isPartOf":"https:\/\/www.facebook.com\/AbolishICEDenver\/","headline":"Abolish ICE Denver added a new photo. - Abolish ICE Denver","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":10230}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Abolish ICE Denver","identifier":244429502833301,"url":"https:\/\/www.facebook.com\/AbolishICEDenver\/","image":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-1\/100648129_609341559675425_5852377949981900800_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=a12de3&_nc_ohc=oWiDu_XF7icAX9KnNoS&_nc_ht=scontent.fapa1-2.fna&oh=c6d0eb1405e9f1df617ad9e440e6bb9f&oe=617E31B9","sameAs":"\u003C\u003Cnot-applicable>>","foundingDate":"2018-07-23T23:19:48-0700"},"image":{"\u0040type":"ImageObject","width":720,"contentUrl":"https:\/\/scontent.fapa1-1.fna.fbcdn.net\/v\/t1.6435-9\/243260638_907472306529014_941932484324041692_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=110474&_nc_ohc=xWki1lc1Zn8AX8WkiwL&_nc_ht=scontent.fapa1-1.fna&oh=b873dd8239e22f6fccb81594ee833dfa&oe=6180F49D","caption":""}}</a><a href="https://www.facebook.com/AbolishICEDenver/photos/pcb.907472463195665/907472396529005/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p168x128/243223377_907472403195671_4006904608920578436_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=110474&_nc_ohc=yaX_uGim5d0AX-Gzd4x&_nc_ht=scontent.fapa1-2.fna&oh=769dd21a3602f49744b505c9e864f0a5&oe=61805F4D" alt="May be an image of 1 person" width="165" height="220" caption="May be an image of 1 person" />{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-09-28T08:49:48-0700","dateModified":"2021-09-28T08:49:48-0700","identifier":"907472396529005:9:0","url":"https:\/\/www.facebook.com\/AbolishICEDenver\/photos\/a.244432902832961\/907472396529005\/?type=3","isPartOf":"https:\/\/www.facebook.com\/AbolishICEDenver\/","headline":"Abolish ICE Denver added a new photo. - Abolish ICE Denver","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":10230}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Abolish ICE Denver","identifier":244429502833301,"url":"https:\/\/www.facebook.com\/AbolishICEDenver\/","image":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-1\/100648129_609341559675425_5852377949981900800_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=a12de3&_nc_ohc=oWiDu_XF7icAX9KnNoS&_nc_ht=scontent.fapa1-2.fna&oh=c6d0eb1405e9f1df617ad9e440e6bb9f&oe=617E31B9","sameAs":"\u003C\u003Cnot-applicable>>","foundingDate":"2018-07-23T23:19:48-0700"},"image":{"\u0040type":"ImageObject","width":720,"contentUrl":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-9\/243223377_907472403195671_4006904608920578436_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=110474&_nc_ohc=yaX_uGim5d0AX-Gzd4x&_nc_ht=scontent.fapa1-2.fna&oh=a957d0345c75526595ee206d933a037a&oe=61809A74","caption":""}}</a><a href="https://www.facebook.com/AbolishICEDenver/photos/pcb.907472463195665/907472369862341/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-9/p168x128/243340728_907472376529007_6975803859437711553_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=110474&_nc_ohc=GBvQaXBSoAoAX_3Ivqi&_nc_ht=scontent.fapa1-1.fna&oh=40cda34a5a54637aceb6b2493368582c&oe=6180DF60" alt="May be an image of 1 person and body of water" width="165" height="220" caption="May be an image of 1 person and body of water" />{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-09-28T08:49:48-0700","dateModified":"2021-09-28T08:49:48-0700","identifier":"907472369862341:9:0","url":"https:\/\/www.facebook.com\/AbolishICEDenver\/photos\/a.244432902832961\/907472369862341\/?type=3","isPartOf":"https:\/\/www.facebook.com\/AbolishICEDenver\/","headline":"Abolish ICE Denver added a new photo. - Abolish ICE Denver","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":10230}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Abolish ICE Denver","identifier":244429502833301,"url":"https:\/\/www.facebook.com\/AbolishICEDenver\/","image":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-1\/100648129_609341559675425_5852377949981900800_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=a12de3&_nc_ohc=oWiDu_XF7icAX9KnNoS&_nc_ht=scontent.fapa1-2.fna&oh=c6d0eb1405e9f1df617ad9e440e6bb9f&oe=617E31B9","sameAs":"\u003C\u003Cnot-applicable>>","foundingDate":"2018-07-23T23:19:48-0700"},"image":{"\u0040type":"ImageObject","width":720,"contentUrl":"https:\/\/scontent.fapa1-1.fna.fbcdn.net\/v\/t1.6435-9\/243340728_907472376529007_6975803859437711553_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=110474&_nc_ohc=GBvQaXBSoAoAX_3Ivqi&_nc_ht=scontent.fapa1-1.fna&oh=79f8ae5a1fd9b17f5466e3e2a6f22ba3&oe=617F8F61","caption":""}}</a><a href="https://www.facebook.com/AbolishICEDenver/photos/pcb.907472463195665/907472316529013/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p168x128/243434806_907472326529012_1632281658614077927_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=110474&_nc_ohc=ZlGw6LVjeOQAX_J-tu6&_nc_ht=scontent.fapa1-2.fna&oh=88ce698a148322975672744fa60af346&oe=6180080C" alt="May be an image of 2 people and people standing" width="165" height="220" caption="May be an image of 2 people and people standing" />{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-09-28T08:49:48-0700","dateModified":"2021-09-28T08:49:48-0700","identifier":"907472316529013:9:0","url":"https:\/\/www.facebook.com\/AbolishICEDenver\/photos\/a.244432902832961\/907472316529013\/?type=3","isPartOf":"https:\/\/www.facebook.com\/AbolishICEDenver\/","headline":"Abolish ICE Denver added a new photo. - Abolish ICE Denver","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":10230}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Abolish ICE Denver","identifier":244429502833301,"url":"https:\/\/www.facebook.com\/AbolishICEDenver\/","image":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-1\/100648129_609341559675425_5852377949981900800_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=a12de3&_nc_ohc=oWiDu_XF7icAX9KnNoS&_nc_ht=scontent.fapa1-2.fna&oh=c6d0eb1405e9f1df617ad9e440e6bb9f&oe=617E31B9","sameAs":"\u003C\u003Cnot-applicable>>","foundingDate":"2018-07-23T23:19:48-0700"},"image":{"\u0040type":"ImageObject","width":720,"contentUrl":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-9\/243434806_907472326529012_1632281658614077927_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=110474&_nc_ohc=ZlGw6LVjeOQAX_J-tu6&_nc_ht=scontent.fapa1-2.fna&oh=b8b18e53dab1356416deb6265c9f89cf&oe=61808E35","caption":""}}</a>]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.facebook.com/AbolishICEDenver/posts/907472463195665</guid>
-      <pubDate>Tue, 28 Sep 2021 09:49:48 -0600</pubDate>
-    </item>
-    <item>
-      <title>All people need more atención in this big problem, more...</title>
-      <link>https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/907029169906661/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/AbolishICEDenver/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/100648129_609341559675425_5852377949981900800_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=oWiDu_XF7icAX9KnNoS&_nc_ht=scontent.fapa1-2.fna&oh=2ec222066455a52740823aa93f7c09c7&oe=617E8E10" alt="" /></a><a href="https://www.facebook.com/AbolishICEDenver/">Abolish ICE Denver</a><a href="https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/907029169906661/"></a><i></i><p>All people need more atención in this big problem, more publicity, more equally</p><a href="https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/907029169906661/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p480x480/243252898_907029179906660_4871998164034145171_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=110474&_nc_ohc=H3A3xfNS4j4AX8qv9_E&_nc_ht=scontent.fapa1-2.fna&oh=ba7934f29ae922743d9d4cb5d6adeda5&oe=618185AC" alt="May be an image of 1 person and text that says '710 Indigenous people, mostly girls, were reported missing over the past decade in Wyoming, the same state where Gabby Petito disappeared. How come none of THEM have gotten wall-to-wall coverage?'" width="500" height="476" caption="May be an image of 1 person and text that says '710 Indigenous people, mostly girls, were reported missing over the past decade in Wyoming, the same state where Gabby Petito disappeared. How come none of THEM have gotten wall-to-wall coverage?'" /></a>]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/907029169906661/</guid>
-      <pubDate>Mon, 27 Sep 2021 16:19:57 -0600</pubDate>
-    </item>
-    <item>
       <title>Take Action: “Why do you vote” writing contest</title>
       <link>https://www.reddit.com/r/DenverProtests/comments/pw0q49/take_action_why_do_you_vote_writing_contest/</link>
       <description></description>
@@ -1055,69 +924,6 @@ Version: `dev.2020-02-26`</p>
       <author>r/DenverProtests</author>
       <guid>https://www.reddit.com/r/DenverProtests/comments/pw0q49/take_action_why_do_you_vote_writing_contest/</guid>
       <pubDate>Sun, 26 Sep 2021 13:37:17 -0600</pubDate>
-    </item>
-    <item>
-      <title>Happy Banned Books Week from all of us at the ACLU. We read...</title>
-      <link>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4650458161654303/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/acluofcolorado/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.18172-1/cp0/p50x50/21950661_1662566980443451_7358479861831904430_o.jpg?_nc_cat=103&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=TtpI5FMCc58AX8u_kbc&_nc_ht=scontent.fapa1-2.fna&oh=e6c2c64bd431d4d1599bcf457d116edb&oe=61804221" alt="" /></a><a href="https://www.facebook.com/acluofcolorado/">ACLU of Colorado</a><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4650458161654303/"></a><i></i><p>Happy Banned Books Week from all of us at the ACLU. We read banned books — do you?</p><p> <a href="https://www.aclu.org/feature/banned-books">https://www.aclu.org/feature/banned-books</a></p><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4650458161654303/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-9/p526x296/242968464_4650458174987635_8933443352315114313_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=8024bb&_nc_ohc=-1DifAQ0yBAAX-o1gGi&_nc_ht=scontent.fapa1-1.fna&oh=7c4d5e4ea1a0af016ff1745bd0a1ec24&oe=6180EEB1" alt="May be a cartoon of book and text that says '#BannedBooksWeek ACLU Harry Potter THE and the Sorcerer's Stone SORCERERS AND STONE 31 &#x201d;im evenheMuggleshave &#xdb;h" "There is no good and evil, there is only power...and those too weak to seek it." ething DOWLING'" width="500" height="500" caption="May be a cartoon of book and text that says '#BannedBooksWeek ACLU Harry Potter THE and the Sorcerer's Stone SORCERERS AND STONE 31 &#x201d;im evenheMuggleshave &#xdb;h" "There is no good and evil, there is only power...and those too weak to seek it." ething DOWLING'" /></a>]]></content:encoded>
-      <author>ACLU of Colorado</author>
-      <guid>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4650458161654303/</guid>
-      <pubDate>Sun, 26 Sep 2021 09:20:40 -0600</pubDate>
-    </item>
-    <item>
-      <title>On Monday Lupe received a cancer diagnosis. She’s been...</title>
-      <link>https://www.facebook.com/AbolishICEDenver/posts/904702166806028</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/AbolishICEDenver/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/100648129_609341559675425_5852377949981900800_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=oWiDu_XF7icAX9KnNoS&_nc_ht=scontent.fapa1-2.fna&oh=2ec222066455a52740823aa93f7c09c7&oe=617E8E10" alt="" /></a><a href="https://www.facebook.com/AbolishICEDenver/">Abolish ICE Denver</a><a href="https://www.facebook.com/AbolishICEDenver/posts/904702166806028"></a><i></i><p>On Monday Lupe received a cancer diagnosis. She’s been suffering from a hernia for the last year, which has gone untreated because the hospital wouldn’t operate on someone without health insurance. While monitoring the hernia, they discovered that she also has renal cancer. The full story and a link to her gofundme can be found at <a href="https://www.gofundme.com/f/help-lupe-pay-for-cancer-hernia-treatment">https://www.gofundme.com/f/help-lupe-pay-for-cancer-hernia-…</a>. Please share, support, and pray for her full recovery. ❤️</p><a href="https://www.gofundme.com/f/help-lupe-pay-for-cancer-hernia-treatment">For the last year, Lupe has been suffering from an abdominal hernia. It’s be… Sofia Halpin needs your support for Help Lupe Pay for Cancer & Hernia Treatment<img src="https://external.fapa1-2.fna.fbcdn.net/safe_image.php?d=AQFiytjW-R-tHSvG&w=540&h=282&url=https%3A%2F%2Fd2g8igdw686xgo.cloudfront.net%2F59793365_1631130140332881_r.jpeg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_oe=6ecab&_nc_sid=06c271&ccb=3-5&gt=1&_nc_hash=AQG3UtUFa55CYk5t" alt="" width="500" height="262" caption="" /></a><p>gofundme.com</p><p>Help Lupe Pay for Cancer & Hernia Treatment, organized by Sofia Halpin</p>For the last year, Lupe has been suffering from an abdominal hernia. It’s be… Sofia Halpin needs your support for Help Lupe Pay for Cancer & Hernia Treatment<a href="https://www.gofundme.com/f/help-lupe-pay-for-cancer-hernia-treatment">For the last year, Lupe has been suffering from an abdominal hernia. It’s be… Sofia Halpin needs your support for Help Lupe Pay for Cancer & Hernia Treatment</a>]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.facebook.com/AbolishICEDenver/posts/904702166806028</guid>
-      <pubDate>Thu, 23 Sep 2021 22:09:28 -0600</pubDate>
-    </item>
-    <item>
-      <title>This is American history</title>
-      <link>https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/904472160162362/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/AbolishICEDenver/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/100648129_609341559675425_5852377949981900800_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=oWiDu_XF7icAX9KnNoS&_nc_ht=scontent.fapa1-2.fna&oh=2ec222066455a52740823aa93f7c09c7&oe=617E8E10" alt="" /></a><a href="https://www.facebook.com/AbolishICEDenver/">Abolish ICE Denver</a><a href="https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/904472160162362/"></a><i></i><p>This is American history</p><a href="https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/904472160162362/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-9/p526x296/242764995_904472166829028_748956291603365452_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=110474&_nc_ohc=RZFWPJHSTl4AX_6-ZVC&_nc_ht=scontent.fapa1-1.fna&oh=7d7556373dbadf1beb6cf5eed8fb79ec&oe=617F8A97" alt="May be a Twitter screenshot of one or more people, people standing and text" width="501" height="502" caption="May be a Twitter screenshot of one or more people, people standing and text" /></a>]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.facebook.com/AbolishICEDenver/photos/a.244432902832961/904472160162362/</guid>
-      <pubDate>Thu, 23 Sep 2021 12:50:22 -0600</pubDate>
-    </item>
-    <item>
-      <title>Register for our Bill of Rights Event to watch a special musical...</title>
-      <link>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4640662219300564/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/acluofcolorado/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.18172-1/cp0/p50x50/21950661_1662566980443451_7358479861831904430_o.jpg?_nc_cat=103&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=TtpI5FMCc58AX8u_kbc&_nc_ht=scontent.fapa1-2.fna&oh=e6c2c64bd431d4d1599bcf457d116edb&oe=61804221" alt="" /></a><a href="https://www.facebook.com/acluofcolorado/">ACLU of Colorado</a><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4640662219300564/"></a><i></i><p>Register for our Bill of Rights Event to watch a special musical performance from Denver-based artist Neoma and hear what LGBTQ+ and immigrants’ rights mean to her. Visit <a href="https://aclu-co.org/bill-of-rights-event-2021/">https://aclu-co.org/bill-of-rights-event-2021/</a></p><p> Inscríbase en nuestro evento sobre la Declaración de Derechos para ver una actuación musical especial de la artista de Denver Neoma y escuchar lo que significan para ella los derechos de los inmigrantes y de los LGBTQ+. Visite <a href="https://aclu-co.org/bill-of-rights-event-2021/">https://aclu-co.org/bill-of-rights-event-2021/</a></p><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4640662219300564/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-9/p180x540/242752709_4640662235967229_1080662038921881898_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8024bb&_nc_ohc=0v0EUc8M2JsAX88K68C&_nc_ht=scontent.fapa1-1.fna&oh=1eea1cc7e8ff246b26939b1caa6165f5&oe=6181BD2F" alt="May be a closeup of 1 person" width="500" height="515" caption="May be a closeup of 1 person" /></a>]]></content:encoded>
-      <author>ACLU of Colorado</author>
-      <guid>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4640662219300564/</guid>
-      <pubDate>Thu, 23 Sep 2021 11:44:29 -0600</pubDate>
-    </item>
-    <item>
-      <title>The deportation of Haitian migrants is a stark example of how...</title>
-      <link>https://www.facebook.com/AbolishICEDenver/posts/904378613505050</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/AbolishICEDenver/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/100648129_609341559675425_5852377949981900800_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=oWiDu_XF7icAX9KnNoS&_nc_ht=scontent.fapa1-2.fna&oh=2ec222066455a52740823aa93f7c09c7&oe=617E8E10" alt="" /></a><a href="https://www.facebook.com/AbolishICEDenver/">Abolish ICE Denver</a><a href="https://www.facebook.com/AbolishICEDenver/posts/904378613505050"></a><i></i><p>The deportation of Haitian migrants is a stark example of how President Biden has deployed some of the most aggressive approaches to immigration put in place by former President Donald J. Trump. </p><p> The images could have come straight from former President Donald J. Trump’s immigration playbook: mounted Border Patrol agents rounding up desperate Haitian families at the southwestern border for rapid deportation from the United States.</p><p> In fact, the aggressive effort to quickly cle...</p><a href="https://www.facebook.com/AbolishICEDenver/posts/904378613505050">Continue Reading</a><a href="https://www.nytimes.com/2021/09/22/us/politics/biden-immigration-border-haitians.html?referringSource=articleShare">The deportation of Haitian migrants is a stark example of how President Biden has deployed some of the most aggressive approaches to immigration put in place by former President Donald J. Trump.<img src="https://external.fapa1-2.fna.fbcdn.net/safe_image.php?d=AQFomAHr7MINYHdR&w=540&h=282&url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2021%2F09%2F22%2Fus%2Fpolitics%2F22dc-immig-1%2Fmerlin_195099045_2e35ec91-6872-4e23-956e-a5ab44919306-facebookJumbo.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_oe=6ecaa&_nc_sid=06c271&ccb=3-5&gt=1&_nc_hash=AQHswmiGMo3LoxAq" alt="" width="500" height="262" caption="" /></a><p>nytimes.com</p><p>Biden Pushes Deterrent Border Policy After Promising ‘Humane’ Approach</p>The deportation of Haitian migrants is a stark example of how President Biden has deployed some of the most aggressive approaches to immigration put in place by former President Donald J. Trump.<a href="https://www.nytimes.com/2021/09/22/us/politics/biden-immigration-border-haitians.html?referringSource=articleShare">The deportation of Haitian migrants is a stark example of how President Biden has deployed some of the most aggressive approaches to immigration put in place by former President Donald J. Trump.</a>]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.facebook.com/AbolishICEDenver/posts/904378613505050</guid>
-      <pubDate>Thu, 23 Sep 2021 09:40:20 -0600</pubDate>
-    </item>
-    <item>
-      <title>Abolish ICE DenverDHS told NBC News it is not sending &#34;and will not send Haitian nationals being encountered at the southwest border&#34; to the...</title>
-      <link>https://www.facebook.com/AbolishICEDenver/posts/904307950178783</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/AbolishICEDenver/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/100648129_609341559675425_5852377949981900800_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=oWiDu_XF7icAX9KnNoS&_nc_ht=scontent.fapa1-2.fna&oh=2ec222066455a52740823aa93f7c09c7&oe=617E8E10" alt="" /></a><a href="https://www.facebook.com/AbolishICEDenver/">Abolish ICE Denver</a><a href="https://www.facebook.com/AbolishICEDenver/posts/904307950178783"></a><i></i><a href="https://www.nbcnews.com/politics/immigration/biden-admin-seeks-contractor-run-migrant-detention-facility-gitmo-guards-n1279886">DHS told NBC News it is not sending "and will not send Haitian nationals being encountered at the southwest border" to the Guantanamo Bay facility.<img src="https://external.fapa1-2.fna.fbcdn.net/safe_image.php?d=AQHVvfd5xhe8j9LY&w=540&h=282&url=https%3A%2F%2Fmedia-cldnry.s-nbcnews.com%2Fimage%2Fupload%2Ft_nbcnews-fp-1200-630%2Cf_auto%2Cq_auto%3Abest%2Fnewscms%2F2021_38%2F3507666%2F210922-guantanmo-bay-jm-1608.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_oe=6ecaa&_nc_sid=06c271&ccb=3-5&gt=1&_nc_hash=AQGKgEFwXQ6DlQAi" alt="" width="500" height="262" caption="" /></a><p>nbcnews.com</p><p>Biden administration seeks contractor to run migrant detention facility at Gitmo</p>DHS told NBC News it is not sending "and will not send Haitian nationals being encountered at the southwest border" to the Guantanamo Bay facility.<a href="https://www.nbcnews.com/politics/immigration/biden-admin-seeks-contractor-run-migrant-detention-facility-gitmo-guards-n1279886">DHS told NBC News it is not sending "and will not send Haitian nationals being encountered at the southwest border" to the Guantanamo Bay facility.</a>]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.facebook.com/AbolishICEDenver/posts/904307950178783</guid>
-      <pubDate>Thu, 23 Sep 2021 07:21:31 -0600</pubDate>
-    </item>
-    <item>
-      <title>Abolish ICE DenverNowThis Politics was live.HOUSE DEMS ON DISTURBING BORDER PICS: Democratic representatives hold a press conference on the...</title>
-      <link>https://www.facebook.com/AbolishICEDenver/posts/903913410218237</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/AbolishICEDenver/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/100648129_609341559675425_5852377949981900800_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=oWiDu_XF7icAX9KnNoS&_nc_ht=scontent.fapa1-2.fna&oh=2ec222066455a52740823aa93f7c09c7&oe=617E8E10" alt="" /></a><a href="https://www.facebook.com/AbolishICEDenver/">Abolish ICE Denver</a><a href="https://www.facebook.com/AbolishICEDenver/posts/903913410218237"></a><i></i><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t15.5256-10/242217654_457724735393227_3923053786514075536_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=f2c4d5&_nc_ohc=JC11vYMV_UYAX_5dBXE&_nc_ht=scontent.fapa1-1.fna&oh=ef6bf370351635e79cd1c89f817e7b1a&oe=615E56BC" /><a href="https://www.facebook.com/NowThisPolitics/">NowThis Politics<a href="https://www.facebook.com/NowThisPolitics/"></a></a> was live.<a href="https://www.facebook.com/NowThisPolitics/videos/457713055394395/"></a><p>HOUSE DEMS ON DISTURBING BORDER PICS: Democratic representatives hold a press conference on the mistreatment of Haitian migrants at the U.S.-Mexico border.</p>]]></content:encoded>
-      <author>Abolish ICE Denver</author>
-      <guid>https://www.facebook.com/AbolishICEDenver/posts/903913410218237</guid>
-      <pubDate>Wed, 22 Sep 2021 14:24:06 -0600</pubDate>
     </item>
     <item>
       <title>Stop All Evictions! Denver Car Protest | National Day of Protest (Sunday, 9/26 @ 2PM)</title>
@@ -1138,33 +944,6 @@ Version: `dev.2020-02-26`</p>
       <pubDate>Tue, 21 Sep 2021 22:50:09 -0600</pubDate>
     </item>
     <item>
-      <title>We are so excited to announce that Neoma, an Ecuadorian pop...</title>
-      <link>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4634221033278016/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/acluofcolorado/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.18172-1/cp0/p50x50/21950661_1662566980443451_7358479861831904430_o.jpg?_nc_cat=103&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=TtpI5FMCc58AX8u_kbc&_nc_ht=scontent.fapa1-2.fna&oh=e6c2c64bd431d4d1599bcf457d116edb&oe=61804221" alt="" /></a><a href="https://www.facebook.com/acluofcolorado/">ACLU of Colorado</a><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4634221033278016/"></a><i></i><p>We are so excited to announce that Neoma, an Ecuadorian pop musician who currently lives in Denver, will join us as our Bill of Rights Event musical guest! Register for our free event to hear Neoma’s dreamy, acoustic set at <a href="https://aclu-co.org/bill-of-rights-event-2021/">https://aclu-co.org/bill-of-rights-event-2021/</a>.</p><p> Estamos muy contentos de anunciar que Neoma, una artista pop ecuatoriana que actualmente vive en Denver, ¡se unirá a nosotros como nuestra invitada musical del Evento sobre la Declaración de Derechos! Regístrese en nuestro evento gratuito para escuchar el set acústico y de ensueño de Neoma en <a href="https://aclu-co.org/bill-of-rights-event-2021/">https://aclu-co.org/bill-of-rights-event-2021/</a>.</p><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4634221033278016/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-9/p526x296/242490963_4634221039944682_6583935070980078860_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=8024bb&_nc_ohc=UY3gzxLtuowAX_ZNXTO&_nc_ht=scontent.fapa1-1.fna&oh=dd51a81e5f90c27b60966480317f5de6&oe=61803174" alt="May be an image of 1 person and text that says 'ACLU CO Join Musical Guest Neoma At the 2021 Bill of Rights Event'" width="500" height="282" caption="May be an image of 1 person and text that says 'ACLU CO Join Musical Guest Neoma At the 2021 Bill of Rights Event'" /></a>]]></content:encoded>
-      <author>ACLU of Colorado</author>
-      <guid>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4634221033278016/</guid>
-      <pubDate>Tue, 21 Sep 2021 15:10:38 -0600</pubDate>
-    </item>
-    <item>
-      <title>Our virtual Bill of Rights Event hosted by Executive Director,...</title>
-      <link>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4634185926614860/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/acluofcolorado/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.18172-1/cp0/p50x50/21950661_1662566980443451_7358479861831904430_o.jpg?_nc_cat=103&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=TtpI5FMCc58AX8u_kbc&_nc_ht=scontent.fapa1-2.fna&oh=e6c2c64bd431d4d1599bcf457d116edb&oe=61804221" alt="" /></a><a href="https://www.facebook.com/acluofcolorado/">ACLU of Colorado</a><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4634185926614860/"></a><i></i><p>Our virtual Bill of Rights Event hosted by Executive Director, Deborah Richardson is coming up! Don’t miss your chance to hear directly from our incredible new leader while enjoying a night of celebration and community-building. Register for our Oct. 7 event today at <a href="https://acluco.org/BoRE21">https://acluco.org/BoRE21</a>.</p><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4634185926614860/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p526x296/242632044_4634185933281526_9048022964003258723_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8024bb&_nc_ohc=X6mz2EN1B5wAX_Glegn&_nc_ht=scontent.fapa1-2.fna&oh=2bcff47b8fa931ea396d89f1296ceb78&oe=617FA570" alt="May be an image of 1 person and text that says 'ACLU CO Join ACLU of Colorado Executive Director Deborah Richardson At the 2021 Bill of Rights Event'" width="500" height="282" caption="May be an image of 1 person and text that says 'ACLU CO Join ACLU of Colorado Executive Director Deborah Richardson At the 2021 Bill of Rights Event'" /></a>]]></content:encoded>
-      <author>ACLU of Colorado</author>
-      <guid>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4634185926614860/</guid>
-      <pubDate>Tue, 21 Sep 2021 14:00:05 -0600</pubDate>
-    </item>
-    <item>
-      <title>“The Facility,” is now available for public viewing. This...</title>
-      <link>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4617132921653494/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/acluofcolorado/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.18172-1/cp0/p50x50/21950661_1662566980443451_7358479861831904430_o.jpg?_nc_cat=103&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=TtpI5FMCc58AX8u_kbc&_nc_ht=scontent.fapa1-2.fna&oh=e6c2c64bd431d4d1599bcf457d116edb&oe=61804221" alt="" /></a><a href="https://www.facebook.com/acluofcolorado/">ACLU of Colorado</a><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4617132921653494/"></a><i></i><p>“The Facility,” is now available for public viewing. This short documentary film addresses the personal loss and consequences of for-profit immigration detention and chronicles the lives of people detained at the GEO facility in Aurora.</p><p> <a href="https://www.thefacilitymovie.com/">https://www.thefacilitymovie.com</a></p><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4617132921653494/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-9/s526x296/242098303_4617132931653493_3703103946569016164_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=8024bb&_nc_ohc=6pKIEbuOYBIAX9XYrgZ&_nc_ht=scontent.fapa1-1.fna&oh=bce3593bca8015979688089265f3175d&oe=61806552" alt="May be an image of 1 person, outdoors and text" width="500" height="262" caption="May be an image of 1 person, outdoors and text" /></a>]]></content:encoded>
-      <author>ACLU of Colorado</author>
-      <guid>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4617132921653494/</guid>
-      <pubDate>Thu, 16 Sep 2021 10:01:37 -0600</pubDate>
-    </item>
-    <item>
       <title>Oh you mean the department that captured James Holmes alive?</title>
       <link>https://www.reddit.com/r/DenverProtests/comments/pp4k64/oh_you_mean_the_department_that_captured_james/</link>
       <description></description>
@@ -1172,33 +951,6 @@ Version: `dev.2020-02-26`</p>
       <author>r/DenverProtests</author>
       <guid>https://www.reddit.com/r/DenverProtests/comments/pp4k64/oh_you_mean_the_department_that_captured_james/</guid>
       <pubDate>Wed, 15 Sep 2021 20:29:41 -0600</pubDate>
-    </item>
-    <item>
-      <title>Today is the first day of Latinx/Hispanic Heritage Month and...</title>
-      <link>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4614798091886977/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/acluofcolorado/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.18172-1/cp0/p50x50/21950661_1662566980443451_7358479861831904430_o.jpg?_nc_cat=103&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=TtpI5FMCc58AX8u_kbc&_nc_ht=scontent.fapa1-2.fna&oh=e6c2c64bd431d4d1599bcf457d116edb&oe=61804221" alt="" /></a><a href="https://www.facebook.com/acluofcolorado/">ACLU of Colorado</a><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4614798091886977/"></a><i></i><p>Today is the first day of Latinx/Hispanic Heritage Month and we’ll be celebrating by honoring Latinx/Hispanic leaders throughout the month. </p><p> Our perspectives, our cultures and our stories matter.</p><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4614798091886977/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p526x296/242116738_4614798098553643_6974432969084275555_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=8024bb&_nc_ohc=te9dLa1V0DwAX9Vnj5b&_nc_ht=scontent.fapa1-2.fna&oh=60e1b27ba0de68fdf7d1adb6be57fad4&oe=617E69CC" alt="May be an image of text that says 'We celebrate Latinx/Hispanic Heritage Month because Our perspectives, Our cultures, Our stories, Matter. ACLU cO'" width="500" height="500" caption="May be an image of text that says 'We celebrate Latinx/Hispanic Heritage Month because Our perspectives, Our cultures, Our stories, Matter. ACLU cO'" /></a>]]></content:encoded>
-      <author>ACLU of Colorado</author>
-      <guid>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4614798091886977/</guid>
-      <pubDate>Wed, 15 Sep 2021 16:21:39 -0600</pubDate>
-    </item>
-    <item>
-      <title>This report confirms in stark terms what the community has long...</title>
-      <link>https://www.facebook.com/acluofcolorado/posts/4614706241896162</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/acluofcolorado/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.18172-1/cp0/p50x50/21950661_1662566980443451_7358479861831904430_o.jpg?_nc_cat=103&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=TtpI5FMCc58AX8u_kbc&_nc_ht=scontent.fapa1-2.fna&oh=e6c2c64bd431d4d1599bcf457d116edb&oe=61804221" alt="" /></a><a href="https://www.facebook.com/acluofcolorado/">ACLU of Colorado</a><a href="https://www.facebook.com/acluofcolorado/posts/4614706241896162"></a><i></i><p>This report confirms in stark terms what the community has long understood: racialized policing in Aurora is an epidemic.</p><a href="https://apnews.com/article/police-colorado-aurora-3d031ab7c20a5496c5249535cefdcf85">DENVER (AP) — A civil rights investigation begun amid outrage over the death of Elijah McClain has found that the Aurora Police Department has a pattern of racially biased policing, Colorado's attorney general said Wednesday.<img src="https://external.fapa1-2.fna.fbcdn.net/safe_image.php?d=AQFeMXStbTwHZ7M4&w=540&h=282&url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2F7fc35bdbe58a43fbbd9ce3732c07526b%2F3000.jpeg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_oe=6ecaa&_nc_sid=06c271&ccb=3-5&gt=1&_nc_hash=AQGa4DNq5kGFXvq0" alt="" width="500" height="262" caption="" /></a><p>apnews.com</p><p>Officials: Police in Elijah McClain hometown racially biased</p>DENVER (AP) — A civil rights investigation begun amid outrage over the death of Elijah McClain has found that the Aurora Police Department has a pattern of racially biased policing, Colorado's attorney general said Wednesday.<a href="https://apnews.com/article/police-colorado-aurora-3d031ab7c20a5496c5249535cefdcf85">DENVER (AP) — A civil rights investigation begun amid outrage over the death of Elijah McClain has found that the Aurora Police Department has a pattern of racially biased policing, Colorado's attorney general said Wednesday.</a>]]></content:encoded>
-      <author>ACLU of Colorado</author>
-      <guid>https://www.facebook.com/acluofcolorado/posts/4614706241896162</guid>
-      <pubDate>Wed, 15 Sep 2021 15:33:04 -0600</pubDate>
-    </item>
-    <item>
-      <title>Become a Bill of Rights Event sponsor. Making a gift of any size...</title>
-      <link>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4608311605868959/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/acluofcolorado/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.18172-1/cp0/p50x50/21950661_1662566980443451_7358479861831904430_o.jpg?_nc_cat=103&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=TtpI5FMCc58AX8u_kbc&_nc_ht=scontent.fapa1-2.fna&oh=e6c2c64bd431d4d1599bcf457d116edb&oe=61804221" alt="" /></a><a href="https://www.facebook.com/acluofcolorado/">ACLU of Colorado</a><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4608311605868959/"></a><i></i><p>Become a Bill of Rights Event sponsor. Making a gift of any size supports our work, including our efforts to expose the inhumane conditions in Colorado's for-profit immigration detention center. Support the event at <a href="https://acluco.org/BOREsponsor">https://acluco.org/BOREsponsor</a>.</p><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4608311605868959/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p526x296/241994697_4608311612535625_5495892760415083357_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=8024bb&_nc_ohc=lCMndO4MV5oAX9tHzZb&_nc_ht=scontent.fapa1-2.fna&oh=d6e70440a5b0d7bf77ccb410e547ca00&oe=617E968E" alt="May be an image of text that says 'ACLU CO Sponsors help: -Expose for-profit immigration detention -Reform the criminal legal system -Defend Coloradans' civil liberties And more. Learn more at acluco.org BOREsponsor.'" width="501" height="281" caption="May be an image of text that says 'ACLU CO Sponsors help: -Expose for-profit immigration detention -Reform the criminal legal system -Defend Coloradans' civil liberties And more. Learn more at acluco.org BOREsponsor.'" /></a>]]></content:encoded>
-      <author>ACLU of Colorado</author>
-      <guid>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4608311605868959/</guid>
-      <pubDate>Mon, 13 Sep 2021 16:05:50 -0600</pubDate>
     </item>
     <item>
       <title>All Charges Dropped Against Denver Anti-Racist Activists</title>
@@ -1210,24 +962,6 @@ Version: `dev.2020-02-26`</p>
       <pubDate>Mon, 13 Sep 2021 15:14:40 -0600</pubDate>
     </item>
     <item>
-      <title>VICTORY: The Colorado Supreme Court rightly ruled that the...</title>
-      <link>https://www.facebook.com/acluofcolorado/posts/4608308215869298</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/acluofcolorado/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.18172-1/cp0/p50x50/21950661_1662566980443451_7358479861831904430_o.jpg?_nc_cat=103&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=TtpI5FMCc58AX8u_kbc&_nc_ht=scontent.fapa1-2.fna&oh=e6c2c64bd431d4d1599bcf457d116edb&oe=61804221" alt="" /></a><a href="https://www.facebook.com/acluofcolorado/">ACLU of Colorado</a><a href="https://www.facebook.com/acluofcolorado/posts/4608308215869298"></a><i></i><p>VICTORY: The Colorado Supreme Court rightly ruled that the government is not allowed to exploit surveillance technology to spy on people in their homes without a warrant.</p><p> Today is a win for Coloradans and a win for privacy.</p><a href="https://www.coloradopolitics.com/courts/supreme-court-finds-colo-springs-police-acted-unconstitutionally-with-pole-camera-surveillance/article_16f9b80a-14a3-11ec-9f0d-ab300a733920.html">Colorado Springs police violated constitutional protections against warrantless searches by using a pole-mounted camera to monitor a suspected drug dealer's home continuously for three months, the Colorado Supreme Court ruled<img src="https://external.fapa1-2.fna.fbcdn.net/safe_image.php?d=AQHavA-YC_1lv3io&w=540&h=282&url=https%3A%2F%2Fbloximages.newyork1.vip.townnews.com%2Fcoloradopolitics.com%2Fcontent%2Ftncms%2Fassets%2Fv3%2Feditorial%2F4%2F65%2F465c4af2-139a-11e9-b302-93897ae00286%2F5c352d9b6aa35.image.png%3Fresize%3D602%252C412&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_oe=6ecaa&_nc_sid=06c271&ccb=3-5&gt=1&_nc_hash=AQEzrersDuysCfOB" alt="" width="500" height="262" caption="" /></a><p>coloradopolitics.com</p><p>Supreme Court finds Colo. Springs police acted unconstitutionally with pole camera surveillance</p>Colorado Springs police violated constitutional protections against warrantless searches by using a pole-mounted camera to monitor a suspected drug dealer's home continuously for three months, the Colorado Supreme Court ruled<a href="https://www.coloradopolitics.com/courts/supreme-court-finds-colo-springs-police-acted-unconstitutionally-with-pole-camera-surveillance/article_16f9b80a-14a3-11ec-9f0d-ab300a733920.html">Colorado Springs police violated constitutional protections against warrantless searches by using a pole-mounted camera to monitor a suspected drug dealer's home continuously for three months, the Colorado Supreme Court ruled</a>]]></content:encoded>
-      <author>ACLU of Colorado</author>
-      <guid>https://www.facebook.com/acluofcolorado/posts/4608308215869298</guid>
-      <pubDate>Mon, 13 Sep 2021 14:03:14 -0600</pubDate>
-    </item>
-    <item>
-      <title>Tenants’ right to counsel is critical to fighting mass...</title>
-      <link>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4608218675878252/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/acluofcolorado/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.18172-1/cp0/p50x50/21950661_1662566980443451_7358479861831904430_o.jpg?_nc_cat=103&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=TtpI5FMCc58AX8u_kbc&_nc_ht=scontent.fapa1-2.fna&oh=e6c2c64bd431d4d1599bcf457d116edb&oe=61804221" alt="" /></a><a href="https://www.facebook.com/acluofcolorado/">ACLU of Colorado</a><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4608218675878252/"></a><i></i><p>Tenants’ right to counsel is critical to fighting mass evictions, both here in Colorado and across the country. We are united with <a href="https://www.facebook.com/NEWRDenver/">NEWR Denver</a> in saying: No Eviction Without Representation. <a href="https://www.aclu.org/news/racial-justice/tenants-right-to-counsel-is-critical-to-fight-mass-evictions-and-advance-race-equity-during-the-pandemic-and-beyond/">https://www.aclu.org/…/tenants-right-to-counsel-is-critica…/</a></p><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4608218675878252/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-9/p235x350/241810194_4608218685878251_7512371523061425120_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=8024bb&_nc_ohc=JKg0_9YJI3kAX_x4_ct&_nc_ht=scontent.fapa1-1.fna&oh=ed3a2a1690bcc67d6d175cd53f2f45a4&oe=618009E5" alt="May be an image of 2 people, people standing and monument" width="500" height="334" caption="May be an image of 2 people, people standing and monument" /></a>]]></content:encoded>
-      <author>ACLU of Colorado</author>
-      <guid>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4608218675878252/</guid>
-      <pubDate>Mon, 13 Sep 2021 13:23:31 -0600</pubDate>
-    </item>
-    <item>
       <title>Ah, the Bourgeoisie. Any Leftists out there who still support WORKERS??</title>
       <link>https://www.reddit.com/r/DenverProtests/comments/plv3m6/ah_the_bourgeoisie_any_leftists_out_there_who/</link>
       <description></description>
@@ -1235,24 +969,6 @@ Version: `dev.2020-02-26`</p>
       <author>r/DenverProtests</author>
       <guid>https://www.reddit.com/r/DenverProtests/comments/plv3m6/ah_the_bourgeoisie_any_leftists_out_there_who/</guid>
       <pubDate>Fri, 10 Sep 2021 16:24:44 -0600</pubDate>
-    </item>
-    <item>
-      <title>All people in Denver – regardless of their circumstances or...</title>
-      <link>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4595553853811401/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/acluofcolorado/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.18172-1/cp0/p50x50/21950661_1662566980443451_7358479861831904430_o.jpg?_nc_cat=103&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=TtpI5FMCc58AX8u_kbc&_nc_ht=scontent.fapa1-2.fna&oh=e6c2c64bd431d4d1599bcf457d116edb&oe=61804221" alt="" /></a><a href="https://www.facebook.com/acluofcolorado/">ACLU of Colorado</a><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4595553853811401/"></a><i></i><p>All people in Denver – regardless of their circumstances or background – should have safe, stable housing. We’re proud to endorse <a href="https://www.facebook.com/NEWRDenver/">NEWR Denver</a> in support of their effort to secure a universal right to counsel for all tenants in our city.</p><a href="https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4595553853811401/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/s526x296/241699890_4595553867144733_9165393612265216584_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=8024bb&_nc_ohc=Knyj1jLGU8cAX_NYnzJ&_nc_ht=scontent.fapa1-2.fna&oh=442413f169d231ebab8f2f8d12e108c3&oe=61815B5A" alt="May be an image of one or more people and text that says 'ACLU CO NO EVICTION WITHOUT REPRESENTATION.'" width="500" height="263" caption="May be an image of one or more people and text that says 'ACLU CO NO EVICTION WITHOUT REPRESENTATION.'" /></a>]]></content:encoded>
-      <author>ACLU of Colorado</author>
-      <guid>https://www.facebook.com/acluofcolorado/photos/a.131340536899444/4595553853811401/</guid>
-      <pubDate>Thu, 09 Sep 2021 12:12:52 -0600</pubDate>
-    </item>
-    <item>
-      <title>We must stop the racist, harmful, and dangerous status quo of...</title>
-      <link>https://www.facebook.com/acluofcolorado/posts/4592203200813133</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/acluofcolorado/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t31.18172-1/cp0/p50x50/21950661_1662566980443451_7358479861831904430_o.jpg?_nc_cat=103&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=TtpI5FMCc58AX8u_kbc&_nc_ht=scontent.fapa1-2.fna&oh=e6c2c64bd431d4d1599bcf457d116edb&oe=61804221" alt="" /></a><a href="https://www.facebook.com/acluofcolorado/">ACLU of Colorado</a><a href="https://www.facebook.com/acluofcolorado/posts/4592203200813133"></a><i></i><p>We must stop the racist, harmful, and dangerous status quo of cutting blank checks for police.</p><p> It's time to fully invest in a more effective, multi-pronged approach to public safety and community health.</p><a href="https://www.aclu.org/news/criminal-law-reform/10-things-to-know-about-combating-violence-in-america/">As communities grapple with violent crime, calls for more police have increased. Here's why policing isn't the solution to violence, and some viable alternatives.<img src="https://external.fapa1-2.fna.fbcdn.net/safe_image.php?d=AQGycmFQ_LUHrv7-&w=540&h=282&url=https%3A%2F%2Fwp.api.aclu.org%2Fwp-content%2Fuploads%2F2021%2F09%2FSocial-Gun-Violence.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_oe=6ecaa&_nc_sid=06c271&ccb=3-5&gt=1&_nc_hash=AQFuE40AAGOdmB3L" alt="" width="500" height="262" caption="" /></a><p>aclu.org</p><p>10 Things to Know about Combating Violence in America</p>As communities grapple with violent crime, calls for more police have increased. Here's why policing isn't the solution to violence, and some viable alternatives.<a href="https://www.aclu.org/news/criminal-law-reform/10-things-to-know-about-combating-violence-in-america/">As communities grapple with violent crime, calls for more police have increased. Here's why policing isn't the solution to violence, and some viable alternatives.</a>]]></content:encoded>
-      <author>ACLU of Colorado</author>
-      <guid>https://www.facebook.com/acluofcolorado/posts/4592203200813133</guid>
-      <pubDate>Wed, 08 Sep 2021 10:47:17 -0600</pubDate>
     </item>
     <item>
       <title>A stencil... a mission</title>
