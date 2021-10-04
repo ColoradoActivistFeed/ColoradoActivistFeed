@@ -3,7 +3,68 @@
     <title>Colorado Activist Feed</title>
     <link>https://coloradoactivistfeed.github.io/ColoradoActivistFeed/</link>
     <description>Aggregation of Colorado activist posts from across social media.</description>
-    <pubDate>Sun, 03 Oct 2021 18:52:02 -0600</pubDate>
+    <pubDate>Sun, 03 Oct 2021 19:51:59 -0600</pubDate>
+    <item>
+      <title>Bridge returned error 400! (18904)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @surjdenver</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=surjdenver&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40surjdenver+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dsurjdenver%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40surjdenver+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dsurjdenver%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>SURJ Denver</author>
+      <guid>urn:sha1:933db8892f8f8acd1e69a6625a5ab03590e2e323</guid>
+      <pubDate>Sun, 03 Oct 2021 19:51:59 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18904)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=SURJDenver&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DSURJDenver%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DSURJDenver%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>SURJ Denver</author>
+      <guid>urn:sha1:63bf40a6e742a7c2e6a64150c58a17e71a9eaa64</guid>
+      <pubDate>Sun, 03 Oct 2021 19:51:58 -0600</pubDate>
+    </item>
     <item>
       <title>Bridge returned error 500! (18904)</title>
       <link></link>
@@ -31,39 +92,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Denver&#39;s Chicano Movement Legacy Project</author>
       <guid>urn:sha1:f39bf3cffbe8a3ce4ede76e33e8f97423ba5b0c7</guid>
-      <pubDate>Sun, 03 Oct 2021 18:52:02 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 404! (18904)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Facebook&context=User&u=Tay2019&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+404&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DTay2019%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+404&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DTay2019%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Tay Anderson</author>
-      <guid>urn:sha1:00ce74a967dc6ca5f0bebfdb587185a9e821742b</guid>
-      <pubDate>Sun, 03 Oct 2021 18:52:01 -0600</pubDate>
+      <pubDate>Sun, 03 Oct 2021 19:51:58 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18904)</title>
@@ -95,65 +124,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Tay Anderson</author>
       <guid>urn:sha1:630d024653beee9904f0c698b4aa981152453c25</guid>
-      <pubDate>Sun, 03 Oct 2021 18:52:01 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 500! (18904)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=BlackLivesMatter5280&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DBlackLivesMatter5280%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DBlackLivesMatter5280%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>urn:sha1:a98e6c7f212995a25ba9cf6819eb697a71dc664c</guid>
-      <pubDate>Sun, 03 Oct 2021 18:52:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 500! (18904)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>blm5280 - Instagram Bridge</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `Unable to find username in search result.`<br />
-Query string: `action=display&bridge=Instagram&context=Username&u=blm5280&media_type=all&direct_links=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pauder</p>
-</section>]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>urn:sha1:946dd763320b0e284767a3f16e13b204cda29de5</guid>
-      <pubDate>Sun, 03 Oct 2021 18:52:00 -0600</pubDate>
+      <pubDate>Sun, 03 Oct 2021 19:51:58 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18904)</title>
@@ -185,7 +156,97 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Black Lives Matter 5280</author>
       <guid>urn:sha1:f1ec24efd9eab9b09c414d4f3238294df702cb39</guid>
-      <pubDate>Sun, 03 Oct 2021 18:52:00 -0600</pubDate>
+      <pubDate>Sun, 03 Oct 2021 19:51:57 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 404! (18904)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Facebook&context=User&u=Tay2019&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+404&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DTay2019%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+404&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DTay2019%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Tay Anderson</author>
+      <guid>urn:sha1:00ce74a967dc6ca5f0bebfdb587185a9e821742b</guid>
+      <pubDate>Sun, 03 Oct 2021 19:51:57 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18904)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=BlackLivesMatter5280&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DBlackLivesMatter5280%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DBlackLivesMatter5280%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Black Lives Matter 5280</author>
+      <guid>urn:sha1:a98e6c7f212995a25ba9cf6819eb697a71dc664c</guid>
+      <pubDate>Sun, 03 Oct 2021 19:51:56 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18904)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>blm5280 - Instagram Bridge</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Unable to find username in search result.`<br />
+Query string: `action=display&bridge=Instagram&context=Username&u=blm5280&media_type=all&direct_links=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pauder</p>
+</section>]]></content:encoded>
+      <author>Black Lives Matter 5280</author>
+      <guid>urn:sha1:946dd763320b0e284767a3f16e13b204cda29de5</guid>
+      <pubDate>Sun, 03 Oct 2021 19:51:56 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18904)</title>
@@ -214,7 +275,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Abolish ICE Denver</author>
       <guid>urn:sha1:0275364fc6005b621c8d1b4b0a0f5ce3d0ed3269</guid>
-      <pubDate>Sun, 03 Oct 2021 18:52:00 -0600</pubDate>
+      <pubDate>Sun, 03 Oct 2021 19:51:56 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18904)</title>
@@ -243,7 +304,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Sanctuary4All Colorado</author>
       <guid>urn:sha1:afb3ef3e90d2168c918b77b0d1e4b4d02537f0e5</guid>
-      <pubDate>Sun, 03 Oct 2021 18:51:59 -0600</pubDate>
+      <pubDate>Sun, 03 Oct 2021 19:51:55 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18904)</title>
@@ -275,7 +336,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Sanctuary4All Colorado</author>
       <guid>urn:sha1:378b136d78c9f3aa20471f548bfc13eb4de1fff0</guid>
-      <pubDate>Sun, 03 Oct 2021 18:51:59 -0600</pubDate>
+      <pubDate>Sun, 03 Oct 2021 19:51:55 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18904)</title>
@@ -304,7 +365,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Abolish ICE Denver</author>
       <guid>urn:sha1:007610303b580f8b088af59b75d9124d7e01e536</guid>
-      <pubDate>Sun, 03 Oct 2021 18:51:59 -0600</pubDate>
+      <pubDate>Sun, 03 Oct 2021 19:51:55 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18904)</title>
@@ -333,7 +394,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Denver Homeless Out Loud</author>
       <guid>urn:sha1:72f0511a5445b5206327bbe58af335bc2e000274</guid>
-      <pubDate>Sun, 03 Oct 2021 18:51:58 -0600</pubDate>
+      <pubDate>Sun, 03 Oct 2021 19:51:54 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18904)</title>
@@ -365,129 +426,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Denver Homeless Out Loud</author>
       <guid>urn:sha1:d465e3fe9423862b850ca4e85629ca1f9013b9ab</guid>
-      <pubDate>Sun, 03 Oct 2021 18:51:58 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 500! (18904)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=SURJDenver&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DSURJDenver%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DSURJDenver%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>SURJ Denver</author>
-      <guid>urn:sha1:63bf40a6e742a7c2e6a64150c58a17e71a9eaa64</guid>
-      <pubDate>Sun, 03 Oct 2021 18:51:58 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 400! (18904)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @surjdenver</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=surjdenver&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40surjdenver+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dsurjdenver%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40surjdenver+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dsurjdenver%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>SURJ Denver</author>
-      <guid>urn:sha1:933db8892f8f8acd1e69a6625a5ab03590e2e323</guid>
-      <pubDate>Sun, 03 Oct 2021 18:51:58 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 400! (18904)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @melanatedmic</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=melanatedmic&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40melanatedmic+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dmelanatedmic%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40melanatedmic+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dmelanatedmic%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>Melanated Mic Night</author>
-      <guid>urn:sha1:cd920fb2145a1c4058d7acd33c5b54255d27c52f</guid>
-      <pubDate>Sun, 03 Oct 2021 18:51:57 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 500! (18904)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=Denver-Solidarity-March-118949813177149&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Solidarity-March-118949813177149%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Solidarity-March-118949813177149%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Denver Solidarity March</author>
-      <guid>urn:sha1:1871b632b15c223bf6f4ce11833feb2668ffe353</guid>
-      <pubDate>Sun, 03 Oct 2021 18:51:57 -0600</pubDate>
+      <pubDate>Sun, 03 Oct 2021 19:51:54 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18904)</title>
@@ -516,39 +455,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>ACLU of Colorado</author>
       <guid>urn:sha1:9ca535494959c20333a284c7584ad8b94495e2ca</guid>
-      <pubDate>Sun, 03 Oct 2021 18:51:57 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 400! (18904)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @familiatqlm</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `The requested resource cannot be found!<br />
-Please make sure your input parameters are correct!<br />
-cUrl error:  (0)<br />
-PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=familiatqlm&norep=on&nopic=on&noimg=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40familiatqlm+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dfamiliatqlm%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40familiatqlm+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dfamiliatqlm%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pmaziere</p>
-</section>]]></content:encoded>
-      <author>Colorado - Familia</author>
-      <guid>urn:sha1:1bbd3e79547ffd3d0f3755e55a3f1618801db32c</guid>
-      <pubDate>Sun, 03 Oct 2021 18:51:56 -0600</pubDate>
+      <pubDate>Sun, 03 Oct 2021 19:51:54 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18904)</title>
@@ -558,26 +465,26 @@ Version: `dev.2020-02-26`</p>
 	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
 remote website's content!<br>
 Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=DenverJusticeProject&media_type=all&limit=-1&format=Atom`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=Denver-Solidarity-March-118949813177149&media_type=all&limit=-1&format=Atom`<br />
 Version: `dev.2020-02-26`</p>
 	<div class="advice">
 		<ul class="advice">
 			<li>Press Return to check your input parameters</li>
 			<li>Press F5 to retry</li>
 			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverJusticeProject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Solidarity-March-118949813177149%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
 		</ul>
 	</div>
 	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
 		<button>Search GitHub Issues</button>
 	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverJusticeProject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Solidarity-March-118949813177149%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
 	the issue before submitting it"><button>Open GitHub Issue</button></a>
 	<p class="maintainer">teromene, logmanoriginal</p>
 </section>]]></content:encoded>
-      <author>Denver Justice Project</author>
-      <guid>urn:sha1:795432de191487bab941b2372836ff9f314b5348</guid>
-      <pubDate>Sun, 03 Oct 2021 18:51:56 -0600</pubDate>
+      <author>Denver Solidarity March</author>
+      <guid>urn:sha1:1871b632b15c223bf6f4ce11833feb2668ffe353</guid>
+      <pubDate>Sun, 03 Oct 2021 19:51:54 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18904)</title>
@@ -609,7 +516,7 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Denver Justice Project</author>
       <guid>urn:sha1:e9578d6bb92ed4d1c723cdbb7cc10291def793c0</guid>
-      <pubDate>Sun, 03 Oct 2021 18:51:56 -0600</pubDate>
+      <pubDate>Sun, 03 Oct 2021 19:51:53 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18904)</title>
@@ -638,126 +545,39 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>North Denver for Social Justice</author>
       <guid>urn:sha1:8c0d9eed6adcb5b6a713eafb0b7891da408aeb65</guid>
-      <pubDate>Sun, 03 Oct 2021 18:51:56 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 500! (18904)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=AuroraWarmstheNight&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAuroraWarmstheNight%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAuroraWarmstheNight%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Aurora Warms the Night</author>
-      <guid>urn:sha1:8223909fe2353cdeed1f6a80ab2eae990885b981</guid>
-      <pubDate>Sun, 03 Oct 2021 18:51:55 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 500! (18904)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=cofamiliatqlm&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Dcofamiliatqlm%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Dcofamiliatqlm%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Colorado - Familia</author>
-      <guid>urn:sha1:083830447716b895f10976c15671dbf97b03ac34</guid>
-      <pubDate>Sun, 03 Oct 2021 18:51:55 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 500! (18904)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=LeslieforColorado&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DLeslieforColorado%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DLeslieforColorado%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Leslie Herod</author>
-      <guid>urn:sha1:7b3ae97b87f7d2ec7a6717d2d840aedbeaf56873</guid>
-      <pubDate>Sun, 03 Oct 2021 18:51:55 -0600</pubDate>
+      <pubDate>Sun, 03 Oct 2021 19:51:53 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 400! (18904)</title>
       <link></link>
       <description></description>
       <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Twitter @leslieherod</strong> was unable to receive or process the
+	<p class="exception-message"><strong>Twitter @melanatedmic</strong> was unable to receive or process the
 remote website's content!<br>
 Error message: `The requested resource cannot be found!<br />
 Please make sure your input parameters are correct!<br />
 cUrl error:  (0)<br />
 PHP error: `<br />
-Query string: `action=display&bridge=Twitter&context=By+username&u=leslieherod&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=melanatedmic&norep=on&nopic=on&noimg=on&format=Atom`<br />
 Version: `dev.2020-02-26`</p>
 	<div class="advice">
 		<ul class="advice">
 			<li>Press Return to check your input parameters</li>
 			<li>Press F5 to retry</li>
 			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40leslieherod+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dleslieherod%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40melanatedmic+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dmelanatedmic%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
 		</ul>
 	</div>
 	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
 		<button>Search GitHub Issues</button>
 	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40leslieherod+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dleslieherod%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40melanatedmic+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dmelanatedmic%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
 	the issue before submitting it"><button>Open GitHub Issue</button></a>
 	<p class="maintainer">pmaziere</p>
 </section>]]></content:encoded>
-      <author>Leslie Herod</author>
-      <guid>urn:sha1:07d3182e75c25b8aeb58aaef0d0303390a7c6d32</guid>
-      <pubDate>Sun, 03 Oct 2021 18:51:55 -0600</pubDate>
+      <author>Melanated Mic Night</author>
+      <guid>urn:sha1:cd920fb2145a1c4058d7acd33c5b54255d27c52f</guid>
+      <pubDate>Sun, 03 Oct 2021 19:51:53 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 500! (18904)</title>
@@ -767,55 +587,26 @@ Version: `dev.2020-02-26`</p>
 	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
 remote website's content!<br>
 Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=Colorado-Attorneys-Against-Police-Violence-106087521153591&media_type=all&limit=-1&format=Atom`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=DenverJusticeProject&media_type=all&limit=-1&format=Atom`<br />
 Version: `dev.2020-02-26`</p>
 	<div class="advice">
 		<ul class="advice">
 			<li>Press Return to check your input parameters</li>
 			<li>Press F5 to retry</li>
 			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DColorado-Attorneys-Against-Police-Violence-106087521153591%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverJusticeProject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
 		</ul>
 	</div>
 	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
 		<button>Search GitHub Issues</button>
 	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DColorado-Attorneys-Against-Police-Violence-106087521153591%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenverJusticeProject%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
 	the issue before submitting it"><button>Open GitHub Issue</button></a>
 	<p class="maintainer">teromene, logmanoriginal</p>
 </section>]]></content:encoded>
-      <author>Colorado Attorneys Against Police Violence</author>
-      <guid>urn:sha1:ddd2d1917671a1816513191b146a3eacc85f716d</guid>
-      <pubDate>Sun, 03 Oct 2021 18:51:54 -0600</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 500! (18904)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
-Query string: `action=display&bridge=Facebook&context=User&u=Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015&media_type=all&limit=-1&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">teromene, logmanoriginal</p>
-</section>]]></content:encoded>
-      <author>Denver Peace Council</author>
-      <guid>urn:sha1:5b168c3d6c88dc7aa0fc155f79a5045765013914</guid>
-      <pubDate>Sun, 03 Oct 2021 18:51:54 -0600</pubDate>
+      <author>Denver Justice Project</author>
+      <guid>urn:sha1:795432de191487bab941b2372836ff9f314b5348</guid>
+      <pubDate>Sun, 03 Oct 2021 19:51:52 -0600</pubDate>
     </item>
     <item>
       <title>Bridge returned error 404! (18904)</title>
@@ -847,25 +638,274 @@ Version: `dev.2020-02-26`</p>
 </section>]]></content:encoded>
       <author>Denver Action Network</author>
       <guid>urn:sha1:0dfcbe3b823c0a689095c4824b9dee3727874595</guid>
-      <pubDate>Sun, 03 Oct 2021 18:51:49 -0600</pubDate>
+      <pubDate>Sun, 03 Oct 2021 19:51:52 -0600</pubDate>
     </item>
     <item>
-      <title>Party for Socialism and Liberation - Denver added an event.THU, OCT 7 AT 6:00 PM MDTNot a Moral Issue: The Fight for Reproductive Rights |...</title>
-      <link>https://www.facebook.com/events/4401356719943891/</link>
+      <title>Bridge returned error 500! (18904)</title>
+      <link></link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverPSL/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=f00f19e50f3ea86ad65622cea26da20d&oe=617E9765" alt="" /></a><a href="https://www.facebook.com/denverPSL/">Party for Socialism and Liberation - Denver</a> added an <a href="https://www.facebook.com/events/4401356719943891/">event</a>.<a href="https://www.facebook.com/events/4401356719943891/"></a><i></i><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-9/p526x296/244413085_1296346564151164_4462449351237275168_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=b386c4&_nc_ohc=E-EUjo8jyOMAX9FMry-&_nc_ht=scontent.fapa1-1.fna&oh=ad1abd886266ade8f3c3f88d1adc6668&oe=617FC496" alt="Party for Socialism and Liberation - Denver's photo." width="500" height="282" caption="Party for Socialism and Liberation - Denver's photo." /><a href="https://www.facebook.com/events/4401356719943891/"></a><p>THU, OCT 7 AT 6:00 PM MDT</p><p>Not a Moral Issue: The Fight for Reproductive Rights | Breaking the Chains Study Group</p><p>Mestizo-Curtis Park</p> · Denver<i></i>15 people going]]></content:encoded>
-      <author>Party for Socialism and Liberation</author>
-      <guid>https://www.facebook.com/events/4401356719943891/</guid>
-      <pubDate>Sat, 02 Oct 2021 19:22:07 -0600</pubDate>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=cofamiliatqlm&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Dcofamiliatqlm%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Dcofamiliatqlm%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Colorado - Familia</author>
+      <guid>urn:sha1:083830447716b895f10976c15671dbf97b03ac34</guid>
+      <pubDate>Sun, 03 Oct 2021 19:51:52 -0600</pubDate>
     </item>
     <item>
-      <title>We won’t go back—we will fight back! Today people across the...</title>
-      <link>https://www.facebook.com/denverPSL/posts/1296248204161000</link>
+      <title>Bridge returned error 400! (18904)</title>
+      <link></link>
       <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverPSL/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=f00f19e50f3ea86ad65622cea26da20d&oe=617E9765" alt="" /></a><a href="https://www.facebook.com/denverPSL/">Party for Socialism and Liberation - Denver</a><a href="https://www.facebook.com/denverPSL/posts/1296248204161000"></a><i></i><p>We won’t go back—we will fight back! Today people across the US took to the streets in protest against the heinous anti-abortion bill SB8, which was passed in Texas and allowed to go into effect by the Supreme Court. In Denver, we joined the <a href="https://www.facebook.com/womxnsmarchdenver/">Womxn's March Denver</a> rally then led a march through downtown.</p><p> Abortion is healthcare—not a moral debate or a political bargaining chip. We demand Congress act now to legalize abortion once and for all at the federal level. No more tug-of-war over our rights!</p><a href="https://www.facebook.com/denverPSL/videos/pcb.1296248204161000/223945346463138/">{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-10-02T14:07:14-0700","dateModified":"2021-10-02T15:07:48-0700","identifier":"223945346463138:12:0","url":"https:\/\/www.facebook.com\/denverPSL\/videos\/223945346463138\/","isPartOf":"https:\/\/www.facebook.com\/denverPSL\/","headline":"Party for Socialism and Liberation - Denver","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":1},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":9},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":1},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":8379}],"commentCount":1,"comment":[{"\u0040type":"Comment","identifier":"223945346463138_223970143127325","dateCreated":"2021-10-02T15:07:48-0700","text":"Sorry I was not there thank you all for being there I love you","mentions":null,"author":{"\u0040type":"Person","name":"Carol Funk","url":null,"identifier":"743474923"}}],"author":{"\u0040type":"Organization","name":"Party for Socialism and Liberation - Denver","identifier":282807008838463,"url":"https:\/\/www.facebook.com\/denverPSL\/","image":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-1\/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=a12de3&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=bfbbb610ed45f3fe660e66c73fde8468&oe=617E2E01","sameAs":"www.pslweb.org\/","foundingDate":"2017-05-03T15:17:42-0700"},"video":{"\u0040type":"VideoObject","name":"Party for Socialism and Liberation - Denver","description":"Party for Socialism and Liberation - Denver","thumbnailUrl":"https:\/\/scontent.fapa1-1.fna.fbcdn.net\/v\/t15.5256-10\/243323530_223947186462954_31201760854227507_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=08861d&_nc_ohc=Gt0PJIPfg-wAX9uNi7A&_nc_oc=AQkeIMk57rBV7BsMQSa4ZL27o1_1UC_Jwlb2WzJTLfTesfLnyq7bIMDyQorsA06rXIY&_nc_ht=scontent.fapa1-1.fna&oh=f18353342f089a23be99f67269b80002&oe=615F6F91","duration":"T26S","uploadDate":"2021-10-02T14:03:00-07:00","contentUrl":"https:\/\/video.fapa1-2.fna.fbcdn.net\/v\/t42.1790-2\/244043990_303542494436943_6768620176546458249_n.mp4?_nc_cat=107&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjU1NCwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0\u00253D&_nc_ohc=7NAH_QJ0tQAAX_qY9OF&rl=554&vabr=308&_nc_ht=video.fapa1-2.fna&oh=b672f80e513895542f151046f0bb467b&oe=615A7806","publication":[{"\u0040type":"BroadcastEvent","isLiveBroadcast":false}],"\u0040id":"https:\/\/video.fapa1-2.fna.fbcdn.net\/v\/t42.1790-2\/244043990_303542494436943_6768620176546458249_n.mp4?_nc_cat=107&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjU1NCwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0\u00253D&_nc_ohc=7NAH_QJ0tQAAX_qY9OF&rl=554&vabr=308&_nc_ht=video.fapa1-2.fna&oh=b672f80e513895542f151046f0bb467b&oe=615A7806","url":"https:\/\/video.fapa1-2.fna.fbcdn.net\/v\/t42.1790-2\/244043990_303542494436943_6768620176546458249_n.mp4?_nc_cat=107&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjU1NCwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0\u00253D&_nc_ohc=7NAH_QJ0tQAAX_qY9OF&rl=554&vabr=308&_nc_ht=video.fapa1-2.fna&oh=b672f80e513895542f151046f0bb467b&oe=615A7806","datePublished":"2021-10-02T14:03:00-07:00","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":{"\u0040type":"http:\/\/schema.org\/WatchAction"},"userInteractionCount":163},{"\u0040type":"InteractionCounter","interactionType":{"\u0040type":"http:\/\/schema.org\/ShareAction"},"userInteractionCount":1},{"\u0040type":"InteractionCounter","interactionType":{"\u0040type":"http:\/\/schema.org\/LikeAction"},"userInteractionCount":9}],"width":1920,"height":1088,"thumbnail":{"\u0040type":"ImageObject","contentUrl":"https:\/\/scontent.fapa1-1.fna.fbcdn.net\/v\/t15.5256-10\/243323530_223947186462954_31201760854227507_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=08861d&_nc_ohc=Gt0PJIPfg-wAX9uNi7A&_nc_oc=AQkeIMk57rBV7BsMQSa4ZL27o1_1UC_Jwlb2WzJTLfTesfLnyq7bIMDyQorsA06rXIY&_nc_ht=scontent.fapa1-1.fna&oh=f18353342f089a23be99f67269b80002&oe=615F6F91","width":1920,"height":1088},"headline":"Party for Socialism and Liberation - Denver","isFamilyFriendly":true,"genre":"Social Issues","keywords":"Social Issues, Abortion, Party for Socialism and Liberation - Denver","commentCount":1,"comment":[{"\u0040type":"Comment","text":"Sorry I was not there thank you all for being there I love you","interactionStatistic":{"\u0040type":"http:\/\/schema.org\/InteractionCounter","interactionType":{"\u0040type":"http:\/\/schema.org\/LikeAction"},"userInteractionCount":0}}],"inLanguage":"en","contentSize":"19774.912kB","videoQuality":"1080p","author":{"\u0040type":"Organization","name":"Party for Socialism and Liberation - Denver","url":"https:\/\/www.facebook.com\/denverPSL\/"},"publisher":{"\u0040type":"Organization","logo":{"\u0040type":"ImageObject","url":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-1\/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=c1fdac&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=bfbbb610ed45f3fe660e66c73fde8468&oe=617E2E01"},"name":"Party for Socialism and Liberation - Denver","url":"https:\/\/www.facebook.com\/denverPSL\/"},"creator":{"\u0040type":"Organization","image":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-1\/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=c1fdac&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=bfbbb610ed45f3fe660e66c73fde8468&oe=617E2E01","name":"Party for Socialism and Liberation - Denver","url":"https:\/\/www.facebook.com\/denverPSL\/","interactionStatistic":[{"\u0040type":"http:\/\/schema.org\/InteractionCounter","interactionType":{"\u0040type":"http:\/\/schema.org\/FollowAction"},"userInteractionCount":8379},{"\u0040type":"http:\/\/schema.org\/InteractionCounter","interactionType":{"\u0040type":"http:\/\/schema.org\/LikeAction"},"userInteractionCount":7575}]},"transcript":"As we say.","embedUrl":"https:\/\/video.fapa1-2.fna.fbcdn.net\/v\/t42.1790-2\/244043990_303542494436943_6768620176546458249_n.mp4?_nc_cat=107&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjU1NCwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0\u00253D&_nc_ohc=7NAH_QJ0tQAAX_qY9OF&rl=554&vabr=308&_nc_ht=video.fapa1-2.fna&oh=b672f80e513895542f151046f0bb467b&oe=615A7806"}}</a><a href="https://www.facebook.com/denverPSL/photos/pcb.1296248204161000/1296247264161094/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/s235x165/243990070_1296247267494427_7904392337777605644_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=110474&_nc_ohc=Uw6tsyDkwZYAX8HLfvm&_nc_ht=scontent.fapa1-2.fna&oh=d0748bcbee6436dd97ad98f0baddfc93&oe=617FDC98" alt="May be an image of one or more people, people standing and outdoors" width="220" height="165" caption="May be an image of one or more people, people standing and outdoors" />{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-10-02T14:07:14-0700","dateModified":"2021-10-02T14:07:14-0700","identifier":"1296247264161094:9:0","url":"https:\/\/www.facebook.com\/denverPSL\/photos\/a.378847259234437\/1296247264161094\/?type=3","isPartOf":"https:\/\/www.facebook.com\/denverPSL\/","headline":"Party for... - Party for Socialism and Liberation - Denver","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":8379}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Party for Socialism and Liberation - Denver","identifier":282807008838463,"url":"https:\/\/www.facebook.com\/denverPSL\/","image":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-1\/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=a12de3&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=bfbbb610ed45f3fe660e66c73fde8468&oe=617E2E01","sameAs":"www.pslweb.org\/","foundingDate":"2017-05-03T15:17:42-0700"},"image":{"\u0040type":"ImageObject","width":960,"contentUrl":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-9\/243990070_1296247267494427_7904392337777605644_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=110474&_nc_ohc=Uw6tsyDkwZYAX8HLfvm&_nc_ht=scontent.fapa1-2.fna&oh=361e09fbcc75acb156d668db52879438&oe=617EE74F","caption":""}}</a><a href="https://www.facebook.com/denverPSL/photos/pcb.1296248204161000/1296247377494416/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/s235x165/244163396_1296247380827749_5165090602976512221_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=110474&_nc_ohc=FDq6RmMOm6EAX85AAPD&_nc_ht=scontent.fapa1-2.fna&oh=09060b7fbb96ca2f58b59575ca6a57f3&oe=617F65C0" alt="May be an image of 1 person, standing and text that says 'DEFEND ROE V. WADE ABORTION IS RIGHT! WEWON' GOBACK! &#xdb; WEWILL cK! PARTY FOR SOCIALISM ATION NOE Party for Socialism & Liberation'" width="220" height="165" caption="May be an image of 1 person, standing and text that says 'DEFEND ROE V. WADE ABORTION IS RIGHT! WEWON' GOBACK! &#xdb; WEWILL cK! PARTY FOR SOCIALISM ATION NOE Party for Socialism & Liberation'" />{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-10-02T14:07:14-0700","dateModified":"2021-10-02T14:07:14-0700","identifier":"1296247377494416:9:0","url":"https:\/\/www.facebook.com\/denverPSL\/photos\/a.378847259234437\/1296247377494416\/?type=3","isPartOf":"https:\/\/www.facebook.com\/denverPSL\/","headline":"Party for... - Party for Socialism and Liberation - Denver","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":8379}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Party for Socialism and Liberation - Denver","identifier":282807008838463,"url":"https:\/\/www.facebook.com\/denverPSL\/","image":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-1\/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=a12de3&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=bfbbb610ed45f3fe660e66c73fde8468&oe=617E2E01","sameAs":"www.pslweb.org\/","foundingDate":"2017-05-03T15:17:42-0700"},"image":{"\u0040type":"ImageObject","width":960,"contentUrl":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-9\/244163396_1296247380827749_5165090602976512221_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=110474&_nc_ohc=FDq6RmMOm6EAX85AAPD&_nc_ht=scontent.fapa1-2.fna&oh=f7d39e958ca9468f89a038bf9657ed24&oe=6181BA67","caption":""}}</a><a href="https://www.facebook.com/denverPSL/photos/pcb.1296248204161000/1296247697494384/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/s235x165/244367716_1296247700827717_1778764026765854788_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=110474&_nc_ohc=dBMaPb3DN2gAX-upecE&_nc_ht=scontent.fapa1-2.fna&oh=ae995028d8fdbf0cb7b502adb432b491&oe=61815904" alt="May be an image of 1 person, standing and outdoors" width="220" height="165" caption="May be an image of 1 person, standing and outdoors" />+3{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-10-02T14:07:14-0700","dateModified":"2021-10-02T14:07:14-0700","identifier":"1296247697494384:9:0","url":"https:\/\/www.facebook.com\/denverPSL\/photos\/a.378847259234437\/1296247697494384\/?type=3","isPartOf":"https:\/\/www.facebook.com\/denverPSL\/","headline":"Party for... - Party for Socialism and Liberation - Denver","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":8379}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Party for Socialism and Liberation - Denver","identifier":282807008838463,"url":"https:\/\/www.facebook.com\/denverPSL\/","image":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-1\/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=a12de3&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=bfbbb610ed45f3fe660e66c73fde8468&oe=617E2E01","sameAs":"www.pslweb.org\/","foundingDate":"2017-05-03T15:17:42-0700"},"image":{"\u0040type":"ImageObject","width":960,"contentUrl":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-9\/244367716_1296247700827717_1778764026765854788_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=110474&_nc_ohc=dBMaPb3DN2gAX-upecE&_nc_ht=scontent.fapa1-2.fna&oh=10ba4da3d42f249e70112d7fcedbccc5&oe=61809C5B","caption":""}}</a>]]></content:encoded>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @familiatqlm</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=familiatqlm&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40familiatqlm+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dfamiliatqlm%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40familiatqlm+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dfamiliatqlm%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>Colorado - Familia</author>
+      <guid>urn:sha1:1bbd3e79547ffd3d0f3755e55a3f1618801db32c</guid>
+      <pubDate>Sun, 03 Oct 2021 19:51:52 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18904)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=LeslieforColorado&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DLeslieforColorado%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DLeslieforColorado%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Leslie Herod</author>
+      <guid>urn:sha1:7b3ae97b87f7d2ec7a6717d2d840aedbeaf56873</guid>
+      <pubDate>Sun, 03 Oct 2021 19:51:51 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 400! (18904)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Twitter @leslieherod</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `The requested resource cannot be found!<br />
+Please make sure your input parameters are correct!<br />
+cUrl error:  (0)<br />
+PHP error: `<br />
+Query string: `action=display&bridge=Twitter&context=By+username&u=leslieherod&norep=on&nopic=on&noimg=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40leslieherod+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dleslieherod%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Twitter+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Twitter+%40leslieherod+failed+with+error+400&body=Error+message%3A+%60The+requested+resource+cannot+be+found%21%0APlease+make+sure+your+input+parameters+are+correct%21%0AcUrl+error%3A++%280%29%0APHP+error%3A+%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DTwitter%26context%3DBy%2Busername%26u%3Dleslieherod%26norep%3Don%26nopic%3Don%26noimg%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pmaziere" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pmaziere</p>
+</section>]]></content:encoded>
+      <author>Leslie Herod</author>
+      <guid>urn:sha1:07d3182e75c25b8aeb58aaef0d0303390a7c6d32</guid>
+      <pubDate>Sun, 03 Oct 2021 19:51:51 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18904)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=AuroraWarmstheNight&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAuroraWarmstheNight%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DAuroraWarmstheNight%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Aurora Warms the Night</author>
+      <guid>urn:sha1:8223909fe2353cdeed1f6a80ab2eae990885b981</guid>
+      <pubDate>Sun, 03 Oct 2021 19:51:51 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18904)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=Denver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DDenver-Peace-Council-Affiliate-of-US-Peace-Council-178340622680015%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Denver Peace Council</author>
+      <guid>urn:sha1:5b168c3d6c88dc7aa0fc155f79a5045765013914</guid>
+      <pubDate>Sun, 03 Oct 2021 19:51:50 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18904)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=Colorado-Attorneys-Against-Police-Violence-106087521153591&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DColorado-Attorneys-Against-Police-Violence-106087521153591%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DColorado-Attorneys-Against-Police-Violence-106087521153591%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Colorado Attorneys Against Police Violence</author>
+      <guid>urn:sha1:ddd2d1917671a1816513191b146a3eacc85f716d</guid>
+      <pubDate>Sun, 03 Oct 2021 19:51:50 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18904)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=denverPSL&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DdenverPSL%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3DdenverPSL%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
       <author>Party for Socialism and Liberation</author>
-      <guid>https://www.facebook.com/denverPSL/posts/1296248204161000</guid>
-      <pubDate>Sat, 02 Oct 2021 15:07:39 -0600</pubDate>
+      <guid>urn:sha1:e6e735bf038711744db8677bcd07b1368ce9d58b</guid>
+      <pubDate>Sun, 03 Oct 2021 19:51:50 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 500! (18904)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>Facebook Bridge | Main Site</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `You must be logged in to view this page. This is not supported by RSS-Bridge.`<br />
+Query string: `action=display&bridge=Facebook&context=User&u=denvermetroblm&media_type=all&limit=-1&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Ddenvermetroblm%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+500&body=Error+message%3A+%60You+must+be+logged+in+to+view+this+page.+This+is+not+supported+by+RSS-Bridge.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3Ddenvermetroblm%26media_type%3Dall%26limit%3D-1%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=teromene%2C+logmanoriginal" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">teromene, logmanoriginal</p>
+</section>]]></content:encoded>
+      <author>Denver Metro BLM</author>
+      <guid>urn:sha1:05b1e8ac1db9192b687d08ca07f23848afd59a03</guid>
+      <pubDate>Sun, 03 Oct 2021 19:51:49 -0600</pubDate>
     </item>
     <item>
       <title>Where can i make anti-fascist stickers in town?</title>
@@ -877,15 +917,6 @@ Version: `dev.2020-02-26`</p>
       <pubDate>Thu, 30 Sep 2021 13:23:35 -0600</pubDate>
     </item>
     <item>
-      <title>CONGRESS: Act now to stop evictions! People in more than 50...</title>
-      <link>https://www.facebook.com/denverPSL/videos/287915869519804/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverPSL/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=f00f19e50f3ea86ad65622cea26da20d&oe=617E9765" alt="" /></a><a href="https://www.facebook.com/denverPSL/">Party for Socialism and Liberation - Denver</a> was live.<a href="https://www.facebook.com/denverPSL/videos/287915869519804/"></a><i></i><p>CONGRESS: Act now to stop evictions! People in more than 50 cities across the country took part in protests this weekend calling on Congress to take action and stop the eviction of 11 million people!</p><p> We demand that:</p><p> Congress pass an indefinite moratorium on evictions that covers 100% of the country!</p>...<p> Governor Jared Polis dramatically speed up the distribution of already-allocated renter relief funds!</p><p> Congress cancel the rents and wipe out all rent and mortgage debt accumulated during the pandemic!</p> <a href="https://www.facebook.com/denverPSL/videos/287915869519804/">See More</a><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t15.5256-10/242789908_287955119515879_7329717617285909146_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=f2c4d5&_nc_ohc=DgARFS5psyQAX8IxVPf&_nc_ht=scontent.fapa1-2.fna&oh=0b950c8843a7028bb012ef2d1b379eb9&oe=615ECE16" />273 Views]]></content:encoded>
-      <author>Party for Socialism and Liberation</author>
-      <guid>https://www.facebook.com/denverPSL/videos/287915869519804/</guid>
-      <pubDate>Sun, 26 Sep 2021 15:23:04 -0600</pubDate>
-    </item>
-    <item>
       <title>Take Action: “Why do you vote” writing contest</title>
       <link>https://www.reddit.com/r/DenverProtests/comments/pw0q49/take_action_why_do_you_vote_writing_contest/</link>
       <description></description>
@@ -893,42 +924,6 @@ Version: `dev.2020-02-26`</p>
       <author>r/DenverProtests</author>
       <guid>https://www.reddit.com/r/DenverProtests/comments/pw0q49/take_action_why_do_you_vote_writing_contest/</guid>
       <pubDate>Sun, 26 Sep 2021 13:37:17 -0600</pubDate>
-    </item>
-    <item>
-      <title>Hundreds marched in Denver today alongside cities across the...</title>
-      <link>https://www.facebook.com/denverPSL/posts/1291730014612819</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverPSL/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=f00f19e50f3ea86ad65622cea26da20d&oe=617E9765" alt="" /></a><a href="https://www.facebook.com/denverPSL/">Party for Socialism and Liberation - Denver</a><a href="https://www.facebook.com/denverPSL/posts/1291730014612819"></a><i></i><p>Hundreds marched in Denver today alongside cities across the U.S. to demand citizenship and full rights for all immigrants NOW!</p><p> In honor of the historic Day Without an Immigrant on May 1, 2006 -- in which millions of immigrant workers and their allies marked International Workers' Day with strikes, walkouts, boycotts, and mass demonstrations -- today's marchers wore white shirts and retraced the steps of the original march route that took place in Denver fifteen years ago, ta...king over the street from Viking Park in Northwest Denver to the center of the city. </p><p> Before the march, immigrants representing cities and towns all across Colorado spoke out against the cruel deportations, detentions, and exploitation facing millions of undocumented and other immigrant workers in this country.</p><p> The message was militant, determined and clear: NOW is the time! Congress and President Biden must:</p><p> • Create a pathway to citizenship for all 11+ million undocumented immigrants!<br /> • Ensure that a pathway to citizenship is included in the reconciliation bill, and pass it!<br /> • Welcome all refugees and asylees including those from Afghanistan, Haiti, and Central America, and work to provide them a pathway to citizenship<br /> • Stop all deportations, detentions, and family separations in our immigrant communities! </p><p> Exigiremos lo siguiente al Congreso y Biden:</p><p> • ¡Cree un camino hacia la ciudadanía para los más de 11 millones de inmigrantes indocumentados!<br /> • ¡Asegúrese de que se incluya un camino hacia la ciudadanía en el proyecto de ley de reconciliación, y páselo!<br /> • Dar la bienvenida a todos los refugiados y asilados, incluidos los de Afganistán, Haití y América Central, y trabajar para proporcionarles un camino hacia la ciudadanía.<br /> • ¡Detengan todas las deportaciones, detenciones y separaciones familiares en nuestras comunidades de inmigrantes!</p> <a href="https://www.facebook.com/denverPSL/posts/1291730014612819">See More</a><a href="https://www.facebook.com/denverPSL/videos/pcb.1291730014612819/340323217873015/">{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-09-25T16:14:43-0700","dateModified":"2021-09-25T16:14:43-0700","identifier":"340323217873015:12:0","url":"https:\/\/www.facebook.com\/denverPSL\/videos\/340323217873015\/","isPartOf":"https:\/\/www.facebook.com\/denverPSL\/","headline":"Party for Socialism and Liberation - Denver","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":11},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":1},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":8379}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Party for Socialism and Liberation - Denver","identifier":282807008838463,"url":"https:\/\/www.facebook.com\/denverPSL\/","image":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-1\/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=a12de3&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=bfbbb610ed45f3fe660e66c73fde8468&oe=617E2E01","sameAs":"www.pslweb.org\/","foundingDate":"2017-05-03T15:17:42-0700"},"video":{"\u0040type":"VideoObject","name":"Party for Socialism and Liberation - Denver","description":"Party for Socialism and Liberation - Denver","thumbnailUrl":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t15.5256-10\/242918407_340325391206131_1543581592657219743_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=08861d&_nc_ohc=5617ya24D7UAX9UgAVz&_nc_ht=scontent.fapa1-2.fna&oh=9fb7bf74f947d2e6f545a78871c82279&oe=616027A2","duration":"T14S","uploadDate":"2021-09-25T16:09:03-07:00","contentUrl":"https:\/\/video.fapa1-2.fna.fbcdn.net\/v\/t42.1790-2\/242619632_155210703397749_2799948949135032447_n.mp4?_nc_cat=100&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjU2OCwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0\u00253D&_nc_ohc=w4vkRyTRGVEAX90Dcon&rl=568&vabr=316&_nc_ht=video.fapa1-2.fna&oh=b8e2aa74765a6692c65ffb035db0160a&oe=615A7984","publication":[{"\u0040type":"BroadcastEvent","isLiveBroadcast":false}],"\u0040id":"https:\/\/video.fapa1-2.fna.fbcdn.net\/v\/t42.1790-2\/242619632_155210703397749_2799948949135032447_n.mp4?_nc_cat=100&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjU2OCwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0\u00253D&_nc_ohc=w4vkRyTRGVEAX90Dcon&rl=568&vabr=316&_nc_ht=video.fapa1-2.fna&oh=b8e2aa74765a6692c65ffb035db0160a&oe=615A7984","url":"https:\/\/video.fapa1-2.fna.fbcdn.net\/v\/t42.1790-2\/242619632_155210703397749_2799948949135032447_n.mp4?_nc_cat=100&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjU2OCwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0\u00253D&_nc_ohc=w4vkRyTRGVEAX90Dcon&rl=568&vabr=316&_nc_ht=video.fapa1-2.fna&oh=b8e2aa74765a6692c65ffb035db0160a&oe=615A7984","datePublished":"2021-09-25T16:09:03-07:00","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":{"\u0040type":"http:\/\/schema.org\/WatchAction"},"userInteractionCount":209},{"\u0040type":"InteractionCounter","interactionType":{"\u0040type":"http:\/\/schema.org\/ShareAction"},"userInteractionCount":1},{"\u0040type":"InteractionCounter","interactionType":{"\u0040type":"http:\/\/schema.org\/LikeAction"},"userInteractionCount":11}],"width":1280,"height":720,"thumbnail":{"\u0040type":"ImageObject","contentUrl":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t15.5256-10\/242918407_340325391206131_1543581592657219743_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=08861d&_nc_ohc=5617ya24D7UAX9UgAVz&_nc_ht=scontent.fapa1-2.fna&oh=9fb7bf74f947d2e6f545a78871c82279&oe=616027A2","width":1280,"height":720},"headline":"Party for Socialism and Liberation - Denver","isFamilyFriendly":true,"genre":"Social Issues","keywords":"Social Issues, Immigration Policy, Party for Socialism and Liberation - Denver","commentCount":0,"comment":[],"inLanguage":"en","contentSize":"3803.218kB","videoQuality":"720p","author":{"\u0040type":"Organization","name":"Party for Socialism and Liberation - Denver","url":"https:\/\/www.facebook.com\/denverPSL\/"},"publisher":{"\u0040type":"Organization","logo":{"\u0040type":"ImageObject","url":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-1\/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=c1fdac&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=bfbbb610ed45f3fe660e66c73fde8468&oe=617E2E01"},"name":"Party for Socialism and Liberation - Denver","url":"https:\/\/www.facebook.com\/denverPSL\/"},"creator":{"\u0040type":"Organization","image":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-1\/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=c1fdac&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=bfbbb610ed45f3fe660e66c73fde8468&oe=617E2E01","name":"Party for Socialism and Liberation - Denver","url":"https:\/\/www.facebook.com\/denverPSL\/","interactionStatistic":[{"\u0040type":"http:\/\/schema.org\/InteractionCounter","interactionType":{"\u0040type":"http:\/\/schema.org\/FollowAction"},"userInteractionCount":8379},{"\u0040type":"http:\/\/schema.org\/InteractionCounter","interactionType":{"\u0040type":"http:\/\/schema.org\/LikeAction"},"userInteractionCount":7575}]},"transcript":"","embedUrl":"https:\/\/video.fapa1-2.fna.fbcdn.net\/v\/t42.1790-2\/242619632_155210703397749_2799948949135032447_n.mp4?_nc_cat=100&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjU2OCwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0\u00253D&_nc_ohc=w4vkRyTRGVEAX90Dcon&rl=568&vabr=316&_nc_ht=video.fapa1-2.fna&oh=b8e2aa74765a6692c65ffb035db0160a&oe=615A7984"}}</a><a href="https://www.facebook.com/denverPSL/photos/pcb.1291730014612819/1291728267946327/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/s526x296/242938618_1291728274612993_2701734474593822274_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=110474&_nc_ohc=pokJ8yzpi6gAX86q4fV&_nc_ht=scontent.fapa1-2.fna&oh=ec3c00af6ae1c4f166f727847ffaef50&oe=617E2405" alt="May be an image of 4 people, people standing and outdoors" width="166" height="295" caption="May be an image of 4 people, people standing and outdoors" />{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-09-25T16:14:43-0700","dateModified":"2021-09-25T16:14:43-0700","identifier":"1291728267946327:9:0","url":"https:\/\/www.facebook.com\/denverPSL\/photos\/a.378847259234437\/1291728267946327\/?type=3","isPartOf":"https:\/\/www.facebook.com\/denverPSL\/","headline":"Party for... - Party for Socialism and Liberation - Denver","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":1},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":8379}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Party for Socialism and Liberation - Denver","identifier":282807008838463,"url":"https:\/\/www.facebook.com\/denverPSL\/","image":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-1\/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=a12de3&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=bfbbb610ed45f3fe660e66c73fde8468&oe=617E2E01","sameAs":"www.pslweb.org\/","foundingDate":"2017-05-03T15:17:42-0700"},"image":{"\u0040type":"ImageObject","width":828,"contentUrl":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-9\/242938618_1291728274612993_2701734474593822274_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=110474&_nc_ohc=pokJ8yzpi6gAX86q4fV&_nc_ht=scontent.fapa1-2.fna&oh=f9795519662c4c2ae89db306c95831bc&oe=617FB466","caption":""}}</a><a href="https://www.facebook.com/denverPSL/photos/pcb.1291730014612819/1291728347946319/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-9/p235x165/242899381_1291728351279652_1839116632199320599_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=110474&_nc_ohc=dMOUtLa2jscAX-lYcp5&_nc_ht=scontent.fapa1-1.fna&oh=f317e1c27c8a25454f4bf1d960bd7a81&oe=617F8C22" alt="May be an image of 2 people and people standing" width="248" height="165" caption="May be an image of 2 people and people standing" />{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-09-25T16:14:43-0700","dateModified":"2021-09-25T16:14:43-0700","identifier":"1291728347946319:9:0","url":"https:\/\/www.facebook.com\/denverPSL\/photos\/a.378847259234437\/1291728347946319\/?type=3","isPartOf":"https:\/\/www.facebook.com\/denverPSL\/","headline":"Party for... - Party for Socialism and Liberation - Denver","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":1},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":1},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":8379}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Party for Socialism and Liberation - Denver","identifier":282807008838463,"url":"https:\/\/www.facebook.com\/denverPSL\/","image":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-1\/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=a12de3&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=bfbbb610ed45f3fe660e66c73fde8468&oe=617E2E01","sameAs":"www.pslweb.org\/","foundingDate":"2017-05-03T15:17:42-0700"},"image":{"\u0040type":"ImageObject","width":1280,"contentUrl":"https:\/\/scontent.fapa1-1.fna.fbcdn.net\/v\/t1.6435-9\/242899381_1291728351279652_1839116632199320599_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=110474&_nc_ohc=dMOUtLa2jscAX-lYcp5&_nc_ht=scontent.fapa1-1.fna&oh=35fe94070e9fc23d7d117602f93f3f31&oe=61807D3A","caption":""}}</a><a href="https://www.facebook.com/denverPSL/photos/pcb.1291730014612819/1291728417946312/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-9/p235x165/242831216_1291728427946311_2226541642559670917_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=110474&_nc_ohc=ShVBlf3rjkwAX_G2m3W&_nc_ht=scontent.fapa1-1.fna&oh=7d2a04b892f0d4096ba1e4347713a130&oe=61800007" alt="May be an image of one or more people and outdoors" width="248" height="165" caption="May be an image of one or more people and outdoors" />+10{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-09-25T16:14:43-0700","dateModified":"2021-09-25T16:14:43-0700","identifier":"1291728417946312:9:0","url":"https:\/\/www.facebook.com\/denverPSL\/photos\/a.378847259234437\/1291728417946312\/?type=3","isPartOf":"https:\/\/www.facebook.com\/denverPSL\/","headline":"Party for... - Party for Socialism and Liberation - Denver","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":8379}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Party for Socialism and Liberation - Denver","identifier":282807008838463,"url":"https:\/\/www.facebook.com\/denverPSL\/","image":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-1\/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=a12de3&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=bfbbb610ed45f3fe660e66c73fde8468&oe=617E2E01","sameAs":"www.pslweb.org\/","foundingDate":"2017-05-03T15:17:42-0700"},"image":{"\u0040type":"ImageObject","width":1280,"contentUrl":"https:\/\/scontent.fapa1-1.fna.fbcdn.net\/v\/t1.6435-9\/242831216_1291728427946311_2226541642559670917_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=110474&_nc_ohc=ShVBlf3rjkwAX_G2m3W&_nc_ht=scontent.fapa1-1.fna&oh=a63de457720aeea721324e0d8c4f8efb&oe=6181139F","caption":""}}</a>]]></content:encoded>
-      <author>Party for Socialism and Liberation</author>
-      <guid>https://www.facebook.com/denverPSL/posts/1291730014612819</guid>
-      <pubDate>Sat, 25 Sep 2021 17:15:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Denver Marches for Citizenship! Congress escucha! Full rights...</title>
-      <link>https://www.facebook.com/denverPSL/videos/420740156059413/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverPSL/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=f00f19e50f3ea86ad65622cea26da20d&oe=617E9765" alt="" /></a><a href="https://www.facebook.com/denverPSL/">Party for Socialism and Liberation - Denver</a> was live.<a href="https://www.facebook.com/denverPSL/videos/420740156059413/"></a><i></i><p>Denver Marches for Citizenship! Congress escucha! Full rights for immigrants now!</p><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t15.5256-10/242586896_420740229392739_3535186534958411400_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=f2c4d5&_nc_ohc=jlp9pRdXaKkAX9_AMSh&_nc_ht=scontent.fapa1-1.fna&oh=68b190f4e3db316b79c5291f03dff8fc&oe=615FC836" />137 Views]]></content:encoded>
-      <author>Party for Socialism and Liberation</author>
-      <guid>https://www.facebook.com/denverPSL/videos/420740156059413/</guid>
-      <pubDate>Sat, 25 Sep 2021 12:24:42 -0600</pubDate>
-    </item>
-    <item>
-      <title>March for Citizenship happening now! We are demanding that...</title>
-      <link>https://www.facebook.com/denverPSL/posts/1291600024625818</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverPSL/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=f00f19e50f3ea86ad65622cea26da20d&oe=617E9765" alt="" /></a><a href="https://www.facebook.com/denverPSL/">Party for Socialism and Liberation - Denver</a><a href="https://www.facebook.com/denverPSL/posts/1291600024625818"></a><i></i><p>March for Citizenship happening now! We are demanding that Congress and Biden: </p><p> - Create a pathway to citizenship for all 11+ million undocumented immigrants!<br /> - Ensure that a pathway to citizenship is included in the reconciliation bill, and pass it!<br /> - Welcome all refugees and asylees including those from Afghanistan, Haiti, and Central America, and work to provide them a pathway to citizenship...<br /> - Stop all deportations, detentions, and family separations in our immigrant communities! </p><p> *******************************************</p><p> Exigiremos lo siguiente al Congreso y Biden:</p><p> - ¡Cree un camino hacia la ciudadanía para los más de 11 millones de inmigrantes indocumentados!<br /> - ¡Asegúrese de que se incluya un camino hacia la ciudadanía en el proyecto de ley de reconciliación, y páselo!<br /> - Dar la bienvenida a todos los refugiados y asilados, incluidos los de Afganistán, Haití y América Central, y trabajar para proporcionarles un camino hacia la ciudadanía.<br /> - ¡Detengan todas las deportaciones, detenciones y separaciones familiares en nuestras comunidades de inmigrantes!</p> <a href="https://www.facebook.com/denverPSL/posts/1291600024625818">See More</a><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t15.5256-10/242501360_411312017078941_6046524076979875930_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=f2c4d5&_nc_ohc=_0G8meLZ4rAAX9MQ5bh&_nc_ht=scontent.fapa1-1.fna&oh=e4f53fa045c92b3a3b2d6854fb61c14b&oe=615F1C33" /><a href="https://www.facebook.com/coloradopeoplesalliance/">Colorado People's Alliance</a> was live.<a href="https://www.facebook.com/coloradopeoplesalliance/videos/411310767079066/"></a><p>We are at the <a href="https://www.facebook.com/hashtag/marchforcitizenship">#MarchForCitizenship</a>! We're marching from Viking Park to the Auraria Campus demanding a pathway to citizenship for all undocumented Americans, welcome all refugees & asylees and put a stop to all deportations, detentions & family separations✊🏽</p>]]></content:encoded>
-      <author>Party for Socialism and Liberation</author>
-      <guid>https://www.facebook.com/denverPSL/posts/1291600024625818</guid>
-      <pubDate>Sat, 25 Sep 2021 11:51:01 -0600</pubDate>
-    </item>
-    <item>
-      <title>Party for Socialism and Liberation - Denver was live.151 Views</title>
-      <link>https://www.facebook.com/denverPSL/videos/589571272391018/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverPSL/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=f00f19e50f3ea86ad65622cea26da20d&oe=617E9765" alt="" /></a><a href="https://www.facebook.com/denverPSL/">Party for Socialism and Liberation - Denver</a> was live.<a href="https://www.facebook.com/denverPSL/videos/589571272391018/"></a><i></i><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t15.5256-10/242383723_589571672390978_3766234586967028636_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=f2c4d5&_nc_ohc=gC6mtXzWUGYAX-W8Ziu&_nc_ht=scontent.fapa1-1.fna&oh=96f924aa1c9633458109498a44f251e9&oe=615FB841" />151 Views]]></content:encoded>
-      <author>Party for Socialism and Liberation</author>
-      <guid>https://www.facebook.com/denverPSL/videos/589571272391018/</guid>
-      <pubDate>Sat, 25 Sep 2021 11:35:47 -0600</pubDate>
     </item>
     <item>
       <title>Stop All Evictions! Denver Car Protest | National Day of Protest (Sunday, 9/26 @ 2PM)</title>
@@ -949,33 +944,6 @@ Version: `dev.2020-02-26`</p>
       <pubDate>Tue, 21 Sep 2021 22:50:09 -0600</pubDate>
     </item>
     <item>
-      <title>Party for Socialism and Liberation - Denver added an event.SUN, SEP 26Stop All Evictions! Denver Car Protest | National Day of Protest3815 N...</title>
-      <link>https://www.facebook.com/events/291112362417403/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverPSL/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=f00f19e50f3ea86ad65622cea26da20d&oe=617E9765" alt="" /></a><a href="https://www.facebook.com/denverPSL/">Party for Socialism and Liberation - Denver</a> added an <a href="https://www.facebook.com/events/291112362417403/">event</a>.<a href="https://www.facebook.com/events/291112362417403/"></a><i></i><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-9/s526x296/242276691_1286859275099893_4993995566369584093_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=b386c4&_nc_ohc=Zr7GNkVfy_4AX9nsjPA&_nc_ht=scontent.fapa1-1.fna&oh=b142cb8341a330d2d0ad0c2aeec53d23&oe=617FE0F8" alt="Party for Socialism and Liberation - Denver's photo." width="504" height="263" caption="Party for Socialism and Liberation - Denver's photo." /><a href="https://www.facebook.com/events/291112362417403/"></a><p>SUN, SEP 26</p><p>Stop All Evictions! Denver Car Protest | National Day of Protest</p>3815 N Steele St, Denver, CO 80205-3657, United States<i></i>16 people went]]></content:encoded>
-      <author>Party for Socialism and Liberation</author>
-      <guid>https://www.facebook.com/events/291112362417403/</guid>
-      <pubDate>Sat, 18 Sep 2021 13:59:33 -0600</pubDate>
-    </item>
-    <item>
-      <title>&#34;A total of 96 officers have parted ways with the Aurora...</title>
-      <link>https://www.facebook.com/denverPSL/posts/1286174395168381</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverPSL/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=f00f19e50f3ea86ad65622cea26da20d&oe=617E9765" alt="" /></a><a href="https://www.facebook.com/denverPSL/">Party for Socialism and Liberation - Denver</a><a href="https://www.facebook.com/denverPSL/posts/1286174395168381"></a><i></i><p>"A total of 96 officers have parted ways with the Aurora Police Department so far in 2021, with another two staffers expected to split by week’s end. ... The number of exits among APD ranks through the middle of September already dwarfs totals from last year, when 87 officials left Aurora police — a 61% increase over 2019. Resignations are the driving force behind the exodus"</p><p> While Aurora's situation is even more acute due to the intense condemnation the department has earned itself, this is a trend police departments are experiencing nationwide. The veneer that the police protect and serve the people of this country is slipping and the scrutiny police now know to expect is driving many would-be cops from signing up. </p><p> The mass movement against racist police terror is causing historic shifts. The fight only continues!</p><a href="https://sentinelcolorado.com/news/metro/aurora-police-report-record-officer-departures-in-2021/">“For 21 months we have been in the spotlight — some for our own doing and I’m not trying to defend any of the individuals that I’ve held accountable or terminated — but it has been a very rough go to wear the Aurora police patch,” said Chief Vanessa Wilson.<img src="https://external.fapa1-2.fna.fbcdn.net/safe_image.php?d=AQFsO-YC8VFu7os_&w=540&h=282&url=https%3A%2F%2Fcdn.sentinelcolorado.com%2F2018%2F11%2F08104131%2F2Per1000.2-091608.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_oe=6ecad&_nc_sid=06c271&ccb=3-5&gt=1&_nc_hash=AQEp4sIOk9gSS4If" alt="" width="500" height="262" caption="" /></a><p>sentinelcolorado.com</p><p>Aurora police report record officer departures in 2021 - Sentinel Colorado</p>“For 21 months we have been in the spotlight — some for our own doing and I’m not trying to defend any of the individuals that I’ve held accountable or terminated — but it has been a very rough go to wear the Aurora police patch,” said Chief Vanessa Wilson.<a href="https://sentinelcolorado.com/news/metro/aurora-police-report-record-officer-departures-in-2021/">“For 21 months we have been in the spotlight — some for our own doing and I’m not trying to defend any of the individuals that I’ve held accountable or terminated — but it has been a very rough go to wear the Aurora police patch,” said Chief Vanessa Wilson.</a>]]></content:encoded>
-      <author>Party for Socialism and Liberation</author>
-      <guid>https://www.facebook.com/denverPSL/posts/1286174395168381</guid>
-      <pubDate>Fri, 17 Sep 2021 12:07:12 -0600</pubDate>
-    </item>
-    <item>
-      <title>This is on the homepage of the Washington Post right now.  The...</title>
-      <link>https://www.facebook.com/denverPSL/photos/a.378847259234437/1285610661891421/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverPSL/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=f00f19e50f3ea86ad65622cea26da20d&oe=617E9765" alt="" /></a><a href="https://www.facebook.com/denverPSL/">Party for Socialism and Liberation - Denver</a><a href="https://www.facebook.com/denverPSL/photos/a.378847259234437/1285610661891421/"></a><i></i><p>This is on the homepage of the Washington Post right now. <br /> The Aurora Police Department is being exposed to the whole country for their brutality, racism, and corruption. This is the work of the people!! 👏 These investigations were only opened after the people made it clear that the unchecked abuse and impunity of APD would not be tolerated any longer. It was only under the pressure of mass, sustained protests that local and state politicians began to talk about investigating APD.</p><a href="https://www.facebook.com/denverPSL/photos/a.378847259234437/1285610661891421/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p526x296/242189177_1285610668558087_8363008171727651031_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=110474&_nc_ohc=CaOP6eL7uiEAX_EiwOy&_nc_ht=scontent.fapa1-2.fna&oh=020c1da17ce4bc99ea66bf6ae1477ca2&oe=6180314A" alt="May be an image of one or more people, people standing and text that says 'Che Washington post Darkness NATIONAL JUSTICE FOR ELIJAH CCLAIN! JUSTICE FORALL oclalism and VICTIMSOF DALNE JUSTICE FOR ELIJAH MCCLAI Party.forS (Reuters) Aurora, Colo., police have pattern of racial bias, according to probe triggered by Elijah McClain death The 14-month investigation by a team appointed by the state attorney general's office was triggered by the death of Elijah McClain, who was stopped by police on his way home from a convenience store. By Andrew Jeong'" width="500" height="788" caption="May be an image of one or more people, people standing and text that says 'Che Washington post Darkness NATIONAL JUSTICE FOR ELIJAH CCLAIN! JUSTICE FORALL oclalism and VICTIMSOF DALNE JUSTICE FOR ELIJAH MCCLAI Party.forS (Reuters) Aurora, Colo., police have pattern of racial bias, according to probe triggered by Elijah McClain death The 14-month investigation by a team appointed by the state attorney general's office was triggered by the death of Elijah McClain, who was stopped by police on his way home from a convenience store. By Andrew Jeong'" /></a>]]></content:encoded>
-      <author>Party for Socialism and Liberation</author>
-      <guid>https://www.facebook.com/denverPSL/photos/a.378847259234437/1285610661891421/</guid>
-      <pubDate>Thu, 16 Sep 2021 15:25:11 -0600</pubDate>
-    </item>
-    <item>
       <title>Oh you mean the department that captured James Holmes alive?</title>
       <link>https://www.reddit.com/r/DenverProtests/comments/pp4k64/oh_you_mean_the_department_that_captured_james/</link>
       <description></description>
@@ -985,51 +953,6 @@ Version: `dev.2020-02-26`</p>
       <pubDate>Wed, 15 Sep 2021 20:29:41 -0600</pubDate>
     </item>
     <item>
-      <title>Party for Socialism and Liberation - Denver“We’re prepared to seek a court-ordered solution to these problems,” Weiser...</title>
-      <link>https://www.facebook.com/denverPSL/posts/1285065015279319</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverPSL/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=f00f19e50f3ea86ad65622cea26da20d&oe=617E9765" alt="" /></a><a href="https://www.facebook.com/denverPSL/">Party for Socialism and Liberation - Denver</a><a href="https://www.facebook.com/denverPSL/posts/1285065015279319"></a><i></i><a href="https://sentinelcolorado.com/news/metro/colorado-ag-excoriates-aurora-police-and-firefighters-for-systematically-abusing-residents-and-minorities/">“We’re prepared to seek a court-ordered solution to these problems,” Weiser said.<img src="https://external.fapa1-2.fna.fbcdn.net/safe_image.php?d=AQEt7s1jn22P-5_q&w=540&h=282&url=https%3A%2F%2Fcdn.sentinelcolorado.com%2F2021%2F09%2F15112120%2FPhil-Weiser-1-9.15.21.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_oe=6ecac&_nc_sid=06c271&ccb=3-5&gt=1&_nc_hash=AQEDLbkr8aKyUQ8V" alt="" width="500" height="262" caption="" /></a><p>sentinelcolorado.com</p><p>Colorado AG excoriates Aurora police and firefighters for systematically abusing residents and minorities - Sentinel Colorado</p>“We’re prepared to seek a court-ordered solution to these problems,” Weiser said.<a href="https://sentinelcolorado.com/news/metro/colorado-ag-excoriates-aurora-police-and-firefighters-for-systematically-abusing-residents-and-minorities/">“We’re prepared to seek a court-ordered solution to these problems,” Weiser said.</a>]]></content:encoded>
-      <author>Party for Socialism and Liberation</author>
-      <guid>https://www.facebook.com/denverPSL/posts/1285065015279319</guid>
-      <pubDate>Wed, 15 Sep 2021 20:16:29 -0600</pubDate>
-    </item>
-    <item>
-      <title>BREAKING: State investigation finds racism and excessive force...</title>
-      <link>https://www.facebook.com/denverPSL/posts/1284921315293689</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverPSL/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=f00f19e50f3ea86ad65622cea26da20d&oe=617E9765" alt="" /></a><a href="https://www.facebook.com/denverPSL/">Party for Socialism and Liberation - Denver</a><a href="https://www.facebook.com/denverPSL/posts/1284921315293689"></a><i></i><p>BREAKING: State investigation finds racism and excessive force rampant within Aurora Police Department</p><p> AG Phil Weiser began his press conference saying, "Last summer we heard loudly and clearly, the people of Colorado expect more from law enforcement." </p><p> The exposure and accountability now facing APD and others involved in brutalizing and abusing the people of Aurora is unparalleled in Aurora's history. It was the people who forced this change by coming together by the thousan...ds, month after month, demanding it. </p><p> The people have the power to change our society. This is only the beginning!</p> <a href="https://www.facebook.com/denverPSL/posts/1284921315293689">See More</a><a href="https://www.facebook.com/denverPSL/photos/pcb.1284921315293689/1284920938627060/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/s261x260/242173444_1284920945293726_8318490892754187209_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=110474&_nc_ohc=hE7Gh_s8NIIAX_q7EWy&_nc_ht=scontent.fapa1-2.fna&oh=273e5992912341d313027c93216750b7&oe=617EC062" alt="May be an image of 1 person and text that says 'CRIME AND COURTS Aurora police consistently break the law through racially biased policing and excessive force, attorney general finds Attorney General Phil Weiser launched a patterns and practices investigation into the Aurora Police Department amid protests surrounding the 2019 death of Elijah McClain Jesse Paul 10:45 AM MDT or Sep 15, 2021'" width="249" height="249" caption="May be an image of 1 person and text that says 'CRIME AND COURTS Aurora police consistently break the law through racially biased policing and excessive force, attorney general finds Attorney General Phil Weiser launched a patterns and practices investigation into the Aurora Police Department amid protests surrounding the 2019 death of Elijah McClain Jesse Paul 10:45 AM MDT or Sep 15, 2021'" />{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-09-15T13:10:48-0700","dateModified":"2021-09-15T13:10:48-0700","identifier":"1284920938627060:9:0","url":"https:\/\/www.facebook.com\/denverPSL\/photos\/a.378847259234437\/1284920938627060\/?type=3","isPartOf":"https:\/\/www.facebook.com\/denverPSL\/","headline":"Party for... - Party for Socialism and Liberation - Denver","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":8379}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Party for Socialism and Liberation - Denver","identifier":282807008838463,"url":"https:\/\/www.facebook.com\/denverPSL\/","image":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-1\/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=a12de3&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=bfbbb610ed45f3fe660e66c73fde8468&oe=617E2E01","sameAs":"www.pslweb.org\/","foundingDate":"2017-05-03T15:17:42-0700"},"image":{"\u0040type":"ImageObject","width":960,"contentUrl":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-9\/242173444_1284920945293726_8318490892754187209_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=110474&_nc_ohc=hE7Gh_s8NIIAX_q7EWy&_nc_ht=scontent.fapa1-2.fna&oh=e662421e0c85b8b22b73661d7a8a0aa6&oe=61818257","caption":""}}</a><a href="https://www.facebook.com/denverPSL/photos/pcb.1284921315293689/1284921115293709/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/s261x260/242007082_1284921121960375_3972536335263737877_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=110474&_nc_ohc=SVBbtnnjbjIAX-QcHQk&_nc_ht=scontent.fapa1-2.fna&oh=2f4c09c6aa3dab25969ab915e91924c0&oe=617F45D2" alt="May be an image of text" width="249" height="249" caption="May be an image of text" />{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-09-15T13:10:48-0700","dateModified":"2021-09-15T13:10:48-0700","identifier":"1284921115293709:9:0","url":"https:\/\/www.facebook.com\/denverPSL\/photos\/a.378847259234437\/1284921115293709\/?type=3","isPartOf":"https:\/\/www.facebook.com\/denverPSL\/","headline":"Party for... - Party for Socialism and Liberation - Denver","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":1},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":8379}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Party for Socialism and Liberation - Denver","identifier":282807008838463,"url":"https:\/\/www.facebook.com\/denverPSL\/","image":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-1\/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=a12de3&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=bfbbb610ed45f3fe660e66c73fde8468&oe=617E2E01","sameAs":"www.pslweb.org\/","foundingDate":"2017-05-03T15:17:42-0700"},"image":{"\u0040type":"ImageObject","width":960,"contentUrl":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-9\/242007082_1284921121960375_3972536335263737877_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=110474&_nc_ohc=SVBbtnnjbjIAX-QcHQk&_nc_ht=scontent.fapa1-2.fna&oh=c8daf379d7857768f8ae4eb0061a9c95&oe=6180CDE7","caption":""}}</a><a href="https://www.facebook.com/denverPSL/photos/pcb.1284921315293689/1284920991960388/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/s261x260/242043524_1284920995293721_4275741868686854317_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=110474&_nc_ohc=XXJZC9VOZ3YAX8EkB9U&_nc_ht=scontent.fapa1-2.fna&oh=8a43d2dd7cab10ef616383e96ba5762e&oe=617F54E6" alt="May be an image of text that says 'Aurora police officers often view de-escalation "as requiring officers to calm down after using force rather than avoiding unnecessary escalation in the first place" During ride alongs, investigators repeatedly observed differences in policing and outcomes that were dependent on the individual officer' approach, rather than objective circumstances. One officer told an investigator that one of the things he liked most about his job was the discretion he had in the field, allowing him to be lenient or develop creative solutions short of an arrest where he believed appropriate. Aurora police interacted more with lower-income Black people'" width="249" height="249" caption="May be an image of text that says 'Aurora police officers often view de-escalation "as requiring officers to calm down after using force rather than avoiding unnecessary escalation in the first place" During ride alongs, investigators repeatedly observed differences in policing and outcomes that were dependent on the individual officer' approach, rather than objective circumstances. One officer told an investigator that one of the things he liked most about his job was the discretion he had in the field, allowing him to be lenient or develop creative solutions short of an arrest where he believed appropriate. Aurora police interacted more with lower-income Black people'" />{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-09-15T13:10:48-0700","dateModified":"2021-09-15T13:10:48-0700","identifier":"1284920991960388:9:0","url":"https:\/\/www.facebook.com\/denverPSL\/photos\/a.378847259234437\/1284920991960388\/?type=3","isPartOf":"https:\/\/www.facebook.com\/denverPSL\/","headline":"Party for... - Party for Socialism and Liberation - Denver","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":8379}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Party for Socialism and Liberation - Denver","identifier":282807008838463,"url":"https:\/\/www.facebook.com\/denverPSL\/","image":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-1\/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=a12de3&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=bfbbb610ed45f3fe660e66c73fde8468&oe=617E2E01","sameAs":"www.pslweb.org\/","foundingDate":"2017-05-03T15:17:42-0700"},"image":{"\u0040type":"ImageObject","width":960,"contentUrl":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-9\/242043524_1284920995293721_4275741868686854317_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=110474&_nc_ohc=XXJZC9VOZ3YAX8EkB9U&_nc_ht=scontent.fapa1-2.fna&oh=efb99dd7419ed4558eb372547c95865b&oe=617FDFD3","caption":""}}</a><a href="https://www.facebook.com/denverPSL/photos/pcb.1284921315293689/1284921011960386/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/s261x260/242079561_1284921015293719_48129056956174267_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=110474&_nc_ohc=xgFIlKAgYtcAX_p9cx1&_nc_ht=scontent.fapa1-2.fna&oh=44c28fcfb9f387c07437b9030e401c86&oe=617F02BA" alt="May be an image of text" width="249" height="249" caption="May be an image of text" />+4{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2021-09-15T13:10:48-0700","dateModified":"2021-09-15T13:10:48-0700","identifier":"1284921011960386:9:0","url":"https:\/\/www.facebook.com\/denverPSL\/photos\/a.378847259234437\/1284921011960386\/?type=3","isPartOf":"https:\/\/www.facebook.com\/denverPSL\/","headline":"Party for... - Party for Socialism and Liberation - Denver","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":8379}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Party for Socialism and Liberation - Denver","identifier":282807008838463,"url":"https:\/\/www.facebook.com\/denverPSL\/","image":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-1\/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=a12de3&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=bfbbb610ed45f3fe660e66c73fde8468&oe=617E2E01","sameAs":"www.pslweb.org\/","foundingDate":"2017-05-03T15:17:42-0700"},"image":{"\u0040type":"ImageObject","width":960,"contentUrl":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-9\/242079561_1284921015293719_48129056956174267_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=110474&_nc_ohc=xgFIlKAgYtcAX_p9cx1&_nc_ht=scontent.fapa1-2.fna&oh=6de0221d08f27d9a9909b044535d76c3&oe=617FAE4A","caption":""}}</a>]]></content:encoded>
-      <author>Party for Socialism and Liberation</author>
-      <guid>https://www.facebook.com/denverPSL/posts/1284921315293689</guid>
-      <pubDate>Wed, 15 Sep 2021 14:10:48 -0600</pubDate>
-    </item>
-    <item>
-      <title>Party for Socialism and Liberation - DenverThe 12 remaining charges against Joel Northam, Lillian House and Terrence Roberts were dropped...</title>
-      <link>https://www.facebook.com/denverPSL/posts/1284390588680095</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverPSL/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=f00f19e50f3ea86ad65622cea26da20d&oe=617E9765" alt="" /></a><a href="https://www.facebook.com/denverPSL/">Party for Socialism and Liberation - Denver</a><a href="https://www.facebook.com/denverPSL/posts/1284390588680095"></a><i></i><a href="http://peoplesdispatch.org/2021/09/14/all-charges-dropped-against-activists-who-fought-for-justice-for-elijah-mcclain/">The 12 remaining charges against Joel Northam, Lillian House and Terrence Roberts were dropped close to a year after their arrest. The decision comes weeks after the indictment of three police officers and two paramedics for the murder of Elijah McClain<img src="https://external.fapa1-2.fna.fbcdn.net/safe_image.php?d=AQHR-yGP6HFJUIZp&w=540&h=282&url=http%3A%2F%2Fpeoplesdispatch.org%2Fwp-content%2Fuploads%2F2021%2F09%2F119997807_1033489650436858_9143370877529489510_n.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_oe=6ecac&_nc_sid=06c271&ccb=3-5&gt=1&_nc_hash=AQGiMvobpnMgfYwb" alt="" width="500" height="262" caption="" /></a><p>peoplesdispatch.org</p><p>All charges dropped against activists who fought for justice for Elijah McClain : Peoples Dispatch</p>The 12 remaining charges against Joel Northam, Lillian House and Terrence Roberts were dropped close to a year after their arrest. The decision comes weeks after the indictment of three police officers and two paramedics for the murder of Elijah McClain<a href="http://peoplesdispatch.org/2021/09/14/all-charges-dropped-against-activists-who-fought-for-justice-for-elijah-mcclain/">The 12 remaining charges against Joel Northam, Lillian House and Terrence Roberts were dropped close to a year after their arrest. The decision comes weeks after the indictment of three police officers and two paramedics for the murder of Elijah McClain</a>]]></content:encoded>
-      <author>Party for Socialism and Liberation</author>
-      <guid>https://www.facebook.com/denverPSL/posts/1284390588680095</guid>
-      <pubDate>Tue, 14 Sep 2021 18:39:37 -0600</pubDate>
-    </item>
-    <item>
-      <title>“It reaffirms the principle of when you fight, you don’t...</title>
-      <link>https://www.facebook.com/denverPSL/posts/1283767905409030</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverPSL/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=f00f19e50f3ea86ad65622cea26da20d&oe=617E9765" alt="" /></a><a href="https://www.facebook.com/denverPSL/">Party for Socialism and Liberation - Denver</a><a href="https://www.facebook.com/denverPSL/posts/1283767905409030"></a><i></i><p>“It reaffirms the principle of when you fight, you don’t know whether or not you’re gonna win or lose the fight, but you know if you don’t fight, you’ve already sealed the deal that you lost,” said Northam.</p><a href="https://www.denverpost.com/2021/09/13/charges-dropped-aurora-protest-leaders/">A trio of Aurora protester leaders, who once faced decades in prison on felony charges stemming from demonstrations last summer over the death of Elijah McClain, had a dozen remaining counts dismis…<img src="https://external.fapa1-2.fna.fbcdn.net/safe_image.php?d=AQEYXTat3UeI1lRi&w=540&h=282&url=https%3A%2F%2Fwww.denverpost.com%2Fwp-content%2Fuploads%2F2020%2F07%2FTDP-L-J_ELIJAHRALLY_RE_18.jpg%3Fw%3D1024%26h%3D683&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_oe=6ecac&_nc_sid=06c271&ccb=3-5&gt=1&_nc_hash=AQH5UHzK45Rz9sQM" alt="" width="500" height="262" caption="" /></a><p>denverpost.com</p><p>Remaining charges dropped against Aurora protest leaders</p>A trio of Aurora protester leaders, who once faced decades in prison on felony charges stemming from demonstrations last summer over the death of Elijah McClain, had a dozen remaining counts dismis…<a href="https://www.denverpost.com/2021/09/13/charges-dropped-aurora-protest-leaders/">A trio of Aurora protester leaders, who once faced decades in prison on felony charges stemming from demonstrations last summer over the death of Elijah McClain, had a dozen remaining counts dismis…</a>]]></content:encoded>
-      <author>Party for Socialism and Liberation</author>
-      <guid>https://www.facebook.com/denverPSL/posts/1283767905409030</guid>
-      <pubDate>Mon, 13 Sep 2021 20:18:49 -0600</pubDate>
-    </item>
-    <item>
-      <title>&#34;As the cry for accountability in McClain&#39;s death...</title>
-      <link>https://www.facebook.com/denverPSL/posts/1283714522081035</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverPSL/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=f00f19e50f3ea86ad65622cea26da20d&oe=617E9765" alt="" /></a><a href="https://www.facebook.com/denverPSL/">Party for Socialism and Liberation - Denver</a><a href="https://www.facebook.com/denverPSL/posts/1283714522081035"></a><i></i><p>"As the cry for accountability in McClain's death increased, so did demands that the charges against the protesters be dropped. Leaders from across the country joined in the National Committee for Justice in Denver, warning that continued prosecution of the activists for leading peaceful demonstrations against those in power would strike a blow to First Amendment protections everywhere in the country.</p><p> "We made it clear from the beginning that we were not going to take a plea deal," Lucero says in a recording made on Breakthrough News earlier today. And as the defendants went through dozens of court dates, slowly the charges were dropped."</p><a href="https://www.westword.com/news/elijah-mcclain-protesters-charges-dropped-12335973">They'd been arrested on September 17.<img src="https://external.fapa1-2.fna.fbcdn.net/safe_image.php?d=AQE3iQjVw1HRfDa8&w=540&h=282&url=https%3A%2F%2Fmedia1.fdncms.com%2Fden%2Fimager%2Fu%2Fslideshow%2F12335986%2Fpslleaders.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_oe=6ecac&_nc_sid=06c271&ccb=3-5&gt=1&_nc_hash=AQHjWY-wiGnmwgly" alt="" width="500" height="262" caption="" /></a><p>westword.com</p><p>Last Charges Dropped Against Elijah McClain Protest Leaders</p>They'd been arrested on September 17.<a href="https://www.westword.com/news/elijah-mcclain-protesters-charges-dropped-12335973">They'd been arrested on September 17.</a>]]></content:encoded>
-      <author>Party for Socialism and Liberation</author>
-      <guid>https://www.facebook.com/denverPSL/posts/1283714522081035</guid>
-      <pubDate>Mon, 13 Sep 2021 18:03:33 -0600</pubDate>
-    </item>
-    <item>
       <title>All Charges Dropped Against Denver Anti-Racist Activists</title>
       <link>https://www.reddit.com/r/DenverProtests/comments/pnolf6/all_charges_dropped_against_denver_antiracist/</link>
       <description></description>
@@ -1037,24 +960,6 @@ Version: `dev.2020-02-26`</p>
       <author>r/DenverProtests</author>
       <guid>https://www.reddit.com/r/DenverProtests/comments/pnolf6/all_charges_dropped_against_denver_antiracist/</guid>
       <pubDate>Mon, 13 Sep 2021 15:14:40 -0600</pubDate>
-    </item>
-    <item>
-      <title>Denver activists cleared of all charges! Watch the exclusive...</title>
-      <link>https://www.facebook.com/denverPSL/posts/1283651345420686</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverPSL/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=f00f19e50f3ea86ad65622cea26da20d&oe=617E9765" alt="" /></a><a href="https://www.facebook.com/denverPSL/">Party for Socialism and Liberation - Denver</a><a href="https://www.facebook.com/denverPSL/posts/1283651345420686"></a><i></i><p>Denver activists cleared of all charges! Watch the exclusive BreakThrough News interview with targeted organizers Joel Northam, Eliza Lucero, and Lillian House</p><a href="https://www.youtube.com/watch?v=V6-Jm5epvIk&t=1s">In a remarkable turn of events, all charges have been dropped against Denver anti-racist activists Lillian House, Joel Northam, Eliza Lucero and Terrance Rob...<img src="https://external.fapa1-2.fna.fbcdn.net/safe_image.php?d=AQGIihBADIkK5sxD&w=540&h=282&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FV6-Jm5epvIk%2Fmaxresdefault.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_oe=6ecac&_nc_sid=06c271&ccb=3-5&gt=1&_nc_hash=AQFtpl_QA_d9f_zN" alt="" width="500" height="262" caption="" /></a><p>youtube.com</p><p>EXCLUSIVE: All Charges Dropped Against Denver Anti-Racist Activists #JusticeForElijahMcClain</p>In a remarkable turn of events, all charges have been dropped against Denver anti-racist activists Lillian House, Joel Northam, Eliza Lucero and Terrance Rob...<a href="https://www.youtube.com/watch?v=V6-Jm5epvIk&t=1s">In a remarkable turn of events, all charges have been dropped against Denver anti-racist activists Lillian House, Joel Northam, Eliza Lucero and Terrance Rob...</a>]]></content:encoded>
-      <author>Party for Socialism and Liberation</author>
-      <guid>https://www.facebook.com/denverPSL/posts/1283651345420686</guid>
-      <pubDate>Mon, 13 Sep 2021 15:14:37 -0600</pubDate>
-    </item>
-    <item>
-      <title>BREAKING: ALL remaining charges against the leaders of the...</title>
-      <link>https://www.facebook.com/denverPSL/photos/a.378847259234437/1283640658755088/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverPSL/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=f00f19e50f3ea86ad65622cea26da20d&oe=617E9765" alt="" /></a><a href="https://www.facebook.com/denverPSL/">Party for Socialism and Liberation - Denver</a><a href="https://www.facebook.com/denverPSL/photos/a.378847259234437/1283640658755088/"></a><i></i><p>BREAKING: ALL remaining charges against the leaders of the protests for Elijah McClain have been dropped! Tune into BreakThrough News NOW for an exclusive live interview with targeted organizers Joel Northam, Lillian House, and Eliza Lucero: <a href="https://youtu.be/V6-Jm5epvIk">https://youtu.be/V6-Jm5epvIk</a></p><p> That not a single charge of the original 69 stands today represents a tremendous victory. The resources that went into this campaign are colossal: The Aurora Police Department concocted affidavits over 30 page...s long against the activists; they used informants and fabricated evidence against them; they surveilled them; they secured warrants to break into their phones and social media accounts. Today’s complete victory shows that even when facing powerful forces of repression, the unified struggle of the people can win.</p><p> Thank you to everyone who has supported the defense of these organizers. The amazing response from across the country and around the world has been decisive in getting us to this point today.</p><p> Please read the full statement of the National Committee for Justice in Denver at <a href="https://www.denverdefense.off/all_charges_dropped">https://www.denverdefense.off/all_charges_dropped</a></p> <a href="https://www.facebook.com/denverPSL/posts/1283640785421742">See More</a><a href="https://www.facebook.com/denverPSL/photos/a.378847259234437/1283640658755088/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p526x296/241802505_1283640665421754_8067695808556519801_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=110474&_nc_ohc=LhVLftjh7WQAX-jRULR&_nc_ht=scontent.fapa1-2.fna&oh=061cefcdcdda49b36dc5a0c3f1e1af5a&oe=617F9874" alt="May be an image of text that says 'ALL CHARGES DROPPED! TOTAL VICTORY OVER AURORA POLITICAL PROSECUTION TUNE IN TO BREAKTHROUGH NEWS FOR AN EXCLUSIVE INTERVIEW youtube.com/c/breakthroughnews'" width="500" height="500" caption="May be an image of text that says 'ALL CHARGES DROPPED! TOTAL VICTORY OVER AURORA POLITICAL PROSECUTION TUNE IN TO BREAKTHROUGH NEWS FOR AN EXCLUSIVE INTERVIEW youtube.com/c/breakthroughnews'" /></a>]]></content:encoded>
-      <author>Party for Socialism and Liberation</author>
-      <guid>https://www.facebook.com/denverPSL/photos/a.378847259234437/1283640658755088/</guid>
-      <pubDate>Mon, 13 Sep 2021 14:49:51 -0600</pubDate>
     </item>
     <item>
       <title>Ah, the Bourgeoisie. Any Leftists out there who still support WORKERS??</title>
@@ -1091,24 +996,6 @@ Version: `dev.2020-02-26`</p>
       <author>r/DenverProtests</author>
       <guid>https://www.reddit.com/r/DenverProtests/comments/ph7e1o/local_school_district_high_school_girls_fighting/</guid>
       <pubDate>Fri, 03 Sep 2021 09:26:11 -0600</pubDate>
-    </item>
-    <item>
-      <title>Party for Socialism and Liberation - DenverBreakThrough NewsThese are the three officers who murdered Elijah McClain. Hundreds of thousands...</title>
-      <link>https://www.facebook.com/denverPSL/posts/1275580039561150</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverPSL/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=f00f19e50f3ea86ad65622cea26da20d&oe=617E9765" alt="" /></a><a href="https://www.facebook.com/denverPSL/">Party for Socialism and Liberation - Denver</a><a href="https://www.facebook.com/denverPSL/posts/1275580039561150"></a><i></i><a href="https://www.facebook.com/BTnewsroom/photos/a.131326151735039/381826010018384/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t39.30808-6/s640x640/241166046_381826016685050_4634628944009482932_n.png?_nc_cat=103&ccb=1-5&_nc_sid=8024bb&_nc_ohc=zwiKXG7Kw2kAX9CykB-&_nc_ht=scontent.fapa1-2.fna&oh=545e29993ec660be90cf06debbdfd4c2&oe=615E9A0C" alt="May be an image of 3 people and text that says 'BREAKING NEWS Officers Pai indicted for the murder of Elijah McClain JASON ROSENBLATT RANDY RADYROEDEMA ROEDEMA NATHAN WOODYARD BT'" width="500" height="625" caption="May be an image of 3 people and text that says 'BREAKING NEWS Officers Pai indicted for the murder of Elijah McClain JASON ROSENBLATT RANDY RADYROEDEMA ROEDEMA NATHAN WOODYARD BT'" /></a><a href="https://www.facebook.com/BTnewsroom/">BreakThrough News</a><a href="https://www.facebook.com/BTnewsroom/photos/a.131326151735039/381826010018384/"></a><p>These are the three officers who murdered Elijah McClain. Hundreds of thousands of people took the streets in Denver and around the world demanding justice for ...Elijah. </p><p> This indictment is the fruit of people's struggle.</p><p> <a href="https://www.facebook.com/hashtag/justiceforelijahmcclain">#justiceforelijahmcclain</a> <a href="https://www.facebook.com/hashtag/elijahmcclain">#elijahmcclain</a> #blacklivesmatter <a href="https://www.facebook.com/hashtag/policebrutality">#policebrutality</a> <a href="https://www.facebook.com/hashtag/stoppolicebrutality">#stoppolicebrutality</a> <a href="https://www.facebook.com/hashtag/blacklivesmatter">#blacklivesmatter</a>✊🏽✊🏾✊🏿 <a href="https://www.facebook.com/hashtag/policeviolence">#policeviolence</a></p> <a href="https://www.facebook.com">See More</a>]]></content:encoded>
-      <author>Party for Socialism and Liberation</author>
-      <guid>https://www.facebook.com/denverPSL/posts/1275580039561150</guid>
-      <pubDate>Wed, 01 Sep 2021 18:19:09 -0600</pubDate>
-    </item>
-    <item>
-      <title>Party for Socialism and Liberation - DenverMcClain died after being injected with a sedative during a police stop in Aurora, Colorado, near...</title>
-      <link>https://www.facebook.com/denverPSL/posts/1275531476232673</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denverPSL/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/242489385_1289028178216336_3482051146878228325_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=ZEYbmnOgLJ4AX-EHiWf&_nc_ht=scontent.fapa1-2.fna&oh=f00f19e50f3ea86ad65622cea26da20d&oe=617E9765" alt="" /></a><a href="https://www.facebook.com/denverPSL/">Party for Socialism and Liberation - Denver</a><a href="https://www.facebook.com/denverPSL/posts/1275531476232673"></a><i></i><a href="https://www.aljazeera.com/news/2021/9/1/police-medics-charged-for-2019-death-of-elijah-mcclain">McClain died after being injected with a sedative during a police stop in Aurora, Colorado, near Denver.<img src="https://external.fapa1-2.fna.fbcdn.net/safe_image.php?d=AQFWpxgCqQkQmsNE&w=540&h=282&url=https%3A%2F%2Fwww.aljazeera.com%2Fwp-content%2Fuploads%2F2021%2F09%2FAP21244543263115.jpg%3Fresize%3D1200%252C630&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_oe=6ecad&_nc_sid=06c271&ccb=3-5&gt=1&_nc_hash=AQEm0NbnOHIBLwfG" alt="" width="500" height="262" caption="" /></a><p>aljazeera.com</p><p>Police, medics charged for 2019 death of Elijah McClain</p>McClain died after being injected with a sedative during a police stop in Aurora, Colorado, near Denver.<a href="https://www.aljazeera.com/news/2021/9/1/police-medics-charged-for-2019-death-of-elijah-mcclain">McClain died after being injected with a sedative during a police stop in Aurora, Colorado, near Denver.</a>]]></content:encoded>
-      <author>Party for Socialism and Liberation</author>
-      <guid>https://www.facebook.com/denverPSL/posts/1275531476232673</guid>
-      <pubDate>Wed, 01 Sep 2021 18:12:02 -0600</pubDate>
     </item>
     <item>
       <title>Protesters harass Denver police at encampment sweep</title>
@@ -1253,123 +1140,6 @@ Version: `dev.2020-02-26`</p>
       <author>r/DenverProtests</author>
       <guid>https://www.reddit.com/r/DenverProtests/comments/l56eo0/a_list_of_mutual_aid_groups_in_denver_a_place_to/</guid>
       <pubDate>Mon, 25 Jan 2021 21:43:06 -0700</pubDate>
-    </item>
-    <item>
-      <title>This was us. Thankful for everyone who came, donated, or even...</title>
-      <link>https://www.facebook.com/denvermetroblm/posts/114276340312093</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denvermetroblm/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/101634430_110713930668334_1110906201782091776_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=3yz7QE0dDm4AX9x-4T2&_nc_ht=scontent.fapa1-1.fna&oh=f8596541011ea1a39951b9b0dbce7596&oe=617E0792" alt="" /></a><a href="https://www.facebook.com/denvermetroblm/">Denver Metro BLM</a><a href="https://www.facebook.com/denvermetroblm/posts/114276340312093"></a><i></i><p>This was us. Thankful for everyone who came, donated, or even spread the word. It gives us hope. We’ll continue fighting and I hope you’ll all be there beside us.</p><a href="https://denver.cbslocal.com/2020/06/06/protesters-block-pena-boulevard-denver-international-airport-students-green-valley-ranch/">Protesters marched down Peña Boulevard and blocked traffic when they lay down in the roadway and chanted "I can't breathe."<img src="https://external.fapa1-2.fna.fbcdn.net/safe_image.php?d=AQEkolr6Pvzr8wP2&w=540&h=282&url=https%3A%2F%2Fdenver.cbslocal.com%2Fwp-content%2Fuploads%2Fsites%2F15909806%2F2020%2F06%2Fprotest.png%3Fw%3D1500&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_oe=6ecac&_nc_sid=632586&ccb=3-5&gt=1&_nc_hash=AQHLZh_okm1fkeBS" alt="" width="500" height="262" caption="" /></a><p>denver.cbslocal.com|By <a href="https://www.facebook.com/CBSDenver/">CBS Denver</a></p><p>Student-Led Protesters Near Denver International Airport Lie Down In The Middle Of Peña Boulevard</p>Protesters marched down Peña Boulevard and blocked traffic when they lay down in the roadway and chanted "I can't breathe."<a href="https://denver.cbslocal.com/2020/06/06/protesters-block-pena-boulevard-denver-international-airport-students-green-valley-ranch/">Protesters marched down Peña Boulevard and blocked traffic when they lay down in the roadway and chanted "I can't breathe."</a>]]></content:encoded>
-      <author>Denver Metro BLM</author>
-      <guid>https://www.facebook.com/denvermetroblm/posts/114276340312093</guid>
-      <pubDate>Sat, 06 Jun 2020 19:48:28 -0600</pubDate>
-    </item>
-    <item>
-      <title>EVERYONE: THE MAIN ENTRANCE IS BLOCKED BUT GO DOWN TOWER RD. TO...</title>
-      <link>https://www.facebook.com/denvermetroblm/posts/114113390328388</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denvermetroblm/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/101634430_110713930668334_1110906201782091776_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=3yz7QE0dDm4AX9x-4T2&_nc_ht=scontent.fapa1-1.fna&oh=f8596541011ea1a39951b9b0dbce7596&oe=617E0792" alt="" /></a><a href="https://www.facebook.com/denvermetroblm/">Denver Metro BLM</a><a href="https://www.facebook.com/denvermetroblm/posts/114113390328388"></a><i></i><p>EVERYONE: THE MAIN ENTRANCE IS BLOCKED BUT GO DOWN TOWER RD. TO FIND PARKING!</p>]]></content:encoded>
-      <author>Denver Metro BLM</author>
-      <guid>https://www.facebook.com/denvermetroblm/posts/114113390328388</guid>
-      <pubDate>Sat, 06 Jun 2020 15:40:19 -0600</pubDate>
-    </item>
-    <item>
-      <title>What today will look like.  Go: Voter registration, welcome, and...</title>
-      <link>https://www.facebook.com/denvermetroblm/photos/a.111538613919199/114012667005127/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denvermetroblm/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/101634430_110713930668334_1110906201782091776_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=3yz7QE0dDm4AX9x-4T2&_nc_ht=scontent.fapa1-1.fna&oh=f8596541011ea1a39951b9b0dbce7596&oe=617E0792" alt="" /></a><a href="https://www.facebook.com/denvermetroblm/">Denver Metro BLM</a><a href="https://www.facebook.com/denvermetroblm/photos/a.111538613919199/114012667005127/"></a><i></i><p>What today will look like. </p><p> Go: Voter registration, welcome, and rundown. </p><p> Finish: 9-minute SILENT Peña shut down, official demands, words from organizers. </p>...<p> Then we’ll return through the same route.</p> <a href="https://www.facebook.com/denvermetroblm/posts/114013603671700">See More</a><a href="https://www.facebook.com/denvermetroblm/photos/a.111538613919199/114012667005127/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p526x296/102808433_114012670338460_7174862651268973777_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=110474&_nc_ohc=cNx8vjwIhHsAX_JfXbL&_nc_ht=scontent.fapa1-2.fna&oh=3c1ce38e616850e2304b0107abbbcc39&oe=617F69AF" alt="No photo description available." width="500" height="851" caption="No photo description available." /></a>]]></content:encoded>
-      <author>Denver Metro BLM</author>
-      <guid>https://www.facebook.com/denvermetroblm/photos/a.111538613919199/114012667005127/</guid>
-      <pubDate>Sat, 06 Jun 2020 13:29:42 -0600</pubDate>
-    </item>
-    <item>
-      <title>IF YOU PLAN ON COMING, PLEASE READ.  IT IS NOT REQUIRED TO...</title>
-      <link>https://www.facebook.com/denvermetroblm/photos/a.111538613919199/114000303673030/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denvermetroblm/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/101634430_110713930668334_1110906201782091776_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=3yz7QE0dDm4AX9x-4T2&_nc_ht=scontent.fapa1-1.fna&oh=f8596541011ea1a39951b9b0dbce7596&oe=617E0792" alt="" /></a><a href="https://www.facebook.com/denvermetroblm/">Denver Metro BLM</a><a href="https://www.facebook.com/denvermetroblm/photos/a.111538613919199/114000303673030/"></a><i></i><p>IF YOU PLAN ON COMING, PLEASE READ. </p><p> IT IS NOT REQUIRED TO PARTICIPATE BUT WE FEEL IT IS NECESSARY TO MAKE OUR VOICES HEARD.</p><a href="https://www.facebook.com/denvermetroblm/photos/a.111538613919199/114000303673030/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p526x296/102936986_114000310339696_5140684888195710455_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=110474&_nc_ohc=gR6miGSYWBMAX91nekf&_nc_ht=scontent.fapa1-2.fna&oh=d09a40b659b00d679135b5000cd319f2&oe=6181151D" alt="No photo description available." width="500" height="648" caption="No photo description available." /></a>]]></content:encoded>
-      <author>Denver Metro BLM</author>
-      <guid>https://www.facebook.com/denvermetroblm/photos/a.111538613919199/114000303673030/</guid>
-      <pubDate>Sat, 06 Jun 2020 13:14:11 -0600</pubDate>
-    </item>
-    <item>
-      <title>3 HOURS. RAIN OR SHINE, WE’LL BE THERE. WEAR APPROPRIATE...</title>
-      <link>https://www.facebook.com/denvermetroblm/posts/113998237006570</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denvermetroblm/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/101634430_110713930668334_1110906201782091776_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=3yz7QE0dDm4AX9x-4T2&_nc_ht=scontent.fapa1-1.fna&oh=f8596541011ea1a39951b9b0dbce7596&oe=617E0792" alt="" /></a><a href="https://www.facebook.com/denvermetroblm/">Denver Metro BLM</a><a href="https://www.facebook.com/denvermetroblm/posts/113998237006570"></a><i></i><p>3 HOURS. RAIN OR SHINE, WE’LL BE THERE. WEAR APPROPRIATE CLOTHING. SUNGLASSES ENFORCED FOR WIND/ DIRT.</p><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-9/p526x296/101727036_110721344000926_7905525269845245952_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=b386c4&_nc_aid=0&_nc_ohc=iP-zq14LTCsAX-uA2OZ&_nc_ht=scontent.fapa1-1.fna&oh=e8c9ff85cddedcef7312364012f86cdc&oe=617EF5BA" alt="Denver Metro BLM's photo." width="500" height="648" caption="Denver Metro BLM's photo." /><a href="https://www.facebook.com/events/285730689132418/"></a><p>SAT, JUN 6, 2020</p><p>DENVER METRO BLM PROTEST</p>18250 E 51st Ave, Denver, CO 80249-8735, United States967 people interested]]></content:encoded>
-      <author>Denver Metro BLM</author>
-      <guid>https://www.facebook.com/denvermetroblm/posts/113998237006570</guid>
-      <pubDate>Sat, 06 Jun 2020 13:09:50 -0600</pubDate>
-    </item>
-    <item>
-      <title>DENVER. TOMORROW IS THE DAY! MORE DETAILS WILL BE POSTED...</title>
-      <link>https://www.facebook.com/denvermetroblm/posts/112981990441528</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denvermetroblm/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/101634430_110713930668334_1110906201782091776_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=3yz7QE0dDm4AX9x-4T2&_nc_ht=scontent.fapa1-1.fna&oh=f8596541011ea1a39951b9b0dbce7596&oe=617E0792" alt="" /></a><a href="https://www.facebook.com/denvermetroblm/">Denver Metro BLM</a><a href="https://www.facebook.com/denvermetroblm/posts/112981990441528"></a><i></i><p>DENVER. TOMORROW IS THE DAY! MORE DETAILS WILL BE POSTED TOMORROW SO CHECK BACK IN. IF YOU NEED TRANSPORTATION, PRIVATE MESSAGE US. COME SUPPORT BLACK LIVES.</p><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-9/p526x296/101727036_110721344000926_7905525269845245952_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=b386c4&_nc_aid=0&_nc_ohc=iP-zq14LTCsAX-uA2OZ&_nc_ht=scontent.fapa1-1.fna&oh=e8c9ff85cddedcef7312364012f86cdc&oe=617EF5BA" alt="Denver Metro BLM's photo." width="500" height="648" caption="Denver Metro BLM's photo." /><a href="https://www.facebook.com/events/285730689132418/"></a><p>SAT, JUN 6, 2020</p><p>DENVER METRO BLM PROTEST</p>18250 E 51st Ave, Denver, CO 80249-8735, United States967 people interested]]></content:encoded>
-      <author>Denver Metro BLM</author>
-      <guid>https://www.facebook.com/denvermetroblm/posts/112981990441528</guid>
-      <pubDate>Fri, 05 Jun 2020 16:10:53 -0600</pubDate>
-    </item>
-    <item>
-      <title>TOMORROW! SHARE SHARE SHARE!</title>
-      <link>https://www.facebook.com/denvermetroblm/posts/112641313808929</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denvermetroblm/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/101634430_110713930668334_1110906201782091776_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=3yz7QE0dDm4AX9x-4T2&_nc_ht=scontent.fapa1-1.fna&oh=f8596541011ea1a39951b9b0dbce7596&oe=617E0792" alt="" /></a><a href="https://www.facebook.com/denvermetroblm/">Denver Metro BLM</a><a href="https://www.facebook.com/denvermetroblm/posts/112641313808929"></a><i></i><p>TOMORROW! SHARE SHARE SHARE!</p><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-9/p526x296/101727036_110721344000926_7905525269845245952_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=b386c4&_nc_aid=0&_nc_ohc=iP-zq14LTCsAX-uA2OZ&_nc_ht=scontent.fapa1-1.fna&oh=e8c9ff85cddedcef7312364012f86cdc&oe=617EF5BA" alt="Denver Metro BLM's photo." width="500" height="648" caption="Denver Metro BLM's photo." /><a href="https://www.facebook.com/events/285730689132418/"></a><p>SAT, JUN 6, 2020</p><p>DENVER METRO BLM PROTEST</p>18250 E 51st Ave, Denver, CO 80249-8735, United States967 people interested]]></content:encoded>
-      <author>Denver Metro BLM</author>
-      <guid>https://www.facebook.com/denvermetroblm/posts/112641313808929</guid>
-      <pubDate>Fri, 05 Jun 2020 09:26:54 -0600</pubDate>
-    </item>
-    <item>
-      <title>DON’T HAVE A RIDE? WE HAVE FUNDS FOR YOU. MESSAGE US PRIVATELY...</title>
-      <link>https://www.facebook.com/denvermetroblm/posts/111606437245750</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denvermetroblm/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/101634430_110713930668334_1110906201782091776_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=3yz7QE0dDm4AX9x-4T2&_nc_ht=scontent.fapa1-1.fna&oh=f8596541011ea1a39951b9b0dbce7596&oe=617E0792" alt="" /></a><a href="https://www.facebook.com/denvermetroblm/">Denver Metro BLM</a><a href="https://www.facebook.com/denvermetroblm/posts/111606437245750"></a><i></i><p>DON’T HAVE A RIDE? WE HAVE FUNDS FOR YOU. MESSAGE US PRIVATELY FOR MORE INFO. SHARE AND SEND TO YOUR FRIENDS!</p><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-9/p526x296/101727036_110721344000926_7905525269845245952_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=b386c4&_nc_aid=0&_nc_ohc=iP-zq14LTCsAX-uA2OZ&_nc_ht=scontent.fapa1-1.fna&oh=e8c9ff85cddedcef7312364012f86cdc&oe=617EF5BA" alt="Denver Metro BLM's photo." width="500" height="648" caption="Denver Metro BLM's photo." /><a href="https://www.facebook.com/events/285730689132418/"></a><p>SAT, JUN 6, 2020</p><p>DENVER METRO BLM PROTEST</p>18250 E 51st Ave, Denver, CO 80249-8735, United States967 people interested]]></content:encoded>
-      <author>Denver Metro BLM</author>
-      <guid>https://www.facebook.com/denvermetroblm/posts/111606437245750</guid>
-      <pubDate>Thu, 04 Jun 2020 13:41:09 -0600</pubDate>
-    </item>
-    <item>
-      <title>BEFORE THE PROTEST, THERE WILL BE A VOTER REGISTRATION BOOTH AT...</title>
-      <link>https://www.facebook.com/denvermetroblm/posts/111538627252531</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denvermetroblm/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/101634430_110713930668334_1110906201782091776_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=3yz7QE0dDm4AX9x-4T2&_nc_ht=scontent.fapa1-1.fna&oh=f8596541011ea1a39951b9b0dbce7596&oe=617E0792" alt="" /></a><a href="https://www.facebook.com/denvermetroblm/">Denver Metro BLM</a><a href="https://www.facebook.com/denvermetroblm/posts/111538627252531"></a><i></i><p>BEFORE THE PROTEST, THERE WILL BE A VOTER REGISTRATION BOOTH AT 3:30.</p><a href="https://www.facebook.com/denvermetroblm/photos/pcb.111538627252531/111538303919230/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p403x403/101984645_111538307252563_2953373933983760384_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=110474&_nc_ohc=eTyu5qe0tgIAX_VIFyt&_nc_ht=scontent.fapa1-2.fna&oh=2f8ddcce901427b8375d7d2831c850bf&oe=617EBED6" alt="No photo description available." width="387" height="500" caption="No photo description available." />{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2020-06-04T11:17:18-0700","dateModified":"2020-06-04T11:17:18-0700","identifier":"111538303919230:9:0","url":"https:\/\/www.facebook.com\/denvermetroblm\/photos\/a.111538613919199\/111538303919230\/?type=3","isPartOf":"https:\/\/www.facebook.com\/denvermetroblm\/","headline":"Denver Metro BLM added a new photo. - Denver Metro BLM","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":1676}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Denver Metro BLM","identifier":110710687335325,"url":"https:\/\/www.facebook.com\/denvermetroblm\/","image":"https:\/\/scontent.fapa1-1.fna.fbcdn.net\/v\/t1.6435-1\/101634430_110713930668334_1110906201782091776_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=a12de3&_nc_ohc=3yz7QE0dDm4AX9x-4T2&_nc_ht=scontent.fapa1-1.fna&oh=7852a0e17e013f55bcc18e81f086c797&oe=6180AAA7","sameAs":"","foundingDate":"2020-06-03T22:02:21-0700"},"image":{"\u0040type":"ImageObject","width":741,"contentUrl":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-9\/101984645_111538307252563_2953373933983760384_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=110474&_nc_ohc=eTyu5qe0tgIAX_VIFyt&_nc_ht=scontent.fapa1-2.fna&oh=a52e6ca78bd5b7c1b5681c80d6ddd41b&oe=617FD94D","caption":""}}</a><a href="https://www.facebook.com/denvermetroblm/photos/pcb.111538627252531/111538323919228/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/p350x350/102374922_111538327252561_6063422103057596416_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=110474&_nc_ohc=3a47Bq6OuW8AX9CD8Kt&_nc_ht=scontent.fapa1-2.fna&oh=88d440b5fd9584839395da08363e4454&oe=617FB46E" alt="No photo description available." width="344" height="500" caption="No photo description available." />{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2020-06-04T11:17:18-0700","dateModified":"2020-06-04T11:17:18-0700","identifier":"111538323919228:9:0","url":"https:\/\/www.facebook.com\/denvermetroblm\/photos\/a.111538613919199\/111538323919228\/?type=3","isPartOf":"https:\/\/www.facebook.com\/denvermetroblm\/","headline":"Denver Metro BLM added a new photo. - Denver Metro BLM","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":1},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":1676}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Denver Metro BLM","identifier":110710687335325,"url":"https:\/\/www.facebook.com\/denvermetroblm\/","image":"https:\/\/scontent.fapa1-1.fna.fbcdn.net\/v\/t1.6435-1\/101634430_110713930668334_1110906201782091776_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=a12de3&_nc_ohc=3yz7QE0dDm4AX9x-4T2&_nc_ht=scontent.fapa1-1.fna&oh=7852a0e17e013f55bcc18e81f086c797&oe=6180AAA7","sameAs":"","foundingDate":"2020-06-03T22:02:21-0700"},"image":{"\u0040type":"ImageObject","width":660,"contentUrl":"https:\/\/scontent.fapa1-2.fna.fbcdn.net\/v\/t1.6435-9\/102374922_111538327252561_6063422103057596416_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=110474&_nc_ohc=3a47Bq6OuW8AX9CD8Kt&_nc_ht=scontent.fapa1-2.fna&oh=d67cf886f2a84a875ae4822f9f075e65&oe=617E960E","caption":""}}</a>]]></content:encoded>
-      <author>Denver Metro BLM</author>
-      <guid>https://www.facebook.com/denvermetroblm/posts/111538627252531</guid>
-      <pubDate>Thu, 04 Jun 2020 12:17:18 -0600</pubDate>
-    </item>
-    <item>
-      <title>DENVER! Join us as we peacefully protest this SATURDAY, JUNE...</title>
-      <link>https://www.facebook.com/denvermetroblm/posts/110721390667588</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denvermetroblm/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/101634430_110713930668334_1110906201782091776_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=3yz7QE0dDm4AX9x-4T2&_nc_ht=scontent.fapa1-1.fna&oh=f8596541011ea1a39951b9b0dbce7596&oe=617E0792" alt="" /></a><a href="https://www.facebook.com/denvermetroblm/">Denver Metro BLM</a><a href="https://www.facebook.com/denvermetroblm/posts/110721390667588"></a><i></i><p>DENVER! Join us as we peacefully protest this SATURDAY, JUNE 6th.</p><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-9/p526x296/101727036_110721344000926_7905525269845245952_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=b386c4&_nc_aid=0&_nc_ohc=iP-zq14LTCsAX-uA2OZ&_nc_ht=scontent.fapa1-1.fna&oh=e8c9ff85cddedcef7312364012f86cdc&oe=617EF5BA" alt="Denver Metro BLM's photo." width="500" height="648" caption="Denver Metro BLM's photo." /><a href="https://www.facebook.com/events/285730689132418/"></a><p>SAT, JUN 6, 2020</p><p>DENVER METRO BLM PROTEST</p>18250 E 51st Ave, Denver, CO 80249-8735, United States967 people interested]]></content:encoded>
-      <author>Denver Metro BLM</author>
-      <guid>https://www.facebook.com/denvermetroblm/posts/110721390667588</guid>
-      <pubDate>Wed, 03 Jun 2020 23:13:31 -0600</pubDate>
-    </item>
-    <item>
-      <title>Denver Metro BLM updated their cover photo.</title>
-      <link>https://www.facebook.com/denvermetroblm/photos/a.110715194001541/110715174001543/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denvermetroblm/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/101634430_110713930668334_1110906201782091776_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=3yz7QE0dDm4AX9x-4T2&_nc_ht=scontent.fapa1-1.fna&oh=f8596541011ea1a39951b9b0dbce7596&oe=617E0792" alt="" /></a><a href="https://www.facebook.com/denvermetroblm/">Denver Metro BLM</a> updated their cover photo.<a href="https://www.facebook.com/denvermetroblm/photos/a.110715194001541/110715174001543/"></a><i></i><a href="https://www.facebook.com/denvermetroblm/photos/a.110715194001541/110715174001543/"><img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.6435-9/s526x296/102878347_110715180668209_8724208485287329792_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=dd9801&_nc_ohc=fXETe0-6CuYAX99yb4i&_nc_ht=scontent.fapa1-2.fna&oh=ec3987b9fdfed8b5dbd088261a531945&oe=617F9E7F" alt="No photo description available." width="500" height="210" caption="No photo description available." /></a>]]></content:encoded>
-      <author>Denver Metro BLM</author>
-      <guid>https://www.facebook.com/denvermetroblm/photos/a.110715194001541/110715174001543/</guid>
-      <pubDate>Wed, 03 Jun 2020 23:07:40 -0600</pubDate>
-    </item>
-    <item>
-      <title>Denver Metro BLM updated their profile picture.</title>
-      <link>https://www.facebook.com/denvermetroblm/photos/a.110710764001984/110713927335001/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denvermetroblm/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/101634430_110713930668334_1110906201782091776_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=3yz7QE0dDm4AX9x-4T2&_nc_ht=scontent.fapa1-1.fna&oh=f8596541011ea1a39951b9b0dbce7596&oe=617E0792" alt="" /></a><a href="https://www.facebook.com/denvermetroblm/">Denver Metro BLM</a> updated their profile picture.<a href="https://www.facebook.com/denvermetroblm/photos/a.110710764001984/110713927335001/"></a><i></i><a href="https://www.facebook.com/denvermetroblm/photos/a.110710764001984/110713927335001/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-9/p370x247/101634430_110713930668334_1110906201782091776_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=85a577&_nc_ohc=3yz7QE0dDm4AX9x-4T2&_nc_ht=scontent.fapa1-1.fna&oh=391e46621a0027c9d576a919acc38ee1&oe=6181984B" alt="" /></a>]]></content:encoded>
-      <author>Denver Metro BLM</author>
-      <guid>https://www.facebook.com/denvermetroblm/photos/a.110710764001984/110713927335001/</guid>
-      <pubDate>Wed, 03 Jun 2020 23:05:42 -0600</pubDate>
-    </item>
-    <item>
-      <title>Denver Metro BLM updated their profile picture.</title>
-      <link>https://www.facebook.com/denvermetroblm/photos/a.110710764001984/110713780668349/</link>
-      <description></description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/denvermetroblm/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/101634430_110713930668334_1110906201782091776_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=3yz7QE0dDm4AX9x-4T2&_nc_ht=scontent.fapa1-1.fna&oh=f8596541011ea1a39951b9b0dbce7596&oe=617E0792" alt="" /></a><a href="https://www.facebook.com/denvermetroblm/">Denver Metro BLM</a> updated their profile picture.<a href="https://www.facebook.com/denvermetroblm/photos/a.110710764001984/110713780668349/"></a><i></i><a href="https://www.facebook.com/denvermetroblm/photos/a.110710764001984/110713780668349/"><img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.6435-9/p370x247/101848799_110713784001682_3937165983025725440_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=7aed08&_nc_ohc=1fC6g-Du9FAAX8UWIrh&_nc_ht=scontent.fapa1-1.fna&oh=266900a8d944282f4746d06a41f45f5c&oe=618176B6" alt="" /></a>]]></content:encoded>
-      <author>Denver Metro BLM</author>
-      <guid>https://www.facebook.com/denvermetroblm/photos/a.110710764001984/110713780668349/</guid>
-      <pubDate>Wed, 03 Jun 2020 23:05:28 -0600</pubDate>
     </item>
   </channel>
 </rss>
