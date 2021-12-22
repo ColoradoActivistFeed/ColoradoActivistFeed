@@ -4,9 +4,38 @@
     <link>http://www.blacklivesmatter5280.com/</link>
     <description>Posts from Black Lives Matter 5280</description>
     <managingEditor> (Black Lives Matter 5280)</managingEditor>
-    <pubDate>Tue, 21 Dec 2021 16:39:53 -0700</pubDate>
+    <pubDate>Tue, 21 Dec 2021 17:40:15 -0700</pubDate>
     <item>
-      <title>Bridge returned error 400! (18982)</title>
+      <title>Bridge returned error 500! (18983)</title>
+      <link></link>
+      <description></description>
+      <content:encoded><![CDATA[<section>
+	<p class="exception-message"><strong>blm5280 - Instagram Bridge</strong> was unable to receive or process the
+remote website's content!<br>
+Error message: `Unable to find username in search result.`<br />
+Query string: `action=display&bridge=Instagram&context=Username&u=blm5280&media_type=all&direct_links=on&format=Atom`<br />
+Version: `dev.2020-02-26`</p>
+	<div class="advice">
+		<ul class="advice">
+			<li>Press Return to check your input parameters</li>
+			<li>Press F5 to retry</li>
+			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge">GitHub</a> (give it a thumbs-up)</li>
+			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder">GitHub Issue</a> if this error persists</li>
+		</ul>
+	</div>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge" title="Opens GitHub to search for similar issues">
+		<button>Search GitHub Issues</button>
+	</a>
+	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder" title="After clicking this button you can review
+	the issue before submitting it"><button>Open GitHub Issue</button></a>
+	<p class="maintainer">pauder</p>
+</section>]]></content:encoded>
+      <author>Black Lives Matter 5280</author>
+      <guid>urn:sha1:9aca1efbc4d937c3eea28bbf555af960cb7c52dc</guid>
+      <pubDate>Tue, 21 Dec 2021 17:40:16 -0700</pubDate>
+    </item>
+    <item>
+      <title>Bridge returned error 400! (18983)</title>
       <link></link>
       <description></description>
       <content:encoded><![CDATA[<section>
@@ -34,11 +63,11 @@ Version: `dev.2020-02-26`</p>
 	<p class="maintainer">pmaziere</p>
 </section>]]></content:encoded>
       <author>Black Lives Matter 5280</author>
-      <guid>urn:sha1:839b9c725bdfd694ae7e0a8d951502cece10eb0d</guid>
-      <pubDate>Tue, 21 Dec 2021 16:39:54 -0700</pubDate>
+      <guid>urn:sha1:f6735eeb90f3e5765e6113ecb77c02918fc5b950</guid>
+      <pubDate>Tue, 21 Dec 2021 17:40:16 -0700</pubDate>
     </item>
     <item>
-      <title>Bridge returned error 500! (18982)</title>
+      <title>Bridge returned error 500! (18983)</title>
       <link></link>
       <description></description>
       <content:encoded><![CDATA[<section>
@@ -63,37 +92,8 @@ Version: `dev.2020-02-26`</p>
 	<p class="maintainer">teromene, logmanoriginal</p>
 </section>]]></content:encoded>
       <author>Black Lives Matter 5280</author>
-      <guid>urn:sha1:f34986684b482f13179d643af02e58e4c03a6e20</guid>
-      <pubDate>Tue, 21 Dec 2021 16:39:53 -0700</pubDate>
-    </item>
-    <item>
-      <title>Bridge returned error 500! (18982)</title>
-      <link></link>
-      <description></description>
-      <content:encoded><![CDATA[<section>
-	<p class="exception-message"><strong>blm5280 - Instagram Bridge</strong> was unable to receive or process the
-remote website's content!<br>
-Error message: `Unable to find username in search result.`<br />
-Query string: `action=display&bridge=Instagram&context=Username&u=blm5280&media_type=all&direct_links=on&format=Atom`<br />
-Version: `dev.2020-02-26`</p>
-	<div class="advice">
-		<ul class="advice">
-			<li>Press Return to check your input parameters</li>
-			<li>Press F5 to retry</li>
-			<li>Check if this issue was already reported on <a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge">GitHub</a> (give it a thumbs-up)</li>
-			<li>Open a <a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder">GitHub Issue</a> if this error persists</li>
-		</ul>
-	</div>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Instagram+Bridge" title="Opens GitHub to search for similar issues">
-		<button>Search GitHub Issues</button>
-	</a>
-	<a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=blm5280+-+Instagram+Bridge+failed+with+error+500&body=Error+message%3A+%60Unable+to+find+username+in+search+result.%60%0AQuery+string%3A+%60action%3Ddisplay%26bridge%3DInstagram%26context%3DUsername%26u%3Dblm5280%26media_type%3Dall%26direct_links%3Don%26format%3DAtom%60%0AVersion%3A+%60dev.2020-02-26%60&labels=Bridge-Broken&assignee=pauder" title="After clicking this button you can review
-	the issue before submitting it"><button>Open GitHub Issue</button></a>
-	<p class="maintainer">pauder</p>
-</section>]]></content:encoded>
-      <author>Black Lives Matter 5280</author>
-      <guid>urn:sha1:b504a8342ef76686175f72121ed183ea70419439</guid>
-      <pubDate>Tue, 21 Dec 2021 16:39:53 -0700</pubDate>
+      <guid>urn:sha1:605210c732468f0444226563bca2dd48f85850fc</guid>
+      <pubDate>Tue, 21 Dec 2021 17:40:15 -0700</pubDate>
     </item>
   </channel>
 </rss>
